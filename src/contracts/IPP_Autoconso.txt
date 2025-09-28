@@ -1,0 +1,737 @@
+ 
+Table des matières
+
+
+
+
+
+
+
+Expose préalable	3
+Article 1.	DEFINITIONS	6
+Article 2.	OBJET DU CONTRAT	7
+Article 3.	LA CENTRALE MISE A DISPOSITION	8
+Article 4.	CONDITIONS D’EXPLOITATION DE LA CENTRALE	9
+Article 5.	PRISE D’EFFET - DUREE DE LA CONVENTION	12
+Article 6.	CONDITIONS FINANCIERES	13
+Article 7.	FORCE MAJEURE	16
+Article 8.	RESILIATION ANTICIPEE	17
+Article 9.	ASSURANCE ET RESPONSABILITES	19
+Article 10.	CESSION – CHANGEMENT DE COCONTRACTANT – SUBSTITUTION	21
+Article 11.	CONFIDENTIALITE	22
+Article 12.	DISPOSITIONS GENERALES	23
+Article 13.	LOI APPLICABLE – ATTRIBUTION DE JURIDICTION	25
+Article 14.	ELECTION DE DOMICILE	25
+Article 15.	SIGNATURE ELECTRONIQUE	26
+Article 16.	LISTE DES ANNEXES	26
+
+
+ 
+
+ENTRE LES SOUSSIGNEES :
+
+La Société      , Société par Actions Simplifiée au capital de euros, dont le siège social est situé à La Madeleine (59110), 38 Allée Vauban – Immeuble Crystal, immatriculée au Registre du Commerce et des Sociétés de LILLE METROPOLE sous le numéro 520 397 050 elle-même représentée par Monsieur Christophe CONSTANT, Directeur Général France, dûment habilité aux fins des présentes,
+
+
+Ci-après désigné « HELEXIA XXXX » ou le « PROPRIETAIRE »
+
+
+D’UNE PART, 
+
+
+La Société      , Société par Actions Simplifiée, au capital de euros, dont le siège social est situé à [*********], 200 rue de la Recherche, immatriculée au Registre du Commerce et des Sociétés de [*******] sous le numéro [********], représentée par [*****************], en qualité de [*******************],et dûment habilité aux fins des présentes, en vertu des pouvoirs [***************] en date du [******] et dont une copie est jointe en Annexe 1, 
+
+
+Ci-après désignée «       » ou « L’UTILISATEUR »,
+
+
+Toutes deux, ensemble désignées individuellement la « PARTIE » et collectivement les « PARTIES ».
+
+Expose préalable 	
+
+CONCLUSION DU CONTRAT
+
+Les PARTIES déclarent que les dispositions de la présente Convention ont été, en respect des dispositions impératives des articles 1104 et 1112 du Code civil, négociées de bonne foi, et qu’en application de celles de l’article 1112-1 du même Code, chacune des PARTIES déclare, sous sa seule responsabilité, avoir révélé toutes les informations dont l’importance est déterminante pour le consentement de son cocontractant, et déclare avoir été informée que :
+
+« Celle des PARTIES qui connaît une information dont l'importance est déterminante pour le consentement de l'autre doit l'en informer dès lors que, légitimement, cette dernière ignore cette information ou fait confiance à son cocontractant. Néanmoins, ce devoir d'information ne porte pas sur l'estimation de la valeur de la prestation. 
+
+Ont une importance déterminante les informations qui ont un lien direct et nécessaire avec le contenu du contrat ou la qualité des PARTIES. 
+
+Il incombe à celui qui prétend qu'une information lui était due de prouver que l'autre partie la lui devait, à charge pour cette autre partie de prouver qu'elle l'a fournie. 
+
+Les PARTIES ne peuvent ni limiter, ni exclure ce devoir. 
+
+Outre la responsabilité de celui qui en était tenu, le manquement à ce devoir d'information peut entraîner l'annulation du contrat dans les conditions prévues aux articles 1130 et suivants ».
+
+
+CONTEXTE
+
+A.	L’UTILISATEUR est une enseigne spécialisée dans [à compléter, le cas échéant par L’UTILISATEUR].
+
+B.	Rappel de la situation juridique du bâtiment/ensemble immobilier :
+
+[A compléter par l’UTILISATEUR et HELEXIA / résumé des informations sur le régime de propriété à retranscrire]. 
+
+C.	Le PROPRIETAIRE est une entité du groupe HELEXIA, groupe actif dans le secteur des énergies renouvelables et de l’efficacité énergétique qui accompagne les propriétaires et les exploitants des grands bâtiments industriels et commerciaux dans leur(s) projet(s) d’efficacité énergétique et intervient sur les marchés européens en qualité d’intégrateur de solutions énergétiques innovantes de production locale et d’économie d’énergie. 
+
+D.	L’UTILISATEUR s’inscrit dans une démarche de développement durable et, en vue d’atteindre ses objectifs environnementaux, s’est montré intéressé par une opération d’autoconsommation individuelle telle que régie par l’article L315-1 du code de l’énergie selon lequel « une opération d'autoconsommation individuelle est le fait pour un producteur, dit auto-producteur, de consommer lui-même et sur un même site tout ou partie de l'électricité produite par son installation. La part de l'électricité produite qui est consommée l'est soit instantanément, soit après une période de stockage ». Dans ce cadre, l’UTILISATEUR a souhaité équiper le parking de l’ensemble commercial qu’il exploite, situé à       (     ), d’une centrale photovoltaïque en [toiture/ombrières] en vue de lui permettre de produire et consommer l’électricité ainsi produite pour l’alimentation de son supermarché. 
+
+E.	Pour le développement, la réalisation et la maintenance de cette centrale photovoltaïque qu’il se propose d’exploiter en qualité de producteur, l’UTILISATEUR s’est rapproché d’HELEXIA DEVELOPPEMENT, filiale de développement du groupe HELEXIA. 
+
+
+
+F.	Conformément aux accords intervenus entre les PARTIES et formalisés par une lettre d’intention en date du _________ (dont copie est jointe en Annexe 2), ces dernières ont convenu que l’investissement lié au développement et à la réalisation de la [toiture / ombrières] photovoltaïque serait réalisé et financé par la société HELEXIA *****.
+
+G.	A la date des présentes, le projet a fait l’objet des démarches suivantes :
+
+1. URBANISME
+
+Pour la réalisation de la centrale photovoltaïque, le PROPRIETAIRE / l’UTILISATEUR  s’est vu délivrer un Permis de Construire / une Déclaration Préalable n° PC ______________ (« le PC » / « la DP ») délivré le       par la mairie de       (Département de      ), et purgé de tous recours et de tout retrait comme l’attestent les trois constats d’affichage dressés par voie d’huissier datés respectivement du ___________, ___________ et __________.
+
+
+
+	Si prorogation : [à supprimer si non applicable]
+
+Par suite, le PROPRIETAIRE / l’UTILISATEUR  a obtenu de la mairie de      , une prorogation du Permis de Construire en date du ______________.
+
+Ladite prorogation est purgée de tous recours et de tout retrait comme l’attestent les trois constats d’affichage dressés par voie d’huissier datés respectivement du ___________, ___________ et __________.
+
+
+
+	Si Permis de construire modificatif : [à supprimer si non applicable]
+
+
+Par suite d’une demande de modification de Permis de Construire déposée en date du ____________, le PROPRIETAIRE/UTILISATEUR s’est vu délivrer un Permis de Construire Modificatif (« le PCM »), n° ________________ en date du __________ et purgé de tous recours et de tout retrait comme l’attestent les trois constats d’affichage dressés par voie d’huissier datés respectivement du ___________, ___________ et __________.
+
+
+L’ensemble des pièces d’urbanisme visées ci-avant ainsi que les plans du dossier d’autorisation d’urbanisme figurent en Annexe 3.
+
+
+
+2.  RACCORDEMENT ELECTRIQUE
+
+Le PROPRIETAIRE déclare avoir effectué auprès d’ENEDIS, avec l’accord de l’UTILISATEUR, au nom et pour le compte de ce dernier, les démarches relatives au raccordement de la CENTRALE. Lesdites démarches ont été effectuées en vue de la conclusion entre l’UTILISATEUR et ENEDIS d’une convention d’autoconsommation. 
+
+	Si la demande de raccordement n’a pas été effectuée :
+
+A la date des présentes, le PROPRIETAIRE s’engage à effectuer auprès d’ENEDIS, avec l’accord de l’UTILISATEUR, au nom et pour le compte de ce dernier, toutes les démarches relatives au raccordement de la CENTRALE. Lesdites démarches seront effectuées dans les délais requis en vue de la conclusion entre l’UTILISATEUR et ENEDIS d’une convention d’autoconsommation. 
+
+
+
+	Si la demande de raccordement a été effectuée
+
+A la date des présentes, ENEDIS a accusé réception de la demande de raccordement tel qu’en atteste la copie du courriel en date du ___________ dont une copie demeurera ci-après annexée (Annexe 4). 
+
+Le PROPRIETAIRE a obtenu une convention d’exploitation  signée en date du _________________, dont les conditions particulières demeurent également ci-après annexées. (Annexe 4). 
+
+3. SIGNATURE DE LA PROMESSE DE BAIL
+
+La présente Convention est soumise à la signature préalable de la Promesse Bail, sans laquelle elle ne pourrait produire d’effet. 
+
+A présent, afin que l’UTILISATEUR soit en mesure d’utiliser et d’exploiter la centrale photovoltaïque réalisée et de consommer l’électricité produite par celle-ci, les PARTIES ont décidé de conclure entre elles le présent Contrat qui a pour objet de définir les conditions de mise à disposition et d’entretien/maintenance (O&M) de la centrale photovoltaïque et ont convenu de ce qui suit : 
+
+
+Article 1.	DEFINITIONS
+	
+« Année » : ce terme désigne une année civile (365 jours).
+
+« Bâtiment » : désigne [le bâtiment OU l’ensemble immobilier] à usage commercial situé [********************] dont l’UTILISATEUR est exploitant au titre d’un bail commercial.
+
+« Bail » : désigne le bail emphytéotique/bail civil de longue durée à avec [***********], en sa qualité de propriétaire/crédit preneur afin de concéder à ce dernier la maîtrise de l’assiette foncière de la CENTRALE, afin de concéder à ce dernier la maîtrise foncière des parcelles sur lesquelles sera installée la CENTRALE.
+
+« CENTRALE » : désigne la centrale photovoltaïque [en ombrières ET/OU en toiture] comprenant notamment le ou les onduleurs, les modules photovoltaïques, les poteaux de soutènement (si ombrières), le local technique, le poste de livraison, les armoires électriques et les travaux et aménagements de raccordement (câbles de connexion).
+
+« Convention » : désigne la présente convention ainsi que l’ensemble de ses annexes et avenants successifs. 
+
+« Jours Ouvrés » : désignent les jours compris entre le lundi au vendredi de 9h à 18h hors jours fériés selon le fuseau horaire français.
+
+« O&M » : désigne les prestations d’entretien et maintenance de la CENTRALE confiées au PROPRIETAIRE par l’UTILISATEUR dans le cadre du présent contrat.
+
+« Mise en Service » : désigne les différentes opérations, essais et procédures de mise en service de la Centrale et notamment le raccordement aux installations de l’UTILISATEUR permettant l’évacuation de l’électricité produite. 
+
+« Parking » : désigne l’ensemble immobilier constitué de parking situé à ____________ (_____) au ________________, que l’UTILISATEUR exploite pour son activité commerciale et dont l’implantation figure sur les plans joints en annexe. 
+
+« PROPRIETAIRE » : désigne la société      , société du groupe HELEXIA propriétaire de la CENTRALE mise à disposition de l’UTILISATEUR. 
+
+« Redevance » : désigne le montant de la redevance annuelle due par l’UTILISATEUR durant toute la durée de la Convention, en contrepartie de la mise à disposition de la CENTRALE et des prestations d’O&M objets de ladite Convention. 
+
+« Société Affiliée » : désigne, s’agissant d’une entité, toute société contrôlant cette entité ou contrôlée par cette entité ; le terme « contrôle » étant entendu dans son acceptation prévue à l’article L.233-3 du Code de commerce.
+
+« Surplus » : désigne la part d’électricité non autoconsommée réinjectée au réseau public de distribution. 
+
+« Toiture » : désigne la toiture du bâtiment commercial ______________ situé à ____________ (_____) au ________________, sur laquelle sera installée la CENTRALE à réaliser par HELEXIA et dont l’implantation figure sur les plans joints en annexe. Cette CENTRALE sera exploitée par l’UTILISATEUR.  
+
+« Travaux Supplémentaires » : désigne tous travaux exclus du périmètre des prestations initiales définies en Annexe 6.
+
+« UTILISATEUR » : désigne la société ____________, titulaire du droit d’utiliser la CENTRALE mise à sa disposition et de consommer directement l’énergie produite par celle-ci, et ce dans les conditions fixées aux termes des présentes. 
+
+Article 2.	OBJET DU CONTRAT
+
+La présente Convention a pour objet :
+
+-	La mise à disposition pleine et entière par le PROPRIETAIRE, d’une installation de production d’électricité photovoltaïque et de l’énergie produite par celle-ci au bénéfice de l’UTILISATEUR, 
+
+-	L’ensemble des prestations d’asset management en vue d’assurer la gestion de la CENTRALE pour le compte de l’UTILISATEUR,
+
+-	L’entretien et la maintenance de la CENTRALE (O&M) pendant toute la durée d’utilisation de la CENTRALE par l’UTILISATEUR.
+
+
+La CENTRALE mise à disposition par le PROPRIETAIRE a les caractéristiques suivantes : 
+-	Type d’installation photovoltaïque : ombrières de parking,
+-	Puissance totale installée : ----- kWc
+-	Surface de l’installation et emprise sur le parking : ---- m². 
+
+Le descriptif technique détaillé de la CENTRALE figure en Annexe 5. 
+
+
+Article 3.	LA CENTRALE MISE A DISPOSITION
+
+3.1	La CENTRALE, objet de la présente Convention, sera située sur le parking du bâtiment commercial exploité par l’UTILISATEUR.
+
+	Adresse : ___________________________________
+
+	Terrains cadastrés : 
+Section : [*****], numéro(s) : [*****]
+
+Les plans d’implantation de la CENTRALE et son descriptif technique détaillé sont joints en annexe des présentes (Annexe 3).
+
+
+3.2	Le PROPRIETAIRE poursuivra le développement de la CENTRALE jusqu’à l’obtention de toutes les autorisations nécessaires à la réalisation de la CENTRALE et qui ne seraient pas encore obtenues à la date des présentes. Le PROPRIETAIRE fera procéder ensuite à la réalisation, à l’achèvement et à la Mise en Service de la CENTRALE conformément au descriptif technique détaillé en annexe.  
+
+	
+	3.3	Le PROPRIETAIRE notifiera à l’UTILISATEUR la date de Mise en Service de la CENTRALE et s’engage à lui communiquer l’attestation de mise en service délivrée par le gestionnaire de réseau.  
+	
+	
+3.3.1	L’achèvement et la Mise en Service de la CENTRALE seront contradictoirement constatés entre les PARTIES et donneront lieu à la signature d’un procès-verbal de mise à disposition valant état des lieux). 
+	
+	3.3.2	Si le PROPRIETAIRE ne peut pas raccorder ou procéder à la Mise en Service de la CENTRALE à la date mentionnée au 3.2, par suite (i) d’un cas de Force Majeure, (ii) d’un manquement de la part du gestionnaire de réseau et/ou (iii) d’une impossibilité technique de se raccorder sur les installations électriques de l’UTILISATEUR, la Mise en Service de la CENTRALE et la mise à disposition de la CENTRALE seront reportées jusqu'à ce que la Mise en Service soit techniquement possible.  
+
+
+3.3.3	L’UTILISATEUR s’engage à faire toutes les diligences nécessaires pour permettre au PROPRIETAIRE de se raccorder et mettre en service la CENTRALE. A titre de réciprocité, le PROPRIETAIRE s’engage à opérer le raccordement de ladite CENTRALE et la Mise en Service.
+
+
+3.3.4	La CENTRALE demeure la propriété entière et exclusive du PROPRIETAIRE pendant toute la durée de la présente Convention.
+
+
+Article 4.	CONDITIONS D’EXPLOITATION DE LA CENTRALE 
+
+4.1 RAPPEL DES MODALITES DE RACCORDEMENT 
+
+La présente Convention est conclue pour permettre à l’UTILISATEUR d’utiliser et d’exploiter la CENTRALE en qualité de producteur et consommateur de l’énergie au sens de l’article L315-1 du Code de l’énergie et de la réglementation en vigueur applicable au régime de l’autoconsommation individuelle. 
+
+L’énergie ainsi produite par la CENTRALE a vocation à être consommée localement par l’UTILISATEUR. 
+
+A ce titre, l’UTILISATEUR est informé par le PROPRIETAIRE des modalités techniques de raccordement électrique de la CENTRALE et des démarches administratives de raccordement effectuées auprès du gestionnaire public du réseau de distribution ENEDIS, à savoir : 
+
+
+-	Modalités techniques de raccordement 
+
+Le schéma descriptif du raccordement figure en Annexe 4. 
+
+-	Démarches administratives de raccordement électrique 
+
+La demande de raccordement en autoconsommation sans/avec réinjection du surplus a été réalisée, au nom de l’UTILISATEUR, par le PROPRIETAIRE, en vertu du mandat prévu à l’article 4.3 ci-après. 
+
+	L’UTILISATEUR s’engage à communiquer une copie de la convention d’autoconsommation avec ENEDIS dès réception de celle-ci.
+
+OU
+
+	Une copie du projet de convention d’autoconsommation avec ENEDIS est jointe en Annexe 4. 
+
+4.2 CONDITIONS D’EXPLOITATION DE LA CENTRALE ET CONSOMMATION 
+
+4.2.1 CONDITIONS D’EXPLOITATION
+
+L’exploitation de la CENTRALE en autoconsommation individuelle implique pour L’UTILISATEUR l’obligation de consommer lui-même et localement tout ou partie de l’électricité produite par ladite CENTRALE, durant toute la durée de la Convention et ce, dans le respect des conditions suivantes :
+
+-	L’énergie produite doit être consommée uniquement par l’UTILISATEUR déclaré comme seul consommateur et unique bénéficiaire des autorisations de raccordement délivrées par le gestionnaire de réseau ENEDIS.
+
+-	De ce fait, l’énergie produite répond exclusivement aux besoins immédiats en électricité de l’UTILISATEUR et l’UTILISATEUR s’interdit de céder, de manière directe ou indirecte, et sous quelque forme que ce soit, l’énergie produite par la CENTRALE à un autre consommateur, sauf accord préalable du PROPRIETAIRE et pour autant que la réglementation en vigueur l’autorise.
+
+Les besoins en électricité de l’UTILISATEUR devront être couverts en priorité par l’énergie produite par la CENTRALE. 
+
+Pour la couverture de ses besoins résiduels en électricité non couverts par la CENTRALE, l’UTILISATEUR déclare avoir recours à un contrat de fourniture d’énergie souscrit auprès de tout fournisseur de son choix. 
+
+Aux termes des présentes et après concertation avec le PROPRIETAIRE, l’UTILISATEUR a décidé d’opter pour : 
+
+[SUPPRIMER L’OPTION NON CHOISIE OU INDIQUER NON APPLICABLE] 
+
+
+	Réinjection du surplus d’énergie non autoconsommée par L’UTILISATEUR
+
+Le surplus d’’électricité produite par la CENTRALE est réinjectée sur le réseau public de distribution et vendue par l’UTILISATEUR à EDF OA ou toute autre entité agréée. 
+
+L’UTILISATEUR mandatera le PROPRIETAIRE en vue de conclure une convention de raccordement avec le gestionnaire de réseau (ENEDIS). A cette fin, l’UTILISATEUR, sur demande du PROPRIÉTAIRE et au plus tard cinq jours ouvrés à compter de ladite demande, donnera tout pouvoir (notamment signature de mandats pour procéder à la demande de raccordement auprès d’ENEDIS, la demande de contrat d’achat du surplus de production auprès d’EDF Obligation d’Achat ou de tout autre opérateur agréé (« Contrat d’Achat »), s’il y a lieu, les déclarations périodiques à effectuer auprès du gestionnaire de réseau ENEDIS concernant notamment la quantité d’énergie autoconsommée) et apportera tout support nécessaire en vue de conclure ladite convention. Dans ce cas, l’UTILISATEUR s’engage à reverser au PROPRIETAIRE les revenus issus du Surplus au titre de son Contrat d’Achat selon les modalités prévus à l’article 6.3. Par ailleurs, en cas de résiliation de la présente Convention ou lors de l’arrivée à son terme, l’UTILISATEUR s’engage à transférer le Contrat d’Achat au PROPRIETAIRE et les conditions prévues à l’article 11.2 s’appliqueront.
+
+
+	Autoconsommation pure et absence de réinjection du surplus
+
+Le surplus d’énergie produite par la CENTRALE et non autoconsommée par l’UTILISATEUR n’est pas réinjectée sur le réseau public de distribution (bridage de l’injection). L’UTILISATEUR contracte alors une convention d’autoconsommation sans injection avec ENEDIS.
+
+Dans le cas où au cours de l’exécution de la Convention l’UTILISATEUR souhaite réinjecter le surplus d’énergie non autoconsommée, il en informe le PROPRIETAIRE, afin que ce dernier réalise une étude technico-financière de la revente du surplus permettant à l’UTILISATEUR d’évaluer la pertinence de l’opération.
+
+Etant précisé que la décision de réinjection du surplus relève de l’UTILISATEUR.
+
+
+4.2.2 CONSOMMATION D’ENERGIE PAR L’UTILISATEUR
+
+Le dimensionnement de la CENTRALE a été établi sur la base du profil de consommation d’énergie de l’UTILISATEUR résultant (i) des informations communiquées par l’UTILISATEUR et (ii) des données du site, lesquelles figurent dans l’offre commerciale annexée aux présentes (Annexe 2). 
+
+En conséquence, ce dernier s’engage à signaler sans délai au PROPRIETAIRE tout changement susceptible de modifier de manière significative sa consommation d’énergie, et donc son taux d’autoconsommation.
+
+Pour la couverture de ses besoins résiduels en électricité non couverts par la CENTRALE, l’UTILISATEUR déclare avoir recours à un contrat de fourniture d’énergie souscrit auprès de tout fournisseur de son choix. 
+
+
+4.3 MANDAT DE GESTION ADMINISTRATIVE 
+
+Afin d’assurer l’installation et la Mise en Service de la CENTRALE, l’UTILISATEUR donne mandat au PROPRIETAIRE, qui l’accepte, pour effectuer, pour le compte de L’UTILISATEUR, l’ensemble des démarches administratives nécessaires, telles que notamment :
+
+•	La demande de raccordement auprès d’ENEDIS,
+•	La demande de contrat d’achat du surplus de production auprès d’EDF Obligation d’Achat ou de tout autre opérateur agréé, s’il y a lieu, 
+•	Les déclarations périodiques à effectuer auprès du gestionnaire de réseau ENEDIS concernant notamment la quantité d’énergie autoconsommée.
+
+4.4 SIGNATURE D’UN BAIL EMPHYTEOTIQUE AU BENEFICE DU PROPRIETAIRE 
+
+[Concomitamment à la signature des présentes, le PROPRIETAIRE conclut la Promesse de Bail qui sera réitérée par le Bail visé à l’article 1 avec la société [xxxxxx]  pour lui permettre d’implanter la CENTRALE sur les parcelles désignées à l’article 3.] 
+
+[OU]
+
+[Concomitamment à la signature des présentes, les PARTIES concluent entre elles la Promesse de Bail qui sera réitérée par le Bail visé à l’article 1 pour permettre au PROPRIETAIRE d’implanter la CENTRALE sur les parcelles désignées à l’article 3.]
+
+Cette signature constitue une condition suspensive à la présente Convention, sans laquelle elle ne pourrait produire d’effet
+
+La durée prévue du Bail est de (**) ANS [EN LETTRES] ANS. 
+
+Le détail des modalités et accords convenus figureront dans l’acte de Bail. 
+
+Article 5.	PRISE D’EFFET - DUREE DE LA CONVENTION 
+
+La présente Convention prend effet au jour de sa signature et est conclue pour une durée de [**] [EN LETTRES] ANS (ou années entières et consécutives), laquelle durée commencera à courir à la date de mise en service de la CENTRALE.
+
+La mise en service sera formalisée par l’attestation de mise en service délivrée par ENEDIS (le gestionnaire de réseau ou tout gestionnaire agréé), une fois la CENTRALE raccordée et en état de fonctionnement. 
+
+Le PROPRIETAIRE s’engage à transmettre au BAILLEUR une copie de l’attestation de mise en service de la CENTRALE, et ce au plus tard dans le mois qui suit la réception de celle-ci. 
+
+La présente Convention pourra être renouvelée pour une durée de [****] (**)  ans à la demande d’une demande expresse de la part de l’une ou l’autres des PARTIES et en aucun cas par tacite reconduction.
+Cette demande se fera par courrier notifié à l’autre Partie en respectant un préavis de six (6) mois avant le terme de la Convention. 
+
+En aucun cas la durée de la Convention ne pourra faire l’objet d’une prorogation par tacite reconduction.
+
+La durée totale de la Convention, telle qu’éventuellement renouvelée, ne pourra pas excéder, en tout état de cause, la durée du Bail conclu par le PROPRIETAIRE.
+
+
+Article 6.	CONDITIONS FINANCIERES
+
+6.1 MONTANT DE LA REDEVANCE
+
+A compter de la prise d’effet de la présente Convention, en contrepartie de la mise à disposition de la CENTRALE et des prestations d’O&M, l’UTILISATEUR règlera au PROPRIETAIRE une redevance annuelle . 
+
+L’énergie autoconsommée sera valorisée au prix de __ € HT / MWh (en lettres EUROS / MWh HORS TAXES)  sous réserve d’une consommation par l’UTILISATEUR d’un volume d’électricité minimal correspondant à la production théorique de la CENTRALE, fixée à  à ------------ kWh pour la première année. La production théorique de la CENTRALE pour chaque année contractuelle est précisée en Annexe 8 
+
+Cette Redevance sera majorée, pendant toute la durée de la présente Convention, de la TVA au taux en vigueur ou de toute autre taxe qui lui serait substituée ou viendrait s’y ajouter.
+
+6.2 INDEXATION DE LA REDEVANCE  
+
+
+Le prix de l’énergie autoconsommée et du par l’UTILISATEUR sera indexé chaque année sur la base d’un taux d’inflation fixe arrêté à ***% par an.
+
+6.3 COMPLEMENT DE REMUNERATION PERÇU PAR L’UTILISATEUR 
+
+Le projet de CENTRALE a été désigné, le ___________, lauréat de l’appel d’offres CRE n° [****] portant sur la réalisation et l’exploitation de production d’électricité à partir d’énergie renouvelables en autoconsommation. Conformément à l’article 7.2 du cahier des charges de l’appel d’offres, l’UTILISATEUR, après transfert de la convention d’autoconsommation à son bénéfice, percevra un complément de rémunération de -- € H.T/MWh (-- EUROS HORS TAXES du MWh) de la part d’EDF Obligation d’Achat pendant une durée de lettres (--) ans. 
+
+Ce complément de rémunération donnera lieu à un complément de prix de la Redevance au bénéfice du PROPRIETAIRE et sera facturée à l’UTILISATEUR en même temps que le prix de la Redevance.
+
+6.3 COMPLEMENT DE REMUNERATION PERÇU PAR L’UTILISATEUR AU TITRE DU SURPLUS 
+
+Conformément à l’article 4.2.1, le projet de CENTRALE est un projet en autoconsommation avec réinjection du surplus. L’UTILISATEUR, percevra des revenus au titre de la réinjection de surplus via le Contrat d’Achat pour un montant -- € H.T/MWh (-- EUROS HORS TAXES du MWh) de la part d’EDF Obligation d’Achat pendant une durée de lettres (--) ans. 
+
+Ce complément de rémunération donnera lieu à un complément de prix de la Redevance au bénéfice du PROPRIETAIRE et sera facturée à l’UTILISATEUR en même temps que le prix de la Redevance.
+
+
+6.4 FACTURATION ET PAIEMENT
+
+6.4.1	La Redevance annuelle sera payable au siège du PROPRIETAIRE par trimestre civil d’avance par virement bancaire.
+
+La première échéance de la Redevance sera payable à compter du début d’exploitation au prorata temporis de la période restant à courir.
+
+6.4.2	Les factures sont adressées au siège de L’UTILISATEUR.
+
+6.4.3	Le règlement des factures devra intervenir dans un délai trente (30) jours date d’émission de la facture. Les retards de règlement entraîneront l'application d’une pénalité de retard calculée sur la base du taux d’intérêt légal par défaut prévu par le droit applicable, calculée sur le montant de la facture échue non payée, à compter de sa date d’échéance jusqu'à la date de son entier paiement, après une mise en demeure restée infructueuse dans un délai de quinze (15) jours.  Le taux d’intérêt légal retenu dans l’assiette de calcul de cette pénalité sera celui en vigueur à la date d’émission de la facture impayée concernée. La partie défaillante sera en outre redevable d’une indemnité forfaitaire pour frais de recouvrement de quarante (40) euros, en application de l’article L. 441-6 du Code de commerce.
+
+
+6.5 GARANTIE FINANCIERE 
+
+Il a été convenu entre les PARTIES que l’UTILISATEUR constituera au bénéfice du PROPRIETAIRE une garantie financière au plus tard huit (8) jours avant la signature de la présente Convention.             
+
+Le montant et la forme de la garantie financière sont détaillés ci-après  :
+
+-	[NATURE / MONTANT ET MODALITES DE LA GARANTIE FINANCIERE A INSERER]
+
+Au cours de l’exécution de la Convention, le PROPRIETAIRE pourra également demander à l’UTILISATEUR de lui remettre une garantie financière d’un montant maximum équivalent aux Redevances restant dues, dans les cas suivants :
+
+a)	En cas d’incident de paiement ;
+b)	En cas de dégradation significative de la situation financière de l’UTILISATEUR, de sa société-mère ultime et/ou de sa (de l’une de ses) société(s)-mère intermédiaire(s), constatée postérieurement à la signature de la Convention ou en cours d’exécution de la Convention, par référence notamment à des critères de notation et/ou d’évaluation d’organisme(s) externe(s) ;
+c)	En cas de modification de l’actionnariat de l’UTILISATEUR et/ou de sa société-mère ultime ou de sa (de l’une de ses) société(s)-mère intermédiaire(s), entraînant un changement du contrôle de la société tel que défini par l’article L. 233.3 du Code de commerce.
+
+La remise de la garantie financière doit intervenir au moins cinq (5) Jours Ouvrés avant la date de prise d’effet de la Convention, ou dans le mois suivant la demande de l’UTILISATEUR si la demande est faite en cours d’exécution de la Convention. A défaut, le PROPRIETAIRE pourra, à sa seule discrétion, suspendre l’exécution de la Convention jusqu’à la remise de la garantie financière demandée ou résilier la Convention, sans que ceci ne soit considéré comme un manquement du PROPRIETAIRE.
+
+Toute garantie financière doit avoir une durée égale à la durée de la Convention majorée de trois (3) mois calendaires.
+
+
+6.6 FINANCEMENT BANCAIRE 
+
+L’UTILISATEUR est dûment informé du fait que le PROPRIETAIRE pourra avoir recours à un financement bancaire pour la construction de la CENTRALE. Ce financement sera formalisé par un contrat de financement bancaire avec un établissement bancaire de premier plan. Dans ce cadre, l’UTILISATEUR est informé et marque expressément son accord sur le fait que ledit établissement bancaire pourra, en cas de manquement du PROPRIETAIRE au titre de ses obligations au regard de la présente Convention, demander à l’UTILISATEUR de lui notifier ledit manquement du PROPRIETAIRE avant toute décision de résiliation de la présente Convention et se substituer à ce dernier pour poursuivre l’exécution de la Convention. Dans une telle hypothèse l’établissement bancaire pourra uniquement exercer les droits et obligations du PROPRIETAIRE au titre de la Convention vis-à-vis de L’UTILISATEUR et des tiers, sans les modifier ou les altérer d’une quelconque manière. 
+
+L’UTILISATEUR est informé et accepte d’ores et déjà que le PROPRIETAIRE procède à la cession à un établissement financier de toutes les créances issues de la présente Convention.
+
+Pour que la présente disposition puisse produire ses effets, le PROPRIETAIRE devra avoir communiqué à L’UTILISATEUR, l’identité de l’établissement bancaire. Dans un tel cas, les PARTIES devront, à la demande de cette dernière, adresser copie de toutes leurs notifications respectives. 
+
+Dans le cas où le projet envisagé s’inscrit dans le cadre d’un appel d’offres autoconsommation, l’UTILISATEUR est informé qu’il sera bénéficiaire du complément de rémunération perçu au titre de l’appel d’offres et que ce montant lui sera refacturé par le PROPRIETAIRE.
+
+Le montant de ce complément de rémunération ainsi que la durée de versement définie dans le cahier des charges de l’appel d’offres concerné sont précisés à l’article 6.1 « Redevance ».
+
+En outre, le PROPRIETAIRE, en sa qualité de mandataire de l’UTILISATEUR, s’engage à respecter les obligations et prescriptions mentionnées dans le courrier de notification des résultats de l’appel d’offres délivré par le Ministère en charge de l’Energie.
+
+
+
+
+
+6.7 ENTRETIEN DE LA CENTRALE 
+
+A compter de la Mise en Service et pendant toute la durée de la Convention, l’UTILISATEUR assurera la garde et la protection de la CENTRALE.
+
+L’UTILISATEUR veillera également au bon entretien de la CENTRALE et pour ce faire, a souscrit dans le cadre des présentes à des prestations d’exploitation et maintenance (O&M), lesquelles incluent notamment la maintenance préventive et curative de la CENTRALE et la gestion administrative de toutes réclamations en cas de désordres.
+
+Le PROPRIETAIRE, au titre des prestations souscrites par l’UTILISATEUR, s’engage à procéder ou faire procéder aux prestations d’O&M de la CENTRALE pour le compte de l’UTILISATEUR.
+
+Le détail des prestations d’O&M figure en Annexe 6.
+
+
+Article 7.	FORCE MAJEURE
+
+7.1	« Force Majeure » signifie tout événement ou circonstances tel que défini par l’article 1218 du Code Civil et ses applications jurisprudentielles. 
+
+Sont considérés comme constituant des cas de Force Majeure et assimilés comme tels au titre de la Convention, les évènements et circonstances suivantes, sans que cette énumération soit limitative : 
+
+-	La guerre, les hostilités (que la guerre soit déclarée ou non), l’invasion, l’action d’ennemis étrangers, 
+-	Les catastrophes naturelles ou phénomènes météorologiques exceptionnels, les jours d’intempéries tels que définis par le Code du travail  
+-	La rébellion, le terrorisme, la révolution, l’insurrection ou le pouvoir militaire ou usurpé ou la guerre civile, 
+-	Les émeutes, troubles ou désordres du fait de tiers,
+-	Le défaut d’approvisionnement en énergie, ce défaut résultant lui-même d’un cas de force majeure,
+-	La grève à l’exclusion, notamment, de toutes grèves du personnel de l’une ou l’autre des PARTIES.
+
+
+7.2	Tout cas de Force Majeure, venant directement affecter la réalisation des obligations d’une des PARTIES signataires des présentes, a un effet exonératoire sur le respect des obligations de cette PARTIE et en suspend partiellement ou totalement l’exécution jusqu’à la cessation dudit événement. 
+
+
+7.3	La PARTIE se prévalant d’un cas de Force Majeure doit informer l’autre dans les plus brefs délais, par lettre recommandée avec accusé de réception : 
+
+-	Des circonstances de la survenance dudit cas de Force Majeure en joignant tous justificatifs s’y rapportant,
+
+-	De la durée envisagée de la Force Majeure et de la date de cessation du cas de Force Majeure. 
+
+
+7.4	Si un cas de Force Majeure survient avant la Date de Mise en Service et de Début d’Exploitation et empêche pendant une durée inférieure à six (6) mois les PARTIES, ou l’une d’entre elles, d’exécuter tout ou partie leurs/ses obligations dans des conditions normales, notamment par suite de dégradations partielles, la Date de Mise en Service sera prorogée de la durée des effets de la Force Majeure et du temps nécessaire pour remédier aux dégradations partielles. 
+
+
+7.5	Si un cas de Force Majeure survient après la Date de Mise en Service et de Début d’Exploitation et empêche les PARTIES, ou l’une d’entre elles, d’exécuter leurs/ses obligations contractuelles dans des conditions normales pendant une durée inférieure à six (6) mois, l’UTILISATEUR demeurera tenu de payer la Redevance et le PROPRIETAIRE devra, quant à lui, verser à l’Acheteur les indemnités éventuelles pour pertes d’exploitation qu’il percevrait de ses assureurs dès leur encaissement.
+
+Si un événement de Force Majeure ou qualifiée comme tel par les PARTIES venait à survenir et perdurer pendant une période continue de plus de six (6) mois, les Parties s’engagent à se rencontrer afin de renégocier de bonne foi la Redevance. 
+
+En cas d’échec de la renégociation, la Convention pourra être résiliée par l’une ou l’autre des PARTIES dans les conditions de l’Article 8. 
+
+
+Article 8.	RESILIATION ANTICIPEE
+
+La Convention pourra être résiliée par l’une ou l’autre des PARTIES dans les conditions définies ci-après : 
+
+8.1	En cas de Force Majeure 
+
+Tout cas de Force Majeure, tel qu’exposé à l’Article 7, se poursuivant pendant plus de (6) mois consécutifs pourra donner lieu à la résiliation de la présente Convention par l’une ou l’autre des PARTIES, laquelle devra être notifiée à l’autre PARTIE par l’envoi d’une lettre recommandée avec demande d’avis de réception avec un préavis de trois (3) mois.
+
+
+8.2	En cas de manquement grave
+
+-	Par l’UTILISATEUR : constitueront des manquements graves de l’UTILISATEUR à ses obligations susceptibles d’entraîner la résiliation de la présente Convention :
+
+(i)	Le défaut de règlement par l’UTILISATEUR d’une somme due en vertu de la présente Convention dans un délai de six (6) mois consécutifs à compter de sa date d’exigibilité et après mise en demeure restée infructueuse, 
+
+(ii)	Le non-respect ou l’inexécution par l’UTILISATEUR de l’une quelconque de ses obligations contractuelles pendant un (1) mois après réception d’une mise en demeure par le PROPRIETAIRE à l’UTILISATEUR dénonçant de manière précise et circonstanciée ledit manquement.
+
+
+A défaut pour l’UTILISATEUR d’avoir remédié au défaut, non-respect ou inexécution dans les délais impartis, le PROPRIETAIRE pourra notifier à l’UTILISATEUR sa décision de résilier la présente Convention à la date indiquée dans ladite notification, cette date devant se situer au plus tôt dans les dix (10) jours et au plus tard trente (30) jours à compter de cette notification.
+
+
+La résiliation de la présente Convention entraînera l’obligation pour l’UTILISATEUR de régler au PROPRIETAIRE à la date de résiliation mentionnée dans la notification toutes les sommes dues par l’UTILISATEUR au titre de la Convention et non réglées au PROPRIETAIRE, sans préjudice de toute indemnité liée à la résiliation anticipée de la Convention.
+
+Le paiement devra intervenir entre les mains du PROPRIETAIRE dans les trois (3) mois à compter de la présentation de la facture correspondante.
+
+-	Par le PROPRIETAIRE : constitueront des manquements graves du PROPRIETAIRE à ses obligations susceptibles d’entraîner la résiliation du Contrat l’arrêt total de la CENTRALE (i) motivé par un vice ou défaut de fonctionnement inhérent à la Centrale ou à l’un de ses équipements qui se poursuivrait de manière ininterrompue pendant plus de six (6) mois consécutifs et (ii) auquel les PARTIES n’auraient pu trouver de solutions techniques appropriées ou les adaptations à apporter à la Convention.
+
+A défaut pour le PROPRIETAIRE d’avoir remédié à l’inexécution dans les délais impartis, l’UTILISATEUR pourra notifier au PROPRIETAIRE sa décision de résilier la présente Convention à la date indiquée dans ladite notification, cette date devant se situer au plus tôt dans les dix (10) jours et au plus tard trois (3) mois à compter de cette notification.
+
+La résiliation de la présente Convention entraînera l’obligation pour le PROPRIETAIRE de régler à l’UTILISATEUR à titre d’indemnité forfaitaire et irréductible, sans préjudice de toute indemnité liée à la résiliation anticipée de la Convention.
+
+Le paiement devra intervenir entre les mains de l’UTILISATEUR dans les trois (3) mois à compter de la présentation de la facture correspondante.
+
+8.3	A la demande de L’UTILISATEUR pour convenance
+
+L’UTILISATEUR aura la faculté de résilier à tout moment la présente Convention indépendamment de tout cas de manquement contractuel imputable à l’autre PARTIE, à la seule et unique condition pour L’UTILISATEUR :
+
+-	D’être à jour du paiement de toutes Redevances dues depuis la Date de Début d’Exploitation,
+
+-	Procéder au versement au bénéfice du Propriétaire d’une indemnité dont le montant est déterminé en fonction de la date de résiliation et le nombre d’années d’exécution effective de la Convention : 
+
+
+8.4	Tableau d’indemnité de résiliation anticipée
+
+Le détail des indemnités de résiliation anticipée dues par l’UTILISATEUR en cas de résiliation anticipée demeure ci-après annexé (Annexe 7).
+
+Article 9.	ASSURANCE ET RESPONSABILITES
+
+9.1 ASSURANCES
+
+•	Assurances souscrites par l’UTILISATEUR 
+
+L’UTILISATEUR est tenu pendant toute la durée de la Convention de s’assurer à ses frais auprès d’une compagnie d’assurances une police d’assurance de dommages et de responsabilité civile, en souscrivant toutes les polices d’assurances nécessaires, pour ce qui concerne son activité d’autoconsommation défini à l’article L315-1 du Code de l’énergie, son Bâtiment et pour l’exploitation exercée dans celui-ci, ainsi que pour sa responsabilité à l’égard des tiers et du PROPRIETAIRE.
+
+Ces assurances seront contractées auprès de Compagnies d’assurance notoirement solvables, et de manière à permettre à l'identique, la reconstruction de la CENTRALE ou sa remise en état.
+
+L’assureur devra informer le PROPRIETAIRE de toute défaillance de l’UTILISATEUR dans le paiement de tout ou partie des primes et lui fixer un délai suffisant pour lui permettre, s’il l’estime utile, de procéder au paiement par substitution. 
+
+L’assureur devra prévenir le PROPRIETAIRE de toute cause susceptible d’entraîner la modification, la résiliation, la caducité ou la nullité de la police souscrite afin de lui permettre de préserver ses droits.
+
+•	Assurances souscrites par le PROPRIETAIRE 
+
+Le PROPRIETAIRE souscrit à une assurance responsabilité civile professionnelle et s’assure notamment contre les pertes d’exploitation, le bris de machine et les dégâts causés par les incendies et les tempêtes et pour tous les dommages causés à l’UTILISATEUR et/ou à des tiers, résultant des obligations à sa charge en vertu de la présente Convention. 
+
+
+•	Dispositions communes
+
+Chacune des PARTIES s’engage l’une envers l’autre à transmettre à première demande de l’autre PARTIE, copie des attestations d’assurance souscrites dans le cadre de l’opération d’autoconsommation envisagée dans le cadre des présentes. 
+
+Durant l’exécution de la Convention, chacune des PARTIES justifiera de la souscription des assurances visées aux présentes et du paiement des primes à première demande de l’autre PARTIE.
+
+
+•	Engagement de non-recours réciproque : 
+
+Les PARTIES conviennent qu’en cas de sinistre, leurs prétentions réciproques se limiteront au montant versé par leurs compagnies d’assurances respectives en vertu de la police d’assurance souscrite par chacune d’elles et s’engagent réciproquement à n’exercer aucun recours quelconque contre l’autre PARTIE.
+
+Chacune des PARTIES s’engage en outre à obtenir de la part de ses assureurs une renonciation à tous recours identique au profit de l’autre PARTIE et de ses assureurs.
+
+Si l’une des PARTIES ne parvenait pas à obtenir de son assureur la renonciation à recours évoquée ci-dessus, elle devrait impérativement en aviser l’autre partie afin qu’il soit convenu d’une nouvelle clause à intégrer à la présente Convention. 
+
+
+9.2 RESPONSABILITE
+
+L’UTILISATEUR garantira le PROPRIETAIRE contre tous les dommages et frais résultant de la non-observation par L’UTILISATEUR de ses obligations contractuelles. 
+
+Le PROPRIETAIRE est responsable à l’égard de L’UTILISATEUR pour tous les dommages, à l’exclusion des dommages immatériels, qui résulteraient de manquements à ses obligations en vertu de la Convention, ou du fait de manquements de son ou ses collaborateur(s), subordonné(s) et/ou non subordonnés et ce, dans la limite du montant du Contrat. 
+
+Il est toutefois précisé que toute diminution de la production d’énergie résultant de la survenance d’un sinistre sur le lieu d’implantation de la CENTRALE et du fait de l’UTILISATEUR, ledit sinistre sera supporté par ce dernier. 
+
+
+Article 10.	CESSION – CHANGEMENT DE COCONTRACTANT – SUBSTITUTION 
+
+
+L’UTILISATEUR s’engage, en cas de cession de son bâtiment commercial et/ou de son bail commercial et/ou de cessation de l’activité de son entreprise, à :
+
+(i)	En informer préalablement le PROPRIETAIRE avec un préavis d’au moins six (6) mois.
+
+(ii)	A communiquer la présente Convention au cessionnaire et se porte fort de la reprise de l’ensemble de ses droits et obligations souscrits aux termes des présentes par le cessionnaire, et ce dans leur intégralité et aux mêmes conditions.
+
+Le PROPRIETAIRE ne pourra s’opposer au changement de cocontractant sauf dans l’hypothèse où le cessionnaire ne présenterait pas un niveau de solvabilité permettant d’assurer a minima le paiement des redevances dues jusqu’au terme de la présente Convention (notamment en raison de son profil de consommation d’énergie). 
+
+A défaut de reprise par le cessionnaire des engagements souscrits par l’UTILISATEUR aux termes des présentes, en cas de cessation de l’exploitation par l’UTILISATEUR notamment avec fermeture du Bâtiment ou de transfert des activités vers un autre site, l’UTILISATEUR sera réputé avoir résilié la présente Convention pour convenance et tenu au paiement d’une indemnité dont le montant est indiqué dans le tableau d’indemnités figurant au point 8.4. 
+
+Le PROPRIETAIRE pourra, sous réserve d'en avoir préalablement informé l'UTILISATEUR par écrit et obtenu son consentement, procéder à tout moment à la cession de ses droits et/obligations au titre de la présente Convention au profit d'un Nouveau PROPRIETAIRE, étant entendu que l'UTILISATEUR donne par les présentes son accord à  un transfert de la Convention par le PROPRIETAIRE à (i) une Société Affiliée du groupe HELEXIA, en ce compris une société dite « projet » (SPV), (ii) un établissement bancaire ou financier ou (iii) tout tiers-investisseur intervenant aux fins de financer tout ou partie de la CENTRALE et accepte  que le PROPRIETAIRE sera à l'avenir libéré de toute obligation envers l'UTILISATEUR au titre de la Convention et l'UTILISATEUR consent expressément à cette décharge.
+ 
+De manière réciproque, l’UTILISATEUR pourra, sous réserve d'en avoir préalablement informé le PROPRIÉTAIRE par écrit et obtenu son consentement, procéder à tout moment à la cession de ses droits et/obligations au titre de la présente Convention au profit d'un Nouvel UTILISATEUR étant entendu que le PROPRIETAIRE donne par les présentes son accord à un transfert de la Convention par L’UTILISATEUR et à la cession ou au transfert de ses droits et obligations découlant de la présente Convention à toute Société Affiliée de l’UTILISATEUR.
+
+Tout transfert ou cession des droits par l’une ou l’autre des PARTIES à une Société Affiliée devra faire l’objet d’une information préalable à l’autre PARTIE par courrier recommandé avec avis de réception, et ce au plus tard quinze (15) jours avant la prise d’effet dudit transfert ou de ladite cession. 
+
+
+Article 11.	CONFIDENTIALITE
+
+« Information(s) Confidentielles »désigne tout document, élément ou autre information fourni(e) par une PARTIE à l’autre ou auquel (à laquelle) cette autre PARTIE aura accès directement ou indirectement, dans le cadre de la Convention, quels que soient leur mode de communication (notamment oral, électronique ou autre communication écrite), leur nature (notamment administrative, technique, financière, commerciale et/ou juridique) et leur objet ; les termes de la Convention seront considérés comme des Informations Confidentielles.
+
+La PARTIE récipiendaire d’Informations Confidentielles de l’autre PARTIE s’engage à strictement protéger la confidentialité et la sécurité desdites Informations Confidentielles en mettant en œuvre toutes les mesures nécessaires et en leur appliquant au moins le même degré de précaution que celui qu’elle met en œuvre pour protéger ses propres Informations Confidentielles. A ce titre, la PARTIE récipiendaire s’engage à ne pas communiquer ces Informations Confidentielles à un quelconque tiers ou membre de son personnel à l’exclusion de ses Sociétés Affiliées et/ou ses salariés qui ont strictement besoin d’en connaître pour la bonne exécution de la Convention. Par exception, le PROPRIETAIRE est expressément autorisé à communiquer la présente Convention ainsi que les informations relatives au profil de consommation de l’UTILISATEUR à tout établissement financier appelé à financer la réalisation de la CENTRALE. 
+
+Les obligations de confidentialité et de non-utilisation ci-dessus ne s’appliquent pas aux informations pour lesquelles la PARTIE récipiendaire peut fournir la preuve que :
+
+a)	Elles appartiennent au domaine public au moment de la divulgation par l’autre PARTIE ou de l’accès à l’information par la PARTIE récipiendaire, ou qu’elles sont tombées dans le domaine public sans qu’il y ait eu violation de l’obligation de confidentialité par la PARTIE récipiendaire ; ou
+
+b)	Ces informations proviennent d’un tiers agissant de bonne foi et qui n’est pas lié par une obligation de confidentialité ; ou
+
+c)	Certaines lois et/ou règlements requièrent que ces informations soient divulguées, mais dans la limite de ce qui est exigé par ces lois et/ou règlements ; ou
+
+d)	La PARTIE récipiendaire doit les divulguer sur ordre valable, assignation, injonction, ou autre demande d’un tribunal judiciaire ou administratif ou autre autorité compétente, mais seulement dans les limites de ce qui est requis et à condition que la PARTIE récipiendaire ait au préalable averti la PARTIE propriétaire et l’ait mise en position de rechercher une solution préventive appropriée.
+
+L’obligation de confidentialité visée au présent article restera valable pendant la durée de la Convention augmentée d’une durée de cinq (5) ans à compter de son expiration ou de sa résiliation, quelle qu’en soit la cause. 
+
+A compter de la date d’expiration de la Convention ou de la résiliation anticipée pour quelque raison que ce soit, chacune des PARTIES devra immédiatement cesser toute utilisation des Informations Confidentielles de l’autre PARTIE ainsi que de tout autre élément mis à sa disposition par l’autre PARTIE pour l’exécution de la Convention (tels que tous documents écrits, fichiers électroniques, échantillons, etc. et copies correspondantes), et les restituer à l’autre PARTIE dans un délai maximum de dix (10) jours ouvrés à compter de cette même date ou, à la demande de l’autre PARTIE, détruire l’ensemble de ces éléments encore en sa possession sans en garder de trace et confirmer cette destruction par écrit à l’autre PARTIE dans ce même délai. Ces termes ne concernant toutefois pas les documents que la PARTIE récipiendaire est tenue de conserver en vertu des lois et règlements applicables.
+
+Sous réserve de ce qui précède, les Parties conviennent qu'elles sont autorisées à communiquer librement, sans l'autorisation préalable de l'autre Partie et à des fins publicitaires, sur toutes les questions relatives au présent Contrat. Cette communication inclut notamment l'ajout du Contrat dans le portfolio de références d'Helexia, ou sa diffusion externe par des communiqués de presse, des annonces publiques et des publications digitales.
+
+
+Article 12.	DISPOSITIONS GENERALES
+
+12.1 NOTIFICATION 
+
+Au titre de la Convention, une notification sera considérée comme valablement délivrée : 
+
+-	A la date de sa remise, si elle est remise personnellement à l’autre PARTIE ; 
+
+-	A la date de son envoi, si elle transmise par courrier électronique avec justification de la réception par le destinataire ; 
+
+-	A la date de réception, si elle est remise par courrier recommandé avec demande d’avis de réception à l’adresse du siège de chacune des PARTIES ou à toute adresse de correspondance déclarée.
+
+Chaque PARTIE pourra à tout moment modifier le(s) nom(s) du destinataire, l’adresse, les numéros de téléphone ou télécopie, sous la seule réserve d’en informer préalablement l’autre PARTIE par lettre recommandée avec demande d’avis de réception (la modification prenant alors effet dans un délai de cinq (5) Jours Ouvrés à compter de la réception de notification par la PARTIE destinataire).
+
+
+12.2 INTEGRALITE DE L’ACCORD
+
+La présente Convention constitue l’intégralité de l’accord intervenu entre les PARTIES. Elle annule et remplace, à compter de sa date d’effet, toutes lettres, propositions, offres et conventions antérieures ou contemporaines, orales ou écrites, se rapportant au même objet que celui indiqué aux présentes, signé ou échangé entre les PARTIES ou pour leur compte. 
+
+L’UTILISATEUR reconnaît avoir eu tout le temps nécessaire pour prendre connaissance de l’ensemble des termes de la Convention préalablement à sa signature et déclare les accepter sans réserve.
+
+
+12.3 MODIFICATION DE LA CONVENTION
+
+Toute modification de la Convention doit être constatée par écrit sous forme d’un avenant signé par les représentants dûment habilités de chaque PARTIE.
+
+Etant précisé qu’en cas de modification nécessitant des Travaux Supplémentaires, l’AUTO-CONSOMMATEUR devra préalablement adresser au BAILLEUR le formulaire de « Demande de changement » dûment complété et signé, figurant en Annexe 9. A défaut de réponse dans un délai de (30) jours, la demande est considérée comme refusée.
+
+Toute renonciation, quelle qu’en soit la durée, à invoquer l’existence ou la violation totale ou partielle de l’une quelconque des clauses de la Convention ne peut constituer une modification, une suppression de ladite clause ou une renonciation à invoquer les violations antérieures, concomitantes ou postérieures de ladite clause ou d’autres clauses. Une telle renonciation n’aura d’effet que si elle est exprimée par écrit signé par la personne dûment habilitée à cet effet.
+
+
+12.4 INTERPRETATION
+
+Chacune des clauses de la Convention doit être interprétée, dans toute la mesure du possible, de manière à ce qu’elle soit validée au regard du droit qui lui est applicable. Si l’une quelconque des stipulations de la Convention se révèle être illégale, nulle ou inopposable aux termes d’une loi quelconque et/ou est déclarée illégale, nulle ou inopposable par toute juridiction ou autorité administrative compétente aux termes d’une décision exécutoire, cette stipulation sera réputée non écrite, sans altérer la validité des autres stipulations et sera remplacée par une stipulation valable d’effet juridique et économique équivalent, que les PARTIES s’engagent à négocier de bonne foi, et telle que les PARTIES en seraient convenues si elles avaient connu l’illicéité, la nullité ou l’inopposabilité de ladite stipulation. 
+
+Les titres sont utilisés pour la commodité de lecture et d’utilisation de la Convention. En cas de contradiction éventuelle entre le titre d’une clause et son contenu, ce dernier prévaudra pour les besoins de l’interprétation de la Convention.
+
+
+12.5 INDEPENDANCE DES PARTIES - MANDAT
+
+Les PARTIES ne pourront en aucun cas être considérées comme associées d’une entité commune quelconque. Aucune des PARTIES ne pourra, en outre, sauf mandat particulier, exprès et préalable de l’autre PARTIE, être considérée comme représentant de l’autre PARTIE ou agir en son nom et pour son compte et ce, à quelque titre et sous quelque modalité que ce soit.
+
+Etant ici précisé, à titre de rappel, qu’un mandat de gestion administrative est donné au PROPRIETAIRE par L’UTILISATEUR, aux termes des présentes, aux fins d’effectuer toutes les démarches nécessaires dans le cadre du raccordement électrique de la CENTRALE et de la réglementation applicable au régime de l’autoconsommation individuelle. 
+
+12.5 IMPREVISION
+
+Chaque Partie déclare expressément accepter les risques liés à un changement de circonstances, imprévisible lors de la conclusion de la présente convention, et accepte de les assumer pleinement et entièrement.
+
+Par conséquent, et par dérogation aux dispositions de l’article 1195 du Code civil, si un changement de circonstances, imprévisible lors de la conclusion de la convention et tel que défini dans ledit article survient, les PARTIES s’engagent à poursuivre l’exécution de la convention, sans que l’une ou l’autre ne puisse solliciter à l’autre la renégociation de celui-ci.
+
+Article 13.	LOI APPLICABLE – ATTRIBUTION DE JURIDICTION 
+
+La Convention est régie par le droit français. 
+
+Tout différend entre les PARTIES relatif à la formation, l’exécution et/ou l’interprétation de la Convention sera soumise à la compétence exclusive des tribunaux compétents de Lille, cette attribution de compétence s'appliquant notamment en matière d’appel en garantie et de pluralité de défendeurs. 
+
+Article 14.	ELECTION DE DOMICILE 
+
+Pour l’exécution des présentes et de toutes leurs suites, les PARTIES font élection de domicile en leur siège social tel qu’indiqué en tête des présentes.
+
+Article 15.	SIGNATURE ELECTRONIQUE 
+
+Il est expressément convenu entre les Parties que, par dérogation aux règles de preuve édictées par le Code civil, et plus particulièrement par l’article 1375 dudit Code, l’établissement d’un original du présent Contrat par une Partie ne sera pas requis à titre de preuve des engagements pris par ladite Partie.
+
+Les Parties reconnaissent et acceptent que (i) la présente Convention est signée par voie de signature électronique via la plateforme ADOBESIGN® en application des articles 1367 et suivants du Code civil (ii) que la transmission électronique dudit Contrat ainsi signé vaudra preuve, entre elles, de son existence de son origine, de sa réception et de son intégrité.
+
+En conséquence de ce qui précède, les Parties reconnaissent et acceptent que la présente Convention portera la date de sa signature par le dernier des signataires.
+
+Article 16.	LISTE DES ANNEXES 
+Les documents contractuels comprennent :
+
+-	La présente Convention et ses annexes :
+Annexe 1 : Pouvoirs et Kbis
+Annexe 2 : Lettre d’intention et Offre commerciale
+Annexe 3 : Documents d’urbanisme, PV constat affichage et Plans
+Annexe 4 : Documents de raccordement électrique
+Annexe 5 : Descriptif technique
+Annexe 6 : Détail des prestations
+Annexe 7 : Tableau des indemnités de sortie dues par l’UTILISATEUR
+Annexe 8 : Tableau des productions théoriques
+Annexe 9 : Formulaire de demande de changement
+
+
+Les PARTIES reconnaissent avoir pris connaissance de tous les documents mentionnés ci-dessus. Ces différents documents contractuels doivent être considérés comme mutuellement explicatifs.
+
+Fait à ________________
+
+Le __________________
+
+
+
+Le PROPRIETAIRE					L’UTILISATEUR
+
+HELEXIA _______________				_____________________
+
+Représentée par M. Christophe CONSTANT	Représentée par M. _____________ 
+Annexe 1 : Pouvoirs et Kbis
+ 
+
+Annexe 2 : Lettre d’intention et Offre commerciale
+
+ 
+Annexe 3 : Documents d’urbanisme, PV constat affichage et Plans
+ 
+
+Annexe 4 : Documents de raccordement électrique
+
+ 
+
+Annexe 5 : Descriptif technique de la Centrale
+
+ 
+
+Annexe 6 : Détail des prestations 
+ 
+
+Annexe 7 : Tableau des indemnités de sortie dues par l’UTILISATEUR
+ 
+Annexe 8 : Tableau de productions théoriques
+ 
+Annexe 9 : Formulaire de Demande de changement
+
+
+
+DEMANDE DE CHANGEMENT 	
+CODE PROJET 		DEMANDE DE CHANGEMENT N°
+CHEF DE PROJET HELEXIA		
+REFERENCE CONTRAT 	CMAD du XX XX XX
+					
+DEMANDE DE CHANGEMENT
+NOM DU DEMANDEUR	(Chef de projet AF)	DATE DE LA DEMANDE	
+CONTACT DU DEMANDEUR		PRIORITÉ	
+ÉLÉMENT À MODIFIER	
+DESCRIPTION DU CHANGEMENT	
+CALENDRIER PRÉVU	COUTS ESTIMÉS (OPEX + CAPEX + DevFees)
+T0* + x mois	€
+*T0 étant la date de signature de la présente Demande de changement
+					
+ÉVALUATION DU CHANGEMENT
+NOM DE L'ÉVALUATEUR	 (chef de projet Helexia)	DATE DE L'ÉVALUATION	 
+DOMAINE D'IMPACT	DESCRIPTION DE L'IMPACT	NIVEAU D'IMPACT
+PERIMETRE		Majeur/Mineur
+PLANNING 		 
+COÛT		
+QUALITÉ	 	 
+COUT TOTAL À PAYER PAR LE DEMANDEUR	
+X € H.T
+	 MODIFICATIONS				
+
+NOM DE L'EXAMINATEUR	 	STATUT	ACCEPTÉ / REFUSÉ
+SIGNATURE DE L'EXAMINATEUR	 	DATE DE RÉVISION	 
+COMMENTAIRES SUPPLÉMENTAIRES
+ 
+					
+
+ 
+
+
+
+
+

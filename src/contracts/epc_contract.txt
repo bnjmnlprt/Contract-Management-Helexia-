@@ -1,0 +1,1665 @@
+
+Table des matières
+
+
+
+ 
+PREAMBULE	4
+A TITRE LIMINAIRE - DEFINITIONS	5
+ARTICLE 1 – OBJET DU CONTRAT / ÉTENDUE DES TRAVAUX/DISPOSITIONS GENERALES/OBLIGATIONS DES PARTIES	8
+ARTICLE 2 - PLANNING DE REALISATION DES TRAVAUX	11
+ARTICLE 3 – MODIFICATIONS DES TRAVAUX	11
+ARTICLE 4 – ACCES AU SITE	12
+ARTICLE 5 - EMPLOYES ET SOUS-TRAITANTS	13
+ARTICLE 6 – RESPECT DE LA REGLEMENTATION	13
+ARTICLE 7 – REPORTING – REPRESENTANTS	13
+ARTICLE 8 – MISE EN SERVICE ET RECEPTION DES TRAVAUX	14
+ARTICLE 9 – GARANTIES DE LA CENTRALE ET DU MATERIEL	15
+ARTICLE 10 – INDEMNISATION ET LIMITATION DE RESPONSABILITE	17
+ARTICLE 11 – PROPRIETE ET TRANSFERT DU RISQUE	17
+ARTICLE 12 – PRIX, PAIEMENT DU PRIX ET MODALITES DE PAIEMENT	18
+ARTICLE 13 – RÉSILIATION	19
+ARTICLE 14 – ASSURANCE	20
+ARTICLE 15 - CONCESSION DE LICENCE DES DROITS DE PROPRIETE INTELLECTUELLE ET INDUSTRIELLE	21
+ARTICLE 16 – CESSION	21
+ARTICLE 17 – FORCE MAJEURE	21
+ARTICLE 18 – DROIT APPLICABLE ET REGLEMENT DES DIFFERENDS	22
+ARTICLE 19 – DIVERS	22
+
+
+ENTRE :
+
+La société XXXXX, Société Anonyme, au capital de XXX ayant son siège social sis XXX, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 
+XXX, représentée par Madame ou Monsieur XXXX, agissant en qualité de XXXXXX, déclarant être dûment habilité aux fins des présentes, 
+
+Ci-après dénommée le « Maître d’Ouvrage »,
+
+
+
+ET
+
+
+La société HELEXIA DÉVELOPPEMENT, Société par actions simplifiée au capital de 3 932 000 euros, ayant son siège social sis à La Madeleine (59110), 38 Allée Vauban – Immeuble Crystal, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 524 102 670, représentée par son Directeur Général France, Monsieur Christophe CONSTANT, dûment habilité aux fins des présentes,
+
+
+Ci-après dénommée, « HELEXIA », 
+
+
+
+
+Le Maître d’ouvrage et Helexia peuvent également être désignés individuellement par « Partie » et collectivement par les « Parties ».
+
+
+
+PREAMBULE 
+
+Le Maître d’ouvrage est une société spécialisée dans XXXXXXXXXXXXXXX.
+
+Afin de bénéficier de sa propre installation de production d’électricité et de se doter d’un équipement photovoltaïque en autoconsommation/en injection réseau, le Maître d’Ouvrage souhaite financer, faire construire et exploiter une centrale photovoltaïque en autoconsommation et/ou en injection réseau sur la toiture de son entrepôt logistique/bâtiment commercial/ en ombrières de parking/au sol situé [ADRESSE] (ci-après « la Centrale »).
+
+[SI Autoconsommation]
+Le Projet de Centrale envisagé par le Maître d’Ouvrage s’inscrit dans le cadre des réglementations relatives :
+- A l’autoconsommation issue de l’Ordonnance n° 2016-1019 du 27 juillet 2016 et de la loi de ratification n°2017-227 du 24 février 2017) et codifiée aux articles L315-1 et suivants du code de l’énergie.
+- Au contrat de complément de rémunération à l’électricité produite, conclu en application du 2° de l’article L.311-12 (complément de rémunération), selon les dispositions des articles L311-13-2 à L311-13-3 du code de l’énergie.
+
+[SI Autoconsommation] L’opération d’autoconsommation envisagée sera « individuelle » et se définie comme « le fait pour un producteur ; dit auto-producteur, de consommer lui-même et sur un même site tout ou partie de l’électricité produite par son installation (…) » (art. L315.-1 du code de l’énergie).
+
+Le Maître d'Ouvrage, préalablement à la signature de ce Contrat, a reçu un ensemble d’informations pour apprécier l'opportunité d'investir dans la réalisation de la Centrale envisagée et de vérifier la liste de l’ensemble des autorisations à obtenir auprès des autorités compétentes. 
+
+Les prestations incluses dans le Contrat et à réaliser par Helexia comprennent notamment :  
+
+- Les démarches administratives au nom et pour le compte du Maître d’Ouvrage qui s’avèreront nécessaires pour le raccordement de la Centrale (déclarations, demandes d’autorisations diverses, dossier de PTF (Proposition Technique et Financière à déposer auprès d’ENEDIS notamment), 
+
+- La construction de la Centrale, incluant le choix optimal de l’ensemble des équipements, prestataires, matériaux et méthodes à utiliser, en fonction notamment des contraintes techniques du Projet, tenant en particulier à l’obligation :
+
+- De permettre la poursuite de l’ensemble des activités propres au Maître d’Ouvrage en toute sécurité durant toute la période d’exploitation ;
+- De faciliter les activités ultérieures d’exploitation-maintenance de la Centrale en toute sécurité.
+
+Le Maître d’Ouvrage a retenu Helexia sur la base de l’offre financière présentée par ce dernier. 
+
+Il est expressément entendu que l’offre financière d’Helexia est réputée couvrir l’intégralité des coûts des matériaux, équipements et prestations nécessaires à l’étude de conception complète, la réalisation et la mise en service de la Centrale, à l’exception des coûts liés notamment : 
+
+- Aux missions de contrôle technique et de Sécurité et Prévention de la Santé (CSPS) ;
+
+- A la réalisation des études de structure du bâtiment/ sol du parking/sol du Site appartenant au Maître d’Ouvrage (le « Bâtiment »)/ (« le Parking ») et sur lequel sera posée la Centrale ;
+
+- De tous frais de géomètre et/ou notaire qui pourraient s’avérer nécessaire pour le Maître d’Ouvrage dans le cadre de la réalisation du Projet ; 
+
+- Création d’un réseau d’eau à partir du réseau existant, installation de désenfumage ; 
+
+- Aux frais de raccordement téléphonique de l’installation entre le point de livraison et le réseau France Telecom pour la télérelève du distributeur ENEDIS ou équivalent, à l’interface avec France Télécom pour l’ouverture des lignes téléphoniques filaires ou GSM ;[BL1]
+
+- Au coût de la convention de raccordement de l’installation au réseau public d’électricité (facturé directement par ENEDIS au Maître d’Ouvrage ;
+
+- Tout surcoût résultant d’éléments inconnus et/ou postérieurs à la date de soumission de la dernière version d’offre technico-commerciale par Helexia.
+
+Helexia est un professionnel spécialisé dans le développement, l’installation et l'exploitation de centrales photovoltaïques en toiture et ombrières et dispose des connaissances et compétences reconnus dans le secteur. 
+En conséquence, et afin de mener à bien le projet de Centrale du Maître d’Ouvrage, cette dernière s’est rapprochée d’HELEXIA afin de lui confier une prestation de réalisation clé en main d’une centrale photovoltaïque en toiture de son bâtiment commercial /industriel .../ en ombrières du parking/au sol situé à [VILLE -CP]
+Suite à l’offre proposée par HELEXIA, les Parties ont décidé de conclure le présent Contrat, dont le présent préambule et l’ensemble des annexes en sont partie intégrante.
+
+Tout ceci ayant été exposé, il a été convenu de ce qui suit :
+
+CECI EXPOSE, IL A ETE CONVENU CE QUI SUIT : 
+
+A TITRE LIMINAIRE - DEFINITIONS
+Les termes et expressions commençant par une majuscule, qu'ils soient utilisés indifféremment au singulier ou au pluriel, auront, aux fins du Contrat, la signification suivante, sauf si le contexte exige un sens différent.
+« Achèvement » 
+Désigne l’instant auquel l’intégralité des travaux prévus au Contrat sont terminés en conformité avec l’offre d’Helexia annexée aux présentes et la Centrale est prête à être mise en service. 
+« Annexe »
+Désigne une (les) annexe(s) au Contrat qui en font partie intégrante.
+« Autorisation(s) »
+
+Désigne l’ensemble des autorisations à obtenir, déclarations ou autres formalités à effectuer auprès du gestionnaire de réseau ENEDIS et qui s’avèreront nécessaires pour le raccordement de la Centrale, sa Mise en Service et son exploitation par le Maître d’Ouvrage, ainsi que, si l’offre d’Helexia le prévoit expressément, toutes les autorisations d’urbanisme nécessaires à la réalisation du projet de Centrale.
+« Bâtiment » 
+Désigne l’extension du bâtiment/le bâtiment commercial qui sera construit par le Maître d’Ouvrage sous sa responsabilité/appartenant au Maître d’Ouvrage et sur la toiture duquel sera installée la Centrale. 
+« Centrale »
+Désigne la centrale photovoltaïque en autoconsommation /injection réseau à réaliser par Helexia sur le bâtiment/parking/sol  XXXXX située à XXXXXXXXXXXXX et composées notamment de structures portant les modules photovoltaïques, des modules photovoltaïques, des onduleurs, des postes de livraison électrique et des réseaux électriques, et tous Travaux associés à la conception, à la réalisation, l’installation et la Mise en Service de la Centrale. Une description technique est jointe en Annexe 1. Cette description technique comprend notamment, la situation géographique, la puissance et le Productible. 
+« Conseiller Technique »
+
+Désigne, le cas échéant, un tiers professionnel choisi par les Représentants du Maître d’Ouvrage pour assister le Maître d’Ouvrage dans tous les points nécessaires du présent Contrat ou des Travaux définis dans ce Contrat.
+« Contrat »
+Désigne le présent Contrat et ses Annexes, lesquels font ensemble partie intégrante dudit Contrat.
+« Défaut Majeur »
+Désigne un défaut empêchant l’exploitation de la Centrale dans des conditions de sécurité communément acceptées ou si ce défaut rend la Centrale non conforme à la réglementation applicable.
+« Défaut Mineur »
+Désigne tout autre défaut ne compromettant pas la sécurité ou la fonctionnalité globale de la Centrale, incluant un défaut d’ordre esthétique.
+« Etudes Préalables »
+
+Désigne l’ensemble des études de faisabilité réalisées par Helexia – si l’offre d’Helexia le prévoit – ou à défaut par le Maître d’Ouvrage pour les besoins du présent Contrat, portant notamment sur l’examen de la faisabilité de la Centrale, sur la configuration du Site, à l’exception de toutes études de stabilité et/ou de structure portant sur le Bâtiment/Parking/Sol et sur la capacité dudit Bâtiment/Parking/Sol à supporter le surpoids lié à la pose de la Centrale. 
+« Fabricant »
+Désigne le fabricant d’un équipement installé sur la Centrale, incluant notamment les modules et les onduleurs.
+« Jour Ouvré »
+
+Désigne un jour autre qu’un samedi ou un dimanche, ou un jour férié en France, étant précisé que si l’une quelconque des obligations des Parties doit être exécutée un jour qui n’est pas un Jour Ouvré, elle devra alors être exécutée le Jour Ouvré suivant.
+« Irradiation dans le plan »
+Désigne les données d'irradiation reçues sur le ou les pan(s) couvert(s) de modules photovoltaïques à l'inclinaison et l'orientation des panneaux selon une base de données satellitaires journalières exprimées en kWh/m².
+« Mise en Service »
+Désigne le début d’injection d’électricité par la Centrale sur le réseau électrique privé du magasin.
+« Parking » [si ombrières]
+Désigne l’espace de stationnement de véhicules sur lequel seront implantées les ombrières photovoltaïques. 
+« Prix »  
+Désigne le prix des Travaux et prestations objet du Contrat et figurant en Annexe 3. 
+« Productible »
+Désigne pour la Centrale le rapport production annuelle / puissance installée calculée en kWh/kWc et figurant à l’Annexe 1.  
+« Projet »
+Désigne un Projet de Centrale. 
+« PTF Proposition Technique et Financière »
+
+Désigne la proposition technique et financière pour le raccordement au réseau signée, s’il y a lieu, avec le gestionnaire de réseau public de distribution d’électricité. 
+« Puissance Crête »
+Désigne la puissance de la Centrale exprimée en kWc et figurant à l’Annexe 1. Cette puissance est calculée comme la somme de la puissance nominale des modules installés.
+« PV »
+Désigne le terme photovoltaïque.
+Réception
+Désigne la réception des ouvrages constitutifs de la Centrale au sens de l’article 1792-6 du code civil qui dispose que « la réception est l'acte par lequel le maître de l'ouvrage déclare accepter l'ouvrage avec ou sans réserve. Elle intervient à la demande de la partie la plus diligente, soit à l'amiable, soit à défaut judiciairement. Elle est, en tout état de cause, prononcée contradictoirement ».
+« Représentants du Maître d'ouvrage » 
+
+Désigne les seules personnes autorisées à agir au nom et pour le compte du Maître d’ouvrage pour toutes les questions afférentes au présent Contrat, ce qui inclut le Conseiller Technique.
+« Site » 
+
+Désigne l’emplacement géographique de la Centrale détaillé à l’Annexe 1. 
+« Spécifications Techniques » 
+
+Désigne les spécifications techniques auxquelles doit répondre la Centrale, telles que détaillées en Annexe 1.
+« Travaux »
+
+Désigne l’ensemble des prestations confiées à Helexia par le Maître d'Ouvrage pour la réalisation, de la Centrale, en ce compris la fourniture de matériels et équipements et définies limitativement en Annexe 1. Les travaux incluent la conception, la construction, l’installation, le raccordement au réseau, et la Mise en Service de la Centrale. Ces Travaux seront effectués par Helexia pour le compte du Maître d'ouvrage.
+
+
+
+ARTICLE 1 – OBJET DU CONTRAT / ÉTENDUE DES TRAVAUX/DISPOSITIONS GENERALES/OBLIGATIONS DES PARTIES
+1.1	Objet
+
+Le présent Contrat a pour objet de confier à Helexia la conception, la construction, l’installation, le raccordement au réseau, et la Mise en Service (les « Travaux) d’une centrale photovoltaïque en injection réseau/ autoconsommation au sens de l’article L315-1 du code de l’énergie d’une puissance de XXX kWc devant permettre la production d'électricité selon des critères de performance convenus entre les Parties. [AP2]
+
+Le présent Contrat est un contrat clé en main en contrepartie du Prix défini à l’Annexe 3 et sous réserve des conditions exposées ci-après.
+Il est convenu entre les Parties que, par la signature du présent Contrat, Helexia est dûment habilitée à effectuer auprès d’ENEDIS pour le compte du Maître d’ouvrage les démarches administratives qui seront nécessaires pour la bonne exécution du Contrat. A ce titre, le Maître d’Ouvrage s’engage à signer, en temps utiles, tout document relatifs au raccordement, incluant ceux émanant d’Enedis aux démarches administratives ou, si le Maître d’Ouvrage le souhaite, à signer une procuration au bénéfice d’Helexia en vue de réaliser ces opérations au nom et pour le compte du Maître d’Ouvrage.
+
+1.2 Étendue des Travaux – Données d’entrée - Description de la Centrale 
+
+Les Travaux confiés à Helexia au titre du présent Contrat seront exécutés par Helexia pour le compte du Maître d’ouvrage aux conditions établies par les présentes, tout en respectant les règles de l’art et la réglementation applicable à la date de signature du présent Contrat. Les fournitures et prestations sont limitativement listées en Annexe 1 et il est entendu entre les Parties que les fournitures et/ou prestations demandées par le Maître d’ouvrage ou rendues nécessaires, mais non listées dans l’Annexe 1 seront considérées comme étant des « Travaux supplémentaires ». 
+
+Tous travaux réalisés par Helexia seront fondés sur les données d’entrée suivantes (ci-après « les Données d’entrée »)[BL3] : 
+- Plan de toiture [en phase avant-projet détaillé minimum – si en cours de construction]
+- Dossier technique du complexe de couverture (support, isolation et étanchéité)
+- Plan de charpente et note de calcul de la structure du bâtiment
+- Emplacement du point de raccordement (local TGBT en cas d’autoconsommation)
+- Architecture électrique du site (schéma unifilaire en phase avant-projet détaillé au minimum)
+- Type de bardage extérieur
+- Etudes géotechniques existantes dans le cas d’un projet en ombrières
+- Plans des réseaux dans le cas d’un projet en ombrières
+- Les autorisations d’urbanisme conformes aux plans
+
+Ces Données d’entrée devront être communiquées préalablement au développement de la Centrale par le Maître de l’Ouvrage, au plus tard sur demande d’Helexia. Etant précisé qu’il n’incombe en aucun cas à Helexia de procéder à une vérification de ces Données d’entrée. En conséquence :
+(a) Helexia ne pourra être tenu responsable de toute malfaçon ou impossibilité de réaliser les prestations objets du Contrat, en raison d’une erreur ou d’une omission dans la communication de ces Données d’entrée ;
+(b) Helexia ne pourra se voir réclamer les frais supplémentaires engendrés par les erreurs ou omissions précitées ;
+(c) Helexia ne pourra être tenu responsable de tout retard éventuel engendré par les erreurs ou omissions précitées ;
+(d) Helexia pourra réclamer les coûts supplémentaires engendrés par l’erreur ou l’omission dans la communication des Données d’entrées. 
+Dans le cas d’un bâtiment en cours de construction, la réalisation des travaux par HELEXIA se fera sur ledit bâtiment, dans le respect des consignes d’hygiène et de sécurité.
+
+En outre, les travaux de construction devront être réalisés conformément aux délais indiqués au planning général des travaux, et à la conception de la Centrale d’après les Données transmises, si bien qu’Helexia ne pourra être tenu responsable de toute modification qui pourrait intervenir en cours de construction et engendrer des coûts supplémentaires ou des retards dans les délais. 
+
+La dénomination, la localisation, le productible et la puissance de la Centrale sont définis en Annexe 1.
+
+1.3 Dispositions Générales 
+
+Helexia, tant dans sa prestation de conception que de réalisation, devra se conformer aux normes et réglementations en vigueur à la date de signature du Contrat, et s’assurer que les sociétés auxquelles il aura sous-traité partie du marché, ainsi que les fournisseurs, s’y conforment également. 
+
+Toute mise en conformité éventuelle par rapport à une norme ou réglementation en vigueur à la date de remise de l’offre financière par Helexia se fera aux frais exclusifs de cette dernière. En revanche, toute mise en conformité éventuelle par rapport à une norme ou réglementation entrée en vigueur après la date de remise de l’offre financière se fera aux frais exclusifs du Maître d’Ouvrage.
+
+
+1.4	Obligations des Parties
+
+Obligations du Maître d’ouvrage :
+Sans préjudice de toutes autres obligations prévues au Contrat, les obligations principales du Maître d’ouvrage incluent :
+- Ne pas empêcher Helexia d’exécuter ses obligations telles que prévues au Contrat et donnera un accès non restreint au Site en vue de réaliser les Travaux ;
+
+- En complément des Données d’entrée, communiquer à la demande d’Helexia, en temps utile et dans les délais demandés, toute information nécessaire ou utile à Helexia dont il aurait connaissance pour la conception, la réalisation, l’installation et la Mise en Service de la Centrale ainsi que, le cas échéant, pour l’obtention des Autorisations ; 
+
+- Payer à Helexia le Prix stipulé conformément au Contrat ;
+
+- Effectuer notamment la déclaration réglementaire d‘ouverture de chantier (DROC) ainsi que la déclaration attestant de l’achèvement et de la conformité des travaux (DAACT); 
+
+- Mandater un Coordonnateur SPS préalablement au démarrage des travaux, lequel CSPS rendra compte au Maître d’Ouvrage, et tiendra informé en parallèle Helexia ;
+
+- Mandater un ou plusieurs bureaux de contrôle technique préalablement au démarrage des travaux. Le Maître d’Ouvrage assurera la coordination des visites sur site des contrôleurs techniques. Ces derniers rendront compte au Maître d’ouvrage, et tiendront informé en parallèle Helexia. Il sera de la responsabilité de ce dernier de prendre acte de son propre chef des remarques faites par les bureaux de contrôle et de remédier sans délais aux éventuels manquements constatés, sans attendre une demande du Maître d’Ouvrage ;
+
+- Apporter son assistance, sur première demande de la part d’Helexia, pour l’obtention de tout permis ou autorisation administrative ;
+- Communiquer uniquement avec le représentant d’Helexia ou avec les personnes mandatées par celui-ci, relativement à l’exécution des Travaux. Le Maître d’Ouvrage s’engage à ne pas communiquer directement avec les sous-traitants d’Helexia sans l’accord exprès de son représentant.
+
+
+Obligations d’Helexia :
+
+Sans préjudice de toutes autres obligations prévues au Contrat, les obligations principales d’Helexia incluent:
+
+- Helexia effectuera au nom et pour le compte du Maître d’ouvrage toutes démarches nécessaires à la conception, la réalisation, l’installation et la Mise en Service de la Centrale ainsi que les démarches nécessaires à l’obtention des Autorisations (si celles-ci sont expressément prévues à l’offre d’Helexia) ;
+
+- Il s'assurera que la Centrale sera construite avec des modules photovoltaïques, onduleurs et tout autre équipement neuf et conforme aux normes et réglementations en vigueur, selon le matériel convenu avec le Maître d’ouvrage et repris en annexe ; 
+
+- Pendant la durée des Travaux, il entretiendra et nettoiera le Site de façon régulière et réalisera la gestion des déchets générés par les Travaux, selon la réglementation en vigueur ;
+
+- Il s’assurera que les constructeurs, fournisseurs et autres intervenants qui réalisent les Travaux ou concourent à la réalisation des Travaux objets du Contrat disposent des qualifications nécessaires à l’exécution des tâches qui leur sont assignées ;
+
+- Il s’assurera que les constructeurs, fournisseurs et autres intervenants respectent les dispositions réglementaires, en ce compris les règlements intérieurs de droit privé, applicables au bien immobilier et au Site, de telle sorte que le Maître d’ouvrage ne puisse être inquiété ou recherché à ce sujet ;
+
+- Il respectera et s’assurera que les constructeurs et autres intervenants respectent les lois et règlements applicables en matière de droit du travail, en ce compris notamment les dispositions légales et réglementaires relatives à l’hygiène et à la sécurité sur les chantiers, ainsi que celles relatives à la lutte contre le travail illégal ;
+
+- Il notifiera au Maître d’ouvrage, dès sa survenance, tout cas de Force Majeure ou toute autre cause légitime de suspension de délai ;
+
+- Il Informera dans un délai raisonnable le Maître d’ouvrage de tout désordre susceptible d’affecter le déroulement normal des Travaux ;
+
+- Il fournira, installera et mettra en service un monitoring permettant de mesurer les performances de la Centrale pendant la période d’essai telle que visée à l’Article 8.2 des présentes ;
+
+- Il fournira un exemplaire papier et un exemplaire informatique de la version définitive du dossier des ouvrages exécutés (DOE) au plus tard dans les six mois à compter de la réception de la Centrale.
+
+1.5	Conditions suspensives à l’exécution du Contrat.
+
+Les parties conviennent que le Contrat ne pourra être exécuté que si l’ensemble des conditions suspensives suivantes sont levées :
+- Obtention des autorisations administratives nécessaires et purgées de tout recours des tiers ;
+
+- Validation par le Maître d’Ouvrage de la solution de raccordement au réseau de distribution d’électricité proposée par ENEDIS ;
+
+- Validation de la faisabilité technique du projet dans les conditions économiques prévues au Contrat, après réalisation des études techniques nécessaires. 
+
+En cas de non-réalisation d’au moins une de ces conditions suspensives, le Contrat sera considéré nul et non avenu. Dans ce cas, le Maître d’ouvrage s’engage à payer à Helexia les frais engagés dans le cadre du développement du Projet. 
+
+ARTICLE 2 - PLANNING DE REALISATION DES TRAVAUX
+
+2.1	Planning de Réalisation des Travaux
+
+Le Planning de Réalisation des Travaux est joint en Annexe 2.
+
+
+2.2	Prorogation des délais d'exécution mentionnés au Planning de Réalisation des Travaux
+
+Les délais d'exécution mentionnés au Planning de Réalisation des Travaux pourront notamment être prorogés dans les cas suivants :
+
+- En raison de modifications convenues entre les Parties conformément à l'Article 3. ;
+
+- En raison de toutes causes légitimes de suspension des Travaux incluant celles définies ci-après :
+- Les jours d’intempéries justifiant un arrêt de chantier conformément aux dispositions du Code du travail ; 
+- Les retards dus à des autorités administratives, notamment une décision administrative exécutoire de suspendre les Travaux, retard de la part de l’opérateur public du réseau de transport d’électricité, si ce cas ne résulte pas d’un agissement d’Helexia ;
+- En raison d'un retard des Travaux ou de tout évènement échappant au contrôle d’Helexia.
+
+Si de telles causes légitimes de suspension dépassent six (6) mois, elles seront considérées comme un cas de Force Majeure et les conséquences visées par l'Article 13 s'appliqueront.
+
+- En raison de la survenance d'un cas de Force Majeure tel que défini à l'Article 17.  
+
+Si le cas de Force Majeure se poursuit durant plus de douze (12) mois, l'une ou l'autre Partie aura le droit de résilier le présent Contrat dans les conditions de l'Article 13.
+
+Toute prorogation est notifiée et justifiée par Helexia dans le compte-rendu de chantier, qui en précise la durée, laquelle est égale au nombre de journées réellement constatées au cours desquelles le travail a été arrêté du fait de l’un des motifs susvisés. Helexia sera en droit d’obtenir le paiement de coûts supplémentaires subis en cas de retard non imputable à ce dernier.
+
+ARTICLE 3 – MODIFICATIONS DES TRAVAUX
+En aucun cas les Travaux ne pourront être modifiés, sauf accord écrit préalable des Parties selon les conditions suivantes :
+
+3.1	Modifications requises du fait d’un changement de législation 
+
+Helexia peut, jusqu’à la Réception, informer le Maître d’Ouvrage de toute modification des Travaux, en notifiant par écrit ladite modification dès lors que cette modification est dûment justifiée par un changement de législation et/ou règlementation postérieur à la signature du présent Contrat et imposant un changement significatif au niveau des caractéristiques de la Centrale ou du déroulement des Travaux. En ce cas les Parties conviennent que ladite modification fera l’objet d’un ajustement notamment en termes de délais et de prix par voie d’avenant. En cas de refus de la part du Maître d’Ouvrage, celui-ci en supportera les conséquences.
+
+3.2	Modifications requises par l’une ou l’autre des Parties pour tout autre motif 
+
+Helexia comme le Maître d’Ouvrage peut, à tout moment proposer par écrit à l’autre Partie des modifications concernant des Travaux pour quelque motif que ce soit autre que ceux visés à l’article ci-dessus. 
+
+Le cas échéant, la Partie demanderesse devra adresser à l’autre Partie une Demande de changement prévue en Annexe 5 incluant les raisons justifiant les modifications proposées et l’impact de ces modifications sur le Prix et le Planning de Réalisation des Travaux et, le cas échéant, sur les assurances souscrites, et fournir à l’autre Partie tous conseils nécessaires à sa décision.
+
+A défaut de réponse à la Demande de Changement dans un délai de vingt (20) Jours Ouvrés suivant la réception de ladite Demande, celle-ci sera considérée comme ayant été acceptée.
+
+Si la Demande est acceptée, celle-ci sera considérée comme un avenant au présent Contrat. 
+
+ARTICLE 4 – ACCES AU SITE 
+
+Le Maître d’ouvrage fournira à Helexia et à ses sous-traitants, et ce pour toute la durée du présent Contrat, tous les accès nécessaires au Site, aux espaces de travail dont Helexia et ses sous-traitants ont besoin pour réaliser les Travaux, notamment en leur mettant à disposition la toiture du Bâtiment ou en leur permettant l’accès au Parking/à l’espace de construction afin qu'ils puissent exécuter leurs obligations contractuelles, et ce, dans les conditions et les délais requis par Helexia.
+
+Il est entendu par les présentes que l'accès au Site sera autorisé uniquement aux personnes accréditées par Helexia qui sont impliquées dans l’exécution des Travaux. Dans le cas où le Maitre d’Ouvrage constaterait des désordres ou la présence de personnes non-autorisées sur le Site en l’absence d’Helexia, il s’engage à aviser Helexia dans les plus brefs délais. 
+
+Helexia pourra permettre l’accès au Site à d’autres parties que celles susmentionnées sur demande expresse de la part du Maître d’ouvrage. Dans ce cas, le Maître d’Ouvrage assumera l’entière responsabilité de tout dommage au Site qui pourrait avoir été causé par cette partie autorisée.  
+
+Le Maître d'Ouvrage autorise l'accès des employés et sous-traitants d’Helexia à toutes les parties du Site nécessaires pour les besoins de la construction de la Centrale. 
+
+Helexia s’engage par les présentes à permettre au Maître d’Ouvrage d’entrer et d’inspecter le Site, dans la mesure où la visite a lieu durant les heures normales de travail, soit entre 8h00 et 18h00, dans le respect des règles d’hygiène et de sécurité du Site.
+
+Sous réserve de dispositions contraires contenues dans le présent Contrat, le transport sur le Site se fera sous la responsabilité d’Helexia. Les opérations de déchargement du matériel et de gardiennage sur le Site seront exécutées par Helexia.
+
+Le Maitre d’Ouvrage s’engage à mettre à disposition d’Helexia les aires de stockage sur Site nécessaires et appropriées ainsi qu’une base vie de chantier avec sanitaires et accès à l’eau potable. 
+
+
+ARTICLE 5 - EMPLOYÉS ET SOUS-TRAITANTS
+
+Helexia s'engage par les présentes à respecter l’ensemble des mesures figurant en Annexe 4 et à affecter à tout moment les ressources humaines nécessaires afin de respecter les obligations qui lui incombent au titre du présent Contrat. Les employés engagés par Helexia devront avoir les qualifications, formations et expériences appropriées pour la réalisation des Travaux faisant l'objet du présent Contrat.
+
+Le Maître d’ouvrage autorise par les présentes Helexia à sous-traiter partiellement ou totalement les Travaux devant être réalisés dans le cadre du Contrat et sous réserve de l’agrément préalable de chacun des sous-traitants conformément aux dispositions de la loi n°75-1334 du 31 décembre 1975. Le Maître de l’Ouvrage s’engage d’ores et déjà à donner son agrément à Helexia pour les sous-traitants dont la liste figure en Annexe  4.
+
+ARTICLE 6 – RESPECT DE LA REGLEMENTATION 
+
+Chaque Partie respectera à tout moment la réglementation en vigueur, notamment les dispositions relatives au droit du travail, de la sécurité sociale, de la santé et de la sécurité, la prévention des risques professionnels, les normes applicables et les règles relatives à la protection de l'environnement, ainsi que les exigences des autorités compétentes.
+
+
+ARTICLE 7 – REPORTING – REPRESENTANTS
+
+7.1	Reporting 
+
+Des rapports écrits mensuels précisant l’état d’avancement des Travaux seront adressés au Maître d’ouvrage de façon régulière, précisant le cas échéant toute difficulté survenue durant ceux-ci. 
+
+A réception de chacun desdits rapports, le Maître d’ouvrage pourra requérir d’Helexia des informations complémentaires que Helexia s'engage à fournir par écrit dans un délai maximum de quinze (15) Jours Ouvrés suivant la demande qui en sera faite. 
+
+Les demandes d’informations et/ou observations formulées par le Maître d’Ouvrage seront transmises à Helexia dans un délai de quinze (15) jours à compter de la réception de l’état d’avancement de chantier. 
+
+7.2	Représentants
+
+7.2.1	Représentants du Maître d’ouvrage
+
+Le Maître d’ouvrage désigne par les présentes comme son représentant Madame/Monsieur XXXXXXX. Ce représentant sera la seule personne autorisée à agir au nom et pour le compte du Maître d’Ouvrage pour toutes les questions afférentes au présent Contrat. 
+
+Le Représentant du Maître d’Ouvrage pourra être assisté(e) d’un Conseiller Technique qui sera libre d’accompagner ou de représenter le Maître d’Ouvrage lors de ses déplacements sur le Site, de poser des questions et/ou solliciter des documents au nom et pour le compte du Maître d’Ouvrage. Il est entendu que les instructions, approbations, commentaires, informations ou toute autre communication faites par le Conseiller Technique seront considérées être faites au nom et pour le compte du Maître d’Ouvrage et Helexia pourra se reposer sur cette considération. Si le Maître d’Ouvrage souhaite limiter le rôle du Conseiller Technique, il appartiendra au Maître d’Ouvrage de déterminer précisément le périmètre d’intervention du Conseiller Technique et de le notifier par écrit à compter de la signature du présent Contrat.
+
+
+7.2.2 Représentant d’Helexia
+
+Helexia désigne par les présentes, Monsieur/Madame XXXXXXX [BL4]comme son représentant. Ce représentant sera la seule personne autorisée à agir au nom et pour le compte d’Helexia et sera responsable de la supervision du bon déroulement des Travaux.
+
+Le représentant d’Helexia traitera avec le Maître d’ouvrage et avec le Représentant du Maître d’ouvrage pour toutes les questions liées à la réalisation des Travaux et plus généralement à l’exécution du présent Contrat. 
+
+
+ARTICLE 8 – MISE EN SERVICE ET RECEPTION DES TRAVAUX
+
+8.1 Achèvement Mécanique
+
+L’Achèvement Mécanique permet de vérifier la conformité de la centrale aux normes et règles de l’art, sans pour autant que celle-ci soit mise ne service ni vierge de réserves.
+
+La Centrale aura obtenu l’Achèvement Mécanique lorsque Helexia a fourni une copie du rapport de validation électrique de la Centrale émis par le bureau de contrôle (attestation pour CONSUEL).
+
+8.2 Mise en service
+
+A l’Achèvement des Travaux, Helexia procèdera à la Mise en Service, qui sera considérée effective quand la Centrale injectera de l’électricité sur le réseau électrique interne du Bâtiment/réseau public de distribution d’électricité. 
+
+8.3 Réception des travaux 
+
+La Réception se déroulera comme suit : 
+
+1. Phase de préparation de la Réception : 
+
+Helexia devra avoir achevé les points suivant avant la visite de Réception :
+
+- Achèvement Mécanique des Travaux réalisé ;
+
+- Envoi au Maître d’Ouvrage des attestations originales des garanties fabricants et certificats de conformité des onduleurs, modules photovoltaïques, système d’intégration ou de fixation des panneaux et équipement électriques ;
+
+- Levée de l’intégralité des réserves émises pendant les Travaux par les bureaux de contrôle ;
+
+- Nettoyage du chantier et évacuation des déchets et des gravats, repliement des installations de chantier, nettoyage des modules éventuellement souillés en cours de pose et dépoussiérage des locaux techniques ; 
+
+- Mise en sécurité du Site, mise en place d’une signalétique appropriée aux abords des différentes installations (risque de chute, risque de choc électrique).
+
+2. Réception de la Centrale :
+
+Sous réserve de l’accomplissement des tâches énumérées au point précédent, Helexia convoquera le Maître d’Ouvrage lequel procèdera à la Réception des Travaux dans les conditions définies par l’article 1792-6 du Code Civil. 
+
+La Réception donnera lieu à l’établissement d’un procès-verbal de Réception contradictoire en Annexe 6.
+
+En cas de Défaut Majeur, le Maître d’Ouvrage pourra refuser Réception. Dans le cas où la Centrale présenterait un ou des Défaut(s) Mineur(s), le Maître d’Ouvrage pourra émettre une réserve qu’Helexia devra lever dans les meilleurs délais.
+
+Il est expressément prévu que le Maître d’Ouvrage pourra se faire assister, lors de la Réception, par un professionnel habilité et assuré pour cette mission. La Réception sera acquise d’office dans le cas où le Maître de l’Ouvrage ne procèderait pas à aux opérations de Réception dans les quinze (15) jours suivant la notification faite par Helexia selon laquelle ce dernier est prêt à procéder à ces opérations et/ou dès la mise en exploitation commerciale après la Mise en Service dans la mesure où le retard dans la Réception n’est pas imputable à Helexia.
+
+Une fois la Réception effectuée, Helexia remet au Maître d’Ouvrage un jeu de toutes clés d’accès aux installations composant la Centrale (TGBT, armoire électrique, etc.).
+
+8.4 Opération et Maintenance  
+
+Afin de veiller à la bonne performance de la Centrale lors de sa durée de vie, les Parties mettront en place un contrat d’Exploitation & Maintenance relatif à celle-ci (le « Contrat O&M ») selon les conditions prévues à l’Annexe 7 pour une durée minimale de trois (3) ans. 
+
+Ce Contrat O&M prévoira notamment les prestations suivantes :  
+* L’entretien et la maintenance plus amplement détaillé à l’Annexe 7 ; 
+* La gestion d’un système de supervision de la Centrale permettant de détecter ses défauts et de collecter les données énergétiques du bâtiment et de la Centrale 
+* La mise en place d’un portail internet permettant de visualiser ces données. 
+
+Sous réserve de modifications majeures à la Centrale en cours d’exécution du Contrat, le prix du Contrat O&M sera d’un montant forfaitaire annuel s’élevant à [XXX]€ H.T./kWc/an (XXX euros /kWc/an).
+
+ARTICLE 9 – GARANTIES DE LA CENTRALE ET DU MATERIEL 
+Les garanties prévues ci-après sont cumulatives.
+9.1 Garanties légales des constructeurs
+Helexia est tenu à l’égard du Maître d’ouvrage des garanties légales de droit commun définies aux articles 1792 et suivants du Code civil, à savoir : 
+
+La Garantie de parfait achèvement 
+
+Conformément à la réglementation en vigueur, Helexia sera tenu de la mise en œuvre d'une garantie de parfait achèvement prévue à l’article 1792-6 du Code civil.
+
+La garantie de parfait achèvement, à laquelle Helexia est tenu pendant un délai d'un (1) an, à compter de la signature du procès-verbal de réception (avec ou sans réserve), s'étend à la réparation de tous les désordres signalés par le Maître d’Ouvrage, soit au moyen de réserves mentionnées au procès-verbal de Réception, soit par voie de notification écrite (courrier recommandé avec accusé de réception) pour ceux révélés postérieurement à la Réception.
+
+La garantie de parfait achèvement ne s'étend pas aux travaux nécessaires pour remédier aux effets de l'usure normale ou de l'usage.
+
+La Garantie décennale
+
+En application des articles 1792, 1792-1 et 1792-2 du Code civil, Helexia garantit le Maître d’Ouvrage contre les dommages, qui compromettent la solidité de la Centrale ou qui, l'affectant dans l'un de ses éléments constitutifs ou l'un de ses éléments d'équipement, le rendent impropre à sa destination, et ce pendant une durée de dix (10) ans à compter de la Réception.
+Cette garantie s'étend également aux dommages qui affectent la solidité des éléments d'équipement d'un ouvrage, mais seulement lorsque ceux-ci font indissociablement corps avec les ouvrages de viabilité, de fondation, d'ossature, de clos ou de couvert. 
+Un élément d'équipement est considéré comme formant indissociablement corps avec l'un des ouvrages de viabilité, de fondation, d'ossature, de clos ou de couvert lorsque sa dépose, son démontage ou son remplacement ne peut s'effectuer sans détérioration ou enlèvement de matière de cet ouvrage.
+Une telle responsabilité n'a point lieu si le constructeur prouve que les dommages proviennent d'une cause étrangère.
+
+La Garantie biennale
+
+En application de l’article 1792-3 du Code civil, Helexia garantit également le Maître d’Ouvrage contre dommage affectant tous les autres équipements de la Centrale non couverts par la garantie décennale, et ce, pendant deux (2) ans à compter de la Réception. 
+
+
+9.2	Transfert de garantie du Fabricant
+
+Helexia transfère au Maître d’Ouvrage toutes les garanties dont elle bénéficie pour les biens livrés dans le cadre du présent Contrat, y compris les garanties légales et contractuelles. Le Maitre d’Ouvrage accepte ce transfert de garantie et s'engage à en respecter les termes et conditions. Helexia fournira au Maître Ouvrage tous les documents de garantie pertinents à la Réception de la Centrale. 
+
+Le Maître d’Ouvrage peut faire valoir toutes ces garanties auprès du Fabricant. Helexia n'est pas responsable de toute violation de la garantie ou de tout défaut du matériel électrique couvert par la garantie transférée et le Maître d’Ouvrage est seul responsable de la poursuite de toute réclamation liée à cette garantie.
+
+9.3	Dispositions communes aux garanties
+
+Il est expressément convenu entre les Parties que les garanties du présent article 9 ne sauraient s’appliquer en cas d’utilisation abusive ou non conforme de la Centrale par le Maître d’Ouvrage ou l’un de ses préposés.
+
+Les obligations d’Helexia relatives à la garantie se limitent, au choix d’Helexia, au remplacement ou à la réparation de l’équipement défectueux. 
+
+Durant les périodes de garanties visées au présent Article, le Maître d’ouvrage notifiera ses réclamations par courrier recommandé avec avis de réception à Helexia dans les dix (10) Jours Ouvrés suivant la découverte de tout défaut de la Centrale. 
+
+Helexia remédiera au défaut dénoncé à ses propres frais dans un délai de trente (30) Jours Ouvrés suivant la notification dudit défaut, à l’exception de tout défaut nécessitant un délai plus important pour la remise en état et/ou la réparation. 
+
+A défaut pour Helexia d’avoir remédié au défaut dénoncé dans le délai susvisé, le Maître d’Ouvrage pourra directement faire réaliser par un tiers les Travaux nécessaires afin d’assurer la mise en conformité de la Centrale aux caractéristiques définies en annexe aux frais d’Helexia. Il est entendu qu’Helexia ne pourra pas être tenu responsable des conséquences dommageables d’une telle intervention. Le Maître d’Ouvrage fera son affaire pour obtenir de la part de ce tiers une garantie sur les prestations qui lui sont ainsi confiées.
+
+
+9.4	Exclusions des garanties
+
+Par dérogation à ce qui précède, Helexia ne se portera pas garant des désordres occasionnés par : 
+
+- Une manipulation incorrecte par le Maître d’ouvrage ou des tiers agissant pour son compte et/ou de tiers non autorisés par Helexia ;
+
+- L'usure normale ;
+
+- L'utilisation de matériaux, schémas ou dessins fournis ou spécifiés par le Maître d’ouvrage et non validés par Helexia, ou n'étant pas conformes aux manuels d'exploitation et de maintenance ou aux instructions techniques ;
+
+- Le manquement du Maître d’Ouvrage (ou des tiers sous-traitants nommés par lui) à l’obligation d'observer les instructions d'exploitation et de maintenance fournies par Helexia dans le manuel d'exploitation et de maintenance ;
+
+- L'impossibilité d'accéder au Site en raison d'un cas de Force Majeure ou suite à un ordre du Maître d’Ouvrage, dans la mesure où Helexia notifie au Maître d’ouvrage l'existence d'une telle impossibilité ;
+
+- Des actes de vol ou vandalisme ;
+
+- En cas de Force Majeure telle que définie à l’Article 17 ; 
+
+- Des modifications ou d’interventions sur la Centrale par le Maître d’Ouvrage ou tout tiers dans des conditions n’ayant pas été agréées au préalable par Helexia.
+
+ARTICLE 10 – INDEMNISATION ET LIMITATION DE RESPONSABILITE
+
+La responsabilité d’Helexia est strictement limitée aux obligations définies au présent Contrat. En aucun cas, il ne sera responsable des pertes d’exploitation, de production, de profits, de contrats, de revenus, des pertes de nature financière ou économique, et plus généralement des pertes ou des dommages immatériels ou indirects causés au Maître de l’Ouvrage ou à des tiers par Helexia, ses sous-traitants et fournisseurs. La responsabilité totale d’Helexia est limitée, toutes causes confondues, au montant du Contrat.
+
+Le Maître d’ouvrage renonce, pour son compte et celui de ses assureurs, à réclamer à Helexia, à ses assureurs, sous-traitants et fournisseurs, la réparation des dommages causés par ce dernier, ses sous-traitants et fournisseurs, au-delà des limites et exclusions mentionnés ci-dessus. 
+
+Chaque Partie prendra toutes les mesures raisonnables pour minimiser toute perte ou tout dommage se produisant.
+
+
+
+
+ARTICLE 11 – PROPRIETE ET TRANSFERT DU RISQUE
+
+Il est expressément convenu entre les Parties que le Maître d’Ouvrage acquiert la propriété des matériaux et équipements composant la Centrale et en deviendra propriétaire au paiement complet du Prix du Contrat indiqué à l’Article 12 et à l’Annexe 3.
+
+Le transfert des risques vers le Maître d’Ouvrage aura lieu au jour de la Réception de la Centrale.
+
+
+ARTICLE 12 – PRIX, PAIEMENT DU PRIX ET MODALITES DE PAIEMENT
+
+12.1	Prix
+
+Le Prix devant être payé par le Maître d’Ouvrage à Helexia sera égal au prix indiqué en Annexe 3. Le Prix sera majoré du taux de TVA en vigueur. 
+
+
+12.2 	Echéancier de paiement
+
+Les paiements interviendront selon l’échéancier de paiement prévu en Annexe 3. 
+
+
+12.3	Révision des prix
+
+Les prix en Annexe 3 sont valables un an, puis révisables à chaque date anniversaire du Contrat selon les formules suivantes :
+
+
+PR =P0x 0,30+ 0,70 [(0,35 BT07- Rev (n) / BT07- Rev (0)) + (0,65 BT47 (n) / BT47(0))]
+
+PR : Prix révisé pour l’année N (année d’application de la révision)
+P0 : Prix prévu à l’Annexe 3
+BT07 : Indice des Ossatures et charpentes métalliques 
+BT47 : Indice de Travaux d’électricité
+
+
+En tout état de cause, le résultat de l’application de la formule de révision ne saurait être inférieur à une valeur de zéro (0) et le prix contractuel de la nouvelle période ne pourra être inférieur à celui de la précédente période.
+
+Si un ou plusieurs des indices ci-dessus ne pouvaient plus être appliqués, pour quelque raison que ce soit, ils seraient remplacés par un autre indice de même valeur économique, adopté par les Parties dans les huit (8) jours suivant la demande formulée par l’une d’entre elles. 
+
+Au cas où les Parties ne parviendraient pas à un accord sur cet indice de remplacement, celui-ci serait déterminés par le président du tribunal compétent par application de l’article 15 du Contrat, statuant par ordonnance à la requête de la Partie la plus diligente. Les frais d’ordonnance seraient partagés à parts égales entre les Parties.
+
+
+12.4	Facturation et modalités de paiement
+
+Lorsqu’une échéance est due par le Maître d’ouvrage conformément à l’échéancier de paiement visé en Annexe 3, Helexia enverra à ce dernier une facture correspondant à l’échéance donnée. 
+
+Dans l’hypothèse où le Maître d’ouvrage ne notifierait pas à Helexia son accord ou son refus dans le délai dix (10) Jours Ouvrés, la condition de paiement de cette échéance sera considérée comme remplie avec effet à la date d’expiration de cette période.
+
+Toutes les factures émises par Helexia devront être payées dans un délai de trente (30) jours calendaires à compter de la date d’émission de la situation validée, excepté pour la première facture d’acompte qui devra être réglée dans un délai de cinq (5) Jours Ouvrés. 
+
+Les paiements devant être effectués au titre du présent Contrat se feront par virement bancaire sur le compte désigné par Helexia.
+
+
+12.5	Intérêts de retard
+
+A défaut de règlement de toute somme due par l’une ou l’autre Partie passé un délai de huit (8) Jours Ouvrés suivant la date d’exigibilité dudit règlement, la Partie débitrice sera redevable :
+
+- D’intérêts de retard sur le montant dû au taux de référence en vigueur. Les intérêts de retard seront dus de plein droit, et ce indépendamment de tout droit, action, indemnité, dommages et intérêts complémentaires que pourrait réclamer la Partie bénéficiaire de ces intérêts de retard ; et
+
+- D’une indemnité forfaitaire de quarante euros (40 euros) pour les frais de recouvrement.
+
+12.6	Garantie financière
+
+Il a été convenu entre les Parties que le Maître d’Ouvrage constituera au bénéfice de Helexia une garantie financière dont le montant et la forme de la garantie financière sont détaillés ci-après :             
+
+- [NATURE / MONTANT / DURÉE DE VALIDITÉ ET MODALITES DE LA GARANTIE FINANCIERE A INSERER]
+
+Cette garantie financière devra être transmise à Helexia au plus tard huit (8) jours après la signature du présent Contrat. A défaut, Helexia pourra, à sa seule discrétion, suspendre l’exécution du Contrat jusqu’à la remise de la garantie financière demandée ou résilier le Contrat, sans que ceci ne soit considéré comme un manquement de sa part. 
+
+Pendant la période de garantie financière, Helexia a le droit de faire appel à la garantie financière en cas de défaut de paiement du Maître d'ouvrage ou en cas de non-respect des obligations financières stipulées dans le Contrat.
+
+À l'expiration de la période de garantie financière, la garantie financière prend fin et le Maître d'ouvrage est libéré de toute obligation de fournir une garantie financière à Helexia.
+
+La résiliation ou la modification de la garantie financière pendant sa durée est soumise à l'accord écrit préalable des deux parties.
+
+La présente clause d'expiration de garantie financière fait partie intégrante du Contrat et prévaut sur toute disposition contradictoire qui pourrait exister dans le Contrat.
+
+
+
+
+
+
+ARTICLE 13 – RÉSILIATION
+
+ 13.1 Suspension ou résiliation pour défaut de paiement
+	
+Pour le cas particulier du défaut de paiement, et qui n’aurait pas été contesté par le Maître d’Ouvrage, il est expressément convenu que Helexia pourra suspendre l’exécution du Contrat, après mise en demeure adressée au Maître d’Ouvrage par lettre recommandée avec demande d’avis de réception, restée infructueuse pendant plus de dix (10) jours. Durant cette suspension, le Maître d’Ouvrage sera responsable du Site et assumera l’ensemble des frais et charges qui y seront consécutifs, incluant les surcoûts subis par Helexia.
+
+Si le Maître d’Ouvrage n’a pas remédié au défaut de paiement dans le délai de dix (10) jours suivant la mise en œuvre de la suspension de l’exécution du Contrat, Helexia est en droit de résilier le Contrat avec effet immédiat par lettre recommandée avec demande d’avis de réception et ce, nonobstant tous dommages intérêts qui pourraient être demandés, au titre exclusif du défaut de paiement, au Maître d’Ouvrage.
+
+Il est expressément convenu que la présente clause ne s’applique pas à un défaut de paiement résultant d’un désaccord entre le Maître d’Ouvrage et Helexia.
+
+
+13.2 Résiliation du Contrat pour cas de force majeure
+
+L'une ou l'autre Partie aura la faculté de solliciter la résiliation du Contrat dans l’hypothèse où un cas de Force Majeure tel que défini à l’Article 17 ferait obstacle à la poursuite des Travaux durant plus de cent quatre-vingts (180) Jours Ouvrés consécutifs.
+
+Les conséquences de la résiliation seront les suivantes :
+
+Helexia devra :
+
+- Interrompre la réalisation des Travaux en cours sauf pour ceux indiqués par le Maître d’ouvrage et qui sont nécessaires pour la protection et/ou la sécurité des Travaux déjà réalisés ;
+
+- Envoyer aux Représentants du Maître d’ouvrage tous les documents existants liés aux Travaux déjà réalisés au moment de la résiliation ; et
+
+- Se subroger le Maître d’ouvrage, s'il en fait la demande, dans tous les contrats conclus avec ses sous-traitants pour la réalisation des Travaux (lorsque les contrats le prévoient).
+
+Etant précisé que tous les Travaux et prestations déjà exécutées par Helexia devront faire l’objet d’un règlement de la part du Maître d’Ouvrage sur la base du Prix du Contrat et selon l’avancement. 
+
+13.3 Résiliation pour non-respect des obligations incombant aux Parties
+
+Dans le cas du non-respect par Helexia de l’une quelconque de ses obligations au titre du  Contrat, le Maître d’Ouvrage est en droit de résilier le Contrat après mise en demeure de remédier au(x) manquement(s), adressée à Helexia par lettre recommandée avec demande d’avis de réception, restée infructueuse pendant quinze (15) jours, sans préjudice des dommages intérêts qu’il pourra réclamer à Helexia pour le préjudice qu’il aura subi de ce fait, mais ce dans la limite du montant du Prix du Contrat. 
+
+
+
+ARTICLE 14 – ASSURANCE
+
+14.1	Assurances souscrites par les constructeurs, fournisseurs et autres intervenants retenus par Helexia 
+
+Helexia devra veiller à ce que les constructeurs, fournisseurs et autres intervenants concourant à la conception, la réalisation, l’installation et la Mise en Service de la Centrale telles que prévues par le présent Contrat souscrivent et maintiennent en vigueur au minimum les assurances requises au titre de la réglementation applicable aux prestations de chacun.
+
+En particulier, chacun des constructeurs, fournisseurs et autres intervenants dont les prestations relèvent de la garantie décennale et/ou de la garantie biennale et/ou de la garantie de parfait achèvement visées par les articles 1792 et suivants du Code civil devront souscrire et maintenir en vigueur les polices d’assurance de responsabilité correspondantes.
+14.2	Assurances souscrites par les Parties 
+Helexia s’engage à souscrire auprès d’une compagnie d’assurance notoirement solvable et à maintenir en vigueur au minimum les assurances requises au titre de la réglementation qui lui est applicable, à savoir : 
+
+- Helexia, tant en son nom et pour son compte, devra souscrire et maintenir en vigueur une police d’assurance décennale concernant les biens et ouvrages assujettis à cette obligation d’assurance construction ;
+
+- Helexia souscrira une police d’assurance garantissant les conséquences de la mise en jeu de sa responsabilité civile de droit commun pour les risques encourus à l’occasion de l’exécution du présent Contrat pendant et après la réalisation des Travaux de la Centrale.
+
+- Une assurance Tous Risques Chantier couvrant le chantier d’Helexia.
+
+Helexia fournira une copie de ses attestations d’assurance au Maître d’Ouvrage.
+
+Le Maître d’Ouvrage, s’engage à souscrire auprès d’une compagnie notoirement solvable : 
+
+- Une assurance Dommages Ouvrage ;
+
+- Toute police qu’il jugera nécessaire en vue de couvrir la Centrale et ses biens avoisinants durant sa période d’exploitation ;
+
+- Une police d’assurance garantissant les conséquences de la mise en jeu de sa responsabilité civile de droit commun pour les risques encourus à l’occasion de l’exécution du présent Contrat pendant et après la réalisation des Travaux de la Centrale.
+
+
+ARTICLE 15 - CONCESSION DE LICENCE DES DROITS DE PROPRIETE INTELLECTUELLE ET INDUSTRIELLE
+
+Les dessins, spécifications, plans, calculs, modèles et conceptions faisant partie des Spécifications Techniques annexées aux présentes et préparés par Helexia ou tout sous-traitant exclusivement pour les Travaux restent la propriété d’Helexia et/ou de ses Sous-traitants. Helexia octroie un droit d’usage au Maître d’Ouvrage dans le cadre l’exécution présent Contrat lui permettant d’exploiter et de procéder aux opérations de maintenance de routine sur la Centrale. Les dispositions précédentes n'affectent pas les droits exclusifs dont dispose Helexia sur ses brevets.
+
+Toute invention supplémentaire ou tout droit de propriété intellectuelle créé par Helexia durant l'exécution du présent Contrat restera sa propriété exclusive.
+
+En cas de contrat d’opérations et maintenance octroyé par le Maitre d’ouvrage à Helexia dans le cadre du Contrat, Helexia est autorisé à collecter, analyser et utiliser les données du Client obtenues par le monitoring de la Centrale (les « Données »). Les Données seront utilisées exclusivement à des fins internes par Helexia.
+
+ARTICLE 16 – CESSION
+
+Aucune des Parties ne pourra céder à des tiers, en tout ou en partie, ses droits, créances ou obligations au titre du présent Contrat sans l'autorisation écrite et préalable de l'autre Partie.
+
+ARTICLE 17 – FORCE MAJEURE
+
+Constituent des cas de Force Majeure ceux qui se conforment aux principes établis par l’article 1218 du Code civil. 
+La Partie empêchée par un cas de Force Majeure sera dispensée de ses obligations dans la mesure où celles-ci sont affectées par le cas de Force Majeure, sous réserve : 
+
+- Que la Partie affectée le notifie à l’autre Partie par écrit, dans des délais raisonnables à compter de la date à laquelle elle aura appris l’existence du cas de Force Majeure, en décrivant ce qu’elle sait de l’événement, y compris en indiquant sa durée prévisible et son impact probable sur l’exécution des obligations de ladite Partie aux termes des présentes ; 
+
+- Que la suspension d’exécution ne soit pas d’une portée ou d’une durée plus importante que ce qui sera raisonnablement nécessaire du fait du cas de Force Majeure ; 
+
+- Que la Partie affectée fasse de son mieux pour continuer à exécuter ses obligations aux termes des présentes dans la mesure où elle n’en aura pas été dispensée ; 
+
+- Que, lorsque la Partie affectée sera en mesure de reprendre l’exécution des obligations affectées aux termes du présent Contrat, elle le notifie par écrit à l’autre Partie et reprenne dans les meilleurs délais son exécution du présent Contrat. 
+
+La Partie affectée par la survenance d’un cas de Force Majeure devra faire ses meilleurs efforts en vue de limiter les préjudices causés à l’autre Partie. 
+
+ARTICLE 18 – DROIT APPLICABLE ET REGLEMENT DES DIFFERENDS 
+
+18.1	Droit applicable
+
+Le présent Contrat est régi par le droit français et sera interprété conformément à celui-ci.
+
+18.2	Règlement des différends
+
+18.2.1	Règlement amiable
+Tout litige survenant entre les Parties quant à l’interprétation ou à l’exécution du présent Contrat sera obligatoirement soumis, avant de recourir à une procédure judiciaire, à une tentative de règlement amiable, les Parties se rapprochant alors en vue de trouver ensemble une solution amiable. 
+
+Pendant cette période, les Parties s’engagent à ce que les études et/ou les Travaux et leur règlement continuent afin que la réalisation de la Centrale n’ait pas à en souffrir.
+
+18.2.2	Règlement judiciaire
+
+A défaut de règlement amiable de leur différend, les Parties conviennent de résoudre ce dernier par voie judiciaire auprès du Tribunal de Commerce de Lille. 
+
+ARTICLE 19 – DIVERS
+
+19.1	Communications et Notifications
+
+Toute notification, requête, demande ou autre communication exigée ou autorisée en vertu du présent Contrat sera considérée être dûment délivrée par l'expéditeur et reçue par le destinataire si elle est sous forme écrite, et envoyée par courrier recommandé avec accusé de réception aux adresses suivantes :
+
+Au Maître d’Ouvrage :
+
+XXXXXXXXXXX
+[ADRESSE]
+
+À Helexia :
+
+HELEXIA DEVELOPPEMENT 
+a/s [CHEF DE PROJET]
+38 Allée Vauban – Immeuble Crystal
+59110 LA MADELEINE
+
+Les Parties pourront à tout moment modifier les adresses mentionnées ci-dessus en envoyant une notification écrite indiquant les nouvelles adresses pour les notifications. La nouvelle adresse n’aura d’effet qu’à compter de la date de réception par l'autre Partie de la communication écrite indiquant la nouvelle adresse pour les notifications.
+
+Les notifications reçues par les Représentants respectifs du Maître d’ouvrage et d’Helexia seront considérées avoir été délivrées au Maître d’ouvrage ou à Helexia. 
+
+19.2	Confidentialité
+
+Chaque Partie (ci-après la « Partie Bénéficiaire ») ne pourra utiliser à une fin autre que pour l’exécution des obligations au titre du présent Contrat ou divulguer, communiquer, produire, publier, ou permettre l'accès à toute information confidentielle de la partie divulgatrice, (ci-après la « Partie Divulgatrice ») sans le consentement écrit et préalable de l'autre Partie. Les informations confidentielles se trouveront notamment, dans le présent Contrat et ses Annexes, toutes les informations ou tous les documents préparés dans le cadre de l'objet du présent Contrat ou tout contrat ultérieur connexe, les conceptions, dessins, spécifications, techniques, modèles, données, documentation, code source, code objet, diagrammes, organigrammes, recherches, développements, processus, procédures, savoir-faire, techniques et matériels de fabrication, de développement ou de commercialisation, indicateurs de développement ou de commercialisation, stratégies et plans de développement, les noms des clients, fournisseurs ou du personnel et les autres informations se rapportant aux clients, fournisseurs ou au personnel, les politiques de tarification et les informations financières, et les autres informations de nature similaire, sous forme écrite ou non ou sous toute autre forme tangible, et tout secret commercial.
+
+Les informations confidentielles ne s’étendront pas : (a) aux informations connues de la Partie Bénéficiaire avant même la communication de ces informations par la Partie Divulgatrice ; (b) aux informations pouvant déjà être connues par les tiers au moment de leur divulgation par la Partie Bénéficiaire ; ou (c) aux informations obtenues par la Partie Bénéficiaire d'un tiers qui n’aurait pas reçu les mêmes informations, directement ou indirectement, de la Partie Divulgatrice. La Partie Bénéficiaire fera preuve du plus grand soin pour préserver ses informations confidentielles et pour empêcher une utilisation ou une divulgation non autorisée desdites informations confidentielles.
+
+Sauf disposition contraire des présentes, la Partie Bénéficiaire aura le droit de divulguer des informations confidentielles sans le consentement écrit et préalable de la Partie Divulgatrice : (a) lorsqu’elles seraient exigées par un quelconque tribunal ou toute  autorité administrative ; (b) lorsque que le droit applicable l'exigerait ; (c) à ses avocats, comptables, conseillers financiers ou autres agents, liés par des obligations de confidentialité ; (d) aux banques, investisseurs et autres sources de financement et leurs conseillers, liés par des obligations de confidentialité similaires à celles auxquelles elle s'engage dans les présentes ; ou (e) dans le cadre d'une fusion ou acquisition avérée ou éventuelle ou d'une transaction similaire où la partie recevant les informations confidentielles est liée par des obligations de confidentialité similaires à celles auxquelles elle s'engage dans les présentes. Dans le cas où une Partie Bénéficiaire supposerait qu'elle serait contrainte par un tribunal ou une autre autorité administrative de divulguer des informations confidentielles relevant de la Partie Divulgatrice, elle en informera sans délai par écrit la Partie Divulgatrice de telle sorte que la Partie Divulgatrice puisse déterminer si elle prendra ou non des mesures pour s'opposer à une telle divulgation.
+
+Sous réserve de ce qui précède, les Parties conviennent qu'elles sont autorisées à communiquer librement, sans l'autorisation préalable de l'autre Partie et à des fins publicitaires, sur toutes les questions relatives au présent Contrat. Cette communication inclut notamment l'ajout du Contrat dans le portfolio de références d'Helexia, ou sa diffusion externe par des communiqués de presse, des annonces publiques et des publications digitales.
+
+19.3	Modification du Contrat
+
+Le présent Contrat ne pourra être modifié que par un accord écrit des Parties sous forme d’avenant. 
+
+
+19.4	Intégralité du Contrat 
+
+Le présent Contrat contient l'intégralité des conventions et conditions convenues par les Parties ; il abroge, annule et remplace tout contrat, accord ou toute condition pouvant avoir été convenu ou échangé entre les Parties avant la date des présentes, en tout ou en partie.
+
+19.5		Autorité
+
+Chaque personne signant le présent Contrat au nom du Maître d’ouvrage et d’Helexia déclare et garantit qu'il ou elle est dûment autorisé(e) à signer et à transmettre le présent Contrat au nom de ladite Partie et que le présent Contrat est contraignant pour ladite Partie conformément à ses conditions.
+
+
+19.6 Signature électronique 
+
+Il est expressément convenu entre les Parties que, par dérogation aux règles de preuve édictées par le Code civil, et plus particulièrement par l’article 1375 dudit Code, l’établissement d’un original du présent Contrat par une Partie ne sera pas requis à titre de preuve des engagements pris par ladite Partie.
+Les Parties reconnaissent et acceptent que (i) le présent Contrat est signé par voie de signature électronique via la plateforme ADOBESIGN® en application des articles 1367 et suivants du Code civil (ii) que la transmission électronique dudit Contrat ainsi signé vaudra preuve, entre elles, de son existence de son origine, de sa réception et de son intégrité.
+En conséquence de ce qui précède, les Parties reconnaissent et acceptent que le présent Contrat portera la date de sa signature par le dernier des signataires.
+
+Fait à _____________________
+
+Le ________________________
+
+
+
+Le Maître d'Ouvrage 	
+Helexia
+XXXXXXXXX
+M/MME.
+
+HELEXIA DEVELOPPEMENT
+M. Christophe CONSTANT
+					
+
+
+LISTE DES ANNEXES
+
+ANNEXES PRELIMINAIRES : POUVOIRS KBIS ET TITRE DE PROPRIETE
+ANNEXE 1 : SPECIFICATIONS TECHNIQUES ET DESCRIPTION DE LA CENTRALE 
+ANNEXE 2 : PLANNING DE RÉALISATION DES TRAVAUX
+ANNEXE 3 : PRIX ET ECHEANCIER DE PAIEMENT
+
+ANNEXE 4 : SOUS-TRAITANCE ET CONDITIONS 
+
+ANNEXE 5 : DEMANDE DE CHANGEMENT
+
+ANNEXE 6 : PROCÈS-VERBAL DE RÉCEPTION D’UNE CENTRALE
+
+ANNEXE 7 : CONDITIONS CONTRACTUELLES ET PRESTATIONS - CONTRAT D’OPÉRATION ET MAINTENANCE DE LA CENTRALE
+
+ANNEXE 8 : BORDEREAU DE PRIX POUR LES PRESTATIONS SUPPLEMENTAIRES 
+
+
+ANNEXES PRELIMINAIRES : POUVOIRS KBIS ET TITRE DE PROPRIETE
+
+
+
+ANNEXE 1 : SPECIFICATIONS TECHNIQUES ET DESCRIPTION DE LA CENTRALE
+
+PROJET                                                                       SITE 
+
+ 
+
+123456_XYZ                                                               123, rue Helexia 
+
+
+
+CLIENT - SITE                                                            00000,[Ville]        
+
+
+Lot 
+PRESTATIONS - OMBRIÈRES
+Lot /Unité
+Montant
+
+
+
+
+1
+RÉALISATION ETUDES DE SOL
+1
+ 
+2
+RÉALISATION ETUDES RÉSEAU
+1
+ 
+3
+DÉVELOPPEMENT DE LA CENTRALE 
+Lot
+ 
+ 
+Conception de la Centrale 
+1
+ 
+ 
+Contractualisation
+
+ 
+ 
+Quickscan
+
+ 
+ 
+Calepinage 
+1
+ 
+4
+REGLEMENTAIRE & ADMINISTRATIF
+Lot
+15000
+ 
+Démarches d'obtention Permis de construire 
+1
+ 
+ 
+Coût Architecte pour la préparation du Permis de construire / PCM 
+Non-Inclus
+ 
+ 
+Huissiers - Affichage et Procès-verbal 
+1
+ 
+ 
+DROC/DAACT
+
+ 
+ 
+Démarches candidature appel d'offres (si applicable)
+
+ 
+ 
+Démarches d'obtention CARD 
+
+ 
+ 
+Démarches d'obtention Convention de Raccordement
+
+ 
+ 
+Coût de la convention de raccordement de l’installation au réseau public d’électricité 
+Non-Inclus
+ 
+ 
+Démarches d'obtention Convention d'exploitation
+
+ 
+ 
+Réglementaire (autres - si applicable)
+ 
+ 
+5
+RÉALISATION FONDATIONS
+Lot
+ 
+ 
+Etude de dimensionnement des fondations suivant études de sol et descentes de charge ombrières
+1
+ 
+ 
+Réalisation des fondations
+ 
+ 
+6
+FOURNITURE ET POSE OMBRIÈRES
+ 
+ 
+ 
+Chéneaux avec descente d'eaux de pluie  
+
+ 
+ 
+Arceaux de protection en pieds de poteaux
+
+ 
+ 
+Réfection enrobé en pieds de poteaux
+ 
+ 
+7
+FOURNITURE ET POSE SYSTÈME D'INTEGRATION
+ 
+ 
+ 
+Système d'intégration des modules
+ 
+ 
+8
+FOURNITURE ET POSE MODULES PHOTOVOLTAÏQUES
+ 
+ 
+ 
+Modules PV 
+
+ 
+ 
+Cadre aluminium avec connecteur 
+
+ 
+ 
+Charge de neige/vent 5400 Pa/2400 Pa
+
+ 
+ 
+Garantie Fabricant XX ans 
+
+ 
+ 
+Fourniture et pose mise à la terre (MALT)
+ 
+ 
+9
+FOURNITURE ET POSE LOT ÉLECTRIQUE
+ 
+ 
+ 
+Onduleurs string 
+
+ 
+ 
+Garantie standard onduleurs XX ans
+
+ 
+ 
+Coffrets
+
+ 
+ 
+Câbles solaires double isolation + cheminements jusqu'aux onduleurs
+
+ 
+ 
+Câbles AC BT + cheminements
+ 
+ 
+10
+FOURNITURE ET POSE SUPERVISION
+ 
+ 
+ 
+Câble, passerelle Webdyn et paramétrage
+
+ 
+ 
+Supervision consommation client: câble et cheminements du TGBT PV au PDL client
+
+ 
+ 
+Matériel supervision HTA
+
+ 
+ 
+Fourniture, pose et raccordement Webdyn TIC
+ 
+ 
+11
+FOURNITURE ET POSE REINJECTION
+ 
+ 
+ 
+Tranchée ou cheminement entre TGBT PV et PDL
+
+ 
+ 
+Câble AC de réinjection
+
+ 
+ 
+Câble arrêt d'urgence
+
+ 
+ 
+Fourniture et pose d'un PTR en autoconsommation - PTR 1
+ 
+ 
+12
+BUREAU DE CONTRÔLE ET MISSION DE SOLIDITÉ L/LE
+ 
+ 
+ 
+Mission solidité L/LE
+
+ 
+ 
+Attestation de conformité
+
+ 
+ 
+Consuel
+
+ 
+ 
+Dossier ouvrage exécuté
+
+ 
+ 
+Mission étude structure
+ 
+ 
+13
+MISE EN SECURITÉ DU CHANTIER
+ 
+ 
+ 
+Base vie (Salle réunion + Vestiaire + sanitaires + table)  
+
+ 
+ 
+Gestion des déchets
+ 
+ 
+14
+BASE VIE / DECHETS / GARDIENNAGE
+ 
+ 
+ 
+Filets provisoires de protection en sous face   
+
+ 
+ 
+Filets provisoires de protection périphérique
+
+ 
+ 
+Engins de levages et d'accès en toiture
+ 
+ 
+15
+TRAVAUX SUPPLÉMENTAIRES
+ 
+ 
+ 
+Dépose des candélabres
+
+ 
+ 
+Local onduleurs
+ 
+ 
+ 
+TOTAL
+ 
+ 
+
+
+
+ANNEXE 2 : PLANNING DE RÉALISATION DES TRAVAUX
+
+
+ANNEXE 3 : PRIX ET ECHEANCIER DE PAIEMENT 
+
+
+Jalon No.
+Description des jalons de Paiement
+Date
+I
+Acompte à la signature
+______________
+III
+Ouverture administrative* du chantier
+__________
+IV
+Achèvement Mécanique des Travaux 
+__________
+V
+Réception de la Centrale 
+__________
+TOTAL
+
+
+
+
+*Émission de la DROC + ouverture de la TRC 
+
+Informations nécessaires à la facturation
+Nom de la Société : [XXX]
+Adresse de facturation : [XXX]
+A l'attention de M/Mme/Mme [XXX]
+Tél. : [XXX]
+Courriel : [XXX]
+Votre numéro de TVA intracommunautaire : [XXX]
+
+
+ANNEXE 4 : SOUS-TRAITANCE ET CONDITIONS
+
+
+Le Maître d’Ouvrage approuve d’ores et déjà le recours aux Sous-Traitants suivants[AC5] :
+-
+-
+-
+-
+-
+-
+-
+
+
+ANNEXE 5 : DEMANDE DE CHANGEMENT
+
+DEMANDE DE CHANGEMENT 
+
+  CODE PROJET 
+  
+DEMANDE DE CHANGEMENT N°
+  CHEF DE PROJET HELEXIA
+  
+
+REFERENCE CONTRAT 
+Contrat EPC du XX XX XX
+DEMANDE DE CHANGEMENT
+NOM DU DEMANDEUR
+  (Chef de projet Client)
+DATE DE LA DEMANDE
+  
+CONTACT DU DEMANDEUR
+  
+  PRIORITÉ
+  
+ÉLÉMENT À MODIFIER
+
+DESCRIPTION DU CHANGEMENT
+
+CALENDRIER PRÉVU
+COUTS ESTIMÉS (OPEX + CAPEX + DevFees)
+  T0* + x mois
+€
+*T0 étant la date de signature de la présente Demande de changement
+ÉVALUATION DU CHANGEMENT
+NOM DE L'ÉVALUATEUR
+   (chef de projet Helexia)
+DATE DE L'ÉVALUATION
+   
+DOMAINE D'IMPACT
+DESCRIPTION DE L'IMPACT
+NIVEAU D'IMPACT
+  PERIMETRE
+
+Majeur/Mineur
+  PLANNING 
+  
+ 
+  COÛT
+  
+
+  QUALITÉ
+   
+ 
+COUT TOTAL À PAYER PAR LE DEMANDEUR
+X € H.T
+  
+EXAMEN/APPROBATION DES MODIFICATIONS
+
+
+
+
+
+  CLIENT
+   
+  DATE
+
+  HELEXIA
+ 
+  DATE 
+ 
+COMMENTAIRES SUPPLÉMENTAIRES
+   
+
+
+
+
+
+
+ANNEXE 6 : PROCÈS-VERBAL DE RÉCEPTION D’UNE CENTRALE
+PROCÈS-VERBAL
+RÉCEPTION D’UNE CENTRALE
+NOM et N° DU PROJET :	
+ADRESSE DE LA CENTRALE:	
+MAITRE D’OUVRAGE :	
+Concernant les travaux exécutés par HELEXIA au titre du Contrat signé le XXX relatif au Projet. 
+Le Maitre d’Ouvrage déclare que :
+* La réception est prononcée sans réserve, avec effet en date du : …….
+
+* La réception est prononcée avec réserves mentionnées dans l’état des réserves au verso de cette page avec effet en date du : ………….
+
+* La réception est refusée ou différée pour le motif suivant : ………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
+GARANTIES : Les garanties découlant des articles 1792, 1792-2 et 1792-3 du Code Civil commencent à courir à compter de la signature du présent PROCES-VERBAL. En application de l’article 1792-3 du Code civil, les entrepreneurs demeurent tenus de la garantie de parfait achèvement pendant l’année qui suit la présente réception. Celle-ci constitue également le point de départ de la garantie de bon fonctionnement prévue par l’article 1792-3 du Code civil et de la responsabilité décennale des constructeurs définie aux articles 1792,1792-2 et 2270 du Code civil
+Fait à ……………………………………………, le ……………………..
+en 2 exemplaires, dont un est remis à chacune des parties.
+
+
+Le Maître d'Ouvrage 	
+Helexia
+XXXXXXXXX
+M/MME.
+Représentant Projet
+
+HELEXIA DEVELOPPEMENT
+M./MME 
+Représentant Projet
+
+ETAT DES RESERVES 
+
+Nature des réserves
+Travaux à exécuter
+
+
+
+
+
+
+     
+HELEXIA et le Maître d’Ouvrage conviennent que les travaux nécessités par les réserves exposées ci-dessus seront exécutés dans un délai global de ………………….. à compter du :
+Fait à ……………………………………………, le ……………………..
+en 2 exemplaires, dont un est remis à chacune des parties.
+
+Le Maître d'Ouvrage 	
+Helexia
+XXXXXXXXX
+M/MME.
+Représentant Proejt
+
+HELEXIA DEVELOPPEMENT
+M./MME 
+Représentant Projet
+
+
+
+
+
+
+
+
+
+
+
+CONSTAT DE LEVEE DE RESERVES
+Le Maître d'Ouvrage lève les réserves, après avoir constaté que l'entreprise exécutante a valablement remédié aux malfaçons, omissions et imperfections énoncés ci-dessus.
+Fait à ……………………………………………, le ……………………..
+
+Le Maître d'Ouvrage 	
+Helexia
+XXXXXXXXX
+M/MME.
+Représentant Projet
+
+HELEXIA DEVELOPPEMENT
+M./MME 
+Représentant Projet
+
+
+
+ANNEXE 7 : CONDITIONS CONTRACTUELLES ET PRESTATIONS 
+CONTRAT D’OPÉRATION ET MAINTENANCE DE LA CENTRALE
+
+
+Titre de l'article
+Contenu
+Obligations
+Article 1 - Exposé Préalable
+Introduction et contexte du contrat.
+Client : Fournir toutes les informations nécessaires. 
+Helexia : Révéler toutes les informations déterminantes.
+Article 2 - Objet du Contrat
+Définition des prestations d'entretien et de maintenance.
+Prestations : 
+L’entretien et la maintenance de la Centrale
+La gestion d’un système de supervision de la Centrale permettant de détecter ses défauts et de collecter les données énergétiques du bâtiment et de la Centrale
+La mise en place d’un portail internet permettant de visualiser ces données
+Article 3 - Prestations comprises dans le Contrat
+Détails des services de supervision, maintenance préventive et curative.
+Prestations : 
+Supervision/exploitation : Suivi et action à distance de la Centrale et mise à disposition des données au Client 
+
+Maintenance préventive annuelle (Prestations incluses en Annexe 1)
+
+Maintenance curative sur devis soumis préalablement au Client 
+Article 4 - Prestations exclues
+Liste des services non inclus dans le contrat.
+Toute Prestation qui n’est pas prévue à l’Annexe 1 sera considérée comme une Prestation Supplémentaire et pourra être exécutée sur devis soumis préalablement au Client. 
+Article 5 - Garantie de moyens
+Engagements de performance et réactivité.
+Helexia : Suivi quotidien de la performance et réactivité conformément aux engagements en Annexe 1.
+Article 6 - Sous-traitance
+Conditions de sous-traitance des prestations.
+Afin d’assurer sa mission, Helexia pourra sous-traiter tout ou partie des Prestations à tout sous-traitant de son choix.
+Helexia sera seul responsable de l’exécution satisfaisante des Prestations par ses sous-traitants.
+Article 7 - Obligation des parties
+Obligations spécifiques du client et d'Helexia.
+Client : Fournir accès et installations nécessaires. 
+
+Helexia : Surveillance et interventions appropriées.
+Article 8 - Prix - Délai et conditions de paiement
+Modalités de paiement et révision des prix.
+Prix : selon l’Offre avec indexation annuelle
+
+Facturation : Annuelle, terme à échoir
+Paiement : 30 jours à compter de la date d’émission de la facture. 
+
+Article 9 - Assurances
+Attestations d'assurance responsabilité civile.
+Helexia : Fournir les attestations d'assurance.
+Article 10 - Force majeure
+Conditions de suspension des obligations en cas de force majeure.
+Définit les cas de force majeure et les obligations des parties en cas de survenance.
+Article 11 - Prise d’effet - Durée du Contrat
+Date de prise d'effet et durée du contrat.
+Prise d’effet : à compter de la mise en service de la Centrale ou à compter de sa date de signature si cette dernière est postérieure à la mise en service
+Durée : 1) une première période allant de la date de Prise d’Effet au 31 décembre de l’année en cours et (2) d’une durée ferme de X (X) ans prenant cours au 1er janvier de l’année suivante.
+
+Reconduction tacite pour une période d’un (1) an Sans limite de durée sauf en cas de préavis 3 mois avant l’expiration du Contrat. 
+Article 12 - Modification
+Conditions de modification du contrat.
+Modification par voie d’avenant pour toute modification.
+Article 13 - Cessation et résiliation
+Conditions de résiliation et de cession du Contrat
+Cessation : possible d’un commun accord
+Résiliation : en cas de défaut - 30 jours après une mise en demeure par LRAR demeurée 
+infructueuse
+Cession : sous réserve de l’approbation préalable de l’autre Partie, sauf cession à une Société Affiliée. 
+Article 14 - Liquidation du Contrat
+Procédures de cessation des activités.
+Helexia : Cesser toute activité pour le compte du contrat.
+Article 15 - Responsabilité
+Limitation de la responsabilité d'Helexia.
+Responsabilité limitée aux engagements au présent Contrat. 
+Responsabilité totale par année, toutes causes confondues, à un montant égal à 100% du Prix au titre de l’année concernée. 
+Article 16 - Utilisation des données
+Conditions d'utilisation des données du client.
+Helexia pourra utiliser les données exclusivement à des fins internes.
+Article 17 - Attribution de juridiction
+Juridictions compétentes pour les litiges.
+Tribunal de Commerce de Lille.
+
+
+Liste des Prestations
+Le présent tableau synthétique est non exhaustif et est subordonné au texte général du Contrat et ne peut s’y substituer.
+
+Prestations et Interventions Maintenance
+Périodes/Tps intervention
+Compris au Contrat
+1 - SUIVI ADMINISTRATIF
+ 
+ 
+
+
+Oui
+Suivi relation assurances RC
+ 
+Oui
+Support client téléphonique
+9H-12H / 14H-18H jours ouvrés
+Oui
+
+
+
+2 - SURVEILLANCE ET EXPLOITATION
+ 
+ 
+2.1 - Relevés à distance
+
+ 
+Relevé du compteur EDF à distance (applicable si la Centrale injecte de l’énergie sur le réseau)
+Quotidienne
+Oui
+Relevé des données onduleurs
+Quotidienne
+Oui
+Relevé des données d'irradiation
+Mensuelle si sonde installée
+Oui
+Relevé données Météo France
+Mensuelle si disponible
+Oui
+2.2 - Rapport de production
+ 
+ 
+Rédaction d'un rapport de production et d’anomalies 
+Trimestrielle
+Oui
+2.3 - Accès client au portail internet
+Continue
+Oui
+
+
+
+3 – GAMME MAINTENANCE PREVENTIVE BT (< 250kWc) / TOITURE
+ 
+ 
+3.1 - Étanchéité  
+
+ 
+Contrôle visuel de l'état général de l’extérieur
+Annuelle
+Oui
+Vérification visuelle des rives / acrotère
+Annuelle
+Oui
+Contrôle visuel du nettoyage des chéneaux et entrées des descentes d'eau
+Annuelle
+Oui
+3.2 - Panneaux photovoltaïques / membranes
+
+ 
+Inspection visuelle des panneaux / propreté / bris
+Annuelle
+Oui
+Inspection visuelle des câblages DC et chemins de câbles
+Annuelle
+Oui
+Vérification serrage pinces : échantillonnage 20 pinces au hasard
+Annuelle
+Oui
+Contrôle de fixation et nettoyage des sondes ou pyranomètres
+Annuelle
+Oui
+3.3 - Sécurité en toiture
+ 
+ 
+Contrôle visuel des accès toitures 
+Annuelle
+Oui
+3.4 – Boites de jonction DC (si applicable)
+
+ 
+Contrôle visuel de l'état général
+Annuelle
+Oui
+Vérification de l’étiquetage des câbles
+Annuelle
+Oui
+Vérification de l’étiquetage en façade
+Annuelle
+Oui
+Vérification de la fermeture des portes
+Annuelle
+Oui
+Resserrage des connexions DC et Terre
+Annuelle
+Oui
+Contrôle visuel état du parafoudre DC
+Annuelle
+Oui
+Mesure d’isolement de chaque polarité par rapport à la Terre
+Annuelle
+Oui
+Contrôle par thermographie infra-rouge
+Annuelle
+Oui
+Dépoussiérage
+Annuelle
+Oui
+Vérification des fusibles DC
+Annuelle
+Oui
+Mesure du courant Icc de chaque string après manipulation porte fusible
+Annuelle
+Oui
+3.5- Onduleurs  
+
+ 
+Contrôle visuel de l'état général
+Annuelle
+Oui
+Contrôle visuel de l'état des câbles
+Annuelle
+Oui
+Contrôle du capot de protection
+Annuelle
+Oui
+Vérification de l’étiquetage des câbles
+Annuelle
+Oui
+Vérification de l’étiquetage en façade
+Annuelle
+Oui
+Contrôle des connecteurs DC/AC
+Annuelle
+Oui
+Contrôle de la ventilation / nettoyage filtres
+Annuelle
+Oui
+Essai du cycle de démarrage
+Annuelle
+Oui
+Dépoussiérage
+Annuelle
+Oui
+3.6 - Armoires TGBT
+
+ 
+Contrôle visuel de l'état général
+Annuelle
+Oui
+Contrôle visuel de l'état des câbles
+Annuelle
+Oui
+Vérification de l’étiquetage en façade
+Annuelle
+Oui
+Vérification de la fermeture des portes
+Annuelle
+Oui
+Contrôle visuel des parafoudres
+Annuelle
+Oui
+Contrôle visuel des mises à la terre
+Annuelle
+Oui
+Contrôle par thermographie infra-rouge 
+Annuelle
+Oui
+Contrôle des borniers - visuel et resserrage
+Annuelle
+Oui
+Essai de fonctionnement manuel des disjoncteurs et différentiels
+Annuelle
+Oui
+Dépoussiérage
+Annuelle
+Oui
+3.7 – Systèmes de monitoring
+ 
+ 
+Contrôle visuel de l'état général
+Annuelle
+Oui
+Dépoussiérage
+Annuelle
+Oui
+3.8 - Tarif jaune (si applicable)
+
+ 
+Équipements - Inspection visuelle
+Annuelle
+Oui
+Essai de fonctionnement de l’AGCP
+Annuelle
+Oui
+Contrôle par thermographie infra-rouge 
+Annuelle
+Oui
+
+
+
+4 - MAINTENANCE CURATIVE
+ 
+ 
+Interventions curatives faisant références aux niveaux 1 à 3 définis par la norme FDX60000 [FONCTION MAINTENANCE] 
+Non
+4.1 - Correctif urgent (sécurité, perte de production >30%)
+ 
+ 
+Information du client d'une anomalie par téléphone et mail
+Sous 24 h
+Oui
+Recherche de la cause de l'anomalie
+Sous 2 jours ouvré après la survenance de l'anomalie
+Oui
+Mise en œuvre de la garantie fournisseur
+Sous 2 jours ouvrés après définition de la cause de l'anomalie
+Oui
+Pilotage des opérations de réparation
+ 
+Oui
+Réalisation des travaux correctifs
+ 
+Non
+Fourniture et pose des pièces détachées
+ 
+Non
+4.2 - Correctif non urgent
+ 
+ 
+Information du client d'une anomalie via le rapport d'anomalie
+Edition mensuelle
+Oui
+Recherche de la cause de l'anomalie
+Sous 7 jours ouvrés après la survenance de l'anomalie
+Oui
+Mise en œuvre de la garantie fournisseur
+Sous 7 jours ouvrés après définition de la cause de l'anomalie
+Oui
+Pilotage des opérations de réparation
+ 
+Oui
+Réalisation des travaux correctifs
+ 
+Non
+Fourniture et pose des pièces détachées
+ 
+Non
+
+
+
+Annexe 8 : Bordereau de prix pour les Prestations supplémentaires
+
+Barème appliqué dans le cadre d’une Prestation supplémentaire
+Tarifs du sous-traitant en maintenance augmenté d’un coefficient de peine et soins de 15% pour une prestation de moins de 1500 euros et de 10 % pour une prestation allant au-delà. 
+
+La maintenance curative sera rémunérée sur la base des barèmes suivants :
+-   Forfait déplacement : XX€ HT
+-	Taux horaire d’intervention : XX€ HT
+-	Location nacelle : XX€/jour
+
+Prestations exclues 
+Conformément à l’article 4 du Contrat, les prestations suivantes sont spécifiquement exclues des Prestations et peuvent faire l’objet d’une Prestation Supplémentaire sur demande : 
+
+* La souscription d’un abonnement et l’ouverture de la ligne téléphonique GSM ou analogique ou satellite permettant d’établir la communication à distance avec les onduleurs est à la charge du Client.
+
+* Les activités de maintenance préventive et curative faisant références au niveau 4 et 5 définis par les normes ISO et NF EN 13306 [TERMINOLOGIE DE LA MAINTENANCE] et FDX60000 [FONCTION MAINTENANCE];
+
+* Les interventions de maintenance curative faisant références aux niveaux 1 à 3 définis par la norme FDX60000 [FONCTION MAINTENANCE];
+
+* Imagerie thermique des onduleurs et des panneaux photovoltaïques par le contrôle électrique des panneaux photovoltaïques par thermographie infrarouge ; 
+
+* Nettoyage et resserrage et des panneaux. Si, lors de la visite de maintenance annuelle, ou lors d’une visite curative, Helexia remarque un niveau de salissure excessif des panneaux, ou des pinces desserrées, Helexia en avertira le Client, et pourra, à sa demande, présenter des devis de nettoyage ou de resserrage des panneaux. Le Client seul prendra la décision de faire procéder au nettoyage ou au resserrage des panneaux; dans le cas d’un nettoyage de panneaux, le Client est tenu de fournir un accès à l’eau.
+
+* Les interventions de maintenance curative; 
+
+* Q18-Q19 : ces deux vérifications doivent être réalisées par un bureau de contrôle mandaté par Helexia. Ces prestations peuvent être réalisées sur demande du Client; 
+
+* Les vérifications périodiques des lignes de vie le cas échéant
+
+* Les pièces détachées, sauf petits consommables (fusibles, MC4, connecteur MC4, petites cosses) ;
+
+* La main d’œuvre de remplacement des pièces détachées ou matériels et ce même si le matériel passe en garantie ;
+
+* Les expertises éventuelles suite à litiges ou sinistres;
+
+* Les éventuelles locations de matériel nécessaire aux interventions, notamment les moyens de levage et de mise en sécurité;
+
+* Les frais administratifs et frais de justice liés à un conflit avec un Constructeur de matériel ou une entreprise de réalisation de la Centrale photovoltaïque;
+
+* Interventions sur site au-delà de : 
+o 1 visite d’entrée suite à la signature du Contrat, sauf en cas de renouvellement de celui-ci;
+o 1 visite de maintenance préventive par an;
+
+* Toute visite supplémentaire sera facturée, après accord du Client pour intervention.
+
+
+
+
+
+[BL1]Applicable seulement en HTA
+[AP2]Et l‘entretien et la maintenance ? 
+[BL3]À adapter selon la Documentation fournie par le Client. Devrait normalement être complète, sinon il y a un risque de besoin d'ajuster le Prix
+[BL4]Chef de projet
+[AC5]Liste à fournir par HELEXIA
+
+EPC
+
+
+1
+ENDEE\0002\Agreements\EPC\EPC French Version M-up BB 04.05.2010 clean\9272755.1Erreur ! Nom de propriété de document inconnu.
+
+Strictement Confidentiel _ Contrat EPC_HELEXIA / xxxxxxxx _ NOM PROJET
+
+La reproduction permanente ou provisoire du contrat en tout ou partie, par tout moyen et sous toute forme n’est possible qu'avec l'autorisation de l’auteur. Toute reproduction sans le consentement de l’auteur est répréhensible au regard du Code de la propriété intellectuelle et pourra être poursuivi en justice.			23/26
+
+
+

@@ -1,0 +1,1247 @@
+
+ENTRE�:
+
+La Soci�t� HELEXIA DEVELOPPEMENT, Soci�t� par Actions Simplifi�e, au capital de 3�932 000 euros, enregistr�e au Registre du commerce et des soci�t�s de LILLE METROPOLE sous le num�ro 524�102 670, dont le si�ge social est situ� � La Madeleine (59110), 38 All�e Vauban � Immeuble Crystal, repr�sent�e par Monsieur Christophe Constant, agissant en qualit� de Directeur G�n�ral France et d�ment habilit� aux fins des pr�sentes,
+
+Ci-apr�s d�nomm�e, ��HELEXIA�� ou le ��Ma�tre d�Ouvrage��,
+
+ D�une part,
+
+
+ET
+
+
+La soci�t� [***********] [Forme soci�tale] au capital de [*****************], enregistr�e au Registre du commerce et des soci�t�s de [***********] sous le num�ro [*********], ayant son si�ge social sis [*********************************], dont , repr�sent�e par Monsieur [**********] agissant en qualit� de [**************] et d�ment habilit� aux fins des pr�sentes, 
+
+Ci-apr�s d�nomm�e ��[************]�� ou l����Entreprise�,
+
+        D�autre part, 
+
+Le Ma�tre d�Ouvrage et l�Entreprise peuvent �galement �tre d�sign�s individuellement par ��Partie�� et collectivement par les ��Parties��.
+
+Table des mati�res
+ 
+
+
+
+
+
+PREAMBULE	1
+A TITRE LIMINAIRE�- DEFINITIONS	3
+Article 1 � Objet du contrat � �tendue des travaux � dispositions generales � duree	5
+Article 2 - Obligations des Parties	6
+Article 3 - Planning de realisation des travaux	7
+Article 4 � Modifications des Travaux	8
+Article 5 � Acc�s au Site	10
+Article 6 - Employ�s et Sous-traitants	10
+Article 7 � Respect de la r�glementation	11
+Article 8 � Reporting - Repr�sentants	12
+Article 9 � Mise en service � P�riode d�Essais � R�ception des travaux	13
+Article 10 � Garanties des centrales et du mat�riel	15
+Article 11 � Garanties bancaires	17
+Article 12 � Livraison de fournitures, Propri�t� et transfert du risque	17
+Article 13 � Prix, paiement du Prix et modalit�s de paiement	17
+Article 14 � R�siliation	20
+Article 15 � Assurance	21
+Article 16 - Concession de Licence des droits de propri�t� intellectuelle et industrielle	22
+Article 17 � Cession	22
+Article 18 � Force Majeure	22
+Article 19 � Droit applicable et r�glement des diff�rends	23
+Article 20 � Divers	23
+ANNEXE PRELIMINAIRE	28
+ANNEXE 1 : SPECIFICATIONS TECHNIQUES - DESCRIPTION DE LA CENTRALE - DETAIL DES TRAVAUX	31
+ANNEXE 2 : PLANNING DE R�ALISATION DES TRAVAUX	32
+ANNEXE 3�: GARANTIES DE PRODUCTION	33
+ANNEXE 4�: SOUS-TRAITANCE ET CONDITIONS	35
+ANNEXE 5�: CHARTE SSE	42
+ANNEXE 6�: PV DE RECEPTION	43
+
+
+PREAMBULE
+
+HELEXIA est un professionnel actif dans le secteur des �nergies renouvelables sur les march�s europ�ens et international et, qui intervient � toutes les �tapes de la cha�ne de valeur, sp�cialis� dans le d�veloppement, le financement et l'exploitation de centrales photovolta�ques en toiture et ombri�res et dispose des connaissances et comp�tences reconnus dans le secteur.
+
+L�Entreprise est une soci�t� sp�cialis�e dans [� compl�ter par l�Entreprise]
+
+Dans le cadre de son activit�, l�Entreprise souhaite faire construire plusieurs centrales photovolta�ques dont le d�tail figurera au Contrat d�Application, lequel sera r�gularis� avec toute soci�t� affili�e du Groupe HELEXIA.
+
+Suite aux diff�rents �changes intervenus entre les Parties lors de la phase de consultation des entreprises, HELEXIA a d�cid� de confier � l�Entreprise la r�alisation des Travaux : dont le d�tail sera d�fini au Contrat d�Application et de conclure avec cette derni�re le pr�sent contrat de travaux (ci-apr�s le ��Contrat��).
+
+Les Prestations de base pour le Lot Charpente sont les suivantes�: [� indiquer]
+
+Les Prestations de base pour le Lot Fondations sont les suivantes�: [� indiquer]
+
+Les Prestations de base pour le Lot Electricit� sont les suivantes�: [� indiquer]
+
+
+L�Entreprise d�clare disposer de toutes les qualifications requises et �tre qualifi�e, de par son exp�rience, ses connaissances, son savoir-faire et ses moyens tant humains que mat�riels, pour r�aliser les travaux qui lui sont confi�s, et ce, en conformit� avec les obligations r�sultant des pr�sentes et ses annexes. 
+
+L�Entreprise d�clare, pr�alablement � la signature de ce contrat, avoir re�u un ensemble d�informations suffisant en vue de la r�alisation des centrales photovolta�ques envisag�es.
+Etant pr�cis� qu�apr�s signature du pr�sent Contrat-cadre, les Parties conviennent que le Ma�tre d�Ouvrage a la possibilit� d�ajouter de nouveaux projets. En cons�quence, la pr�sente d�claration s�appliquera avant toute signature des contrats d�application pour le Projet concern�.
+
+Les prestations inclues dans le Contrat et � r�aliser par l�Entreprise comprennent notamment�:  
+
+* La r�alisation des Travaux, incluant le choix optimal de l�ensemble des �quipements, prestataires, mat�riaux, hors mat�riel fourni par le Ma�tre d�Ouvrage et m�thodes � utiliser, en fonction notamment des contraintes techniques du Projet, tenant en particulier � l�obligation�de r�sultat :
+
+- De garantir une production d��lectricit� de Centrale optimale [pour le Lot Electricit� uniquement];
+- De permettre (ou ne pas entraver) la poursuite de l�ensemble des activit�s propres au Ma�tre d�Ouvrage le cas �ch�ant, � l�Entreprise, et au Client Principal en toute s�curit� durant toute la p�riode d�exploitation�;
+- De faciliter les activit�s ult�rieures d�exploitation-maintenance de la Centrale en toute s�curit�.
+
+Le Ma�tre d�Ouvrage a retenu l�Entreprise sur la base de l�offre financi�re pr�sent�e par cette derni�re. 
+
+Il est express�ment entendu que l�offre financi�re de l�Entreprise est r�put�e couvrir l�int�gralit� des co�ts des mat�riaux, �quipements et prestations n�cessaires la r�alisation des Travaux et renonce express�ment � se pr�munir d�un manque ou d�une incoh�rence dans les informations transmises par le Ma�tre d�Ouvrage afin d��tablir son offre et de consentir aux obligations contractuelles stipul�es dans le pr�sent Contrat. L�Entreprise d�clare conna�tre les Sites destin�s � accueillir les Centrales, et d�clare avoir chiffr� son offre en toute connaissance de cause. 
+
+En cons�quence, et afin de mener � bien les projets de centrales photovolta�ques, le Ma�tre d�Ouvrage et l�Entreprise se sont rapproch�s afin de d�finir les termes et conditions de r�alisation des Travaux.
+
+Suite � l�offre propos�e par l�Entreprise, les Parties ont d�cid� de conclure le pr�sent Contrat, dont le pr�sent pr�ambule et l�ensemble des annexes et contrats d�application en sont partie int�grante.
+
+Tout ceci ayant �t� expos�, il a �t� convenu de ce qui suit�:
+
+
+
+A TITRE LIMINAIRE�- DEFINITIONS
+
+Les termes et expressions commen�ant par une majuscule, qu'ils soient utilis�s indiff�remment au singulier ou au pluriel auront, aux fins du Contrat, la signification suivante sauf si le contexte exige un sens diff�rent.
+
+��Ach�vement M�canique�� D�signe l�instant auquel l�int�gralit� des travaux pr�vus au Contrat sont termin�s. Cet ach�vement sera constat� contradictoirement entre les Parties.��Annexe��D�signe une (les) annexe(s) au Contrat qui en fait(font) partie int�grante et qui constituent les contrats d�application.��Autorisation(s)��
+D�signe l�ensemble des autorisations � obtenir, d�clarations ou autres formalit�s � effectuer aupr�s du gestionnaire de r�seau et qui s�av�reront n�cessaires pour le raccordement des Centrales, leur Mise en Service et leur exploitation.��B�timent�� D�signe le b�timent industriel ou commercial sur lequel sera install�e chaque Centrale et dont l�adresse figure en Annexe 1.��Bureau de Contr�le�D�signe la soci�t� d�sign�e pour effectuer l�ensemble des contr�les techniques relatifs notamment aux missions L (solidit� des ouvrages) et S (s�curit� des ouvrages).��Centrales��D�signe les centrales photovolta�ques � r�aliser par l�Entreprise pour le Lot qui lui est attribu�, sur le B�timent ou le Parking et compos�e notamment de structures portant les modules photovolta�ques, des onduleurs, des postes de livraison �lectrique et des r�seaux �lectriques, et tous Travaux n�cessaires � la conception, � la r�alisation, l�installation et la Mise en Service de la Centrale. Un descriptif technique de chaque Centrale non exhaustif est joint en Annexe 1. Ce descriptif technique comprend notamment, la situation g�ographique, la puissance et le Productible. ��Conseiller Technique��
+D�signe, le cas �ch�ant, un tiers professionnel choisi par les Repr�sentants du Ma�tre d�Ouvrage pour l�assister dans tous les points n�cessaires et/ou Travaux d�finis aux Contrat.��Contrat��D�signe le pr�sent Contrat en ce compris le contrat-cadre d�finissant les dispositions g�n�rales pour la r�alisation des Travaux (le ��Contrat-Cadre�� et ses Annexes en ce compris les contrats d�application pr�cisant les dispositions relatives � chaque Centrale (les � Contrats d�Application��), lesquels font ensemble partie int�grante dudit Contrat. En cas de contradiction entre le Contrat Cadre et le Contrat d�Application, les dispositions de ce dernier pr�valent.��Etudes Pr�alables��
+D�signe l�ensemble des �tudes de faisabilit� r�alis�es par l�Entreprise pour les besoins du pr�sent Contrat, portant notamment sur l�examen de la faisabilit� des Travaux du lot, sur la configuration du Site, � l�exception de toutes �tudes de stabilit� et/ou de structure portant sur le B�timent et sur la capacit� dudit B�timent � supporter le surpoids li� � la pose de la Centrale. � Irradiation dans le plan��[Lot Electricit� uniquement] D�signe les donn�es d'irradiation re�ues sur le ou les pan(s) couvert(s) de modules photovolta�ques � l'inclinaison et l'orientation des panneaux selon une base de donn�es satellitaires journali�res exprim�es en kWh/m�.��Jour Ouvr頻
+D�signe un jour autre qu�un samedi ou un dimanche, ou un jour f�ri� en France, �tant pr�cis� que si l�une quelconque des obligations des Parties doit �tre ex�cut�e un jour qui n�est pas un Jour Ouvr�, elle devra alors �tre ex�cut�e le Jour Ouvr� suivant.� Ma�tre d�Ouvrage��Dans le cas d�une centrale EPC, D�signe la soci�t� ayant missionn� le Ma�tre d�Ouvrage pour la conception et r�alisation de la Centrale.
+Dans le cas d�une centrale en tiers investissement, D�signe le Ma�tre d�Ouvrage.��Client Principal��D�signe le propri�taire et �ventuels exploitants du Site. 
+��Mise en Service��[Lot Electricit� uniquement] D�signe le d�but d�injection d��lectricit� par chaque Centrale sur le r�seau �lectrique priv� du B�timent.��P�riode d�essais��[Lot Electricit� uniquement] D�signe la p�riode de tests de la performance de chaque Centrale effectu�es par l�Entreprise sous r�serve du respect des crit�res d�finis au Contrat. Le d�but de la p�riode d�essais d�marre � compter de la Mise en Service et sa dur�e est indiqu�e dans le Contrat.��Prix��� D�signe le prix des Travaux et prestations objet du Contrat, et figurant au Contrat d�Application.��Productible��[Lot Electricit� uniquement] D�signe pour la Centrale le rapport production annuelle / puissance install�e calcul�e en kWh/kWc.��Projets��D�signe le projet de r�alisation des centrales photovolta�ques d�sign�es au Contrat d�Application.��Puissance Cr�te �D�signe la puissance de la Centrale exprim�e en kWc et figurant au Contrat d�Application. Cette puissance est calcul�e comme la somme de la puissance nominale des modules install�s.��PR��[Lot Electricit� uniquement] Performance Ratio. D�signe la performance de la Centrale telle que plus amplement d�finie au Contrat.��PV��D�signe le terme photovolta�que.��R�ception��D�signe la r�ception des ouvrages constitutifs de chaque Centrale au sens de l�article 1792-6 du code civil qui dispose que ��la r�ception est l'acte par lequel Le Ma�tre d�Ouvrage d�clare accepter l'ouvrage avec ou sans r�serve. Elle intervient � la demande de la partie la plus diligente, soit � l'amiable, soit � d�faut judiciairement. Elle est, en tout �tat de cause, prononc�e contradictoirement��.��Repr�sentants du Ma�tre d�Ouvrage���
+D�signe les seules personnes autoris�es � agir au nom et pour le compte du Ma�tre d�Ouvrage pour toutes les questions aff�rentes au pr�sent Contrat.��Site�� 
+D�signe l�emplacement g�ographique des Centrale d�taill�s en Annexe 1. ��Sp�cifications Techniques�� 
+D�signe les sp�cifications techniques auxquelles doit r�pondre chaque Centrale, telles que d�taill�es en Annexe du Contrat d�Application.��Travaux �
+D�signe l�ensemble des prestations confi�es � l�Entreprise par le Ma�tre d�Ouvrage qui sont n�cessaires pour la r�alisation des Centrales, en ce compris la fourniture de mat�riels et �quipements, hors mat�riel fournis par le Ma�tre d�Ouvrage. Les travaux sont d�finis selon le cahier des charges figurant en Annexe 2.
+
+ARTICLE 1 � OBJET DU CONTRAT � �TENDUE DES TRAVAUX � DISPOSITIONS GENERALES � DUREE
+
+1.1. Objet
+
+Le pr�sent Contrat a pour objet de confier � l�Entreprise les Travaux d�finis en Annexe 2 pour la r�alisation de Centrales photovolta�ques conform�ment aux sp�cifications figurant en Annexe 1.
+
+Le pr�sent Contrat est un contrat de r�alisation et comprend tous les travaux et fournitures n�cessaires pour lesquels l�Entreprise a �t� missionn�e, en contrepartie du Prix forfaitairement d�fini au contrat d�application.
+
+1.2. �tendue des Travaux - Description de la Centrale 
+
+Les Travaux confi�s par le Ma�tre d�Ouvrage au titre du pr�sent Contrat seront ex�cut�s par l�Entreprise pour le compte du Ma�tre d�Ouvrage aux conditions �tablies par les pr�sentes, tout en respectant les r�gles de l�art et la r�glementation applicable. L�ensemble des Travaux objet du pr�sent contrat est d�fini en Annexe 2.
+
+Pour chaque Centrale, le descriptif, la localisation, le productible, la puissance et les crit�res de performance sont d�finis au Contrat d�Application.
+
+1.3. Dispositions G�n�rales�et �mission de l�Ordre de Service
+
+L�Entreprise, tant dans sa prestation de conception que de r�alisation, devra se conformer aux normes et r�glementations en vigueur � la date de signature du Contrat, et s�assurer que les soci�t�s auxquelles elle aura sous-trait� une partie du march�, ainsi que les fournisseurs, s�y conforment �galement. Notamment, l�Entreprise veillera � ce que les prestations et fournitures que cette derni�re a sous-trait�es soient conformes avec les stipulations du pr�sent Contrat. Les propres sous-traitants de l�Entreprise agissent sous la direction et la responsabilit� exclusive de l�Entreprise.
+
+Il est ici rappel� que l�ex�cution des Travaux et toutes les commandes qui y seraient associ�es seront conditionn�es par l��mission de l�Ordre de Service par le Ma�tre d�Ouvrage, qui ne pourra intervenir qu�une fois les d�marches pr�alables au d�but des Travaux r�alis�es. Cependant, l�Entreprise pourra en phase conception, sur autorisation �crite du Ma�tre d�Ouvrage, proc�der � des commandes anticip�es de mat�riels ou de prestations sous-trait�es relatives � la phase d�ex�cution des travaux.
+
+1.4. Dur�e du Contrat
+
+Le pr�sent Contrat prend effet�au jour de sa signature pour une dur�e d�un (1) an.
+
+Le contrat sera reconduit tacitement, pour de nouvelles p�riodes d�un (1) an dans la limite globale de (5) ans,�� d�faut de d�nonciation par l'une ou l'autre des Parties, signifi�e par lettre recommand�e avec demande d'avis de r�ception,�trois (3) mois au moins avant l'arriv�e du terme. Etant pr�cis� qu�en vertu de l�interd�pendance du Contrat Cadre et des Contrats d�Application, le Contrat Cadre demeurera en vigueur tant que le ou les Contrat(s) d�Application(s) seront en vigueur.
+
+
+
+
+
+
+ARTICLE 2 - OBLIGATIONS DES PARTIES
+
+2.1. Obligations du Ma�tre d�Ouvrage
+
+Les obligations principales du Ma�tre d�Ouvrage sont :
+
+- Communiquer � premi�re demande � l�Entreprise, et sous r�serve que le Ma�tre d�Ouvrage en ait connaissance, toute information n�cessaire � l�Entreprise pour la r�alisation des Travaux�;
+
+- Payer � l�Entreprise le Prix stipul� au Contrat�;
+
+- Permettre l�acc�s au Site en vue de la r�alisation des Travaux�;
+
+- Mandater un Coordonnateur S�curit� et Protection de la Sant� pr�alablement au d�marrage du chantier, lequel CSPS rendra compte au Ma�tre d�Ouvrage, et tiendra inform� en parall�le l�Entreprise�;
+
+- Mandater un ou plusieurs bureaux de contr�le technique pr�alablement au d�marrage des travaux. Le Ma�tre d�Ouvrage, assurera la coordination des visites sur site des contr�leurs techniques. Ces derniers rendront compte au Ma�tre d�Ouvrage, et tiendront inform� en parall�le l�Entreprise. Il sera de la responsabilit� de ce dernier de prendre acte de son propre chef des remarques faites par les bureaux de contr�le et de rem�dier sans d�lais aux manquements constat�s, sans attendre une demande au Ma�tre d�Ouvrage.
+
+
+2.2. Obligations de l�Entreprise
+
+Sans pr�judice de toutes autres obligations pr�vues au Contrat, par la r�glementation en vigueur et des standards et normes applicables dans les activit�s de construction de centrales photovolta�ques, les obligations principales de l�Entreprise sont, � titre �nonciatif et non limitatif, les suivantes�:
+
+- Effectuer au nom et pour le compte au Ma�tre d�Ouvrage toutes d�marches n�cessaires � la r�alisation des Travaux pour les Centrales ;
+
+- S�assurer que chaque Centrale sera construite avec �quipements neufs et conform�ment aux normes et r�glementations en vigueur, selon le mat�riel convenu avec le Ma�tre d�Ouvrage et repris en annexe ; 
+
+- Pendant la dur�e des Travaux, entretenir et nettoyer le Site a minima une fois par semaine, et proc�der au traitement des d�chets selon la r�glementation en vigueur. A d�faut le Ma�tre d�Ouvrage pourra faire nettoyer ou d�blayer le chantier par un tiers, aux frais de l�Entreprise, d�s lors que, en d�pit d�une demande �crite de nettoyage formul�e par tous moyens, l��tat de salet� ou de d�sordre persistait. Dans ce cas le Ma�tre d�Ouvrage pourra retenir sur le jalon de paiement � venir du le co�t du nettoyage rest� � sa charge�; 
+
+- S�assurera que les constructeurs, fournisseurs et autres intervenants qui r�alisent les Travaux ou concourent � la r�alisation des Travaux objets du Contrat disposent des qualifications n�cessaires � l�ex�cution des t�ches qui leur sont assign�es�;
+
+- S�assurer que les constructeurs, fournisseurs et autres intervenants respectent les dispositions r�glementaires, en ce compris les r�glements int�rieurs de droit priv�, applicables au bien immobilier et au Site, de telle sorte que le Ma�tre d�Ouvrage ne puisse �tre inqui�t� ou recherch� � ce sujet�;
+
+- Respecter et s�assurer du respect par les constructeurs et autres intervenants des lois et r�glements applicables en mati�re de droit du travail, en ce compris notamment les dispositions l�gales et r�glementaires relatives � l�hygi�ne et � la s�curit� sur les chantiers, ainsi que celles relatives � la lutte contre le travail ill�gal�;
+
+- Notifier au Ma�tre d�Ouvrage, d�s sa survenance et dans les d�lais contractuellement requis, tout cas de Force Majeure ou toute autre cause l�gitime de suspension de d�lai�;
+
+- Informer dans un d�lai raisonnable le Ma�tre d�Ouvrage de tout d�sordre susceptible d�affecter le d�roulement normal des Travaux�;
+
+- [Lot Electricit� uniquement] Fournir, installer et mettre en service un monitoring permettant de mesurer les performances de la Centrale et utiliser ce dispositif afin de r�aliser les Tests de Performance�;
+
+- Etablir un plan particulier de s�curit� et de protection de la sant� (��PPSPS��) en vue de pr�server l�environnement dans le respect de la r�glementation en vigueur ainsi que la s�curit� des personnes ayant acc�s au Site (notamment le personnel de l�Entreprise, au Ma�tre d�Ouvrage et des sous-traitants respectifs). L�Entreprise fournira au Ma�tre d�Ouvrage, avant ouverture de chantier, un PPSPS�et se tiendra � disposition du CSPS pour tout demande de r�union ;
+
+- L�Entreprise, en tant qu�expert dans son domaine, s�engage � apporter les conseils n�cessaires d�ordre technique, juridique et r�glementaire sur tout sujet pouvant impacter la construction et/ou l�exploitation de la Centrale�;
+
+- Fournir (2) exemplaires papiers et un exemplaire informatique du dossier des ouvrages ex�cut�s (DOE).
+
+ARTICLE 3 - PLANNING DE REALISATION DES TRAVAUX
+
+3.1. Planning de R�alisation des Travaux
+
+Le Planning de R�alisation des Travaux pour chaque Centrale est d�fini en Annexe 2.
+
+3.2. Prolongation des d�lais d'ex�cution mentionn�s au Planning de R�alisation des Travaux
+
+Les d�lais d'ex�cution mentionn�s au Planning de R�alisation des Travaux ne pourront pas �tre prorog�s, sauf dans les circonstances limitativement �num�r�es ci-apr�s :
+
+- En raison de modifications convenues entre les Parties conform�ment � l'Article 4, dans la mesure o� lesdites modifications impliquent une prorogation des d�lais du Planning de R�alisation des Travaux�;
+
+- En raison d'un retard des Travaux, dans la mesure o� ledit retard est exclusivement imputable au Ma�tre d�Ouvrage et constituerait la violation de l�une ou l�autre de ses obligations telles que d�finies � l�Article 3, et sous r�serve que l�Entreprise puisse d�montrer un impact direct sur le chemin critique du Planning de R�alisation des Travaux ;
+
+- En raison de la survenance d'un cas de Force Majeure tel que d�fini � l'Article 18.  
+
+Si le cas de Force Majeure se poursuit durant plus de six (6) mois, l'une ou l'autre Partie aura le droit de r�silier le pr�sent Contrat dans les conditions de l'Article 14.
+
+Toute prolongation est notifi�e et justifi�e par l�Entreprise dans le compte-rendu de chantier, qui en pr�cise la dur�e, laquelle est �gale au nombre de journ�es r�ellement constat�es au cours desquelles le travail a �t� arr�t� du fait de l�un des motifs susvis�s. 
+
+D�s lors que l�Entreprise consid�re pouvoir b�n�ficier d�une prolongation des d�lais, celle-ci devra informer le Ma�tre d�Ouvrage de l��v�nement et notifier une demande de prolongation�:
+- Dans les trois Jours Ouvr�s � compter de l��v�nement donnant lieu � une prolongation des d�lais�; et
+- Justifier l�impact direct sur le Planning de R�alisation des Travaux.
+Le non-respect par l�Entreprise des conditions pr�cit�es emportera de plein droit la renonciation par l�Entreprise � une prolongation des d�lais.
+
+3.3. Retard
+
+En cas de non-respect par l�Entreprise des jalons mentionn�s au Planning de R�alisation des Travaux, qui ne soit pas exclusivement justifi� par une circonstance �num�r�e � l�article 3.2 ci-dessus, l�Entreprise sera redevable envers Le Ma�tre d�Ouvrage d�une p�nalit� non lib�ratoire de 1000� par jour calendaire de retard par rapport � la date contractuellement pr�vue.
+
+Les jalons sur lesquels portent les p�nalit�s de retard sont�les suivants, et seront appliqu�es selon les dates mentionn�es au Planning de R�alisation propre � chaque Projet :
+
+- Remise des documents de conception d�taill�e�
+- Ach�vement M�canique 
+- [Uniquement Lot Electrique] Mise en Service�: 
+- R�ception des Travaux�: 
+
+
+Le Ma�tre d�Ouvrage pourra retenir le montant des p�nalit�s ainsi appliqu�es des paiements dus par celui-ci � l�Entreprise au titre du pr�sent Contrat.
+
+Sans pr�judice de l�application de p�nalit�s de retard, le Ma�tre d�Ouvrage pourra, s�il constate qu�un retard devient probable, demander � l�Entreprise de mettre en �uvre tous moyens (y compris en termes de personnel suppl�mentaire) et � ses frais exclusifs en vue d��viter un retard dans la r�alisation des Travaux. L�Entreprise remettra au Ma�tre d�Ouvrage un plan d�action visant � �viter tout retard, dans les cinq (5) Jours Ouvr�s � compter de la date � laquelle le Ma�tre d�Ouvrage en fait la demande. En cas de d�faillance de la part de l�Entreprise � remettre un tel plan d�action, ou dans le cas o� Le Ma�tre d�Ouvrage consid�re qu�un retard est devenu in�vitable, Le Ma�tre d�Ouvrage pourra sous-traiter tout ou partie des Travaux � un tiers, aux frais de l�Entreprise.
+
+
+ARTICLE 4 � MODIFICATIONS DES TRAVAUX
+
+En aucun cas les Travaux ne pourront �tre modifi�s, sauf accord �crit pr�alable au Ma�tre d�Ouvrage selon les conditions suivantes�:
+
+4.1. Modifications requises du fait d�un changement de l�gislation 
+
+Le Ma�tre d�Ouvrage pourra, jusqu�� la R�ception des Travaux, demander toute modification des Travaux, en notifiant par �crit ladite modification � l�Entreprise d�s lors que cette modification est d�ment justifi�e par un changement de l�gislation et/ou r�glementation post�rieur � la signature du pr�sent Contrat et imposant un changement significatif au niveau des caract�ristiques des Centrales ou du d�roulement des Travaux. Dans ce cas, les Parties conviennent de se rencontrer pour d�cider de bonne foi et d�un commun accord de la d�marche � suivre pour la poursuite du Projet.
+
+Il est entendu entre les Parties que l�information due, en temps utiles, par l�Entreprise au Ma�tre d�Ouvrage inclut les modifications r�glementaires/l�gislatives impactant la construction et/ou l�exploitation d�une Centrale, et ce, dans le cadre d�une obligation de r�sultat. L�Entreprise sera tenue responsable pour tout manquement � cette obligation de conseil et d�information.
+
+
+4.2. Modifications requises par l�une ou l�autre des Parties pour tout autre motif 
+
+L�Entreprise comme le Ma�tre d�Ouvrage peut, � tout moment proposer par �crit � l�autre Partie des modifications concernant des Travaux pour quelque motif que ce soit autre que ceux vis�s � l�article ci-dessus. 
+
+Dans le cas o� la modification serait propos�e par l�Entreprise, celle-ci devra dans la proposition de modification qu�elle adressera au Ma�tre d�Ouvrage, pr�ciser les raisons justifiant les modifications propos�es et l�impact de ces modifications sur le Prix et le Planning de R�alisation des Travaux et, le cas �ch�ant, sur les assurances souscrites, et fournir au Ma�tre d�Ouvrage tous conseils n�cessaires � sa d�cision. La modification ne sera accept�e que sous r�serve de l�acceptation pr�alable du Client Principal. Le refus par Le Ma�tre d�Ouvrage d�une modification propos�e par l�Entreprise ne lib�re pas ce dernier de ses obligations au titre du pr�sent Contrat.
+
+Dans le cas o� la modification serait demand�e par Le Ma�tre d�Ouvrage, l�Entreprise devra proposer une offre technico-commerciale pr�cisant l�impact de ces modifications sur le Prix et le Planning de R�alisation des Travaux et, le cas �ch�ant, sur les assurances souscrites. Il est entendu entre les Parties que l�Entreprise reste tenue � son obligation d�information et de conseil, notamment si celle-ci constate, ou ne peut pas ignorer un impact sur la construction et/ou l�exploitation de la Centrale.
+
+A d�faut de r�ponse � la proposition de modification des Travaux dans un d�lai de vingt (20) Jours Ouvr�s suivant la r�ception de ladite proposition, les modifications propos�es seront consid�r�es comme ayant �t� rejet�es.
+
+Si la proposition est accept�e, un avenant au pr�sent Contrat sera r�gularis� entre les Parties. A d�faut de signature d�un avenant au Contrat dans un d�lai de dix (10) Jours Ouvr�s suivant l�acceptation de la proposition de modification, les Parties seront r�put�es avoir renonc� � la modification dont il s�agit. 
+
+Il est express�ment entendu entre les Parties que, ne seront pas consid�r�es comme �tant une modification de l��tendue des Travaux, toute prestation ou fourniture qui est n�cessaire � l�ach�vement des Travaux ou toute modification qui r�sulte d�une erreur ou d�un d�faut de conception et/ou de r�alisation non imputable au Ma�tre d�Ouvrage.
+
+4.3. Stipulations communes
+
+L�Entreprise sera tenue de mettre en �uvre toute demande de modification au Ma�tre d�Ouvrage, si ce dernier en fait la demande, sans attendre la conclusion d�un avenant modificatif du Contrat. Les Parties s�engagent � faire leurs meilleurs efforts pour r�gulariser la situation par voie d�avenant.
+
+ 
+ARTICLE 5 � ACCES AU SITE 
+
+Le Ma�tre d�Ouvrage fournira � l�Entreprise et � ses sous-traitants, et ce pour toute la dur�e du pr�sent Contrat, tous les acc�s n�cessaires aux Sites et aux espaces de travail dont l�Entreprise et ses sous-traitants ont besoin pour r�aliser les Travaux, afin qu'ils puissent ex�cuter leurs obligations contractuelles. Les Parties s�accorderont, avant ouverture du chantier sur les zones et p�riodes pendant lesquelles l�Entreprise pourra acc�der aux Sites. L�Entreprise reconnait que les zones pourront faire l�objet de coactivit� avec des tiers et s�engage � coop�rer de bonne foi avec ces tiers le cas �ch�ant en vue d�organiser la r�alisation des Travaux dans les d�lais contractuels convenus.
+
+Il est entendu que l'acc�s aux Sites sera autoris� uniquement aux personnes accr�dit�es par le Ma�tre d�Ouvrage et aux employ�s et sous-traitants et de l�Entreprise, sauf si une autorisation expresse est donn�e par le Ma�tre d�Ouvrage et l�Entreprise. 
+
+Le Ma�tre d�Ouvrage autorise l'acc�s des employ�s et sous-traitants de l�Entreprise � toutes les parties des Sites n�cessaires pour les besoins de la r�alisation des Travaux. Les Parties s�accorderont sur les parties des Sites auxquelles l�Entreprise aura acc�s, avant l�ouverture du chantier.
+
+L�Entreprise s�engage par les pr�sentes � permettre au Ma�tre d�Ouvrage d�entrer et d�inspecter chaque Site, dans la mesure o� la visite a lieu durant les heures normales de travail, soit entre 08h00 et 18h00, dans le respect des r�gles d�hygi�ne et de s�curit� du Site.
+
+Sous r�serve de dispositions contraires contenues dans le pr�sent Contrat, le transport sur le Site se fera sous la responsabilit� de l�Entreprise. Les op�rations de d�chargement du mat�riel et de gardiennage sur le Site seront sous la responsabilit� de l�Entreprise. L�Entreprise accepte express�ment la responsabilit� d�assurer la s�curit� de tous les intervenants sur le Site, en conformit� avec la r�glementation applicable et aux pratiques usuelles dans le domaine.
+
+Le Ma�tre d�Ouvrage s�engage � mettre � disposition de l�Entreprise les aires de stockage sur Site n�cessaires et appropri�es ainsi qu�une base vie de chantier avec sanitaires et acc�s � l�eau potable. 
+
+
+ARTICLE 6 - EMPLOYES ET SOUS-TRAITANTS
+
+L�Entreprise s'engage par les pr�sentes � respecter l�ensemble des mesures figurant en Annexe 4 et � affecter � tout moment les ressources humaines n�cessaires afin de respecter les obligations qui lui incombent au titre du pr�sent Contrat. Les employ�s engag�s par l�Entreprise devront avoir les qualifications, formations et exp�riences appropri�es pour la r�alisation des Travaux faisant l'objet du pr�sent Contrat.
+
+Le Ma�tre d�Ouvrage autorise l�Entreprise � sous-traiter tout ou partie des Travaux devant �tre r�alis�s dans le cadre du Contrat et sous r�serve de l�agr�ment pr�alable de chacun des sous-traitants et de ses conditions de paiement conform�ment aux dispositions de la loi en vigueur n�75-1334 du 31 d�cembre 1975. Il est entendu que les sous-traitant restent de tout temps et en toutes circonstances, sous la responsabilit� exclusive de l�Entreprise et cette derni�re ne pourra en aucun cas se pr�valoir d�une acceptation par le Ma�tre d�Ouvrage pour se lib�rer de cette responsabilit�. Le refus d�accepter un sous-traitant ne lib�rera pas l�Entreprise d�ex�cuter ses obligations contractuelles dans les d�lais convenus.  
+
+Tous les contrats conclus entre l�Entreprise et ses sous-traitants devront comporter une clause de cession � titre gratuit, au b�n�fice du Ma�tre d�Ouvrage ou tout autre b�n�ficiaire d�sign� par Le Ma�tre d�Ouvrage, dont l�exercice sera possible en cas de r�siliation du pr�sent Contrat. L�Entreprise reconnait express�ment que l�existence d�une telle clause constitue une des conditions essentielles � l�acceptation par Le Ma�tre d�Ouvrage des sous-traitants propos�s par l�Entreprise.
+
+L�Entreprise s'engage par les pr�sentes � ce que le travail de chacun de ses sous-traitants respecte toutes les r�glementations et r�gles de l�art applicables aux Travaux. L�Entreprise s'engage par les pr�sentes � ne pas accepter de mat�riaux, ou d�assemblages de ses sous-traitants ne respectant pas les dispositions du pr�sent Contrat et n'assurant pas le fonctionnement et l'exploitation ad�quats et s�curis�s de la Centrale.
+
+
+ARTICLE 7 � RESPECT DE LA REGLEMENTATION 
+
+7. 1. R�glementation g�n�rale
+
+L�Entreprise respectera � tout moment et s�assure du respect par ses sous-traitants de, la r�glementation en vigueur, notamment les dispositions relatives au droit du travail ainsi que des principes �nonc�s par l�Organisation Internationale du Travail, de la s�curit� sociale, de la sant� et de la s�curit�, la pr�vention des risques professionnels, les normes applicables et les r�gles relatives � la protection de l'environnement, ainsi que les exigences des autorit�s comp�tentes. Afin de s�engager � respecter ces dispositions, l�Entreprise reconnait avoir pris connaissance et avoir accept� les termes de la charte Sant�, S�curit� et Environnement figurant en annexe 5.  
+
+
+7.2.  Ethique  & Compliance 
+
+1. L�Entreprise s'engage � se conformer au Guide �thique et au Code de conduite du Ma�tre d�Ouvrage, disponibles sur Ethics & Compliance - Helexia et � ne pas permettre tout acte ou omission de la part de ses employ�s, personnel pertinent, agents, entrepreneurs ou sous-traitants de quelque niveau que ce soit, affili�s, directeurs, cadres, partenaires de coentreprise et repr�sentants agissant en leur nom et/ou pour leur compte - qui pourrait nuire aux affaires, � la r�putation ou � l'image du Ma�tre d�Ouvrage - dans le cadre de l'ex�cution du pr�sent Accord.�
+
+2. L�Entreprise et ses employ�s, personnel pertinent, agents, entrepreneurs ou sous-traitants de quelque niveau que ce soit, affili�s, directeurs, cadres, partenaires de coentreprise et repr�sentants agissant en leur nom et/ou pour leur compte s'engagent, tout au long et dans le cadre de l'ex�cution du pr�sent Accord, � se conformer � toutes les lois, r�glementations et normes internationales et locales applicables relatives � :��
+* La lutte contre la corruption et le non-respect des lois anticorruption, y compris, mais sans s'y limiter, la loi fran�aise anti-corruption n� 2016-1691 (dite loi Sapin II), la loi britannique de lutte contre la corruption de 2010, le Foreign Corrupt Practice Act am�ricain de 1977, et toutes autres lois anticorruption applicables.��
+* Les lois du travail, les droits de l'homme, la protection de l'environnement, la sant� et la s�curit�, y compris, mais sans s'y limiter, la Charte des droits fondamentaux de l'ONU, les Principes directeurs de l'OCDE � l'intention des entreprises multinationales, les Principes directeurs des Nations Unies relatifs aux entreprises et aux droits de l'homme (dans leurs versions mises � jour), les conventions fondamentales de l'Organisation internationale du Travail, le R�glement de l'UE sur les min�raux de conflit, et la loi britannique sur l'esclavage moderne (2015).�
+
+3. L�Entreprise accepte de maintenir et de mettre en �uvre des politiques et proc�dures anti-corruption et anti-corruption ad�quates, telles que requises par la loi pour pr�venir la corruption ou toute tentative de corruption, et plus g�n�ralement, toute infraction connexe, par l'un des individus mentionn�s ci-dessus.�
+
+4. L�Entreprise s'engage � notifier promptement l'autre partie, par tous moyens possibles, en cas de violation substantielle de cette Clause, ou d'un soup�on de violation, qu'elle soit li�e directement aux parties ou � l'une des personnes qui leur sont associ�es dans le cadre du pr�sent Accord (par exemple, partenaire, employ�, associ�, fournisseur, interm�diaire, repr�sentant tiers, sous-traitant) et dans les pays o� elle exerce ses activit�s et/ou violation dans un d�lai raisonnable, � la discr�tion du Ma�tre d�Ouvrage.�
+
+5. L�Entreprise garantit que ni lui-m�me, ni ses filiales, actionnaires directs ou indirects, b�n�ficiaires effectifs ultimes, directeurs, cadres, employ�s et repr�sentants tiers ne sont actuellement inscrits sur une liste de sanctions, et qu'il notifiera imm�diatement Le Maitre d�Ouvrage dans le cas o� l'une des personnes mentionn�es ci-dessus serait inscrite ou deviendrait un sujet de sanctions.�
+
+6. L�Entreprise veillera � ce que chaque contrat avec un fournisseur, prestataire de services, sous-traitant, repr�sentant tiers ou toute autre personne associ�e � L�Entreprise, qui effectue des services ou fournit des biens dans le cadre de cet Accord, contienne des termes au moins �quivalents � ceux impos�s dans cette Clause.�
+
+7. � tout moment pendant l'ex�cution de l'Accord, le Ma�tre d�Ouvrage peut effectuer, ou faire effectuer par un tiers, des v�rifications, contr�les ou audits sur la conformit� de L�Entreprise, � ses obligations en vertu de cette Clause ou plus g�n�ralement de l'Accord (l'"Audit"). Cet Audit peut prendre la forme d'audits documentaires ou d'audits sur site. Si le Rapport d'Audit r�v�le toute irr�gularit�, d�faillance et/ou violation par L�Entreprise, emp�chant ainsi le respect de l'une de ses obligations aux termes et conditions �nonc�s dans le pr�sent Accord, le Ma�tre d�Ouvrage peut demander � L�Entreprise de rectifier cette irr�gularit�, d�faillance
+
+8. Nonobstant toute disposition contraire dans le pr�sent Accord, en cas de non-respect des obligations susmentionn�es pendant l'ex�cution du contrat ou r�v�l� par un audit, le Maitre d�Ouvrage peut r�silier le contrat en envoyant un avis �crit avec effet imm�diat et sans responsabilit� pour le Maitre d�Ouvrage, sans pr�judice de l'exercice de tout autre droit d�coulant du pr�sent Accord ou de la loi.�
+
+La force majeure ou le changement de loi n�inclut pas le d�faut de r�alisation des Prestations par l�Entreprise qui serait caus� par les actes de tout vendeur ou sous-traitant de l�Entreprise, ou par le contr�le gouvernemental de l�importation de marchandises fabriqu�es ou produites dans des pays ou des r�gions pr�tendument engag�s dans le recours au travail forc� ou � d�autres lois et r�glements li�s aux droits de l�homme, qu�ils aient exist� avant la date de signature du Contrat ou qu�ils surviennent apr�s. Par cons�quent, ces �v�nements ne donnent pas droit � l�Entreprise � une prolongation de d�lai ni � des paiements suppl�mentaires. 
+
+
+ARTICLE 8 � REPORTING - REPRESENTANTS
+
+8.1. Reporting
+
+Pour chaque Projet, les rapports �crits bimensuels pr�cisant l��tat d�avancement des Travaux seront adress�s au Ma�tre d�Ouvrage dans les cinq (5) Jours Ouvr�s suivant la fin de chaque mois, pr�cisant le cas �ch�ant toute difficult� survenue durant ceux-ci. 
+
+A r�ception de chacun desdits rapports, le Ma�tre d�Ouvrage pourra requ�rir de l�Entreprise des informations compl�mentaires que l�Entreprise s'engage � fournir par �crit dans un d�lai maximum de quinze (15) Jours Ouvr�s suivant la demande qui en sera faite. 
+
+Les demandes d�informations et/ou observations formul�es par le Ma�tre d�Ouvrage seront transmises � l�Entreprise dans un d�lai de quinze (15) jours � compter de la r�ception d�avancement de chantier. 
+
+8.2. Repr�sentants
+
+Les Repr�sentants de chaque Partie seront d�sign�s au Contrat d�Application pour chaque Projet.
+
+Ces repr�sentants seront les seules personnes autoris�es � agir au nom et pour le compte du Ma�tre d�Ouvrage/de l�Entreprise pour toutes les questions aff�rentes au pr�sent Contrat. 
+
+Les Repr�sentants du Ma�tre d�Ouvrage pourront �tre assist�s d�un Conseiller Technique qui sera libre d�accompagner ou de repr�senter le Ma�tre d�Ouvrage lors de ses d�placements sur le Site, de poser des questions et/ou solliciter des documents au nom et pour le compte du Ma�tre d�Ouvrage.
+
+Les repr�sentants de l�Entreprise traiteront avec le Ma�tre d�Ouvrage et avec les Repr�sentants du Ma�tre d�Ouvrage pour toutes les questions li�es � la r�alisation des Travaux pour la Centrale concern�e et plus g�n�ralement � l�ex�cution du pr�sent Contrat. 
+
+ARTICLE 9 � MISE EN SERVICE � PERIODE D�ESSAIS � RECEPTION DES TRAVAUX
+
+Les dispositions des articles 9.1 et 9.2 ci-apr�s sont uniquement applicables au Lot Electricit�.
+
+9.1. Mise en service
+
+A l�Ach�vement des Travaux, l�Entreprise proc�dera � la Mise en Service, qui sera consid�r�e effective d�s lors que la Centrale injectera de l��lectricit� sur le r�seau �lectrique interne du B�timent pour les projets en autoconsommation ou en raccordement indirect ou sur le r�seau public de distribution d��lectricit� en raccordement direct
+
+Le Ma�tre d�Ouvrage pourra refuser que la Centrale soit Mise en Service pour des raisons justifi�es, et notamment s�il consid�re que la Centrale ne peut produire dans de bonnes conditions de s�curit� ou dans le respect des sp�cifications techniques d�finies aux pr�sentes.
+
+9.2. P�riode d�essais
+
+Il est express�ment convenu de la mise en place d�une p�riode d�essais de cinq (5) jours calendaires apr�s la Mise en Service. Cette p�riode d�essais sera valid�e par le Ma�tre d�Ouvrage aux conditions cumulatives suivantes :
+
+- La Centrale a produit au moins quatre-vingt-quinze pour cent (95%) de l��nergie �lectrique attendue d�apr�s les caract�ristiques de l�installation et sous r�serve que ladite Centrale n�ait pas vari� entre temps, corr�l�es aux donn�es transmises par le capteur de temp�rature, � l�exception des p�riodes d�arr�t hors de la responsabilit� de l�Entreprise.
+
+Pour proc�der aux tests, l�Entreprise notifiera au Ma�tre d�Ouvrage de l�ach�vement des travaux d�installation par tous moyens �crits afin de convenir d�une date de r�alisation du test.
+
+Tant que ces conditions n�auront pas �t� simultan�ment remplies durant une p�riode de cinq (5) jours calendaires cons�cutifs, la p�riode d�essai sera prolong�e. Si au bout de six (6) mois la p�riode d�essais n�est toujours pas valid�e, le Ma�tre d�Ouvrage se r�serve le droit de faire intervenir une autre entreprise aux frais de l�Entreprise sur la base de justificatifs.
+
+L��nergie �lectrique produite sera mesur�e au compteur de production de la Centrale et la production th�orique correspondante sera calcul�e sur la base des donn�es d�irradiation fournies par la base de donn�es m�t�o HELIOCLIM3-V4.
+
+Seront consid�r�s hors de la responsabilit� de l�Entreprise : 
+
+- Un arr�t demand� par �crit par le Ma�tre d�Ouvrage ;
+- Un arr�t cons�cutif � un cas de Force Majeure au sens des pr�sentes.
+
+En cas d�arr�t ou dysfonctionnement de performance de la Centrale durant la p�riode d�essais, celle-ci sera prolong�e d�une dur�e �gale � celle de l�arr�t.
+
+Dans le but d�assister le Ma�tre d�Ouvrage dans sa validation de la p�riode d�essais, l�Entreprise proc�dera, � compter de la Mise en Service de la Centrale, � l�ensemble des tests et analyses de donn�es n�cessaires, et devra notamment�v�rifier et relever :
+
+- L�injection effective d��lectricit�, et tout dysfonctionnement �ventuel�;
+- Le fonctionnement de l�ensemble des �quipements de la Centrale, et tout dysfonctionnement �ventuel�;
+- Le fonctionnement de la t�l�surveillance (incluant les remont�es des donn�es de production de tous les onduleurs et les donn�es du capteur de temp�rature), et tout dysfonctionnement �ventuel�;
+- La corr�lation entre les donn�es de production et les donn�es de rayonnement et de temp�rature, en se basant sur les caract�ristiques de la Centrale telles que d�finies dans l��tude de productible.
+
+9.3. R�ception des travaux 
+
+La R�ception se d�roulera comme suit�: 
+
+* Ach�vement M�canique�:
+
+L�Ach�vement M�canique permet de v�rifier la conformit� de la Centrale aux sp�cifications techniques, aux normes et r�gles de l�art, sans pour autant que celle-ci soit mise en service ni vierge de r�serves.
+
+La Centrale aura obtenu l�Ach�vement M�canique lorsque l�ensemble des Travaux auront �t� r�alis�s, et uniquement pour le lot Electricit�, lorsque l�Entreprise aura fourni une copie du rapport de validation �lectrique de la Centrale �mis par le bureau de contr�le (attestation pour CONSUEL).
+
+* Phase de pr�paration de la R�ception�: 
+
+L�Entreprise devra avoir achev� les points suivant avant la visite de R�ception :
+
+- Ach�vement des Travaux r�alis�;
+
+- Envoi au Ma�tre d�Ouvrage des attestations originales des garanties fabricants et certificats de conformit� des onduleurs, modules photovolta�ques � si fournis par l�Entreprise -, syst�me d�int�gration ou de fixation des panneaux et �quipements �lectriques le cas �ch�ant�;
+
+- Lev�e de l�int�gralit� des r�serves �mises pendant les Travaux par les bureaux de contr�le�;
+- Nettoyage du chantier et �vacuation des d�chets et des gravats, repliement des installations de chantier, nettoyage des modules �ventuellement souill�s en cours de pose et d�poussi�rage des locaux techniques�; 
+
+- Mise en s�curit� du Site, mise en place d�une signal�tique appropri�e aux abords des diff�rentes installations�(risque de chute, risque de choc �lectrique)�;
+
+- La P�riode d�essais est pass�e avec succ�s � uniquement pour le lot Electricit�.
+
+
+* R�ception de la Centrale�:
+
+Sous r�serve de l�accomplissement des t�ches �num�r�es aux points pr�c�dent l�Entreprise convoquera le Ma�tre d�Ouvrage lequel proc�dera � la R�ception des Travaux dans les conditions d�finies par l�article 1792-6 du Code civil. 
+
+La R�ception donnera lieu � l��tablissement d�un proc�s-verbal contradictoire.
+
+A cette occasion, l�Entreprise remettra au Ma�tre d�Ouvrage le�DOE tel que pr�vu � l�Article 2.2. 
+
+Lors de la R�ception, le Ma�tre d�Ouvrage pourra, le cas �ch�ant, formuler des r�serves, d�une part en cas de d�t�riorations apport�es au B�timent ou au Parking par rapport � l��tat des lieux r�alis� avant les travaux, si ces d�t�riorations sont le fait des travaux effectu�s pour l�implantation de la Centrale, et d�autre part, en cas de d�sordres ou de dysfonctionnements sur la Centrale elle-m�me. 
+
+Si des r�serves ont �t� �mises au moment de la R�ception, l�Entreprise devra effectuer les travaux de r�paration, afin de permettre la lev�e de ces r�serves, dans les d�lais fix�s d�un commun accord entre les Parties, d�lais qui ne pourront en aucun cas d�passer vingt jours (20) jours calendaires.
+
+En cas d�inex�cution par l�Entreprise dans les d�lais susvis�s, le Ma�tre d�Ouvrage pourra, apr�s mise en demeure adress�e par courrier recommand� avec demande d�avis de r�ception rest�e infructueuse au-del� d�un d�lai de vingt (20) jours�: 
+
+- Faire ex�cuter les travaux par une autre entreprise aux frais de l�Entreprise, sur la base de justificatifs des travaux de reprise effectu�s�; 
+
+- Et/ou se substituer dans les droits et obligations de l�Entreprise, notamment vis-�-vis de ses sous-traitants, dans l�hypoth�se o� les d�sordres r�sultent des travaux effectu�s par un ou plusieurs sous-traitants. 
+
+Il est express�ment pr�vu que le Ma�tre d�Ouvrage pourra se faire assister, lors de la R�ception, par un professionnel habilit� et assur� pour cette mission.
+
+Une fois la R�ception effectu�e, l�Entreprise remet au Ma�tre d�Ouvrage un jeu de toutes cl�s d�acc�s aux installations composant la Centrale (TGBT, armoire �lectrique, etc.).
+
+
+ARTICLE 10 � GARANTIES DES CENTRALES ET DU MATERIEL 
+
+Les garanties pr�vues ci-apr�s sont cumulatives.
+
+
+10.1. Garanties l�gales des constructeurs
+
+L�Entreprise est tenue � l��gard du Ma�tre d�Ouvrage des garanties l�gales de droit commun d�finies aux articles 1792 et suivants du Code civil.
+
+Ainsi, le contractant est tenu de�:
+
+10.1.1. La Garantie de parfait ach�vement 
+
+Conform�ment � la r�glementation en vigueur, l�Entreprise sera tenue de la mise en �uvre d'une garantie de parfait ach�vement pr�vue � l�article 1792-6 du Code civil.
+
+La garantie de parfait ach�vement, � laquelle l�Entreprise est tenue pendant un d�lai d'un (1) an, � compter de la signature du proc�s-verbal de r�ception (avec ou sans r�serve), s'�tend � la r�paration de tous les d�sordres signal�s par Le Ma�tre d�Ouvrage dans un d�lai de dix (10) jours ouvr�s, soit au moyen de r�serves mentionn�es au proc�s-verbal de R�ception, soit par voie de notification �crite (courrier recommand� avec accus� de r�ception) pour ceux r�v�l�s post�rieurement � la R�ception.
+
+La garantie de parfait ach�vement ne s'�tend pas aux travaux n�cessaires pour rem�dier aux effets de l'usure normale ou de l'usage.
+
+10.1.2. La Garantie d�cennale
+
+En application des articles 1792, 1792-1 et 1792-2 du Code civil, l�Entreprise garantit le Ma�tre d�Ouvrage contre les dommages, qui compromettent la solidit� de la Centrale ou qui, l'affectant dans l'un de ses �l�ments constitutifs ou l'un de ses �l�ments d'�quipement, le rendent impropre � sa destination, et ce pendant une dur�e de dix (10) ans � compter de la R�ception.
+Cette garantie s'�tend �galement aux dommages qui affectent la solidit� des �l�ments d'�quipement d'un ouvrage, mais seulement lorsque ceux-ci font indissociablement corps avec les ouvrages de viabilit�, de fondation, d'ossature, de clos ou de couvert. 
+Un �l�ment d'�quipement est consid�r� comme formant indissociablement corps avec l'un des ouvrages de viabilit�, de fondation, d'ossature, de clos ou de couvert lorsque sa d�pose, son d�montage ou son remplacement ne peut s'effectuer sans d�t�rioration ou enl�vement de mati�re de cet ouvrage.
+
+10.1.3. La Garantie biennale
+
+En application de l�article 1792-3 du Code civil, l�Entreprise garantit �galement le Ma�tre d�Ouvrage contre dommage affectant tous les autres �quipements de la Centrale non couverts par la garantie d�cennale, et ce, pendant deux (2) ans � compter de la R�ception. 
+
+10.2. La Garantie commerciale
+
+Sans pr�judice des garanties l�gales applicables le cas �ch�ant, l�Entreprise garantit chaque Centrale contre tout vice (qu�il soit apparent ou cach�) de fonctionnement, contre toute non-conformit� aux sp�cifications contractuelles, contre tout d�faut de conception et/ou installation, ou toute malfa�on qui rendrait la Centrale impropre � sa destination pendant une p�riode de [cinq (5)] ans � compter de la date de R�ception de la Centrale.
+
+10.3. Dispositions communes aux garanties
+
+En cas d�apparition d�un d�faut pendant la p�riode de garantie, l�Entreprise s�engage � rem�dier au d�faut dans les plus brefs d�lais sans pouvoir exc�der [vingt (20)] jours calendaires � compter de la notification faite par Le Ma�tre d�Ouvrage. 
+
+En cas de d�faillance de la part de l�Entreprise � rem�dier � un d�faut dans les d�lais pr�cit�s, Le Ma�tre d�Ouvrage sera en droit de faire intervenir un tiers aux frais et risques de l�Entreprise pour rem�dier au d�faut.
+
+10.4. Garanties de production des Centrales � uniquement pour le lot Electricit�
+
+La m�thode de calcul de production de la Centrale et ses conditions seront d�finis au Contrat d�Application.
+
+
+ARTICLE 11 � GARANTIES BANCAIRES 
+
+A compter de la signature des pr�sentes, l�Entreprise remettra au Ma�tre d�Ouvrage en vue de garantir sa conformit� � ses engagements contractuels�:
+- Une garantie bancaire � premi�re demande de restitution d�acompte, pour un montant �gal au montant de l�acompte�;
+- Une garantie bancaire � premi�re demande de bonne fin, pour un montant �gal � [cinq pour cent (5%)] du prix contractuel.
+
+La garantie bancaire de restitution d�acompte sera lib�r�e � la date de livraison du mat�riel sur justificatif de l�Entreprise.
+
+La garantie bancaire de bonne fin entre en vigueur � la date de livraison du mat�riel et sera lib�r�e � la date d�expiration de garantie, conform�ment � l�article 10.1.1 des pr�sentes.
+
+Les garanties bancaires devront �tre �mises par un organisme financier choisi parmi les �tablissements bancaires agr�es par les autorit�s comp�tentes, libell�es dans la/les monnaies stipul�e(s) au titre des paiements. L�organisme financier devra �tre de premier rang, notoirement solvable. 
+
+L�Entreprise reconna�t que Le Ma�tre d�Ouvrage ne sera pas tenu de proc�der � un quelconque paiement tant que l�Entreprise ne s�est pas conform�e aux engagements pris au titre du pr�sent article.
+
+ARTICLE 12 � LIVRAISON DE FOURNITURES, PROPRIETE ET TRANSFERT DU RISQUE
+
+Il est express�ment convenu entre les Parties que le Ma�tre d�Ouvrage acquiert la propri�t� des mat�riaux et �quipements composant la Centrale et en deviendra propri�taire conform�ment aux dispositions de droit commun.
+
+Par d�rogation expresse aux stipulations pr�cit�es, le transfert des risques vers le Ma�tre d�Ouvrage n�aura lieu qu�au jour de la R�ception de la Centrale, sous r�serve de la lev�e des r�serves de parfait ach�vement par l�Entreprise.
+
+ARTICLE 13 � PRIX, PAIEMENT DU PRIX ET MODALITES DE PAIEMENT
+
+13.1. Prix
+
+13.1.1 D�termination du Prix initial
+
+En contrepartie des Travaux fournis par le Ma�tre d�Ouvrage, le Prix du Contrat est fix� au Contrat d�Application, et sera r�gl� par l�Entreprise selon l��ch�ancier de paiement d�fini � l�Article 13.3.
+
+13.1.2. R�vision de prix
+
+Le�prix indiqu� au Contrat d�application pourra, � la demande de l�Entreprise �tre r�vis� chaque�trimestre � compter de sa signature et jusqu�� (3) mois avant le d�marrage du chantier par application de la formule d�finie ci-apr�s :
+
+P = P0 x [XX% x (BT47-n / BT47-0) + XX% x (TP02-n / TP02-0)] + XX% x (BT06-n / BT06-0)+ XX% x (BT07-n / BT07-0) ) + XX% x (BT43-n / BT43-0)
+
+-�P = prix r�vis� HT
+-�P0 = prix initial HT pr�vu dans le pr�sent Contrat
+-�BT47-n = derni�re�valeur connue de l�index BT publi� � la date de d�marrage des travaux
+-�BT47-0 = valeur de l�index BT disponible � la date de la pr�sente offre
+- TP02-n = derni�re�valeur connue de l�index BT publi� � la date de d�marrage des travaux
+-�TP02-0 = valeur de l�index BT disponible � la date de la pr�sent Contrat
+- BT06-n = derni�re�valeur connue de l�index BT publi� � la date de d�marrage des travaux
+-�BT06-0 = valeur de l�index BT disponible � la date de la pr�sent Contrat
+- BT07-n = derni�re�valeur connue de l�index BT publi� � la date de d�marrage des travaux
+-�BT07-0 = valeur de l�index BT disponible � la date de la pr�sente offre
+- BT43-n = derni�re�valeur connue de l�index BT publi� � la date de d�marrage des travaux
+-�BT43-0 = valeur de l�index BT disponible � la date de la pr�sente offre
+Les Parties conviennent que l'indice d'origine retenu a pour valeur�la derni�re valeur connue de l�index BT publi� � la date de la demande de r�vision.
+Conform�ment � l'article�1167 du Code civil, les Parties, en cas de disparition de l'indice retenu, utiliseront l'indice le plus proche. Le calcul du�prix�s'effectuera alors sur l'indice de remplacement en utilisant le coefficient de corr�lation n�cessaire.
+En toute hypoth�se, les Parties admettent que la r��valuation du�Prix du Contrat�ne pourra �tre sup�rieure 5%�du Prix initial.
+
+13.2. Ech�ancier de paiement
+
+Les paiements interviendront selon l��ch�ancier de paiement pr�vu ci-dessous. 
+
+Chaque �ch�ance de paiement devra correspondre � l�ach�vement complet d�une partie significative des Travaux et devra pouvoir �tre sanctionn�e par une v�rification autonome ind�pendamment du reste du projet. Ceci doit permettre au Ma�tre d�Ouvrage de v�rifier si l��ch�ance de paiement r�clam�e par l�Entreprise a bien �t� r�alis�e et de certifier au Ma�tre d�Ouvrage que le paiement se fait bien en accord avec le Contrat.
+
+Le Ma�tre d�Ouvrage devra pr�ciser les informations suivantes avec chaque �ch�ance de Paiement pour chaque type de Centrale�:
+
+Jalon No.Description des jalons de PaiementMontant en % IRemise documentaire (attestations d�assurance d�taill�es, documents de sous-traitance, plans EXE)*15%IIOuverture de chantier15%IIIAch�vement M�canique des Travaux 40%IVA la r�ception d�finitive (lev�e des r�serves) 25%VGarantie de parfait ach�vement
+(sauf remise de garantie auquel cas le Jalon IV sera de XX%)5%TOTAL100%*La liste des documents pourra le cas �ch�ant �tre compl�t�e dans les Contrats d�Application
+
+Les prix ci-dessus incluent toutes les garanties et assurances n�cessaires exig�es dans le Contrat pour r�aliser les Centrales dans les conditions d�finies au pr�sent Contrat.
+
+
+13.3. Facturation et modalit�s de paiement
+
+Lorsqu�une �ch�ance est due par le Ma�tre d�Ouvrage conform�ment � l��ch�ancier de paiement vis� � l�Article 13.2, l�Entreprise enverra � ce dernier une facture correspondant � l��ch�ance donn�e, laquelle devra indiquer de mani�re claire et pr�cise les mentions suivantes�:
+
+- le num�ro de la Commande (ou num�ro d�engagement)
+- le code projet et le lieu du chantier
+- le nom du Repr�sentant 
+- La date des prestations
+- Le jalon d�avancement concern�
+
+Les factures seront dat�es, libell�es au nom du Ma�tre d�Ouvrage et adress�es au format PDF, par e-mail exclusivement, � l�adresse france.billing@helexia.eu ainsi qu�au Repr�sentant d�sign� aux Contrat et adress� au Maitre d�Ouvrage. Les e-mails ainsi adress�s ne devront comporter qu�une seule facture par e-mail, ne proposer ni lien de t�l�chargement, ni aucun autre document, et ne devront pas d�passer 20Mo.
+Les factures au format PDF pourront int�grer (en un seul et m�me document) des pi�ces justificatives ou annexes n�cessaires. En tout �tat de cause, les pages qui la constituent devront �tre lisibles, � l�endroit, et accessibles sans mot de passe.
+
+        Toute facture non conforme aux dispositions ci-dessus devra faire l�objet de l��mission (i) d�un avoir � la facture litigieuse et (ii) d�une nouvelle facture conforme comportant un nouveau num�ro de facture.
+
+Aucun r�glement ne sera effectu� tant que l�Entreprise n'aura pas (i) respect� les conditions de facturation indiqu�es au pr�sent article et (ii) adress� au Ma�tre d�Ouvrage, copies certifi�es conformes des polices d'assurances contract�es pour la couverture des risques �num�r�s � l�Article 15 du pr�sent Contrat.
+
+Dans l�hypoth�se o� le Ma�tre d�Ouvrage ne notifierait pas � l�Entreprise son accord ou son refus dans le d�lai dix (10) Jours Ouvr�s � compter de la date de relance de la part de l�Entreprise, la condition de paiement de cette �ch�ance sera consid�r�e comme remplie avec effet � la date d�expiration de cette p�riode.
+
+A compter de la r�ception de la facture pr�alablement approuv�e par le Ma�tre d�Ouvrage, l�Entreprise proc�dera aux paiements dans un d�lai de 60 jours calendaires � compter de la date de facture.
+
+Les paiements devant �tre effectu�s au titre du pr�sent Contrat se feront par virement bancaire sur le compte d�sign� par l�Entreprise. 
+Le Ma�tre d�Ouvrage sera en droit de retenir tout paiement en cas de d�faillance de l�Entreprise � se conformer � ses obligations contractuelles et/ou l�gales (notamment de ses primes d�assurances, de ses taxes et imp�ts, salaires, etc.) et l�Entreprise d�fendra et tiendra indemne Le Ma�tre d�Ouvrage contre toute r�clamation de la part d�un tiers, du fait des actions ou omissions de la part de l�Entreprise dans le cadre de la r�alisation des Travaux. L�Entreprise autorise express�ment le Ma�tre d�Ouvrage � proc�der � toute compensation entre les sommes dues par ce dernier au titre du pr�sent Contrat et des sommes dues par l�Entreprise au Ma�tre d�Ouvrage.
+
+13.4. Int�r�ts de retard
+
+A d�faut de r�glement de toute somme due par l�une ou l�autre Partie pass� un d�lai de huit (8) Jours Ouvr�s suivant la date d�exigibilit� dudit r�glement, la Partie d�bitrice sera redevable�:
+
+(1) D�int�r�ts de retard sur le montant d� � hauteur de trois fois le taux d�int�r�t l�gal, � la date d�exigibilit� du paiement retard�; et
+
+(2) D�une indemnit� forfaitaire de quarante euros (40 euros) pour les frais de recouvrement.
+
+ARTICLE 14 � RESILIATION
+
+14.1. Suspension 
+
+Le Ma�tre d�Ouvrage sera en droit de prononcer la suspension de la r�alisation des Travaux pour convenance et/ou en cas de d�faillance de la part de l�Entreprise � se conformer � ses obligations contractuelles et/ou l�gales.
+
+A compter de la date d�entr�e en vigueur de la suspension, qui sera pr�cis�e dans la notification de suspension, l�Entreprise devra stopper les activit�s sur le Site, mettre le chantier en s�curit�. Il est pr�cis� que l�Entreprise ne sera pas lib�r� de son obligation d�assurer le gardiennage du Site pendant la p�riode de suspension. 
+
+Si la suspension n�est pas justifi�e par la d�faillance de l�Entreprise, les Parties se rencontreront pour d�terminer les impacts en termes de prix et de d�lais de r�alisation.
+
+Si la suspension est justifi�e par une d�faillance de la part de l�Entreprise, la suspension ne pourra �tre lev�e que d�s lors que l�Entreprise apporte la preuve qu�elle a rem�di� � ladite d�faillance. L�Entreprise ne pourra se pr�valoir d�une telle suspension pour r�clamer un ajustement des prix et/ou des d�lais contractuels.
+
+
+14.2. R�siliation aux torts de l�Entreprise
+
+Dans le cas du non-respect par l�Entreprise de l�une quelconque de ses obligations au titre du Contrat, le Ma�tre d�Ouvrage est en droit de r�silier le Contrat apr�s mise en demeure de rem�dier au(x) manquement(s), adress�e � l�Entreprise par lettre recommand�e avec demande d�avis de r�ception, rest�e infructueuse pendant quinze (15) jours, sans pr�judice des dommages int�r�ts qu�il pourra r�clamer � l�Entreprise pour le pr�judice qu�il aura subi de ce fait. 
+
+Il est pr�cis� que le Ma�tre d�Ouvrage aura la facult� de r�silier soit (i) le Contrat soit (ii) uniquement le Contrat d�application pour lequel le manquement a �t� constat�, afin de poursuivre l�ex�cution des autres Centrales.
+
+
+14.3. Cession des contrats de sous-traitance
+
+A compter de la date de prise d�effet de la r�siliation, l�Entreprise s�engage � c�der � titre gratuit tout ou partie des contrats que ce dernier a conclu avec ses sous-traitants, si le Ma�tre d�Ouvrage lui en fait la demande. Il est express�ment entendu que Le Ma�tre d�Ouvrage ne sera pas dans l�obligation de proc�der au paiement des Travaux r�alis�s jusqu�� cette date tant que les cessions demand�es par Le Ma�tre d�Ouvrage ne sont pas effectives.
+
+ARTICLE 15 � ASSURANCE 
+
+Avant tout commencement de Travaux, l�Entreprise adressera au Ma�tre d�Ouvrage, les copies des polices d'assurance qu'il doit souscrire aupr�s de compagnies d�assurance notoirement solvables pour les prestations relevant de la garantie d�cennale et/ou de la garantie biennale et/ou de la garantie de parfait ach�vement vis�es par les articles 1792 et suivants du Code civil et qui doivent couvrir les risques inh�rents � l'ex�cution des Travaux ainsi que la p�riode de garantie, � savoir celles se rapportant :
+
+� Aux v�hicules automobiles utilis�s sur le chantier qui doivent �tre assur�s conform�ment � la l�gislation et � la r�glementation en vigueur ;
+Aux accidents du travail pouvant survenir au personnel de l�Entreprise qui doivent �tre couverts par une assurance conform�ment � la l�gislation et � la r�glementation en vigueur. Le Ma�tre d�Ouvrage ne peut �tre tenu pour responsable des dommages ou indemnit�s l�gales � payer en cas d'accidents survenus aux ouvriers ou employ�s de l�Entreprise ou de ses sous-traitants. A ce titre, l�Entreprise garantira au Ma�tre d�Ouvrage contre toute demande de dommages-int�r�ts ou indemnit�s et contre toute r�clamation, plainte, poursuite, frais, charge et d�pense de toute nature relative � ces accidents. L�Entreprise est tenue d'informer par �crit Le Ma�tre d�Ouvrage de tout accident survenu sur son chantier et le consigner sur le cahier de chantier.
+
+� A la responsabilit� civile, couvrant toutes les cons�quences � la mise en jeu de la responsabilit�, dont les limites d�indemnisation ne pourront �tre inf�rieures � [EUR 2.000.000,00] par sinistre�; 
+
+� Une police Tous Risques Chantier, sur laquelle le Ma�tre d�Ouvrage sera indiqu� comme �tant assur�s additionnels�; 
+
+� Une police d'assurance couvrant les risques li�s � la responsabilit� d�cennale de l�Entreprise telle que celle-ci est d�finie � l'article L241.1 du Code des assurances. La p�riode de validit� de cette assurance court depuis la date de R�ception de la Centrale jusqu'� la fin de la dixi�me ann�e qui suit cette R�ception. La R�ception de la Centrale est subordonn�e par l'accord du Ma�tre de l�Ouvrage sur les termes et l'�tendue de cette police d'assurance. L�Entreprise fournira une attestation nominative d�assurance responsabilit� civile d�cennale (��RCD��).
+
+Les polices d�assurance doivent �tre en conformit� avec les exigences du pr�sent Contrat.
+
+L�Entreprise est tenue de pr�senter, sur demande du Ma�tre d�Ouvrage, la justification du paiement r�gulier des primes d'assurance pr�vues ci-avant. Toutes les polices d'assurance mentionn�es au pr�sent article doivent comporter une clause interdisant leur r�siliation sans aviser au pr�alable Le Ma�tre d�Ouvrage. Il est express�ment convenu entre les Parties que le Ma�tre d�Ouvrage aura la facult� de se substituer � l�Entreprise d�faillante pour effectuer tout paiement de primes arri�r�es. 
+
+L�Entreprise devra garantir le Ma�tre d�Ouvrage contre les cons�quences de tout autre dommage ou pr�judice caus� par lui � des tiers, � l'occasion des Travaux.
+
+Les dispositions du pr�sent article s'appliquent �galement aux sous-traitants de l�Entreprise.
+Le Ma�tre d�Ouvrage aura le droit de souscrire des polices compl�mentaires si l�Entreprise ne satisfait pas aux obligations qui lui sont impos�es par le pr�sent article. 
+
+Dans l�une ou l�autre de ces hypoth�ses, l�Entreprise devra rembourser au Ma�tre d�Ouvrage le montant des primes pay�es par ce dernier, ainsi que les frais entra�n�s par la souscription des polices compl�mentaires.
+	
+
+ARTICLE 16 - CONCESSION DE LICENCE DES DROITS DE PROPRIETE INTELLECTUELLE ET INDUSTRIELLE
+
+Les dessins, sp�cifications, plans, calculs, mod�les et conceptions faisant partie des Sp�cifications Techniques annex�es aux pr�sentes et pr�par�s par l�Entreprise ou tout sous-traitant exclusivement pour les Travaux seront transf�r�s au Ma�tre d�Ouvrage lors de leur pr�paration et deviendront sa propri�t� apr�s paiement des �ch�ances correspondantes et remis au Ma�tre d�Ouvrage � la R�ception Provisoire de la Centrale. Les dispositions pr�c�dentes n'affectent pas les droits exclusifs dont dispose l�Entreprise sur ses brevets.
+
+ARTICLE 17 � CESSION
+
+L�Entreprise ne pourra pas c�der le Contrat sans l'accord pr�alable du Ma�tre d�Ouvrage. 
+Le Ma�tre d�Ouvrage pourra, sous r�serve d'en avoir pr�alablement inform� l�Entreprise par �crit, proc�der � tout moment � la cession de ses droits et/obligations au titre du pr�sent Contrat, �tant entendu que l�Entreprise donne par les pr�sentes son accord � un transfert du Contrat par le Ma�tre d�Ouvrage � (i) une Soci�t� Affili�e du Ma�tre d�Ouvrage, en ce compris une soci�t� dite "projet" (SPV), (ii) un �tablissement bancaire ou financier ou (iii) tout tiers-investisseur intervenant aux fins de financer tout ou partie de la Centrale PV et accepte que le Ma�tre d�Ouvrage soit � l'avenir lib�r� de toute obligation envers l�Entreprise au titre du Contrat suivant une telle cession.
+
+
+ARTICLE 18 � FORCE MAJEURE
+
+Constituent des cas de Force Majeure, les circonstances limitativement d�finies ci-apr�s et faisant obstacle � l�ex�cution par l�une ou l�autre des Parties de ses obligations au titre du pr�sent Contrat, conform�ment � l�article 1218 du Code civil. Dans le cas de projets cl�s en main, le cas de Force Majeure ne sera retenu que si ce dernier est caract�ris� au titre du contrat principal conclu entre le Ma�tre d�Ouvrage et l�Entreprise:
+
+- La guerre, les hostilit�s, la r�volution, la r�bellion, l'insurrection contre toute autorit� administrative, les �meutes, le terrorisme, les actes d'un ennemi public ;
+
+- Les catastrophes naturelles, comprenant notamment, les temp�tes, inondations, la foudre, les s�ismes, temp�tes de gr�le, temp�tes de neige, tornades, typhons, ouragans, glissements de terrain, �ruptions volcaniques, incendies (sauf s�il est caus� par l�Entreprise ou l�un de ses pr�pos�s ou l�un de ses propres sous-traitants), les objets frappant la terre tomb�s de l'espace (tels que des m�t�orites)�;
+
+- Les maladies �pid�miques et pand�miques�;
+
+- Les r�gimes d�exception (�tat d�urgence ou tout autre instruction �manant de l�Administration emp�chant ou restreignant la r�alisation des Travaux, �tat de si�ge, circonstances exceptionnelles�). 
+
+La Partie emp�ch�e par un cas de Force Majeure sera dispens�e de ses obligations dans la mesure o� celles-ci sont affect�es par le cas de Force Majeure, sous r�serve : 
+- Que la Partie affect�e le notifie � l�autre Partie par �crit, au plus t�t et au maximum dans un d�lai de dix (10) Jours Ouvr�s suivant la date � laquelle elle aura appris l�existence du cas de Force Majeure, en d�crivant ce qu�elle sait de l��v�nement, y compris en indiquant sa dur�e pr�visible et son impact probable sur l�ex�cution des obligations de ladite Partie aux termes des pr�sentes ; 
+
+- Que la suspension d�ex�cution ne soit pas d�une port�e ou d�une dur�e plus importante que ce qui sera raisonnablement n�cessaire du fait du cas de Force Majeure ; 
+
+- Que la Partie affect�e fasse de son mieux pour continuer � ex�cuter ses obligations aux termes des pr�sentes dans la mesure o� elle n�en aura pas �t� dispens�e ; 
+
+- Que, lorsque la Partie affect�e sera en mesure de reprendre l�ex�cution des obligations affect�es aux termes du pr�sent Contrat, elle le notifie par �crit � l�autre Partie et reprenne dans les meilleurs d�lais son ex�cution du pr�sent Contrat. 
+
+La Partie affect�e par la survenance d�un cas de Force Majeure devra faire ses meilleurs efforts en vue de limiter les pr�judices caus�s � l�autre Partie. 
+
+
+ARTICLE 19 � DROIT APPLICABLE ET REGLEMENT DES DIFFERENDS 
+
+19.1.	Droit applicable
+
+Le pr�sent Contrat est r�gi par le droit fran�ais et sera interpr�t� conform�ment � celui-ci.
+
+19.2. R�glement des diff�rends
+
+19.2.1. R�glement amiable
+
+Tout litige survenant entre les Parties quant � l�interpr�tation ou � l�ex�cution du pr�sent Contrat sera obligatoirement soumis, avant de recourir � un r�glement judiciaire, � une tentative de r�glement amiable, les Parties se rapprochant alors en vue de trouver ensemble une solution amiable. 
+
+Pendant cette p�riode, les Parties s�engagent � ce que les Etudes Pr�alables et/ou les Travaux et leur r�glement continuent afin que la r�alisation de la Centrale n�ait pas � en souffrir.
+
+19.2.2. R�glement judiciaire
+
+A d�faut de r�glement amiable du diff�rend, les Parties conviennent de r�soudre ce dernier par voie judiciaire aupr�s du Tribunal de Commerce de Lille 
+
+
+ARTICLE 20 � DIVERS
+
+20.1.	Communications et Notifications
+
+Toute notification, requ�te, demande ou autre communication exig�e ou autoris�e en vertu du pr�sent Contrat sera consid�r�e �tre d�ment d�livr�e par l'exp�diteur et re�ue par le destinataire si elle est sous forme �crite, et envoy�e par courrier recommand� avec accus� de r�ception aux adresses postales indiqu�es � l�article 3 du Contrat d�Application.
+
+Les Parties pourront � tout moment modifier les adresses mentionn�es au Contrat d�Application en envoyant une notification �crite indiquant les nouvelles adresses pour les notifications. La nouvelle adresse n�aura d�effet qu�� compter de la date de r�ception par l'autre Partie de la communication �crite indiquant la nouvelle adresse pour les notifications.
+
+Toute autre communication par courriel ou par t�l�phone pourra �galement �tre adress�e aux Repr�sentants respectifs dont les coordonn�es figurent au Contrat d�Application. Les notifications re�ues par les Repr�sentants respectifs du Ma�tre d�Ouvrage et de l�Entreprise seront consid�r�es avoir �t� d�livr�es au Ma�tre d�Ouvrage ou � l�Entreprise. 
+
+20.2	Confidentialit�
+
+Chaque Partie (ci-apr�s la ��Partie B�n�ficiaire��) ne pourra utiliser � une fin autre que pour l�ex�cution des obligations au titre du pr�sent Contrat ou divulguer, communiquer, produire, publier, ou permettre l'acc�s � toute information confidentielle de la partie divulgatrice, (ci-apr�s la ��Partie Divulgatrice��) sans le consentement �crit et pr�alable de l'autre Partie. 
+
+Sont consid�r�es comme informations confidentielles, les informations fournies par le pr�sent Contrat lequel comprend le Contrat Cadre, le Contrat d�Application et ses Annexes, et toutes les informations ou tous les documents pr�par�s dans le cadre de l'objet du pr�sent Contrat ou tout contrat ult�rieur connexe, les conceptions, dessins, sp�cifications, techniques, mod�les, donn�es, documentation, code source, code objet, diagrammes, organigrammes, recherches, d�veloppements, processus, proc�dures, savoir-faire, techniques et mat�riels de fabrication, de d�veloppement ou de commercialisation, indicateurs de d�veloppement ou de commercialisation, strat�gies et plans de d�veloppement, les noms des clients, fournisseurs ou du personnel et les autres informations se rapportant aux clients, fournisseurs ou au personnel, les politiques de tarification et les informations financi�res, et les autres informations de nature similaire, sous forme �crite ou non ou sous toute autre forme tangible, et tout secret commercial.
+
+Les informations confidentielles ne s��tendront pas�: (a) aux informations connues de la Partie B�n�ficiaire avant m�me la communication de ces informations par la Partie Divulgatrice�; (b) aux informations pouvant d�j� �tre connues par les tiers au moment de leur divulgation par la Partie B�n�ficiaire�; ou (c) aux informations obtenues par la Partie B�n�ficiaire d'un tiers qui n�aurait pas re�u les m�mes informations, directement ou indirectement, de la Partie Divulgatrice. La Partie B�n�ficiaire fera preuve du plus grand soin pour pr�server ses informations confidentielles et pour emp�cher une utilisation ou une divulgation non autoris�e desdites informations confidentielles.
+
+Sauf disposition contraire des pr�sentes, la Partie B�n�ficiaire aura le droit de divulguer des informations confidentielles sans le consentement �crit et pr�alable de la Partie Divulgatrice�: (a) lorsqu�elles seraient exig�es par un quelconque tribunal ou toute  autorit� administrative�; (b) lorsque que le droit applicable l'exigerait�; (c) � ses avocats, comptables, conseillers financiers ou autres agents, li�s par des obligations de confidentialit�; (d) aux banques, investisseurs et autres sources de financement et leurs conseillers, li�s par des obligations de confidentialit� similaires � celles auxquelles elle s'engage dans les pr�sentes�; ou (e) dans le cadre d'une fusion ou acquisition av�r�e ou �ventuelle ou d'une transaction similaire o� la partie recevant les informations confidentielles est li�e par des obligations de confidentialit� similaires � celles auxquelles elle s'engage dans les pr�sentes. Dans le cas o� une Partie B�n�ficiaire supposerait qu'elle serait contrainte par un tribunal ou une autre autorit� administrative de divulguer des informations confidentielles relevant de la Partie Divulgatrice, elle en informera sans d�lai par �crit la Partie Divulgatrice de telle sorte que la Partie Divulgatrice puisse d�terminer si elle prendra ou non des mesures pour s'opposer � une telle divulgation.
+
+Sous r�serve de ce qui pr�c�de, les Parties conviendront ensemble de la n�cessit� et du contenu de tout communiqu� de presse portant sur les questions envisag�es par le pr�sent Contrat. Toute autre publication, communiqu� de presse ou autre annonce publique qui pourrait �tre fait par une des Parties en rapport avec le pr�sent Contrat ou son ex�cution devra d�abord �tre accept� par �crit par l'autre Partie, cette derni�re ne pouvant s�opposer sans motif raisonnable.
+
+
+
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+20.1. 
+20.2. 
+20.3. Protection des donn�es personnelles
+�
+Les informations et donn�es personnelles recueillies du pr�sent Contrat, ci-apr�s les ��Donn�es��, sont trait�es par Helexia, responsable de traitement, ou par l�une des soci�t�s filiales du groupe Helexia, et sont enregistr�es dans un fichier informatis� aux fins de la s�curisation du foncier n�cessaire au Projet. 
+De ce fait, les Donn�es sont susceptibles d��tre transf�r�es � des tiers, notamment :
+* Les autorit�s administratives�;
+* Les partenaires d�Helexia concernant le Projet, en particulier mais non exclusivement les fournisseurs, les constructeurs, les bureaux d��tudes ou autres prestataires sp�cialement mandat�s pour le Projet�;
+* Les �tablissements financiers finan�ant ou susceptible de financer le Projet. 
+�
+Cette communication des Donn�es aux tiers est indispensable afin de mener � bien la r�alisation du Projet cl� en main.
+�
+Les Donn�es sont conserv�es � compter de la signature du pr�sent Contrat jusqu�� la Mise en Service d�finitive de la Centrale.
+
+Conform�ment au R�glement (UE) 2016/679 du 27 avril 2016, les personnes concern�es peuvent acc�der aux donn�es les concernant directement aupr�s d�Helexia (gdpr@helexia.eu). 
+ �
+Le cas �ch�ant, les personnes concern�es peuvent �galement obtenir la rectification, l�effacement des donn�es les concernant ou s�opposer pour motif l�gitime au traitement de ces donn�es, hormis les cas o� la r�glementation ne permet pas l�exercice de ces droits. Toute r�clamation peut �tre introduite aupr�s de la Commission Nationale de l�Informatique et des Libert�s.
+
+20.4	Modification du Contrat
+
+Le pr�sent Contrat ne pourra �tre modifi� que par un accord �crit des Parties. 
+
+20.5	Int�gralit� du Contrat 
+
+Le pr�sent Contrat contient l'int�gralit� des conventions et conditions convenues par les Parties�; il abroge, annule et remplace tout contrat, accord ou toute condition pouvant avoir �t� convenu ou �chang� entre les Parties avant la date des pr�sentes, en tout ou en partie.
+
+20.6		Autorit�
+
+Chaque personne signant le pr�sent Contrat au nom du Ma�tre d�Ouvrage et de l�Entreprise d�clare et garantit qu'il ou elle est d�ment autoris�(e) � signer et � transmettre le pr�sent Contrat au nom de ladite Partie et que le pr�sent Contrat est contraignant pour ladite Partie conform�ment � ses conditions.
+
+20.7	 Signature par voie �lectronique
+
+Il est express�ment convenu entre les PARTIES que, par d�rogation aux r�gles de preuve �dict�es par le Code civil, et plus particuli�rement par l�article 1375 dudit Code, l��tablissement d�un original du pr�sent acte par PARTIE ne sera pas requis � titre de preuve des engagements pris par ladite PARTIE.
+ 
+Les PARTIES reconnaissent et acceptent que (i) le pr�sent Contrat � soit le Contrat Cadre ainsi que les Contrats d�Applications � soit sign� par voie de signature �lectronique via la plateforme ADOBESIGN� en application des articles 1367 et suivants du Code civil, (ii) que la transmission �lectronique desdits actes ainsi sign�s vaudra preuve, entre elles, de son existence, de son origine, de sa r�ception et de son int�grit�.
+ 
+En cons�quence de ce qui pr�c�de, les PARTIES reconnaissent et acceptent que le pr�sent acte portera la date de sa signature par le dernier des signataires.
+
+
+LE MAITRE D�OUVRAGEL�ENTREPRISEHELEXIA DEVELOPPEMENT
+Repr�sent� par M. Christophe CONSTANT
+[**************]
+Repr�sent� par [**************]
+
+
+
+
+LISTE DES ANNEXES
+
+ANNEXE PRELIMINAIRE�: CONTRAT D�APPLICATION
+
+ANNEXE 1 : SPECIFICATIONS TECHNIQUES, DESCRIPTION DE LA CENTRALE ET DETAIL DES TRAVAUX
+
+ANNEXE 2 : PLANNING DE R�ALISATION DES TRAVAUX
+
+ANNEXE 3�: GARANTIES DE PRODUCTION  
+
+ANNEXE 4�: SOUS-TRAITANCE ET CONDITIONS
+
+ANNEXE 5�: CHARTE SSE
+
+ANNEXE 6�: PV DE RECEPTION
+
+
+ANNEXE PRELIMINAIRE
+
+CONTRAT D�APPLICATION AU CONTRAT CADRE DU [DATE]
+ENTRE [HELEXIA DEVELOPPEMENT] et [NOM SOCIETE]
+[CODE PROJET� NOM PROJET � VILLE- NUMERO D�ENGAGEMENT]
+
+ENTRE�:
+
+La Soci�t� HELEXIA DEVELOPPEMENT, par actions simplifi�e, au capital de 3�932 000 euros, enregistr�e au Registre du commerce et des soci�t�s de LILLE METROPOLE sous le num�ro 524�102 670, dont le si�ge social est situ� � La Madeleine (59110), 38 All�e Vauban � Immeuble Crystal, repr�sent�e par Monsieur Christophe CONSTANT, agissant en qualit� de Directeur G�n�ral France et d�ment habilit� aux fins des pr�sentes,
+
+Ci-apr�s d�nomm�e, ��HELEXIA�� ou le ��Ma�tre d�Ouvrage�,
+
+ D�une part,
+
+
+ET
+
+
+La soci�t� [***********] [Forme soci�tale] au capital de [*****************], enregistr�e au Registre du commerce et des soci�t�s de [***********] sous le num�ro [*********], ayant son si�ge social sis [*********************************], dont , repr�sent�e par Monsieur [**********] agissant en qualit� de [**************] et d�ment habilit� aux fins des pr�sentes, 
+
+Ci-apr�s d�nomm�e ��[************]�� ou l��Entreprise�,
+
+        D�autre part, 
+
+Le Ma�tre d�Ouvrage et l�Entreprise peuvent �galement �tre d�sign�s individuellement par ��Partie�� et collectivement par les ��Parties��.
+
+
+PREAMBULE�:
+
+A. En date du [***********], HELEXIA DEVELOPPEMENT et l�Entreprise ont conclu un Contrat Cadre afin de d�finir les termes et conditions en vue de la r�alisation de plusieurs centrales photovolta�ques, que l�Entreprise a accept� d'assurer.
+
+B. Ce Contrat Cadre a vocation � �tre d�clin� et compl�t� par des contrats d'application sp�cifiques � chacune des Centrales, par les soci�t�s affili�es du Groupe HELEXIA.
+
+C. Les Parties se sont donc rapproch�es afin de d�finir, aux termes du pr�sent Contrat d'Application, les conditions sp�cifiques � la r�alisation de la Centrale [**********].
+
+
+ARTICLE 1 � OBJET - ETENDUE DES TRAVAUX
+
+Le pr�sent Contrat d�Application a pour objet la r�alisation du Lot [Structure � Fondations - Electricit�] sur la Centrale [***********], situ�e [**************adresse compl�te****************] dans le cadre d�une op�ration [cl� en main/tiers investissement]. [Si EPC A ce titre, l�Entreprise devra respecter les conditions sp�cifiques indiqu�es � l�Article 7.]
+
+Le descriptif complet de la Centrale figure en Annexe 1.
+
+Les Travaux objet du pr�sent Contrat d�Application sont d�finis en Annexe 2.
+
+ARTICLE 2 � PRIX
+
+2.1 Prix initial
+
+Le Prix pour la compl�te ex�cution des Prestations est fix� � la somme forfaitaire de [*********] � [EN LETTRES EUROS HORS TVA]. Le Ma�tre d�Ouvrage s�oblige � payer ce montant directement � l�Entreprise conform�ment � l��ch�ancier des paiements figurant � l�article 13 du Contrat Cadre. 
+
+[ou int�grer �ch�ancier de paiement]
+
+2.2. Prix R�vis�
+
+Le Prix d�fini en 1.1 sera r�vis� dans les conditions pr�vues � l�article 13.1.2 du Contrat Cadre.
+
+ARTICLE 3 � DUREE
+
+Le pr�sent Contrat d�Application prend effet � compter de la date de signature�et pendant toute la dur�e de r�alisation des Travaux de la Centrale, jusqu�� la p�riode de parfait ach�vement.
+
+ARTICLE 4 � PENALITES
+
+Les p�nalit�s vis�es � l�article applicables sont plafonn�es � 20% du Prix du Contrat d�Application.
+
+Les jalons sur lesquels portent les p�nalit�s de retard sont�les suivantes, et seront appliqu�es selon les dates mentionn�es au Planning de R�alisation et rappel� ci-apr�s�: 
+
+- Remise des documents de conception d�taill�e�
+- Ach�vement M�canique 
+- Mise en Service�
+- R�ception des Travaux� 
+
+
+ARTICLE 5 � REPRESENTANTS
+
+4. 
+5. 
+5.1. Repr�sentants du Ma�tre d�Ouvrage
+
+Le Ma�tre d�Ouvrage d�signe par les pr�sentes comme repr�sentant(s)�:
+
+Monsieur/Madame [**************]
+Titre�:  Chef de projet construction photovolta�que
+T�l�phone�: [**************]
+Adresse mail�: [**************]
+Adresse postale�: Immeuble Green Office Link, 148 avenue Jean Jaur�s 69007 LYON
+
+
+4 
+5 
+5.2 Repr�sentants de l�Entreprise
+
+L�Entreprise d�signe par les pr�sentes comme repr�sentant(s)�:
+
+Monsieur/Madame [**************]
+Titre�: [**************]
+T�l�phone�: [**************]
+Adresse mail�: [**************]
+Adresse postale�: [**************]
+
+
+ARTICLE 6 - APPLICATION DU CONTRAT CADRE
+
+Toutes les dispositions qui ne font pas l'objet de stipulations sp�cifiques au titre du pr�sent Contrat d'Application sont r�gies par le Contrat Cadre conclu entre les Parties, ces derni�res �tant int�gralement et pleinement applicables audit Contrat d'application.
+Par cons�quent, toute rupture du contrat cadre, pour quelque cause que ce soit, entra�nera de plein droit et sans formalit� aucune, la r�siliation ou r�solution imm�diate du pr�sent Contrat d'Application. 
+
+
+ARTICLE 7 � CONDITIONS SPECIFIQUES RELATIVES AU CONTRAT PRINCIPAL
+
+[Conditions du Contrat EPC]
+
+
+ARTICLE 8�: OBLIGATION DE CERTIFICATION
+
+L�Entreprise s�engage � �tre titulaire des certifications ISO 9001 et ISO 14001 pendant toute la dur�e du contrat et � se conformer aux exigences normales et n�cessaires pour le maintien de la certification. En cas de perte de la certification pendant la dur�e du contrat, l�Entreprise s�engage � faire appel � un sous-traitant titulaire de la certification. 
+
+
+ANNEXE 1 : SPECIFICATIONS TECHNIQUES - DESCRIPTION DE LA CENTRALE - DETAIL DES TRAVAUX
+
+
+
+
+
+ANNEXE 2 : PLANNING DE R�ALISATION DES TRAVAUX 
+
+
+
+ANNEXE 3�: GARANTIES DE PRODUCTION 
+[LOT ELECTRICITE UNIQUEMENT]
+
+L�Entreprise garantit un ratio de performance moyen sup�rieur � celui indiqu� dans le tableau ci-dessous, calcul� sur une dur�e de 3 mois suivant sa mise en service.
+[TABLEAU PR PVSYST]
+
+La performance de la Centrale se mesure par l�interm�diaire du ratio de performance dont la formule de calcul, pour un mois donn�, est indiqu�e ci-dessous�:  
+
+PR_i=(E_i  x 1�000 W/m�)/(P_nom  x H_i  x [1-?/100 x (T_i-T_ref)] )
+Avec�:
+* Ei : L��nergie en kWh produite par la centrale pendant le mois, mesur�e sur le compteur de production
+* Hi�: Irradiation re�ue dans le plan des panneaux en kWh/m� pendant le mois
+* Pnom�: Puissance nominale du projet �gale � 150 kWc
+* Tref�: Temp�rature de la cellule aux conditions standards de fonctionnement �gale � 45 �C
+* ?�: Coefficient de temp�rature de la puissance maximale des panneaux �gal � -0,04 %/�C
+* Ti�: Temp�rature moyenne en �C de la cellule photovolta�que pendant le mois. Cette valeur est obtenue par la moyenne des mesures horaires de la temp�rature de la cellule tout au long du mois, pond�r�e par l�irradiation re�ue sur chaque heure�:
+
+T_i=(?_j??H_j*T_j ?)/H_i 
+o� Tj et Hj sont respectivement la temp�rature de la cellule et l�irradiation horizontale re�ue par les panneaux � chacune des heures du mois consid�r�.
+
+Le calcul du taux de fonctionnement exclut : 
+* Les coupures de production dues au r�seau public de distribution d��lectricit� (Enedis ou Entreprise Locale de Distribution d��lectricit� (ELD))
+* Les d�faillances du fabricant de transformateurs � proc�der � un remplacement complet du transformateur qui en aurait besoin
+* Les d�faillances et coupures de production imputables aux �l�ments appartenant au Gestionnaire du R�seau de Distribution (Enedis ou ELD) sur la centrale
+* Le manque de production d� aux al�as climatiques (neige)
+* Ev�nement de force majeure au sens de l�article 1218 du Code civil�: ��lorsqu�un �v�nement �chappant au contr�le du d�biteur, qui ne pouvait �tre raisonnablement pr�vu lors de la conclusion du contrat et dont les effets ne peuvent �tre �vit�s par des mesures appropri�es, emp�che l'ex�cution de son obligation par le d�biteur.��
+* Les heures au cours desquelles les onduleurs fonctionnent avec bridage pour des raisons de limitation de l�injection sur le r�seau public (autoconsommation totale) seront exclues de cette moyenne.
+* L�indisponibilit� d�un des composants du calcul (perte de communication, sonde d�irradiation d�faillante, etc.)
+* L�Entreprise ne sera pas tenue responsable pour non-atteinte du ratio de performance en cas de dysfonctionnement des �quipements non fournis par cette derni�re, ce qu�elle devra justifier.
+
+Il est pr�cis� que cette garantie entre en vigueur � compter du 1er jour du mois suivant le mois de la Mise en Service et s�appliquera pour une dur�e de 3 mois, reconductible 3 mois en cas de non atteinte du PR moyen cible jusqu�� l�atteinte de celui-ci. 
+
+Le PR est calcul� sur une dur�e de 3 mois suivant la mise en service et est compar� � la moyenne des PR pr�visionnels sur les mois correspondants.
+
+[Dans le cas d�un contrat EPC�:  Le Ma�tre d�Ouvrage d�clare que les �v�nements list�s ci-dessus proviennent du contrat conclu entre le Ma�tre d�Ouvrage et le Client Principal. Par cons�quent, l�Entreprise reconnait et accepte que l��v�nement en question sera valid� par le Ma�tre d�Ouvrage dans le seul cas o� le Client Principal aurait valid� le m�me �v�nement. L�Entreprise apportera � ce titre toute assistance requise en vue de permettre au Ma�tre d�Ouvrage de justifier l��v�nement au Client Principal.]
+
+En cas de non-respect de ce ratio de performance, L�Entreprise sera redevable d�une p�nalit� forfaitaire �gale �:
+* 2% du prix indiqu� � l�article 7.1 par point de pourcentage d��cart entre le ratio mesur� et le ratio cible de XX%, dans la limite d�un �cart de 10 points�;
+* 15% du prix indiqu� � l�article 7.1 si l��cart entre le ratio de performance mesur� et le ratio cible est sup�rieur � 10 points de pourcentage, soit un ratio inf�rieur � XX%. 
+
+Le montant de la p�nalit� ne doit pas d�passer 20% du montant du Contrat. 
+
+
+ANNEXE 4�: SOUS-TRAITANCE ET CONDITIONS
+�
+* Dispositions G�n�rales
+�
+L�Entreprise veillera � respecter la loi du 31 d�cembre 1975 sur la sous-traitance et devra � ce titre pr�senter au Ma�tre d�Ouvrage l�ensemble des sous-traitants qui pourraient �tre amen�s � r�aliser tout ou partie des Travaux. Il est pr�cis� que l�Entreprise pourra sous-traiter les Travaux dans la limite du rang 1.
+�	
+Il est pr�cis� que l�Entreprise remettra au Ma�tre d�Ouvrage concomitamment � la signature du Contrat, la liste des sous-traitants qu�il souhaite consulter en s��tant assur� au pr�alable que lesdits sous-traitants disposent de la qualification, de la comp�tence, et des moyens humains et techniques n�cessaires pour r�aliser les travaux sous trait�s dans le d�lai contractuel. 
+�
+L�Entreprise s�engage � pr�senter au Ma�tre d�Ouvrage pour acceptation de leur intervention et agr�ment de leur condition de paiement, les sous-traitants au minimum (1) mois avant le d�marrage des travaux sous-trait�s.
+�
+En tout �tat de cause, toute intervention sur le Site d�un sous-traitant n�ayant pas fait l�objet d�une acceptation expresse du Ma�tre d�Ouvrage et de l�Entreprise est formellement interdite.
+�
+En cas de non-respect des obligations impos�es au pr�sent article, l�Entreprise sera tenue de garantir le Ma�tre d�Ouvrage dans le cas o� sa responsabilit� serait engag�e par tout intervenant, sous-traitant, ou tiers � l�ex�cution du March� de Travaux nonobstant l�application des p�nalit�s que le Ma�tre d�Ouvrage serait en droit de lui appliquer conform�ment aux dispositions de l�article 3.3 du pr�sent Contrat.
+�
+L�Entreprise est responsable de ses sous-traitants vis-�-vis du Ma�tre d�Ouvrage.
+�
+En tout �tat de cause l�Entreprise s�engage � imposer contractuellement � ses sous-traitants l�ensemble des clauses du pr�sent contrat 
+�
+L�agr�ment donn� par le Ma�tre d�Ouvrage ne vaut que dans la limite des prestations et de leur montant correspondant que l�Entreprise aura d�clar� sous-traiter.
+�
+Faute de fournir ces �l�ments, la demande d�agr�ment du sous-traitant est remise en cause pour cette prestation. L�Entreprise doit pr�senter un nouveau sous-traitant dans un d�lai maximum de (5) jours ouvr�s.
+�
+Il est entendu entre les Parties que l�Entreprise s�engage � remettre � son sous-traitant une caution bancaire personnelle et solidaire d�s la signature du march� du sous-trait�, en application de l�article 14 de la loi du 31 d�cembre 1975 et renonce d�ores et d�j� � d�l�guer le Ma�tre d�Ouvrage dans les paiements du sous-traitant.
+��
+L�Entreprise s�engage dans les (20) jours de l�acceptation de chaque sous-traitant � fournir au Ma�tre d�Ouvrage une copie de la caution bancaire ou l�attestation sur l�honneur du sous-traitant de la r�ception de la caution bancaire due � chaque sous-traitant.
+
+Dans l�hypoth�se o� le Ma�tre d�Ouvrage d�couvrait l�intervention d�un sous-traitant qui ne lui aurait pas �t� pr�sent� dans les conditions pr�cit�es, et/ou qui ne b�n�ficierait pas de la caution bancaire de l�article 14 de la loi du 31 d�cembre 1975, ou dont il n�aurait pas accept� l�intervention, le Ma�tre d�Ouvrage prononcera l�exclusion directe du sous-traitant irr�gulier et l�Entreprise devra mettre en �uvre toutes les actions correctives afin de respecter le planning. Il pourra �galement retenir le paiement des situations de l�Entreprise, tant que la situation du sous-traitant n�aura pas �t� r�gularis�e, sans pr�judice de l�application des p�nalit�s de retard.
+�Le d�faut de r�gularisation de la situation du sous-traitant peut �galement autoriser le Ma�tre d�Ouvrage, � r�silier le Contrat, apr�s mise en demeure rest�e infructueuse pendant (8) jours calendaires � compter de son envoi, sans pr�judice de toutes mesures et des frais et honoraires que le Ma�tre d�Ouvrage engagerait pour la sauvegarde de ses droits.
+�
+* Dossier relatif � la demande d�agr�ment et d�acceptation de sous-traitance�:
+
+Pour L�Entreprise et pour chacun de ses propres sous-traitants, l�Entreprise �tablira un dossier de pr�sentation qu�il devra transmettre, avant l�intervention dudit sous-traitant, au Ma�tre d�Ouvrage ou � son repr�sentant, sous la forme d�un dossier comprenant les �l�ments suivants :
+�
+* La nature des prestations dont il envisage de leur confier la r�alisation�;
+* Un Extrait Kbis � ou fiche d�inscription au Registre des M�tiers �  de moins de 3 mois�;
+* Le nom, l�adresse et la raison ou d�nomination sociale�;
+* Le num�ro d'inscription au Registre du Commerce ou au Registre des M�tiers�;
+* Une attestation d�assurance d�cennale, valable au jour de la Date R�glementaire d�Ouverture de Chantier (DROC)�;
+* Une attestation d�assurance Responsabilit� Civile en cours de validit� � la date de la DROC�;
+* Une attestation unique �manant de l'organisme de protection sociale charg� du recouvrement des cotisations et des contributions et portant sur les d�clarations sociales et le paiement des cotisations et contributions de s�curit� sociale datant de moins de six mois conform�ment aux articles L243-15 et D.243-15 code de la s�curit� sociale�;
+L�entreprise sous-traitante devra fournir cette attestation � nouveau tous les six mois � compter de la signature de son march� et jusqu�� la fin de la garantie de parfait ach�vement�;
+* Une attestation de r�gularit� fiscale en cours de validit�;r
+* Une attestation sur l�honneur du dirigeant de l�entreprise sous-traitante certifiant ne pas avoir fait�l�objet au cours des 5 derni�res ann�es d�une condamnation p�nale ;
+* Un Certificat de qualification professionnelle�et cartes d�identification professionnelle BTP ;
+* Titre(s) d�habilitation et attestation(s) de formations li�es aux interventions 
+* Certificats de conformit�, v�rifications p�riodiques et carnets de maintenance et attestations assurances des appareils, engins et accessoires de levage
+* La copie de la caution personnelle et solidaire en sa qualit� de donneur d�ordre du montant du lot confi� et des travaux suppl�mentaires d�livr�e � chacune des entreprises �manant d�un organisme de caution ou un �tablissement bancaire dont l�identit� devra �tre communiqu�e au Ma�tre d�Ouvrage.
+�
+A r�ception du dossier de pr�sentation complet, le Ma�tre d�Ouvrage disposera d�un d�lai de dix (10) jours ouvr�s pour accepter express�ment l�intervention du sous-traitant et agr�er ses conditions de paiement ou refuser son intervention. 
+�
+En tout �tat de cause, un dossier de pr�sentation incomplet pourra entrainer un refus automatique de la part du Ma�tre d�Ouvrage et le rejet du dossier. Si ce dossier n��tait pas compl�t� dans les huit (8) jours calendaires de sa premi�re pr�sentation, il sera d�finitivement et implicitement �cart� par le Ma�tre d�Ouvrage.
+�
+En cas de refus, L�Entreprise disposera d�un d�lai de cinq (5) jours calendaires pour pr�senter un nouveau sous-traitant, mais ne pourra en tout �tat de cause invoquer le refus du Ma�tre d�Ouvrage pour justifier un retard dans la r�alisation de l�ouvrage.
+�
+* Lutte contre le travail dissimul� et la sous-traitance occulte�:
+�
+Il est rappel� que L�Entreprise, � l�effet de pr�venir toute situation de travail dissimul� et toute forme de sous-traitance occulte ou encore de mise � disposition de personnel�irr�guli�re, doit prendre toutes dispositions au plan organisationnel et mat�riel de fa�on � pouvoir contr�ler, � tout moment sur le chantier et pendant toute la dur�e du march�, l�identit�, la qualit� et le statut des personnes pr�sentes travaillant au service ou pour le compte de toutes les entreprises intervenantes qu�elles soient titulaires ou sous-traitants. 
+�
+* Avant le d�marrage des travaux�:
+�
+L�Entreprise devra s�assurer que les entreprises sous-traitantes intervenant sur le chantier justifient de la r�gularit� de leur situation telle que d�finie par les dispositions des articles L8221-3 et 4 du Code du Travail.
+�
+* Contr�le des salari�s sur le chantier�:
+�
+Sans pr�judice des dispositions de l�article R 4532-16 du Code du Travail imposant au coordonnateur SPS de prendre toutes les dispositions n�cessaires pour que seules les personnes autoris�es puissent acc�der au chantier, L�Entreprise veillera � l�adoption d�un dispositif sp�cifique permettant l�acc�s au chantier aux seules personnes li�es par un contrat de travail ou un contrat /convention de mise � disposition aux�entreprises participant au chantier et s�assurera que toutes personnes autoris�es � p�n�trer sur le site portent une chasuble de couleur. 
+
+Les repr�sentants de chacune des entreprises intervenantes assurent sur le chantier l�encadrement effectif de leurs �quipes (conducteur de travaux, chef de chantier ou chef d��quipe) devront�reporter via un QR code chaque jour d�intervention sur le chantier, leur nom, la d�nomination sociale du Ma�tre d�Ouvrage et le cas �ch�ant le sinistre.
+L�Entreprise s�engage � proc�der � des pointages inopin�s du personnel pr�sent sur le Site. 
+�L�Entreprise consignera lesdits pointages sur des fiches dat�es et num�rot�es figurant dans un classeur laiss� � demeure sur le Site, et dont copie sera transmis � la ma�trise d�ouvrage ainsi qu�au coordonnateur SPS.
+�
+Il veillera � tenir � disposition du Ma�tre d�Ouvrage, du Coordonnateur SPS et des autorit�s de contr�le les courriers et documents justifiant du suivi des entreprises intervenantes au regard de la pr�vention du travail dissimul� et /ou de la r�gularisation de celles ayant fait l�objet d�un signalement.
+�
+En cas d�irr�gularit� et/ou de manquements constat�s, l�Entreprise exclura imm�diatement du chantier la personne en situation irr�guli�re et lui en interdira l�acc�s. Le Ma�tre d�Ouvrage ayant manqu� � ses obligations, ainsi que ses repr�sentants pr�sents sur place, devront en �tre avis�s imm�diatement par tous moyens, ainsi que le Coordonnateur SPS et le Ma�tre d�Ouvrage.
+�
+L�Entreprise devra adresser dans les 24 heures au cMa�tre d�Ouvrage concern�e une mise en demeure par lettre recommand�e avec demande d'avis de r�ception, de se conformer au Code du travail et � ses obligations au terme du contrat.
+�
+A d�faut de r�gularisation dans le d�lai assign�, il est rappel� que L�Entreprise, ou le Ma�tre d�Ouvrage en cas de d�faillance de ce dernier, pourra sans pr�avis r�silier le contrat pass� avec le Ma�tre d�Ouvrage en situation irr�guli�re et en informer l'Inspection du Travail.
+�
+* Hygi�ne et s�curit�:
+
+L�Entreprise est responsable du respect des r�gles de s�curit� et d�hygi�ne sur le chantier.
+Elle doit respecter et veiller au respect, par toutes les entreprises intervenantes, de la loi et de la r�glementation en vigueur ainsi que l�ensemble des prescriptions du Coordonnateur SPS (P.G.C et P.P.S.P.S). 
+
+L�Entreprise doit fournir, sans d�lai, toutes informations ou documents demand�s par ce dernier afin qu�il �tablisse l�ensemble des documents relatifs � la r�glementation sur la s�curit� et la sant� sur le chantier.
+�L�Entreprise ne pourra en aucun cas invoquer les demandes du Coordonnateur SPS pour justifier d�une quelconque plus-value ou modification des d�lais contractuels.
+��
+Dans le cas de risque grave et imm�diat pour la s�curit� des personnes et des biens, le Coordonnateur SPS a toute autorit� pour arr�ter le chantier et l�Entreprise devra se conformer � cette d�cision et informer imm�diatement l�ensemble des intervenants sur le chantier � qui cette d�cision s�imposera �galement.
+�
+L�Entreprise assumera l�enti�re responsabilit� de cet arr�t et ses cons�quences sur l�ensemble des entreprises.
+�
+L�Entreprise impose � ses salari�s, � ses sous-traitants et � toute personne autoris�e � p�n�trer sur le Site, une tenue appropri�e et conforme aux dispositions l�gales et r�glementaires pour acc�der et/ou travailler sur le site�et notamment�tous �l�ments de protection individuels ou collectifs, casque, chaussures de s�curit�, gants, etc. et aura en r�serve les �quipements de s�curit� n�cessaires pour le Ma�tre d�Ouvrage et/ou le Maitre d�Ouvrage et/ou toute personne autoris�e � p�n�trer sur le Site.
+�
+D�une mani�re g�n�rale, l�Entreprise doit mettre en �uvre toutes mesures afin d��viter tout accident corporel de toute personne intervenant sur le chantier et de tout visiteur ext�rieur et�:
+* Mettre en place notamment toutes signal�tiques adapt�es en mati�re de s�curit�;
+* Mettre en place les protections n�cessaires pour isoler et s�curiser les zones du chantier�; 
+* Etablir tout cheminement s�curis� jusqu�aux zones t�moins et en assurer l�entretien�;
+* Accompagner tout visiteur sur le chantier�;
+* Refuser l'acc�s du chantier � toute personne non autoris�e. 
+�
+Toutes les s�curit�s collectives sont � la charge de l�Entreprise notamment les �chafaudages, garde-corps et protections sur tr�mies, baies en fa�ades, terrasses hautes, etc... en ce compris la surveillance et l�entretien de tous mat�riels de s�curit�, ainsi que celles qui seraient impos�es par l�inspection du travail, les pompiers ou toute autre autorit� administrative, en cours de chantier.
+�
+L�Entreprise est responsable de tous les accidents et/ou dommages, et plus g�n�ralement de tous sinistres et/ou litiges cons�cutifs aux travaux, et/ou du fait de ses pr�pos�s et/ou de ses sous-traitants.
+
+Pour le contr�le des accidents, tout intervenant au chantier devra compl�ter un lien Forms ou QR code chaque d�but et fin de journ�e en indiquant le cas �ch�ant toute survenance d�accident. Ce lien/QR code sera fourni par le Ma�tre d�Ouvrage.
+
+�
+* Plans de coordination et de pr�vention�:
+
+L�Entreprise s�engage � faire respecter par ses sous-traitants l�ensemble des mesures qui sont d�finies dans le Plan G�n�ral de Coordination (��P.G.C.��). A ce titre, il �tablira avec l�aide de ses sous-traitants le cas �ch�ant, un Plan Particulier de S�curit� et de Protection de la Sant� (��P.P.S.P.S.��).
+�
+Il s'assurera que chacun des sous-traitants, quel que soit son rang, l�a �tabli, au minimum (8) jours avant son intervention, et se chargera de r�aliser la visite pr�alable avec le Coordonnateur S.P.S., puis d�adresser ce Plan au Ma�tre d'Ouvrage � le cas �ch�ant ��et au Coordonnateur SPS.
+�
+Ce document, �tabli en tenant compte de la notice de s�curit� chantier et du plan de pr�vention, indiquera de fa�on pr�cise et d�taill�e :
+- Les mesures pr�vues pour assurer la s�curit� du personnel. Ce document d�crit notamment, en fonction des proc�d�s de construction et des mat�riels utilis�s, les moyens de pr�vention concernant d'une part, les chutes de personnes et de mat�riaux, d'autre part les circulations horizontales et verticales des engins�;
+- Les mesures pr�vues pour les premiers secours aux accident�s et aux malades�;
+- Les mesures pr�vues pour la signalisation du chantier dans les zones int�ressant la circulation sur les voies��� publiques ou priv�es�;
+- Le projet des installations de chantier donnant la situation sur plan des locaux mis � la disposition du personnel, leurs acc�s � partir de l'entr�e du chantier.
+�
+Toute intervention d�marr�e sans que cette d�marche pr�alable ait �t� r�alis�e pourra �tre sanctionn�e par une exclusion temporaire du chantier.
+�
+Dans le cadre de travaux effectu�s dans des zones occup�es et exploit�es par le magasin, il sera mis en place des plans de pr�vention.
+�
+Le plan de pr�vention permet de limiter les risques li�s � la coactivit� des personnes pr�sentes sur le lieu d�une intervention entre l�Entreprise, ses entreprises sous-traitantes et le personnel du magasin.
+�
+Le Plan de Pr�vention est r�alis� � l�issue d�une visite pr�alable � laquelle participent toutes les entreprises ext�rieures intervenantes, en pr�sence du Coordonnateur SPS.
+�
+Par ailleurs, une visite initiale sera tenue avec le Coordonnateur SPS, l�Entreprise et les sous-traitants dans le but de pr�parer au mieux l�ensemble des interventions.
+
+Tout manquement aux consignes du CSPS pourra �tre sanctionn� par une exclusion temporaire du chantier, sans prolongation de d�lai, et par l�application de p�nalit�s, telles que d�finies � l�article 3.3 du pr�sent Contrat.�
+
+* Mod�le-type de demande d�agr�ment de sous-traitance
+
+
+Demande d�acceptation d�agr�ment d�un sous-traitant et d�agr�ment de ses condition de paiement
+Construction de la centrale photovolta�que projet�:
+
+Je soussign� (nom, pr�nom, qualit�) 
+	
+Agissant en tant que repr�sentant de l�Entreprise (raison sociale s�il s�agit d�une Soci�t� ou nom de l�entrepreneur si l�Entreprise est � son nom)
+	
+Ci-apr�s d�sign�e l�Entreprise
+Domicili� � 	
+Inscrite au Registre du Commerce ou Registre des M�tiers de 	
+	
+Sous le N� 	
+Formant le(s) lot(s) N� 	
+Montant H.T. du march� 	
+
+Sollicite Helexia pour donner l�autorisation de sous-traiter au sous-traitant suivant :
+Nom du sous-traitant (raison sociale s�il s�agit d�une Soci�t� ou nom de l�entrepreneur si le Ma�tre d�Ouvrage est � son nom) 	
+Domicili� �		
+Inscrit au Registre du Commerce ou Registre des M�tiers de	
+	
+Sous le N�	
+Pour ex�cuter les travaux de	
+Date d�intervention	
+Dont le montant global H.T. pr�visionnel est de 	
+Modalit� de r�glement (direct ou indirect�: caution�) 	
+Et demande donc l�acceptation de ce sous-traitant et l�agr�ment de ses conditions de paiement.
+Joindre � la pr�sente�: 
+Documents � remettre en cas d�appel � sous traitance�: 
+-  Contrat ou projet de contrat pr�cisant la nature d�taill�e des travaux sous-trait�s, le montant et les conditions de paiement du sous-traitant, ainsi que les stipulations relatives aux d�lais. Dans le cas o� l�Entreprise remet un projet de contrat, l�Entreprise s�engage � remettre le contrat d�finitif sign� avant le d�but des travaux.
+-  Certificat de qualification (ou demande de qualification si en cours)
+-  Un extrait Kbis datant de moins de 3 mois 
+-  Attestations d�assurances Responsabilit� Civile Professionnelle et Responsabilit� Civile D�cennale valable � la DROC.
+-  Attestation de fourniture des d�clarations sociales et de paiement des cotisations et contributions de s�curit� sociale pr�vue � l�article L 243-15 �manant de l�organisme de protection sociale charg� du recouvrement des cotisations et des contributions incombant au sous-traitant et datant de moins de six mois. URSSAF
+-  Attestation de r�gularit� fiscale en cours de validit�.
+-  Attestation sur l�honneur certifiant que le travail sera r�alis� avec des salari�s employ�s r�guli�rement au regard des articles L1221-10, L3243-2, R3243-1  
+-   Attestation sur l'honneur du sous-traitant, datant de moins de 6 mois, de non emploi de travailleurs �trangers ou liste nominative des salari�s �trangers datant de moins de 6 mois
+-  Une attestation sur l�honneur du dirigeant de l�Entreprise sous-traitante certifiant ne pas avoir fait�l�objet au cours des 5 derni�res ann�es d�une condamnation p�nale
+-  La liste nominatives des intervenant et leurs fonction
+-  Copie des cartes d�identification professionnelle BTP
+-  Titre(s) d�habilitation et attestation(s) de formations li�es aux interventions
+-  Attestation(s) d�assurance des engins
+-  Certificats de conformit�, v�rifications p�riodiques et carnets de maintenance des appareils, engins et accessoires de levage
+-  Une caution personnelle et solidaire obtenue par l�entrepreneur principal aupr�s d�un �tablissement financier, garantissant le paiement de toutes les sommes dues au sous-traitant, au titre des travaux sous trait�s.
+
+L�Entreprise travaux s�engage�:
+-  � aviser le Ma�tre de l�ouvrage de toute modification des conditions de contrat pass� avec l�Entreprise, et notamment concernant le volume et le montant des travaux sous-trait�s
+-  � aviser le Coordonnateur en mati�re de s�curit� et de protection de la sant� d�s l�acceptation du sous-traitant par le Ma�tre de l�ouvrage
+-  � imposer � son sous-traitant qu�il s�interdise de sous-traiter lui-m�me
+
+En cons�quence de quoi, le Maitre de l�Ouvrage accepte d�agr�er l�Entreprise ainsi que ses conditions de paiement, dans les conditions ci-dessus rappel�es.
+
+
+L�Entreprise		Le Ma�tre d�Ouvrage		         
+(Cachet et signature pr�c�d�s 		 (Cachet et signature pr�c�d�s  		          
+de la mention ��lu et approuv頻 ) 	 			 de la mention ��Refus�� ou ��Bon pour accord��)	
+
+
+ANNEXE 5�: CHARTE SSE
+
+
+
+
+ANNEXE 6�: PV DE RECEPTION
+
+PROC�S-VERBAL
+R�CEPTION D�UNE CENTRALE
+NOM et N� DU PROJET :	
+ADRESSE DE LA CENTRALE:	
+MAITRE D�OUVRAGE :	
+Concernant les travaux ex�cut�s par HELEXIA au titre du Contrat sign� le XXX relatif au Projet. 
+Le Maitre d�Ouvrage d�clare que�:
+* La r�ception est prononc�e sans r�serve, avec effet en date du : ��.
+
+* La r�ception est prononc�e avec r�serves mentionn�es dans l��tat des r�serves au verso de cette page avec effet en date du�: ����.
+
+* La r�ception est refus�e ou diff�r�e pour le motif suivant : ���������������������������������������������������������������������������������������������������������������������������������
+GARANTIES�: Les garanties d�coulant des articles 1792, 1792-2 et 1792-3 du Code Civil commencent � courir � compter de la signature du pr�sent PROCES-VERBAL. En application de l�article 1792-3 du Code civil, les entrepreneurs demeurent tenus de la garantie de parfait ach�vement pendant l�ann�e qui suit la pr�sente r�ception. Celle-ci constitue �galement le point de d�part de la garantie de bon fonctionnement pr�vue par l�article 1792-3 du Code civil et de la responsabilit� d�cennale des constructeurs d�finie aux articles 1792,1792-2 et 2270 du Code civil
+Fait � �����������������, le ��������..
+en 2 exemplaires, dont un est remis � chacune des parties.
+
+
+Le Ma�tre d'Ouvrage 	Helexia
+XXXXXXXXX
+M/MME.
+Repr�sentant Projet
+
+HELEXIA DEVELOPPEMENT
+M./MME 
+Repr�sentant Projet
+
+ETAT DES RESERVES 
+
+Nature des r�servesTravaux � ex�cuter       
+HELEXIA et le Ma�tre d�Ouvrage conviennent que les travaux n�cessit�s par les r�serves expos�es ci-dessus seront ex�cut�s dans un d�lai global de �������.. � compter du�:
+Fait � �����������������, le ��������..
+en 2 exemplaires, dont un est remis � chacune des parties.
+
+Le Ma�tre d'Ouvrage 	Helexia
+XXXXXXXXX
+M/MME.
+Repr�sentant Proejt
+
+HELEXIA DEVELOPPEMENT
+M./MME 
+Repr�sentant Projet
+CONSTAT DE LEVEE DE RESERVES
+Le Ma�tre d'Ouvrage l�ve les r�serves, apr�s avoir constat� que l'entreprise ex�cutante a valablement rem�di� aux malfa�ons, omissions et imperfections �nonc�s ci-dessus.
+Fait � �����������������, le ��������..
+
+Le Ma�tre d'Ouvrage 	Helexia
+XXXXXXXXX
+M/MME.
+Repr�sentant Projet
+
+HELEXIA DEVELOPPEMENT
+M./MME 
+Repr�sentant Projet
+
+
+
+
+
+
+
+
+
+
+CONTRAT CADRE DE REALISATION TRAVAUX
+
+
+1
+ENDEE\0002\Agreements\EPC\EPC French Version M-up BB 04.05.2010 clean\9272755.1ENDEE\0002\Agreements\EPC\EPC French Version M-up B&B 26 05 2010**\9459357.1
+
+
+HELEXIA SOLAR [X] - NOM ENTREPRISE � Contrat de r�alisation d�une centrale PV
+
+La reproduction permanente ou provisoire du contrat en tout ou partie, par tout moyen et sous toute forme n�est possible qu'avec l'autorisation de l�auteur. Toute reproduction sans le consentement de l�auteur est r�pr�hensible au regard du Code de la propri�t� intellectuelle et pourra �tre poursuivi en justice.
+		         33         
+
+
+
+
+
+
+
+
+CONTRAT DE REALISATION TRAVAUX
+
+
+
+
+
+
+
+CONTRAT CADRE DE REALISATION TRAVAUX
+
+
+
+CODE PROJET NOM PROJET � HELEXIA SOLAR [X] - NOM ENTREPRISE � Contrat de r�alisation d�une centrale PV
+
+La reproduction permanente ou provisoire du contrat en tout ou partie, par tout moyen et sous toute forme n�est possible qu'avec l'autorisation de l�auteur. Toute reproduction sans le consentement de l�auteur est r�pr�hensible au regard du Code de la propri�t� intellectuelle et pourra �tre poursuivi en justice.
+2
+
+
+
+
+
+2
+
+

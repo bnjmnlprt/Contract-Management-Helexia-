@@ -1,0 +1,745 @@
+
+Table des mati�res
+
+
+
+ 
+PREAMBULE	4
+A TITRE LIMINAIRE�- DEFINITIONS	5
+ARTICLE 1 � OBJET DU CONTRAT / �TENDUE DES TRAVAUX/DISPOSITIONS GENERALES/OBLIGATIONS DES PARTIES	8
+ARTICLE 2 - PLANNING DE REALISATION DES TRAVAUX	11
+ARTICLE 3 � MODIFICATIONS DES TRAVAUX	11
+ARTICLE 4 � ACCES AU SITE	12
+ARTICLE 5 - EMPLOYES ET SOUS-TRAITANTS	13
+ARTICLE 6 � RESPECT DE LA REGLEMENTATION	13
+ARTICLE 7 � REPORTING � REPRESENTANTS	13
+ARTICLE 8 � MISE EN SERVICE ET RECEPTION DES TRAVAUX	14
+ARTICLE 9 � GARANTIES DE LA CENTRALE ET DU MATERIEL	15
+ARTICLE 10 � INDEMNISATION ET LIMITATION DE RESPONSABILITE	17
+ARTICLE 11 � PROPRIETE ET TRANSFERT DU RISQUE	17
+ARTICLE 12 � PRIX, PAIEMENT DU PRIX ET MODALITES DE PAIEMENT	18
+ARTICLE 13 � R�SILIATION	19
+ARTICLE 14 � ASSURANCE	20
+ARTICLE 15 - CONCESSION DE LICENCE DES DROITS DE PROPRIETE INTELLECTUELLE ET INDUSTRIELLE	21
+ARTICLE 16 � CESSION	21
+ARTICLE 17 � FORCE MAJEURE	21
+ARTICLE 18 � DROIT APPLICABLE ET REGLEMENT DES DIFFERENDS	22
+ARTICLE 19 � DIVERS	22
+
+
+ENTRE�:
+
+La soci�t� XXXXX, Soci�t� Anonyme, au capital de XXX ayant son si�ge social sis XXX, immatricul�e au Registre du Commerce et des Soci�t�s de Lille M�tropole sous le num�ro 
+XXX, repr�sent�e par Madame ou Monsieur XXXX, agissant en qualit� de XXXXXX, d�clarant �tre d�ment habilit� aux fins des pr�sentes, 
+
+Ci-apr�s d�nomm�e le ��Ma�tre d�Ouvrage��,
+
+
+
+ET
+
+
+La soci�t� HELEXIA DEVELOPPEMENT, Soci�t� par actions simplifi�e au capital de 3�932 000 euros, ayant son si�ge social sis � La Madeleine (59110), 38 All�e Vauban � Immeuble Crystal, immatricul�e au Registre du Commerce et des Soci�t�s de Lille M�tropole sous le num�ro 524�102 670, repr�sent�e par son Directeur G�n�ral France, Monsieur Christophe CONSTANT, d�ment habilit� aux fins des pr�sentes,
+
+
+Ci-apr�s d�nomm�e, ��HELEXIA��, 
+
+
+
+
+Le Ma�tre d�Ouvrage et Helexia peuvent �galement �tre d�sign�s individuellement par ��Partie�� et collectivement par les ��Parties��.
+
+
+
+PREAMBULE 
+
+Le Ma�tre d�Ouvrage est une soci�t� sp�cialis�e dans XXXXXXXXXXXXXXX.
+
+Le Ma�tre d�Ouvrage exploite un b�timent situ� [ADRESSE] (ci-apr�s le � Site �).
+Afin d'am�liorer le confort thermique et la performance �nerg�tique de ses locaux, le Ma�tre d�Ouvrage souhaite faire concevoir, construire et exploiter un syst�me de Chauffage, Ventilation et Climatisation (ci-apr�s les � Ouvrages �).
+Les prestations incluses dans le Contrat et � r�aliser par Helexia comprennent notamment la conception des Ouvrages, la fourniture des �quipements, la r�alisation des travaux d'installation et la mise en service du syst�me, en fonction notamment des contraintes techniques du Projet et de l'obligation de permettre la poursuite de l�ensemble des activit�s propres au Ma�tre d�Ouvrage en toute s�curit�.
+Le Ma�tre d�Ouvrage a retenu Helexia sur la base de l�offre financi�re pr�sent�e par ce dernier pour une prestation de r�alisation cl� en main.
+Il est express�ment entendu que l�offre financi�re d�Helexia est r�put�e couvrir l�int�gralit� des co�ts des mat�riaux, �quipements et prestations n�cessaires � l��tude de conception compl�te, la r�alisation et la mise en service des Ouvrages, � l�exception des co�ts li�s notamment :
+* Aux missions de contr�le technique et de Coordination S�curit� et Pr�vention de la Sant� (CSPS) ;
+* A la r�alisation des �tudes de structure du b�timent appartenant au Ma�tre d�Ouvrage et sur lequel seront install�s les Ouvrages ;[BL1]
+* Tout surco�t r�sultant d��l�ments inconnus et/ou post�rieurs � la date de soumission de la derni�re version d�offre technico-commerciale par Helexia.
+Helexia est un professionnel sp�cialis� dans le d�veloppement, l�installation et l'exploitation de solutions de performance �nerg�tique et dispose des connaissances et comp�tences reconnues dans le secteur.
+En cons�quence, et afin de mener � bien le projet du Ma�tre d�Ouvrage, cette derni�re s�est rapproch�e d�HELEXIA afin de lui confier une prestation de r�alisation cl� en main des Ouvrages.
+Suite � l�offre propos�e par HELEXIA, les Parties ont d�cid� de conclure le pr�sent Contrat, dont le pr�sent pr�ambule et l�ensemble des annexes en sont partie int�grante.
+Tout ceci ayant �t� expos�, il a �t� convenu de ce qui suit�:
+
+
+
+CECI EXPOSE, IL A ETE CONVENU CE QUI SUIT�: 
+
+A TITRE LIMINAIRE�- DEFINITIONS
+Les termes et expressions commen�ant par une majuscule, qu'ils soient utilis�s indiff�remment au singulier ou au pluriel, auront, aux fins du Contrat, la signification suivante, sauf si le contexte exige un sens diff�rent.
+��Ach�vement�� D�signe l�instant auquel l�int�gralit� des Travaux pr�vus au Contrat sont termin�s en conformit� avec l�offre d�Helexia et les Ouvrages sont pr�ts � �tre mis en service.
+��Annexe��D�signe une (les) annexe(s) au Contrat qui en font partie int�grante.��Autorisation(s)��
+D�signe l�ensemble des autorisations d�urbanisme n�cessaires � la r�alisation des Ouvrages.��Contrat��D�signe le pr�sent Contrat et ses Annexes.��D�faut Majeur��D�signe un d�faut emp�chant l�exploitation des Ouvrages dans des conditions de s�curit� commun�ment accept�es ou si ce d�faut rend les Ouvrages non conformes � la r�glementation applicable.
+��D�faut Mineur��D�signe tout autre d�faut ne compromettant pas la s�curit� ou la fonctionnalit� globale des Ouvrages, incluant un d�faut d�ordre esth�tique.
+���quipements��D�signe l'ensemble des mat�riels composant les Ouvrages.��Etudes Pr�alables��
+D�signe l�ensemble des �tudes de faisabilit� r�alis�es par Helexia � si l�offre d�Helexia le pr�voit � ou � d�faut par le Ma�tre d�Ouvrage pour les besoins du pr�sent Contrat, portant notamment sur l�examen de la faisabilit� des Ouvrages, sur la configuration du Site��Fabricant��D�signe le fabricant d�un �quipement install� dans le cadre des Ouvrages.��Jour Ouvr頻
+D�signe un jour autre qu�un samedi ou un dimanche, ou un jour f�ri� en France, �tant pr�cis� que si l�une quelconque des obligations des Parties doit �tre ex�cut�e un jour qui n�est pas un Jour Ouvr�, elle devra alors �tre ex�cut�e le Jour Ouvr� suivant.��Mise en Service��D�signe l'activation, le r�glage, l'�quilibrage et les tests de bon fonctionnement des Ouvrages.��Prix��� D�signe le prix des Travaux et prestations objet du Contrat et figurant en Annexe 3. ��Projet��D�signe un Projet de Centrale. R�ceptionD�signe la r�ception des Ouvrages au sens de l�article 1792-6 du code civil qui dispose que ��la r�ception est l'acte par lequel le ma�tre de l'ouvrage d�clare accepter l'ouvrage avec ou sans r�serve. Elle intervient � la demande de la partie la plus diligente, soit � l'amiable, soit � d�faut judiciairement. Elle est, en tout �tat de cause, prononc�e contradictoirement��.Ma�tre d�OuvrageMa�tre d�Ouvrage��Site�� 
+D�signe l�emplacement g�ographique des Ouvrages d�taill� � l�Annexe 1. ��Sp�cifications Techniques�� 
+D�signe les sp�cifications techniques auxquelles doivent r�pondre les Ouvrages, telles que d�taill�es en Annexe 1.��Travaux �
+D�signe l�ensemble des prestations confi�es � Helexia pour la r�alisation des Ouvrages, en ce compris la conception, la fourniture des �quipements, leur installation et la Mise en Service.
+
+ARTICLE 1 � OBJET DU CONTRAT / �TENDUE DES TRAVAUX/DISPOSITIONS GENERALES/OBLIGATIONS DES PARTIES
+1.1	Objet
+
+Le pr�sent Contrat a pour objet de confier � Helexia la conception, la construction, l�installation et la Mise en Service (les � Travaux �) des Ouvrages de CVC.
+
+Le pr�sent Contrat est un contrat cl� en main en contrepartie du Prix d�fini � l�Annexe 3 et sous r�serve des conditions expos�es ci-apr�s.
+
+1.2 �tendue des Travaux � Donn�es d�entr�e - Description de la Centrale 
+
+Les Travaux confi�s � Helexia au titre du pr�sent Contrat seront ex�cut�s par Helexia pour le compte du Ma�tre d�Ouvrage aux conditions �tablies par les pr�sentes, tout en respectant les r�gles de l�art et la r�glementation applicable � la date de signature du pr�sent Contrat. Les fournitures et prestations sont limitativement list�es en Annexe 1 et il est entendu entre les Parties que les fournitures et/ou prestations demand�es par le Ma�tre d�Ouvrage ou rendues n�cessaires, mais non list�es dans l�Annexe 1 seront consid�r�es comme �tant des � Travaux suppl�mentaires��. 
+
+Tous travaux r�alis�s par Helexia seront fond�s sur les donn�es d�entr�e suivantes (ci-apr�s ��les Donn�es�d�entr�e �)[BL2]�: 
+- � compl�ter 
+
+Ces Donn�es d�entr�e devront �tre communiqu�es pr�alablement au d�veloppement des Ouvrages par le Ma�tre de l�Ouvrage, au plus tard sur demande d�Helexia. Etant pr�cis� qu�il n�incombe en aucun cas � Helexia de proc�der � une v�rification de ces Donn�es d�entr�e. 
+En cons�quence :
+(a) Helexia ne pourra �tre tenu responsable de toute malfa�on ou impossibilit� de r�aliser les prestations objets du Contrat, en raison d�une erreur ou d�une omission dans la communication de ces Donn�es�d�entr�e ;
+(b) Helexia ne pourra se voir r�clamer les frais suppl�mentaires engendr�s par les erreurs ou omissions pr�cit�es�;
+(c) Helexia ne pourra �tre tenu responsable de tout retard �ventuel engendr� par les erreurs ou omissions pr�cit�es ;
+(d) Helexia pourra r�clamer les co�ts suppl�mentaires engendr�s par l�erreur ou l�omission dans la communication des Donn�es d�entr�es. 
+
+Dans le cas d�un b�timent en cours de construction, la r�alisation des travaux par HELEXIA se fera sur ledit b�timent, dans le respect des consignes d�hygi�ne et de s�curit�.
+
+En outre, les travaux de construction devront �tre r�alis�s conform�ment aux d�lais indiqu�s au planning g�n�ral des travaux, et � la conception des Ouvrages  d�apr�s les Donn�es transmises, si bien qu�Helexia ne pourra �tre tenu responsable de toute modification qui pourrait intervenir en cours de construction et engendrer des co�ts suppl�mentaires ou des retards dans les d�lais. 
+
+1.3 Dispositions G�n�rales�
+
+Helexia, tant dans sa prestation de conception que de r�alisation, devra se conformer aux normes et r�glementations en vigueur � la date de signature du Contrat, et s�assurer que les soci�t�s auxquelles il aura sous-trait� partie du march�, ainsi que les fournisseurs, s�y conforment �galement. 
+
+Toute mise en conformit� �ventuelle par rapport � une norme ou r�glementation en vigueur � la date de remise de l�offre financi�re par Helexia se fera aux frais exclusifs de cette derni�re. En revanche, toute mise en conformit� �ventuelle par rapport � une norme ou r�glementation entr�e en vigueur apr�s la date de remise de l�offre financi�re se fera aux frais exclusifs du Ma�tre d�Ouvrage.
+
+
+1.4	Obligations des Parties
+
+Obligations du Ma�tre d�Ouvrage�:
+Sans pr�judice de toutes autres obligations pr�vues au Contrat, les obligations principales du Ma�tre d�Ouvrage incluent�:
+- Ne pas emp�cher Helexia d�ex�cuter ses obligations telles que pr�vues au Contrat et donnera un acc�s non restreint au Site en vue de r�aliser les Travaux�;
+
+- En compl�ment des Donn�es d�entr�e, communiquer � la demande d�Helexia, en temps utile et dans les d�lais demand�s, toute information n�cessaire ou utile � Helexia dont il aurait connaissance; 
+
+- Payer � Helexia le Prix stipul� conform�ment au Contrat�;
+
+- Effectuer notamment la d�claration r�glementaire d�ouverture de chantier (DROC)�ainsi que la d�claration attestant de l�ach�vement et de la conformit� des travaux (DAACT); [BL3]
+
+- Mandater un Coordonnateur SPS pr�alablement au d�marrage des travaux, lequel CSPS rendra compte au Ma�tre d�Ouvrage, et tiendra inform� en parall�le Helexia�;[BL4]
+
+
+- Apporter son assistance, sur premi�re demande de la part d�Helexia, pour l�obtention de tout permis ou autorisation administrative�;
+
+- Communiquer uniquement avec le repr�sentant d�Helexia ou avec les personnes mandat�es par celui-ci, relativement � l�ex�cution des Travaux. Le Ma�tre d�Ouvrage s�engage � ne pas communiquer directement avec les sous-traitants d�Helexia sans l�accord expr�s de son repr�sentant.
+
+
+Obligations d�Helexia�:
+
+Sans pr�judice de toutes autres obligations pr�vues au Contrat, les obligations principales d�Helexia incluent:
+
+- Helexia effectuera au nom et pour le compte du Ma�tre d�Ouvrage toutes d�marches n�cessaires � la conception, la r�alisation, l�installation et la Mise en Service des Ouvrages;
+
+- S'assurer que les Ouvrages seront construits avec des �quipements neufs et conformes aux normes; 
+
+- Pendant la dur�e des Travaux, entretenir et nettoyer le Site de fa�on r�guli�re et r�aliser la gestion des d�chets g�n�r�s par les Travaux, selon la r�glementation en vigueur�;
+
+- S�assurer que les constructeurs, fournisseurs et autres intervenants qui r�alisent les Travaux ou concourent � la r�alisation des Travaux objets du Contrat disposent des qualifications n�cessaires � l�ex�cution des t�ches qui leur sont assign�es�;
+
+- S�assurer que les constructeurs, fournisseurs et autres intervenants respectent les dispositions r�glementaires, en ce compris les r�glements int�rieurs de droit priv�, applicables au bien immobilier et au Site, de telle sorte que le Ma�tre d�Ouvrage ne puisse �tre inqui�t� ou recherch� � ce sujet�;
+
+- Il respectera et s�assurera que les constructeurs et autres intervenants respectent les lois et r�glements applicables en mati�re de droit du travail, en ce compris notamment les dispositions l�gales et r�glementaires relatives � l�hygi�ne et � la s�curit� sur les chantiers, ainsi que celles relatives � la lutte contre le travail ill�gal�;
+
+- Il Informera dans un d�lai raisonnable le Ma�tre d�Ouvrage de tout d�sordre susceptible d�affecter le d�roulement normal des Travaux�;
+
+- Il fournira un exemplaire papier et un exemplaire informatique de la version d�finitive du dossier des ouvrages ex�cut�s (DOE) au plus tard dans les six mois � compter de la r�ception de la Centrale.
+1.5	Conditions suspensives � l�ex�cution du Contrat.
+
+Les parties conviennent que le Contrat ne pourra �tre ex�cut� que si l�ensemble des conditions suspensives suivantes sont lev�es�:
+
+- Obtention des autorisations administratives n�cessaires et purg�es de tout recours des tiers�;
+
+- Validation de la faisabilit� technique du projet dans les conditions �conomiques pr�vues au Contrat, apr�s r�alisation des �tudes techniques n�cessaires. 
+
+En cas de non-r�alisation d�au moins une de ces conditions suspensives, le Contrat sera consid�r� nul et non avenu. Dans ce cas, le Ma�tre d�Ouvrage s�engage � payer � Helexia les frais engag�s dans le cadre du d�veloppement du Projet. 
+
+ARTICLE 2 - PLANNING DE REALISATION DES TRAVAUX
+
+2.1	Planning de R�alisation des Travaux
+
+Le Planning de R�alisation des Travaux est joint en Annexe 2.
+
+2.2	Prorogation des d�lais d'ex�cution mentionn�s au Planning de R�alisation des Travaux
+
+Les d�lais d'ex�cution mentionn�s au Planning de R�alisation des Travaux pourront notamment �tre prorog�s dans les cas suivants :
+
+- En raison de modifications convenues entre les Parties conform�ment � l'Article 3. ;
+
+- En raison de toutes causes l�gitimes de suspension des Travaux incluant celles d�finies ci-apr�s�:
+- Les jours d�intemp�ries justifiant un arr�t de chantier conform�ment aux dispositions du Code du travail ; 
+- Les retards dus � des autorit�s administratives, notamment une d�cision administrative ex�cutoire de suspendre les Travaux, retard de la part de l�op�rateur public du r�seau de transport d��lectricit�, si ce cas ne r�sulte pas d�un agissement d�Helexia�;
+- En raison d'un retard des Travaux ou de tout �v�nement �chappant au contr�le d�Helexia.
+
+Si de telles causes l�gitimes de suspension d�passent six (6) mois, elles seront consid�r�es comme un cas de Force Majeure et les cons�quences vis�es par l'Article 13 s'appliqueront.
+
+- En raison de la survenance d'un cas de Force Majeure tel que d�fini � l'Article 17.  
+
+Si le cas de Force Majeure se poursuit durant plus de douze (12) mois, l'une ou l'autre Partie aura le droit de r�silier le pr�sent Contrat dans les conditions de l'Article 13.
+
+Toute prorogation est notifi�e et justifi�e par Helexia dans le compte-rendu de chantier, qui en pr�cise la dur�e, laquelle est �gale au nombre de journ�es r�ellement constat�es au cours desquelles le travail a �t� arr�t� du fait de l�un des motifs susvis�s. Helexia sera en droit d�obtenir le paiement de co�ts suppl�mentaires subis en cas de retard non imputable � ce dernier.
+
+ARTICLE 3 � MODIFICATIONS DES TRAVAUX
+En aucun cas les Travaux ne pourront �tre modifi�s, sauf accord �crit pr�alable des Parties selon les conditions suivantes�:
+
+3.1	Modifications requises du fait d�un changement de l�gislation 
+
+Helexia peut, jusqu�� la R�ception, informer le Ma�tre d�Ouvrage de toute modification des Travaux, en notifiant par �crit ladite modification d�s lors que cette modification est d�ment justifi�e par un changement de l�gislation et/ou r�glementation post�rieur � la signature du pr�sent Contrat et imposant un changement significatif au niveau des caract�ristiques des Ouvrages ou du d�roulement des Travaux. En ce cas les Parties conviennent que ladite modification fera l�objet d�un ajustement notamment en termes de d�lais et de prix par voie d�avenant. En cas de refus de la part du Ma�tre d�Ouvrage, celui-ci en supportera les cons�quences.
+
+3.2	Modifications requises par l�une ou l�autre des Parties pour tout autre motif 
+
+Helexia comme le Ma�tre d�Ouvrage peut, � tout moment proposer par �crit � l�autre Partie des modifications concernant des Travaux pour quelque motif que ce soit autre que ceux vis�s � l�article ci-dessus. 
+
+Le cas �ch�ant, la Partie demanderesse devra adresser � l�autre Partie une Demande de changement pr�vue en Annexe 5 incluant les raisons justifiant les modifications propos�es et l�impact de ces modifications sur le Prix et le Planning de R�alisation des Travaux. 
+
+A d�faut de r�ponse � la Demande de Changement dans un d�lai de vingt (20) Jours Ouvr�s suivant la r�ception de ladite Demande, celle-ci sera consid�r�e comme ayant �t� accept�e et fera l'objet d'un avenant au pr�sent Contrat.
+ARTICLE 4 � ACCES AU SITE 
+
+Le Ma�tre d�Ouvrage fournira � Helexia et � ses sous-traitants, et ce pour toute la dur�e du pr�sent Contrat, tous les acc�s n�cessaires au Site, aux espaces de travail dont Helexia et ses sous-traitants ont besoin pour r�aliser les Travaux, notamment en leur mettant � disposition la toiture ou les abords du B�timent afin qu'ils puissent ex�cuter leurs obligations contractuelles, et ce, dans les conditions et les d�lais requis par Helexia.
+
+Il est entendu par les pr�sentes que l'acc�s au Site sera autoris� uniquement aux personnes accr�dit�es par Helexia qui sont impliqu�es dans l�ex�cution des Travaux. Dans le cas o� le Maitre d�Ouvrage constaterait des d�sordres ou la pr�sence de personnes non-autoris�es sur le Site en l�absence d�Helexia, il s�engage � aviser Helexia dans les plus brefs d�lais.
+
+Helexia pourra permettre l�acc�s au Site � d�autres parties sur demande expresse de la part du Ma�tre d�ouvrage. Dans ce cas, le Ma�tre d�Ouvrage assumera l�enti�re responsabilit� de tout dommage au Site qui pourrait avoir �t� caus� par cette partie autoris�e. 
+
+Le Ma�tre d'Ouvrage autorise l'acc�s des employ�s et sous-traitants d�Helexia � toutes les parties du Site n�cessaires pour les besoins de la construction des Ouvrages. 
+
+Helexia s�engage par les pr�sentes � permettre au Ma�tre d�Ouvrage d�entrer et d�inspecter le Site, dans la mesure o� la visite a lieu durant les heures normales de travail, soit entre 8h00 et 18h00, dans le respect des r�gles d�hygi�ne et de s�curit� du Site. 
+
+Le Maitre d�Ouvrage s�engage � mettre � disposition d�Helexia les aires de stockage sur Site n�cessaires et appropri�es ainsi qu�une base vie de chantier avec sanitaires et acc�s � l�eau potable.
+
+ARTICLE 5 - EMPLOY�S ET SOUS-TRAITANTS
+
+Helexia s'engage par les pr�sentes � respecter l�ensemble des mesures figurant en Annexe 4 et � affecter � tout moment les ressources humaines n�cessaires afin de respecter les obligations qui lui incombent au titre du pr�sent Contrat. Les employ�s engag�s par Helexia devront avoir les qualifications, formations et exp�riences appropri�es pour la r�alisation des Travaux faisant l'objet du pr�sent Contrat.
+
+Le Ma�tre d�Ouvrage autorise par les pr�sentes Helexia � sous-traiter partiellement ou totalement les Travaux devant �tre r�alis�s dans le cadre du Contrat et sous r�serve de l�agr�ment pr�alable de chacun des sous-traitants conform�ment aux dispositions de la loi n�75-1334 du 31 d�cembre 1975. Le Ma�tre de l�Ouvrage s�engage d�ores et d�j� � donner son agr�ment � Helexia pour les sous-traitants dont la liste figure en Annexe  4.
+
+ARTICLE 6 � RESPECT DE LA REGLEMENTATION 
+
+Chaque Partie respectera � tout moment la r�glementation en vigueur, notamment les dispositions relatives au droit du travail, de la s�curit� sociale, de la sant� et de la s�curit�, la pr�vention des risques professionnels, les normes applicables et les r�gles relatives � la protection de l'environnement, ainsi que les exigences des autorit�s comp�tentes.
+
+
+ARTICLE 7 � REPORTING � REPRESENTANTS
+
+7.1	Reporting 
+
+Des rapports �crits mensuels pr�cisant l��tat d�avancement des Travaux seront adress�s au Ma�tre d�Ouvrage de fa�on r�guli�re, pr�cisant le cas �ch�ant toute difficult� survenue durant ceux-ci. 
+
+A r�ception de chacun desdits rapports, le Ma�tre d�Ouvrage pourra requ�rir d�Helexia des informations compl�mentaires que Helexia s'engage � fournir par �crit dans un d�lai maximum de quinze (15) Jours Ouvr�s suivant la demande qui en sera faite. 
+
+Les demandes d�informations et/ou observations formul�es par le Ma�tre d�Ouvrage seront transmises � Helexia dans un d�lai de quinze (15) jours � compter de la r�ception de l��tat d�avancement de chantier. 
+
+7.2	Repr�sentants
+
+7.2.1	Repr�sentants du Ma�tre d�Ouvrage
+
+Le Ma�tre d�Ouvrage d�signe par les pr�sentes comme son repr�sentant Madame/Monsieur XXXXXXX. Ce repr�sentant sera la seule personne autoris�e � agir au nom et pour le compte du Ma�tre d�Ouvrage pour toutes les questions aff�rentes au pr�sent Contrat. 
+
+Le Repr�sentant du Ma�tre d�Ouvrage pourra �tre assist�(e) d�un Conseiller Technique qui sera libre d�accompagner ou de repr�senter le Ma�tre d�Ouvrage lors de ses d�placements sur le Site, de poser des questions et/ou solliciter des documents au nom et pour le compte du Ma�tre d�Ouvrage. Il est entendu que les instructions, approbations, commentaires, informations ou toute autre communication faites par le Conseiller Technique seront consid�r�es �tre faites au nom et pour le compte du Ma�tre d�Ouvrage et Helexia pourra se reposer sur cette consid�ration. Si le Ma�tre d�Ouvrage souhaite limiter le r�le du Conseiller Technique, il appartiendra au Ma�tre d�Ouvrage de d�terminer pr�cis�ment le p�rim�tre d�intervention du Conseiller Technique et de le notifier par �crit � compter de la signature du pr�sent Contrat.
+
+
+7.2.2 Repr�sentant d�Helexia
+
+Helexia d�signe par les pr�sentes, Monsieur/Madame XXXXXXX [BL5]comme son repr�sentant. Ce repr�sentant sera la seule personne autoris�e � agir au nom et pour le compte d�Helexia et sera responsable de la supervision du bon d�roulement des Travaux.
+
+Le repr�sentant d�Helexia traitera avec le Ma�tre d�Ouvrage et avec le Repr�sentant du Ma�tre d�Ouvrage pour toutes les questions li�es � la r�alisation des Travaux et plus g�n�ralement � l�ex�cution du pr�sent Contrat. 
+
+ARTICLE 8 � MISE EN SERVICE ET RECEPTION DES TRAVAUX[BL6]
+
+8.1 Ach�vement M�canique
+
+L�Ach�vement M�canique permet de v�rifier la conformit� des Ouvrages aux normes et r�gles de l�art[BL7].
+
+8.2 Mise en service
+
+A l�Ach�vement des Travaux, Helexia proc�dera � la Mise en Service, qui sera consid�r�e effective lorsque les Ouvrages seront pleinement op�rationnels.
+
+8.3 R�ception des travaux 
+
+La R�ception donnera lieu � l��tablissement d�un proc�s-verbal de R�ception contradictoire en Annexe 6. En cas de D�faut Majeur, le Ma�tre d�Ouvrage pourra refuser la R�ception.
+ARTICLE 9 � GARANTIES DES OUVRAGES ET DU MATERIEL 
+Les garanties pr�vues ci-apr�s sont cumulatives.
+9.1 Garanties l�gales des constructeurs
+Helexia est tenu � l��gard du Ma�tre d�Ouvrage des garanties l�gales de droit commun d�finies aux articles 1792 et suivants du Code civil, � savoir�: 
+
+La Garantie de parfait ach�vement 
+
+Conform�ment � la r�glementation en vigueur, Helexia sera tenu de la mise en �uvre d'une garantie de parfait ach�vement pr�vue � l�article 1792-6 du Code civil.
+
+La garantie de parfait ach�vement, � laquelle Helexia est tenu pendant un d�lai d'un (1) an, � compter de la signature du proc�s-verbal de r�ception (avec ou sans r�serve), s'�tend � la r�paration de tous les d�sordres signal�s par le Ma�tre d�Ouvrage, soit au moyen de r�serves mentionn�es au proc�s-verbal de R�ception, soit par voie de notification �crite (courrier recommand� avec accus� de r�ception) pour ceux r�v�l�s post�rieurement � la R�ception.
+
+La garantie de parfait ach�vement ne s'�tend pas aux travaux n�cessaires pour rem�dier aux effets de l'usure normale ou de l'usage.
+
+La Garantie d�cennale
+
+En application des articles 1792, 1792-1 et 1792-2 du Code civil, Helexia garantit le Ma�tre d�Ouvrage contre les dommages, qui compromettent la solidit� de la Centrale ou qui, l'affectant dans l'un de ses �l�ments constitutifs ou l'un de ses �l�ments d'�quipement, le rendent impropre � sa destination, et ce pendant une dur�e de dix (10) ans � compter de la R�ception.
+Cette garantie s'�tend �galement aux dommages qui affectent la solidit� des �l�ments d'�quipement d'un ouvrage, mais seulement lorsque ceux-ci font indissociablement corps avec les ouvrages de viabilit�, de fondation, d'ossature, de clos ou de couvert. 
+Un �l�ment d'�quipement est consid�r� comme formant indissociablement corps avec l'un des ouvrages de viabilit�, de fondation, d'ossature, de clos ou de couvert lorsque sa d�pose, son d�montage ou son remplacement ne peut s'effectuer sans d�t�rioration ou enl�vement de mati�re de cet ouvrage.
+Une telle responsabilit� n'a point lieu si le constructeur prouve que les dommages proviennent d'une cause �trang�re.
+
+La Garantie biennale
+
+En application de l�article 1792-3 du Code civil, Helexia garantit �galement le Ma�tre d�Ouvrage contre dommage affectant tous les autres �quipements de la Centrale non couverts par la garantie d�cennale, et ce, pendant deux (2) ans � compter de la R�ception. 
+
+
+9.2	Transfert de garantie du Fabricant
+
+Helexia transf�re au Ma�tre d�Ouvrage toutes les garanties dont elle b�n�ficie pour les biens livr�s dans le cadre du pr�sent Contrat, y compris les garanties l�gales et contractuelles. Le Maitre d�Ouvrage accepte ce transfert de garantie et s'engage � en respecter les termes et conditions. Helexia fournira au Ma�tre Ouvrage tous les documents de garantie pertinents � la R�ception de la Centrale. 
+
+Le Ma�tre d�Ouvrage peut faire valoir toutes ces garanties aupr�s du Fabricant. Helexia n'est pas responsable de toute violation de la garantie ou de tout d�faut du mat�riel �lectrique couvert par la garantie transf�r�e et le Ma�tre d�Ouvrage est seul responsable de la poursuite de toute r�clamation li�e � cette garantie.
+
+9.3	Dispositions communes aux garanties
+
+Il est express�ment convenu entre les Parties que les garanties du pr�sent article 9 ne sauraient s�appliquer en cas d�utilisation abusive ou non conforme de la Centrale par le Ma�tre d�Ouvrage ou l�un de ses pr�pos�s.
+
+Les obligations d�Helexia relatives � la garantie se limitent, au choix d�Helexia, au remplacement ou � la r�paration de l��quipement d�fectueux. 
+
+Durant les p�riodes de garanties vis�es au pr�sent Article, le Ma�tre d�Ouvrage notifiera ses r�clamations par courrier recommand� avec avis de r�ception � Helexia dans les dix (10) Jours Ouvr�s suivant la d�couverte de tout d�faut de la Centrale. 
+
+Helexia rem�diera au d�faut d�nonc� � ses propres frais dans un d�lai de trente (30) Jours Ouvr�s suivant la notification dudit d�faut, � l�exception de tout d�faut n�cessitant un d�lai plus important pour la remise en �tat et/ou la r�paration. 
+
+A d�faut pour Helexia d�avoir rem�di� au d�faut d�nonc� dans le d�lai susvis�, le Ma�tre d�Ouvrage pourra directement faire r�aliser par un tiers les Travaux n�cessaires afin d�assurer la mise en conformit� de la Centrale aux caract�ristiques d�finies en annexe aux frais d�Helexia. Il est entendu qu�Helexia ne pourra pas �tre tenu responsable des cons�quences dommageables d�une telle intervention. Le Ma�tre d�Ouvrage fera son affaire pour obtenir de la part de ce tiers une garantie sur les prestations qui lui sont ainsi confi�es.
+
+
+9.4	Exclusions des garanties
+
+Par d�rogation � ce qui pr�c�de, Helexia ne se portera pas garant des d�sordres occasionn�s par�: 
+
+- Une manipulation incorrecte par le Ma�tre d�Ouvrage ou des tiers agissant pour son compte et/ou de tiers non autoris�s par Helexia�;
+
+- L'usure normale�;
+
+- L'utilisation de mat�riaux, sch�mas ou dessins fournis ou sp�cifi�s par le Ma�tre d�Ouvrage et non valid�s par Helexia, ou n'�tant pas conformes aux manuels d'exploitation et de maintenance ou aux instructions techniques�;
+
+- Le manquement du Ma�tre d�Ouvrage (ou des tiers sous-traitants nomm�s par lui) � l�obligation d'observer les instructions d'exploitation et de maintenance fournies par Helexia dans le manuel d'exploitation et de maintenance ;
+
+- L'impossibilit� d'acc�der au Site en raison d'un cas de Force Majeure ou suite � un ordre du Ma�tre d�Ouvrage, dans la mesure o� Helexia notifie au Ma�tre d�Ouvrage l'existence d'une telle impossibilit�;
+
+- Des actes de vol ou vandalisme�;
+
+- En cas de Force Majeure telle que d�finie � l�Article 17�; 
+
+- Des modifications ou d�interventions sur la Centrale par le Ma�tre d�Ouvrage ou tout tiers dans des conditions n�ayant pas �t� agr��es au pr�alable par Helexia.
+
+ARTICLE 10 � INDEMNISATION ET LIMITATION DE RESPONSABILITE
+
+La responsabilit� d�Helexia est strictement limit�e aux obligations d�finies au pr�sent Contrat. En aucun cas, il ne sera responsable des pertes d�exploitation, de production, de profits, de contrats, de revenus, des pertes de nature financi�re ou �conomique, et plus g�n�ralement des pertes ou des dommages immat�riels ou indirects caus�s au Ma�tre de l�Ouvrage ou � des tiers par Helexia, ses sous-traitants et fournisseurs. La responsabilit� totale d�Helexia est limit�e, toutes causes confondues, au montant du Contrat.
+
+Le Ma�tre d�Ouvrage renonce, pour son compte et celui de ses assureurs, � r�clamer � Helexia, � ses assureurs, sous-traitants et fournisseurs, la r�paration des dommages caus�s par ce dernier, ses sous-traitants et fournisseurs, au-del� des limites et exclusions mentionn�s ci-dessus. 
+
+Chaque Partie prendra toutes les mesures raisonnables pour minimiser toute perte ou tout dommage se produisant.
+
+ARTICLE 11 � PROPRIETE ET TRANSFERT DU RISQUE
+
+Il est express�ment convenu entre les Parties que le Ma�tre d�Ouvrage acquiert la propri�t� des �quipements composant les Ouvrages au paiement complet du Prix du Contrat. 
+
+Le transfert des risques vers le Ma�tre d�Ouvrage aura lieu au jour de la R�ception des Ouvrages.
+
+
+ARTICLE 12 � PRIX, PAIEMENT DU PRIX ET MODALITES DE PAIEMENT
+
+12.1	Prix
+
+Le Prix devant �tre pay� par le Ma�tre d�Ouvrage � Helexia sera �gal au prix indiqu� en Annexe 3. Le Prix sera major� du taux de TVA en vigueur. 
+
+
+12.2 	Ech�ancier de paiement
+
+Les paiements interviendront selon l��ch�ancier de paiement pr�vu en Annexe 3. 
+
+
+12.3	R�vision des prix
+
+Les prix en Annexe 3 sont valables un an, puis r�visables � chaque date anniversaire du Contrat selon les formules suivantes�:
+
+
+PR =P0x 0,30+ 0,70 [(0,35 BT07- Rev (n) / BT07- Rev (0)) + (0,65 BT47 (n) / BT47(0))]
+
+PR : Prix r�vis� pour l�ann�e N (ann�e d�application de la r�vision)
+P0�: Prix pr�vu � l�Annexe 3
+BT07�: Indice des Ossatures et charpentes m�talliques 
+BT47�: Indice de Travaux d��lectricit�
+
+
+En tout �tat de cause, le r�sultat de l�application de la formule de r�vision ne saurait �tre inf�rieur � une valeur de z�ro (0) et le prix contractuel de la nouvelle p�riode ne pourra �tre inf�rieur � celui de la pr�c�dente p�riode.
+
+Si un ou plusieurs des indices ci-dessus ne pouvaient plus �tre appliqu�s, pour quelque raison que ce soit, ils seraient remplac�s par un autre indice de m�me valeur �conomique, adopt� par les Parties dans les huit (8) jours suivant la demande formul�e par l�une d�entre elles. 
+
+Au cas o� les Parties ne parviendraient pas � un accord sur cet indice de remplacement, celui-ci serait d�termin�s par le pr�sident du tribunal comp�tent par application de l�article 15 du Contrat, statuant par ordonnance � la requ�te de la Partie la plus diligente. Les frais d�ordonnance seraient partag�s � parts �gales entre les Parties.[BL8]
+
+
+12.4	Facturation et modalit�s de paiement
+
+Lorsqu�une �ch�ance est due par le Ma�tre d�Ouvrage conform�ment � l��ch�ancier de paiement vis� en Annexe 3, Helexia enverra � ce dernier une facture correspondant � l��ch�ance donn�e. 
+
+Dans l�hypoth�se o� le Ma�tre d�Ouvrage ne notifierait pas � Helexia son accord ou son refus dans le d�lai dix (10) Jours Ouvr�s, la condition de paiement de cette �ch�ance sera consid�r�e comme remplie avec effet � la date d�expiration de cette p�riode.
+
+Toutes les factures �mises par Helexia devront �tre pay�es dans un d�lai de trente (30) jours calendaires � compter de la date d��mission de la situation valid�e, except� pour la premi�re facture d�acompte qui devra �tre r�gl�e dans un d�lai de cinq (5) Jours Ouvr�s. 
+
+Les paiements devant �tre effectu�s au titre du pr�sent Contrat se feront par virement bancaire sur le compte d�sign� par Helexia.
+
+
+12.5	Int�r�ts de retard
+
+A d�faut de r�glement de toute somme due par l�une ou l�autre Partie pass� un d�lai de huit (8) Jours Ouvr�s suivant la date d�exigibilit� dudit r�glement, la Partie d�bitrice sera redevable�:
+
+- D�int�r�ts de retard sur le montant d� au taux de r�f�rence en vigueur. Les int�r�ts de retard seront dus de plein droit, et ce ind�pendamment de tout droit, action, indemnit�, dommages et int�r�ts compl�mentaires que pourrait r�clamer la Partie b�n�ficiaire de ces int�r�ts de retard�; et
+
+- D�une indemnit� forfaitaire de quarante euros (40 euros) pour les frais de recouvrement.
+
+12.6	Garantie financi�re
+
+Il a �t� convenu entre les Parties que le Ma�tre d�Ouvrage constituera au b�n�fice de Helexia une garantie financi�re dont le montant et la forme de la garantie financi�re sont d�taill�s ci-apr�s�:             
+
+- [NATURE�/ MONTANT / DUR�E DE VALIDIT� ET MODALITES DE LA GARANTIE FINANCIERE A INSERER]
+
+Cette garantie financi�re devra �tre transmise � Helexia au plus tard huit (8) jours apr�s la signature du pr�sent Contrat. A d�faut, Helexia pourra, � sa seule discr�tion, suspendre l�ex�cution du Contrat jusqu�� la remise de la garantie financi�re demand�e ou r�silier le Contrat, sans que ceci ne soit consid�r� comme un manquement de sa part. 
+
+Pendant la p�riode de garantie financi�re, Helexia a le droit de faire appel � la garantie financi�re en cas de d�faut de paiement du Ma�tre d�Ouvrage ou en cas de non-respect des obligations financi�res stipul�es dans le Contrat.
+
+� l'expiration de la p�riode de garantie financi�re, la garantie financi�re prend fin et le Ma�tre d�Ouvrage est lib�r� de toute obligation de fournir une garantie financi�re � Helexia.
+
+La r�siliation ou la modification de la garantie financi�re pendant sa dur�e est soumise � l'accord �crit pr�alable des deux parties.
+
+La pr�sente clause d'expiration de garantie financi�re fait partie int�grante du Contrat et pr�vaut sur toute disposition contradictoire qui pourrait exister dans le Contrat.
+
+ARTICLE 13 � R�SILIATION
+
+ 13.1 Suspension ou r�siliation pour d�faut de paiement
+	
+Pour le cas particulier du d�faut de paiement, et qui n�aurait pas �t� contest� par le Ma�tre d�Ouvrage, il est express�ment convenu que Helexia pourra suspendre l�ex�cution du Contrat, apr�s mise en demeure adress�e au Ma�tre d�Ouvrage par lettre recommand�e avec demande d�avis de r�ception, rest�e infructueuse pendant plus de dix (10) jours. Durant cette suspension,�le Ma�tre d�Ouvrage sera responsable du Site et assumera l�ensemble des frais et charges qui y seront cons�cutifs, incluant les surco�ts subis par Helexia.
+
+Si le Ma�tre d�Ouvrage n�a pas rem�di� au d�faut de paiement dans le d�lai de dix (10) jours suivant la mise en �uvre de la suspension de l�ex�cution du Contrat, Helexia est en droit de r�silier le Contrat avec effet imm�diat par lettre recommand�e avec demande d�avis de r�ception et ce, nonobstant tous dommages int�r�ts qui pourraient �tre demand�s, au titre exclusif du d�faut de paiement, au Ma�tre d�Ouvrage.
+
+Il est express�ment convenu que la pr�sente clause ne s�applique pas � un d�faut de paiement r�sultant d�un d�saccord entre le Ma�tre d�Ouvrage et Helexia.
+
+
+13.2 R�siliation du Contrat pour cas de force majeure
+
+L'une ou l'autre Partie aura la facult� de solliciter la r�siliation du Contrat dans l�hypoth�se o� un cas de Force Majeure tel que d�fini � l�Article 17 ferait obstacle � la poursuite des Travaux durant plus de cent quatre-vingts (180) Jours Ouvr�s cons�cutifs.
+
+Les cons�quences de la r�siliation seront les suivantes�:
+
+Helexia devra�:
+
+- Interrompre la r�alisation des Travaux en cours sauf pour ceux indiqu�s par le Ma�tre d�Ouvrage et qui sont n�cessaires pour la protection et/ou la s�curit� des Travaux d�j� r�alis�s�;
+
+- Envoyer aux Repr�sentants du Ma�tre d�Ouvrage tous les documents existants li�s aux Travaux d�j� r�alis�s au moment de la r�siliation�; et
+
+- Se subroger le Ma�tre d�Ouvrage, s'il en fait la demande, dans tous les contrats conclus avec ses sous-traitants pour la r�alisation des Travaux (lorsque les contrats le pr�voient).
+
+Etant pr�cis� que tous les Travaux et prestations d�j� ex�cut�es par Helexia devront faire l�objet d�un r�glement de la part du Ma�tre d�Ouvrage sur la base du Prix du Contrat et selon l�avancement. 
+
+13.3 R�siliation pour non-respect des obligations incombant aux Parties
+
+Dans le cas du non-respect par Helexia de l�une quelconque de ses obligations au titre du  Contrat, le Ma�tre d�Ouvrage est en droit de r�silier le Contrat apr�s mise en demeure de rem�dier au(x) manquement(s), adress�e � Helexia par lettre recommand�e avec demande d�avis de r�ception, rest�e infructueuse pendant quinze (15) jours, sans pr�judice des dommages int�r�ts qu�il pourra r�clamer � Helexia pour le pr�judice qu�il aura subi de ce fait, mais ce dans la limite du montant du Prix du Contrat. 
+ARTICLE 14 � ASSURANCE
+
+14.1	Assurances souscrites par les constructeurs, fournisseurs et autres intervenants retenus par Helexia 
+
+Helexia devra veiller � ce que les constructeurs, fournisseurs et autres intervenants concourant � la conception, la r�alisation, l�installation et la Mise en Service de la Centrale telles que pr�vues par le pr�sent Contrat souscrivent et maintiennent en vigueur au minimum les assurances requises au titre de la r�glementation applicable aux prestations de chacun.
+
+En particulier, chacun des constructeurs, fournisseurs et autres intervenants dont les prestations rel�vent de la garantie d�cennale et/ou de la garantie biennale et/ou de la garantie de parfait ach�vement vis�es par les articles 1792 et suivants du Code civil devront souscrire et maintenir en vigueur les polices d�assurance de responsabilit� correspondantes.
+
+14.2	Assurances souscrites par les Parties 
+Helexia s�engage � souscrire aupr�s d�une compagnie d�assurance notoirement solvable et � maintenir en vigueur au minimum les assurances requises au titre de la r�glementation qui lui est applicable, � savoir�: 
+
+- Helexia, tant en son nom et pour son compte, devra souscrire et maintenir en vigueur une police d�assurance d�cennale concernant les biens et ouvrages assujettis � cette obligation d�assurance construction�;
+
+- Helexia souscrira une police d�assurance garantissant les cons�quences de la mise en jeu de sa responsabilit� civile de droit commun pour les risques encourus � l�occasion de l�ex�cution du pr�sent Contrat pendant et apr�s la r�alisation des Travaux de la Centrale.
+
+- Une assurance Tous Risques Chantier couvrant le chantier d�Helexia.
+
+Helexia fournira une copie de ses attestations d�assurance au Ma�tre d�Ouvrage.
+
+Le Ma�tre d�Ouvrage, s�engage � souscrire aupr�s d�une compagnie notoirement solvable�: 
+
+- Une assurance Dommages Ouvrage�;
+
+- Toute police qu�il jugera n�cessaire en vue de couvrir la Centrale et ses biens avoisinants durant sa p�riode d�exploitation�;
+
+- Une police d�assurance garantissant les cons�quences de la mise en jeu de sa responsabilit� civile de droit commun pour les risques encourus � l�occasion de l�ex�cution du pr�sent Contrat pendant et apr�s la r�alisation des Travaux de la Centrale.
+
+
+ARTICLE 15 - PROPRIETE INTELLECTUELLE 
+
+Les dessins, sp�cifications, plans, calculs, mod�les et conceptions faisant partie des Sp�cifications Techniques annex�es aux pr�sentes et pr�par�s par Helexia ou tout sous-traitant exclusivement pour les Travaux restent la propri�t� d�Helexia et/ou de ses Sous-traitants. Helexia octroie un droit d�usage au Ma�tre d�Ouvrage dans le cadre l�ex�cution pr�sent Contrat lui permettant d�exploiter et de proc�der aux op�rations de maintenance de routine des Ouvrages. Les dispositions pr�c�dentes n'affectent pas les droits exclusifs dont dispose Helexia sur ses brevets.
+
+Toute invention suppl�mentaire ou tout droit de propri�t� intellectuelle cr�� par Helexia durant l'ex�cution du pr�sent Contrat restera sa propri�t� exclusive.
+
+En cas de contrat d�op�rations et maintenance octroy� par le Maitre d�ouvrage � Helexia dans le cadre du Contrat, Helexia est autoris� � collecter, analyser et utiliser les donn�es du Client obtenues par le monitoring de la Centrale (les ��Donn�es��). Les Donn�es seront utilis�es exclusivement � des fins internes par Helexia.
+
+ARTICLE 16 � CESSION
+
+Aucune des Parties ne pourra c�der � des tiers, en tout ou en partie, ses droits, cr�ances ou obligations au titre du pr�sent Contrat sans l'autorisation �crite et pr�alable de l'autre Partie.
+
+ARTICLE 17 � FORCE MAJEURE
+
+Constituent des cas de Force Majeure ceux qui se conforment aux principes �tablis par l�article 1218 du Code civil. 
+La Partie emp�ch�e par un cas de Force Majeure sera dispens�e de ses obligations dans la mesure o� celles-ci sont affect�es par le cas de Force Majeure, sous r�serve : 
+
+- Que la Partie affect�e le notifie � l�autre Partie par �crit, dans des d�lais raisonnables � compter de la date � laquelle elle aura appris l�existence du cas de Force Majeure, en d�crivant ce qu�elle sait de l��v�nement, y compris en indiquant sa dur�e pr�visible et son impact probable sur l�ex�cution des obligations de ladite Partie aux termes des pr�sentes ; 
+
+- Que la suspension d�ex�cution ne soit pas d�une port�e ou d�une dur�e plus importante que ce qui sera raisonnablement n�cessaire du fait du cas de Force Majeure ; 
+
+- Que la Partie affect�e fasse de son mieux pour continuer � ex�cuter ses obligations aux termes des pr�sentes dans la mesure o� elle n�en aura pas �t� dispens�e ; 
+
+- Que, lorsque la Partie affect�e sera en mesure de reprendre l�ex�cution des obligations affect�es aux termes du pr�sent Contrat, elle le notifie par �crit � l�autre Partie et reprenne dans les meilleurs d�lais son ex�cution du pr�sent Contrat. 
+
+La Partie affect�e par la survenance d�un cas de Force Majeure devra faire ses meilleurs efforts en vue de limiter les pr�judices caus�s � l�autre Partie. 
+
+ARTICLE 18 � DROIT APPLICABLE ET REGLEMENT DES DIFFERENDS 
+
+18.1	Droit applicable
+
+Le pr�sent Contrat est r�gi par le droit fran�ais et sera interpr�t� conform�ment � celui-ci.
+
+18.2	R�glement des diff�rends
+
+18.2.1	R�glement amiable
+Tout litige survenant entre les Parties quant � l�interpr�tation ou � l�ex�cution du pr�sent Contrat sera obligatoirement soumis, avant de recourir � une proc�dure judiciaire, � une tentative de r�glement amiable, les Parties se rapprochant alors en vue de trouver ensemble une solution amiable. 
+
+Pendant cette p�riode, les Parties s�engagent � ce que les �tudes et/ou les Travaux et leur r�glement continuent afin que la r�alisation de la Centrale n�ait pas � en souffrir.
+
+18.2.2	R�glement judiciaire
+
+A d�faut de r�glement amiable de leur diff�rend, les Parties conviennent de r�soudre ce dernier par voie judiciaire aupr�s du Tribunal de Commerce de Lille. 
+
+ARTICLE 19 � DIVERS
+
+19.1	Communications et Notifications
+
+Toute notification, requ�te, demande ou autre communication exig�e ou autoris�e en vertu du pr�sent Contrat sera consid�r�e �tre d�ment d�livr�e par l'exp�diteur et re�ue par le destinataire si elle est sous forme �crite, et envoy�e par courrier recommand� avec accus� de r�ception aux adresses suivantes�:
+
+Au Ma�tre d�Ouvrage�:
+
+XXXXXXXXXXX
+[ADRESSE]
+
+� Helexia�:
+
+HELEXIA DEVELOPPEMENT 
+a/s [CHEF DE PROJET]
+38 All�e Vauban � Immeuble Crystal
+59110 LA MADELEINE
+
+Les Parties pourront � tout moment modifier les adresses mentionn�es ci-dessus en envoyant une notification �crite indiquant les nouvelles adresses pour les notifications. La nouvelle adresse n�aura d�effet qu�� compter de la date de r�ception par l'autre Partie de la communication �crite indiquant la nouvelle adresse pour les notifications.
+
+Les notifications re�ues par les Repr�sentants respectifs du Ma�tre d�Ouvrage et d�Helexia seront consid�r�es avoir �t� d�livr�es au Ma�tre d�Ouvrage ou � Helexia. 
+
+19.2	Confidentialit�
+
+Chaque Partie (ci-apr�s la ��Partie B�n�ficiaire��) ne pourra utiliser � une fin autre que pour l�ex�cution des obligations au titre du pr�sent Contrat ou divulguer, communiquer, produire, publier, ou permettre l'acc�s � toute information confidentielle de la partie divulgatrice, (ci-apr�s la ��Partie Divulgatrice��) sans le consentement �crit et pr�alable de l'autre Partie. Les informations confidentielles se trouveront notamment, dans le pr�sent Contrat et ses Annexes, toutes les informations ou tous les documents pr�par�s dans le cadre de l'objet du pr�sent Contrat ou tout contrat ult�rieur connexe, les conceptions, dessins, sp�cifications, techniques, mod�les, donn�es, documentation, code source, code objet, diagrammes, organigrammes, recherches, d�veloppements, processus, proc�dures, savoir-faire, techniques et mat�riels de fabrication, de d�veloppement ou de commercialisation, indicateurs de d�veloppement ou de commercialisation, strat�gies et plans de d�veloppement, les noms des clients, fournisseurs ou du personnel et les autres informations se rapportant aux clients, fournisseurs ou au personnel, les politiques de tarification et les informations financi�res, et les autres informations de nature similaire, sous forme �crite ou non ou sous toute autre forme tangible, et tout secret commercial.
+
+Les informations confidentielles ne s��tendront pas�: (a) aux informations connues de la Partie B�n�ficiaire avant m�me la communication de ces informations par la Partie Divulgatrice�; (b) aux informations pouvant d�j� �tre connues par les tiers au moment de leur divulgation par la Partie B�n�ficiaire�; ou (c) aux informations obtenues par la Partie B�n�ficiaire d'un tiers qui n�aurait pas re�u les m�mes informations, directement ou indirectement, de la Partie Divulgatrice. La Partie B�n�ficiaire fera preuve du plus grand soin pour pr�server ses informations confidentielles et pour emp�cher une utilisation ou une divulgation non autoris�e desdites informations confidentielles.
+
+Sauf disposition contraire des pr�sentes, la Partie B�n�ficiaire aura le droit de divulguer des informations confidentielles sans le consentement �crit et pr�alable de la Partie Divulgatrice�: (a) lorsqu�elles seraient exig�es par un quelconque tribunal ou toute  autorit� administrative�; (b) lorsque que le droit applicable l'exigerait�; (c) � ses avocats, comptables, conseillers financiers ou autres agents, li�s par des obligations de confidentialit�; (d) aux banques, investisseurs et autres sources de financement et leurs conseillers, li�s par des obligations de confidentialit� similaires � celles auxquelles elle s'engage dans les pr�sentes�; ou (e) dans le cadre d'une fusion ou acquisition av�r�e ou �ventuelle ou d'une transaction similaire o� la partie recevant les informations confidentielles est li�e par des obligations de confidentialit� similaires � celles auxquelles elle s'engage dans les pr�sentes. Dans le cas o� une Partie B�n�ficiaire supposerait qu'elle serait contrainte par un tribunal ou une autre autorit� administrative de divulguer des informations confidentielles relevant de la Partie Divulgatrice, elle en informera sans d�lai par �crit la Partie Divulgatrice de telle sorte que la Partie Divulgatrice puisse d�terminer si elle prendra ou non des mesures pour s'opposer � une telle divulgation.
+
+Sous r�serve de ce qui pr�c�de, les Parties conviennent qu'elles sont autoris�es � communiquer librement, sans l'autorisation pr�alable de l'autre Partie et � des fins publicitaires, sur toutes les questions relatives au pr�sent Contrat. Cette communication inclut notamment l'ajout du Contrat dans le portfolio de r�f�rences d'Helexia, ou sa diffusion externe par des communiqu�s de presse, des annonces publiques et des publications digitales.
+
+19.3	Modification du Contrat
+
+Le pr�sent Contrat ne pourra �tre modifi� que par un accord �crit des Parties sous forme d�avenant. 
+
+
+19.4	Int�gralit� du Contrat 
+
+Le pr�sent Contrat contient l'int�gralit� des conventions et conditions convenues par les Parties�; il abroge, annule et remplace tout contrat, accord ou toute condition pouvant avoir �t� convenu ou �chang� entre les Parties avant la date des pr�sentes, en tout ou en partie.
+
+19.5		Autorit�
+
+Chaque personne signant le pr�sent Contrat au nom du Ma�tre d�Ouvrage et d�Helexia d�clare et garantit qu'il ou elle est d�ment autoris�(e) � signer et � transmettre le pr�sent Contrat au nom de ladite Partie et que le pr�sent Contrat est contraignant pour ladite Partie conform�ment � ses conditions.
+
+
+19.6 Signature �lectronique 
+
+Il est express�ment convenu entre les Parties que, par d�rogation aux r�gles de preuve �dict�es par le Code civil, et plus particuli�rement par l�article 1375 dudit Code, l��tablissement d�un original du pr�sent Contrat par une Partie ne sera pas requis � titre de preuve des engagements pris par ladite Partie.
+Les Parties reconnaissent et acceptent que (i) le pr�sent Contrat est sign� par voie de signature �lectronique via la plateforme ADOBESIGN� en application des articles 1367 et suivants du Code civil (ii) que la transmission �lectronique dudit Contrat ainsi sign� vaudra preuve, entre elles, de son existence de son origine, de sa r�ception et de son int�grit�.
+En cons�quence de ce qui pr�c�de, les Parties reconnaissent et acceptent que le pr�sent Contrat portera la date de sa signature par le dernier des signataires.
+
+Fait � _____________________
+
+Le ________________________
+
+
+
+
+
+
+
+
+
+Le Ma�tre d'Ouvrage 	Helexia
+XXXXXXXXX
+M/MME.
+
+HELEXIA DEVELOPPEMENT
+M. Christophe CONSTANT					
+
+
+LISTE DES ANNEXES
+
+ANNEXES PRELIMINAIRES�: POUVOIRS KBIS ET TITRE DE PROPRIETE
+ANNEXE 1 : SPECIFICATIONS TECHNIQUES ET DESCRIPTION DES OUVRAGES
+ANNEXE 2 : PLANNING DE R�ALISATION DES TRAVAUX
+ANNEXE 3�: PRIX ET ECHEANCIER DE PAIEMENT
+
+ANNEXE 4�: SOUS-TRAITANCE ET CONDITIONS 
+
+ANNEXE 5�: DEMANDE DE CHANGEMENT
+
+ANNEXE 6�: PROC�S-VERBAL DE R�CEPTION D�UNE CENTRALE
+
+
+
+ANNEXES PRELIMINAIRES�: POUVOIRS KBIS ET TITRE DE PROPRIETE
+
+
+ANNEXE 1 : SPECIFICATIONS TECHNIQUES ET DESCRIPTION DES OUVRAGES
+
+ANNEXE 2 : PLANNING DE R�ALISATION DES TRAVAUX
+
+
+ANNEXE 3�: PRIX ET ECHEANCIER DE PAIEMENT 
+
+
+Jalon No.Description des jalons de PaiementDateIAcompte � la signature______________IIIOuverture administrative* du chantier__________IVAch�vement M�canique des Travaux __________VR�ception de la Centrale __________TOTAL
+
+
+
+*�mission de la DROC + ouverture de la TRC 
+
+Informations n�cessaires � la facturation
+Nom de la Soci�t� : [XXX]
+Adresse de facturation : [XXX]
+A l'attention de M/Mme/Mme [XXX]
+T�l. : [XXX]
+Courriel : [XXX]
+Votre num�ro de TVA intracommunautaire : [XXX]
+
+
+ANNEXE 4�: SOUS-TRAITANCE ET CONDITIONS
+
+
+Le Ma�tre d�Ouvrage approuve d�ores et d�j� le recours aux Sous-Traitants suivants[AC9]�:
+-
+-
+-
+-
+-
+-
+-
+
+
+ANNEXE 5�: DEMANDE DE CHANGEMENT
+
+DEMANDE DE CHANGEMENT   CODE PROJET   DEMANDE DE CHANGEMENT N�  CHEF DE PROJET HELEXIA  REFERENCE CONTRAT Contrat EPC du XX XX XXDEMANDE DE CHANGEMENTNOM DU DEMANDEUR  (Chef de projet Client)DATE DE LA DEMANDE  CONTACT DU DEMANDEUR    PRIORIT�  �L�MENT � MODIFIERDESCRIPTION DU CHANGEMENTCALENDRIER PR�VUCOUTS ESTIM�S (OPEX + CAPEX + DevFees)  T0* + x mois�*T0 �tant la date de signature de la pr�sente Demande de changement�VALUATION DU CHANGEMENTNOM DE L'�VALUATEUR  �(chef de projet Helexia)DATE DE L'�VALUATION  �DOMAINE D'IMPACTDESCRIPTION DE L'IMPACTNIVEAU D'IMPACT  PERIMETREMajeur/Mineur  PLANNING   �  CO�T    QUALIT�  ��COUT TOTAL � PAYER PAR LE DEMANDEUR
+X � H.T  EXAMEN/APPROBATION DES MODIFICATIONS  CLIENT  �  DATE  HELEXIA�  DATE �COMMENTAIRES SUPPL�MENTAIRES  �
+
+
+
+
+
+
+ANNEXE 6�: PROC�S-VERBAL DE R�CEPTION D�UNE CENTRALE
+PROC�S-VERBAL
+R�CEPTION D�UNE CENTRALE
+NOM et N� DU PROJET :	
+ADRESSE DE LA CENTRALE:	
+MAITRE D�OUVRAGE :	
+Concernant les travaux ex�cut�s par HELEXIA au titre du Contrat sign� le XXX relatif au Projet. 
+Le Maitre d�Ouvrage d�clare que�:
+* La r�ception est prononc�e sans r�serve, avec effet en date du : ��.
+
+* La r�ception est prononc�e avec r�serves mentionn�es dans l��tat des r�serves au verso de cette page avec effet en date du�: ����.
+
+* La r�ception est refus�e ou diff�r�e pour le motif suivant : ���������������������������������������������������������������������������������������������������������������������������������
+GARANTIES�: Les garanties d�coulant des articles 1792, 1792-2 et 1792-3 du Code Civil commencent � courir � compter de la signature du pr�sent PROCES-VERBAL. En application de l�article 1792-3 du Code civil, les entrepreneurs demeurent tenus de la garantie de parfait ach�vement pendant l�ann�e qui suit la pr�sente r�ception. Celle-ci constitue �galement le point de d�part de la garantie de bon fonctionnement pr�vue par l�article 1792-3 du Code civil et de la responsabilit� d�cennale des constructeurs d�finie aux articles 1792,1792-2 et 2270 du Code civil
+Fait � �����������������, le ��������..
+en 2 exemplaires, dont un est remis � chacune des parties.
+
+
+Le Ma�tre d'Ouvrage 	Helexia
+XXXXXXXXX
+M/MME.
+Repr�sentant Projet
+
+HELEXIA DEVELOPPEMENT
+M./MME 
+Repr�sentant Projet
+
+ETAT DES RESERVES 
+
+Nature des r�servesTravaux � ex�cuter     
+HELEXIA et le Ma�tre d�Ouvrage conviennent que les travaux n�cessit�s par les r�serves expos�es ci-dessus seront ex�cut�s dans un d�lai global de �������.. � compter du�:
+Fait � �����������������, le ��������..
+en 2 exemplaires, dont un est remis � chacune des parties.
+
+Le Ma�tre d'Ouvrage 	Helexia
+XXXXXXXXX
+M/MME.
+Repr�sentant Proejt
+
+HELEXIA DEVELOPPEMENT
+M./MME 
+Repr�sentant Projet
+
+
+
+
+
+
+
+
+
+
+
+CONSTAT DE LEVEE DE RESERVES
+Le Ma�tre d'Ouvrage l�ve les r�serves, apr�s avoir constat� que l'entreprise ex�cutante a valablement rem�di� aux malfa�ons, omissions et imperfections �nonc�s ci-dessus.
+Fait � �����������������, le ��������..
+
+Le Ma�tre d'Ouvrage 	Helexia
+XXXXXXXXX
+M/MME.
+Repr�sentant Projet
+
+HELEXIA DEVELOPPEMENT
+M./MME 
+Repr�sentant Projet
+
+
+
+
+[BL1]� adapter
+[BL2]� adapter selon la Documentation fournie par le Client. Devrait normalement �tre compl�te, sinon il y a un risque de besoin d'ajuster le Prix
+[BL3]HLX ou Presta?
+[BL4]Utile?
+[BL5]Chef de projet
+[BL6]� valider de fa�on pratique
+[BL7]Autres normes techniques � prendre en compte? 
+[BL8]� revoir vu la dur�e du Projet
+[AC9]Liste � fournir par HELEXIA
+
+EPC
+
+
+1
+ENDEE\0002\Agreements\EPC\EPC French Version M-up BB 04.05.2010 clean\9272755.1Erreur�! Nom de propri�t� de document inconnu.
+
+Strictement Confidentiel _ Contrat CVC_HELEXIA / xxxxxxxx _ NOM PROJET
+
+La reproduction permanente ou provisoire du contrat en tout ou partie, par tout moyen et sous toute forme n�est possible qu'avec l'autorisation de l�auteur. Toute reproduction sans le consentement de l�auteur est r�pr�hensible au regard du Code de la propri�t� intellectuelle et pourra �tre poursuivi en justice.			23/26
+
+
+

@@ -1,0 +1,922 @@
+
+   CAHIER DES CLAUSES ADMINISTRATIVES G�N�RALES DES MARCH�S PUBLICS DE PRESTATIONS INTELLECTUELLES
+Pr�ambule
+  Il appartient � l�acheteur, qui souhaite faire r�f�rence � un cahier des clauses administratives g�n�rales (CCAG), de choisir celui qui est le mieux adapt� aux prestations objet de son march�, et de faire express�ment r�f�rence � ce CCAG dans les documents particuliers de son march�.
+  Le pr�sent CCAG s�applique aux march�s publics comportant une part importante de services faisant appel exclusivement � des activit�s de l�esprit. Il peut s�agir notamment de prestations d��tude, de r�flexion, de conseil ou d�expertise. Toutefois, il ne s�applique pas aux prestations de ma�trise d��uvre, pour lesquelles il convient de se r�f�rer au CCAG applicable aux march�s publics de ma�trise d��uvre. Il n�est pas adapt� aux march�s de prestations intellectuelles conclus par les acheteurs priv�s.
+  Par principe, un march� ne peut se r�f�rer qu�� un seul CCAG. Toutefois, par d�rogation � ce principe, en cas de march� global, au sens de l�article L. 2171-1 du code de la commande, l�acheteur peut faire r�f�rence � plusieurs CCAG. Dans ce cas, il devra veiller � assurer la parfaite coh�rence entre les diff�rentes clauses auxquelles il se r�f�re.
+  Dans le cas o� certaines prestations secondaires doivent �tre r�gies par des stipulations figurant dans un autre CCAG que celui d�sign� dans le march�, ce dernier doit reproduire, dans le cahier des clauses administratives particuli�res (CCAP) ou tout autre document qui en tient lieu, les stipulations retenues sans r�f�rence au CCAG dont elles �manent.
+  Les services dits courants, comportant des prestations standards, normalis�es ou achet�es sur catalogue, rel�vent du CCAG de fournitures courantes et de services. Les march�s relevant du CCAG-PI peuvent comporter � titre accessoire une part de services dits courants ou de fournitures.
+  Les march�s relevant du CCAG-PI donnent g�n�ralement naissance � des droits de propri�t� intellectuelle tels que les droits de propri�t� industrielle, litt�raire ou artistique. Ils comportent �ventuellement des transferts de connaissances ou de savoir-faire. L�existence de ces droits ou de ces transferts peut servir de crit�re pour retenir l�application du CCAG-PI. Un march� industriel comportant une part non pr�pond�rante de prestations intellectuelles rel�ve du CCAG des march�s publics industriels (CCAG-MI).
+Les commentaires figurant dans le pr�sent CCAG n�ont pas valeur contractuelle.
+Sommaire
+CHAPITRE 1er : G�N�RALIT�S
+Article 1er : Champ d�application
+Article 2 : D�finitions
+Article 3 : Obligations g�n�rales des parties
+Article 4 : Pi�ces contractuelles
+Article 5 : Confidentialit� � Protection des donn�es personnelles � Mesures de s�curit�
+Article 6 : Protection de la main-d'�uvre et conditions de travail Article 7 : Protection de l'environnement, s�curit� et sant� Article 8 : R�paration des dommages
+Article 9 : Assurances
+CHAPITRE 2 : PRIX ET R�GLEMENT
+
+  
+
+Article 10 : Prix
+Article 11 : Pr�cisions sur les modalit�s de r�glement
+Article 12 : R�glement en cas de groupement d�op�rateurs �conomiques ou de sous-traitance
+CHAPITRE 3 : D�LAIS
+Article 13 : D�lai d'ex�cution
+Article 14 : P�nalit�s
+Article 15 : Primes
+CHAPITRE 4 : EX�CUTION
+Article 16 : D�veloppement durable
+Article 17 : Moyens mis � la disposition du titulaire
+Article 18 : Assurance des moyens mis � la disposition du titulaire
+Article 19 : Lieux d'ex�cution
+Article 20 : Stockage, emballage, transport et gestion des d�chets
+Article 21 : Livraison
+Article 22 : Arr�t de l�ex�cution des prestations
+Article 23 : Prestations suppl�mentaires ou modificatives
+Article 24 : Suspension des prestations en cas de circonstances impr�visibles
+Article 25 : Clause de r�examen
+Article 26 : Donn�es indispensables � l�ex�cution d�une mission de service public
+Article 27 : Ex�cution de la prestation aux frais et risques du titulaire
+CHAPITRE 5 : CONSTATATION DE L'EX�CUTION DES PRESTATIONS � GARANTIE
+Article 28 : Op�rations de v�rification
+Article 29 : Admission, ajournement, r�faction et rejet
+Article 30 : Garantie technique
+Article 31 Destruction des donn�es
+CHAPITRE 6 : UTILISATION DES R�SULTATS
+Article 32 : D�finition des r�sultats
+Article 33 : R�gime g�n�ral des connaissances ant�rieures et des connaissances ant�rieures standards Article 34 : Stipulations sp�cifiques aux connaissances ant�rieures et connaissances ant�rieures standards Article 35 : R�gime des r�sultats
+CHAPITRE 7 : R�SILIATION
+Article 36 : Principes g�n�raux
+Article 37 : R�siliation pour �v�nements ext�rieurs au march� Article 38 : R�siliation pour �v�nements li�s au march� Article 39 : R�siliation pour faute du titulaire
+Article 40 : R�siliation pour motif d'int�r�t g�n�ral
+Article 41 : D�compte de r�siliation
+Article 42 : Remise des prestations et des moyens mat�riels permettant l'ex�cution du march�
+CHAPITRE 8 : DIFF�RENDS
+Article 43 : R�glement des diff�rends entre les parties
+CHAPITRE 1ER
+G�N�RALIT�S
+
+Article 1er
+Champ d�application
+  1.1. Les stipulations du pr�sent cahier des clauses administratives g�n�rales (CCAG) s�appliquent aux march�s qui s�y r�f�rent express�ment.
+1.2. Ces march�s peuvent pr�voir de d�roger � certaines de ces stipulations.
+  Ces d�rogations doivent figurer dans le cahier des clauses administratives particuli�res (CCAP), ou dans tout autre document qui en tient lieu, et pr�ciser � quels articles du pr�sent CCAG elles d�rogent.
+  Le dernier article du CCAP, ou de tout autre document qui en tient lieu, contient la liste r�capitulative des articles du pr�sent CCAG auxquels il est d�rog�.
+Article 2
+D�finitions
+Au sens du pr�sent document :
+� l�� acheteur � est le pouvoir adjudicateur ou l�entit� adjudicatrice qui conclut le march� avec le titulaire ;
+  
+  
+
+� le � titulaire � est l�op�rateur �conomique qui conclut le march� avec l�acheteur. En cas de groupement d�op�rateurs �conomiques, le � titulaire � d�signe le groupement, repr�sent� par son mandataire ;
+� la � notification � est l�action consistant � porter une information ou une d�cision � la connaissance de la ou des parties contractantes par tout moyen mat�riel ou d�mat�rialis�, par le biais d�un profil d�acheteur ou par tout autre moyen de communication �lectronique, permettant de d�terminer de fa�on certaine la date et, le cas �ch�ant, l�heure de sa r�ception ;
+� les � prestations � d�signent les services de prestations intellectuelles objet du march� ;
+� l�� ordre de service � est la d�cision de l�acheteur qui pr�cise les modalit�s d�ex�cution des prestations pr�vues par le march� ;
+� l�� admission � est la d�cision, prise apr�s v�rifications, par laquelle l�acheteur reconna�t la conformit� des prestations aux stipulations du march�. La d�cision d�admission vaut constatation de service fait et constitue le point de d�part des d�lais de garantie ;
+� l�� ajournement � est la d�cision prise par l�acheteur qui estime que les prestations pourraient �tre admises moyennant des corrections � op�rer par le titulaire ;
+� la � r�faction � est la d�cision prise par l�acheteur de r�duire le montant des prestations � verser au titulaire, lorsque les prestations ne satisfont pas enti�rement aux prescriptions du march�, mais qu�elles peuvent �tre admises en l��tat ;
+� le � rejet � est la d�cision prise par l�acheteur qui estime que les prestations ne peuvent �tre admises, m�me apr�s ajournement ou avec r�faction ;
+� le � cahier des clauses administratives particuli�res � (CCAP) est un document contractuel qui fixe les clauses administratives propres au march�. Ces clauses peuvent �galement �tre fix�es dans tout autre document particulier du march� ayant le m�me objet, tel un cahier des clauses particuli�res (CCP) ;
+� le � cahier des clauses techniques particuli�res � (CCTP) est un document contractuel qui fixe les clauses techniques n�cessaires � l�ex�cution des prestations du march�. Ces clauses peuvent �galement �tre fix�es dans tout autre document particulier du march� ayant le m�me objet, tel un cahier des clauses particuli�res (CCP).
+Article 3
+Obligations g�n�rales des parties
+3.1. Forme des notifications et informations :
+  3.1.1. La notification des d�cisions, observations ou informations qui font courir un d�lai est faite par tout moyen mat�riel ou d�mat�rialis� permettant de d�terminer de fa�on certaine la date et, le cas �ch�ant, l�heure de sa r�ception.
+  Cette notification peut �tre faite par le biais du profil d�acheteur ou � l�adresse postale ou �lectronique des parties mentionn�e dans les documents particuliers du march� ou, � d�faut, � leur si�ge social, sauf si ces documents leur font obligation de domicile en un autre lieu.
+En cas de groupement, la notification se fait au mandataire pour l�ensemble du groupement.
+  3.1.2. La date et, le cas �ch�ant, l�heure de r�ception mentionn�es sur un r�c�piss� sont consid�r�es comme celles de la notification.
+  Lorsque la notification est effectu�e par le biais du profil d�acheteur, les parties sont r�put�es avoir re�u cette notification � la date de la premi�re consultation du document qui leur a ainsi �t� adress�, certifi�e par l�accus� de r�ception d�livr� par l�application informatique, ou, � d�faut de consultation dans un d�lai de huit jours � compter de la date de mise � disposition du document sur le profil d�acheteur, � l�issue de ce d�lai.
+3.2. Modalit�s de computation des d�lais d�ex�cution des prestations :
+  3.2.1. Tout d�lai mentionn� au march� commence � courir � 0 heure, le lendemain du jour o� s�est produit le fait qui sert de point de d�part � ce d�lai. Toutefois, lorsque le d�lai est exprim� en heures, il commence � courir � compter de l�heure suivant celle o� s�est produit le fait qui sert de point de d�part � ce d�lai.
+  Les dates et heures applicables sont celles utilis�es par les documents particuliers du march� pour les livraisons ou l�ex�cution des prestations.
+  3.2.2. Lorsque le d�lai est fix� en jours, il s�entend en jours calendaires et il expire � minuit le dernier jour du d�lai.
+
+  3.2.3. Lorsque le d�lai est fix� en mois, il est compt� de quanti�me en quanti�me. S�il n�existe pas de quanti�me correspondant dans le mois o� se termine le d�lai, celui-ci expire le dernier jour de ce mois, � minuit.
+  3.2.4. Lorsque le dernier jour du d�lai est un samedi, un dimanche ou un jour f�ri�, le d�lai est prolong� jusqu�� la fin du premier jour ouvrable qui suit, � minuit.
+3.2.5. Lorsque le d�lai est fix� en jours ouvr�s, il s�entend hors samedis, dimanches et jours f�ri�s.
+  3.2.6. Le d�lai s�appliquant au titulaire n�inclut pas le d�lai n�cessaire � l�acheteur pour effectuer ses op�rations de v�rification et prendre sa d�cision conform�ment au chapitre 5.
+  
+  
+
+3.3. Repr�sentation de l�acheteur :
+  D�s la notification du march�, l�acheteur d�signe une ou plusieurs personnes physiques, habilit�es � le repr�senter aupr�s du titulaire, pour les besoins de l�ex�cution du march�. D�autres personnes physiques peuvent �tre habilit�es par l�acheteur en cours d�ex�cution du march�.
+  Ce ou ces repr�sentants sont r�put�s disposer des pouvoirs suffisants pour prendre, d�s notification de leur nom au titulaire dans les d�lais requis ou impartis par le march�, les d�cisions n�cessaires engageant l�acheteur.
+3.4. Repr�sentation du titulaire et obligations d�information relative au titulaire :
+3.4.1. Repr�sentation du titulaire
+  D�s la notification du march�, le titulaire d�signe une ou plusieurs personnes physiques, habilit�es � le repr�senter aupr�s de l�acheteur, pour les besoins de l�ex�cution du march�. D�autres personnes physiques peuvent �tre habilit�es par le titulaire en cours d�ex�cution du march�.
+  Ce ou ces repr�sentants sont r�put�s disposer des pouvoirs suffisants pour prendre, d�s notification de leur nom � l�acheteur dans les d�lais requis ou impartis par le march�, les d�cisions n�cessaires engageant le titulaire.
+3.4.2. Notification des modifications portant sur la situation juridique ou �conomique du titulaire
+  Le titulaire est tenu de notifier sans d�lai � l�acheteur les modifications survenant au cours de l�ex�cution du march� et qui se rapportent :
+� aux personnes ayant le pouvoir de l�engager ;
+� � la forme juridique sous laquelle il exerce son activit� ;
+� � sa raison sociale ou � sa d�nomination ;
+� � son adresse ou � son si�ge social ;
+� � ses coordonn�es bancaires ;
+� aux renseignements qu�il a fournis pour l�acceptation d�un sous-traitant et l�agr�ment de ses conditions de paiement.
+  De fa�on g�n�rale, le titulaire est tenu de notifier sans d�lai � l�acheteur toutes les modifications importantes concernant le fonctionnement de l�entreprise pouvant influer sur le d�roulement du march�.
+
+3.4.3. Conduite des prestations par une personne nomm�ment d�sign�e :
+  Lorsqu�il est pr�vu dans le march� que tout ou partie des prestations doit �tre ex�cut�e par une personne nomm�ment d�sign�e et que cette personne n�est plus en mesure d�accomplir cette t�che, le titulaire doit :
+� en informer sans d�lai l�acheteur et prendre toutes dispositions n�cessaires afin d�assurer la poursuite de l�ex�cution des prestations ;
+� proposer � l�acheteur un rempla�ant disposant de comp�tences au moins �quivalentes et dont il lui communique le nom et le curriculum vitae dans un d�lai de trente jours � compter de la date d�envoi de l�avis mentionn� � l�alin�a pr�c�dent.
+  Le rempla�ant propos� par le titulaire est consid�r� comme accept� par l�acheteur, si celui-ci ne le r�cuse pas dans le d�lai de trente jours courant � compter de la r�ception de la communication mentionn�e � l�alin�a pr�c�dent. Si l�acheteur r�cuse le rempla�ant, le titulaire dispose d�un d�lai de trente jours pour proposer un autre rempla�ant.
+La d�cision de r�cusation prise par l�acheteur est motiv�e.
+  Les informations, avis, propositions et d�cisions de l�acheteur sont notifi�s selon les modalit�s fix�es � l�article 3.1.
+  A d�faut de proposition de rempla�ant par le titulaire ou en cas de r�cusation des rempla�ants par l�acheteur, le march� peut �tre r�sili� dans les conditions pr�vues � l�article 39.
+3.5. Groupement d�op�rateurs �conomiques :
+  3.5.1. Le membre du groupement d�op�rateurs �conomiques, d�sign� dans le march� comme mandataire, repr�sente l�ensemble des membres du groupement, vis-�-vis de l�acheteur, pour l�ex�cution du march�.
+  3.5.2. En cas de groupement conjoint, le mandataire est solidaire, si les documents particuliers du march� le pr�voient, de chacun des autres membres du groupement dans les obligations contractuelles de celui-ci � l��gard de l�acheteur jusqu�� la date � laquelle ses obligations prennent fin.
+  3.5.3. En cas de groupement solidaire, chacun des membres du groupement est engag� financi�rement pour la totalit� du march� et doit pallier une �ventuelle d�faillance des autres membres du groupement.
+  3.5.4. En cas de d�faillance du mandataire du groupement, les membres du groupement sont tenus de lui d�signer un rempla�ant. A d�faut, et � l�issue d�un d�lai de huit jours � compter de la notification de la mise en demeure par l�acheteur d�y proc�der, le cocontractant ex�cutant la part financi�re la plus importante restant � r�aliser � la date de cette modification devient le nouveau mandataire du groupement.
+  
+  
+
+3.6. Sous-traitance :
+  3.6.1. Le titulaire, qui envisage d�en sous-traiter une partie, demande � l�acheteur d�accepter chaque sous-traitant et d�agr�er ses conditions de paiement.
+  3.6.2. D�s la signature de l�acte sp�cial constatant l�acceptation du sous-traitant et l�agr�ment des conditions de paiement, l�acheteur notifie au titulaire et � chacun des sous-traitants concern�s l�exemplaire de l�acte sp�cial qui leur revient. D�s r�ception de cette notification, le titulaire fait conna�tre � l�acheteur le nom de la personne physique habilit�e � repr�senter le sous-traitant.
+  3.6.3. Le titulaire est tenu de communiquer le contrat de sous-traitance et ses �ventuels avenants � l�acheteur, lorsque celui-ci en fait la demande. A d�faut de l�avoir produit � l��ch�ance d�un d�lai de quinze jours courant � compter de la r�ception d�une mise en demeure de le faire par l�acheteur, le titulaire encourt une p�nalit� �gale � 1 / 3 000 du montant hors TVA du march� ou de la tranche concern�e, �ventuellement modifi�s ou, � d�faut du montant du bon de commande concern�. Cette p�nalit� s�applique pour chaque jour de retard.
+3.7. Bons de commande :
+3.7.1. Les bons de commande sont notifi�s par l�acheteur au titulaire.
+  3.7.2. Lorsque le titulaire estime que les prescriptions d�un bon de commande qui lui est notifi� appellent des observations de sa part, il doit les notifier � l�acheteur dans un d�lai de quinze jours � compter de la date de r�ception du bon de commande, sous peine de forclusion.
+  3.7.3. Le titulaire se conforme aux bons de commande qui lui sont notifi�s, que ceux-ci aient ou non fait l�objet d�observations de sa part.
+  3.7.4. En cas de groupement d�op�rateurs �conomiques, les bons de commande sont adress�s au mandataire du groupement, qui a seul qualit� pour formuler des observations � l�acheteur.
+  3.7.5. Lorsqu�au terme de l�ex�cution d�un accord-cadre � bons de commande attribu� � un seul titulaire, le total des commandes de l�acheteur n�a pas atteint le minimum fix� par l�accord-cadre, en valeur ou en quantit�s, le titulaire a droit � une indemnit� �gale � la marge nette qu�il aurait r�alis�e sur les prestations qui restaient � ex�cuter pour atteindre ce minimum. Il lui incombe d�apporter � l�acheteur les justificatifs, notamment comptables, permettant de d�terminer cette marge nette.
+  Le titulaire a droit, en outre, � �tre indemnis� de la part des frais et investissements, �ventuellement engag�s pour l�accord-cadre et strictement n�cessaires � son ex�cution, qui n�aurait pas �t� prise en compte dans le montant des prestations pay�es. Il lui incombe d�apporter � l�acheteur toutes les justifications n�cessaires � la fixation de cette partie de l�indemnit� dans un d�lai de quinze jours � compter du terme de l�accord-cadre.
+3.8. Ordres de service :
+3.8.1. Les ordres de service sont notifi�s par l�acheteur au titulaire.
+  3.8.2. Lorsque le titulaire estime que les prescriptions d�un ordre de service qui lui est notifi� appellent des observations de sa part, il doit les notifier � l�acheteur, dans un d�lai de quinze jours � compter de la date de r�ception de l�ordre de service, sous peine de forclusion.
+  3.8.3. Sous r�serve de l�article 23.4, le titulaire se conforme aux ordres de service qui lui sont notifi�s, que ceux- ci aient ou non fait l�objet d�observations de sa part.
+  Toutefois, sauf si le march� pr�voit que le d�marrage des prestations peut �tre ordonn� dans un d�lai sup�rieur � six mois � compter de sa notification, le titulaire peut refuser d�ex�cuter cet ordre, s�il lui est notifi� plus de six mois apr�s la notification du march�. Le titulaire dispose alors d�un d�lai de quinze jours, courant � compter de la date d�envoi de sa d�cision de refus � l�acheteur, pour proposer une nouvelle date de d�marrage des prestations. A l�expiration de ce d�lai, s�il n�a propos� aucune autre date, il doit ex�cuter les prestations � la date demand�e. En cas de refus oppos� par l�acheteur � la proposition qui lui aura �t� faite, le titulaire peut demander la r�siliation du march�, dans les conditions mentionn�es � l�article 38.2. Cette r�siliation ne peut lui �tre refus�e.
+  3.8.4. En cas de groupement d�op�rateurs �conomiques, les ordres de service sont adress�s au mandataire du groupement, qui a seul qualit� pour formuler des observations � l�acheteur.
+Article 4
+Pi�ces contractuelles
+4.1. Ordre de priorit� :
+  En cas de contradiction entre les stipulations des pi�ces contractuelles du march�, elles pr�valent dans l�ordre de priorit� suivant :
+� l�acte d�engagement et ses �ventuelles annexes financi�res ;
+� le cahier des clauses administratives particuli�res (CCAP) ou tout autre document qui en tient lieu et ses �ventuelles annexes ;
+� le cahier des clauses techniques particuli�res (CCTP) ou tout autre document qui en tient lieu et ses �ventuelles annexes ;
+� le pr�sent cahier des clauses administratives g�n�rales (CCAG) ;
+� le cahier des clauses techniques g�n�rales (CCTG) applicable aux prestations, objet du march�, si celui-ci s�y r�f�re ;
+� l�offre technique du titulaire ;
+  
+  
+
+� les actes sp�ciaux de sous-traitance et leurs �ventuels actes modificatifs, post�rieurs � la notification du march� ;
+4.2. Pi�ces � remettre au titulaire. Cession ou nantissement des cr�ances :
+  4.2.1. La notification du march� comprend une copie, d�livr�e sans frais par l�acheteur au titulaire, de l�acte d�engagement et des autres pi�ces constitutives du march�, � l�exception du CCAG, des CCTG et, plus g�n�ralement, de toute pi�ce ayant fait l�objet d�une publication officielle.
+  4.2.2. L�acheteur remet �galement au titulaire, � sa demande et sans frais, l�exemplaire unique ou le certificat de cessibilit� n�cessaire � la cession ou au nantissement du march�.
+Article 5
+Confidentialit� � Protection des donn�es personnelles � Mesures de s�curit�
+5.1. Obligation de confidentialit� :
+  5.1.1. Le titulaire et l�acheteur qui, � l�occasion de l�ex�cution du march�, ont connaissance d�informations ou re�oivent communication de documents ou d��l�ments de toute nature, pr�sentant un caract�re confidentiel, sont tenus de prendre toutes mesures n�cessaires, afin d��viter que ces informations, documents ou �l�ments ne soient divulgu�s � un tiers qui n�a pas � en conna�tre. Une partie ne peut demander la confidentialit� d�informations, de documents ou d��l�ments qu�elle a elle-m�me rendus publics.
+  5.1.2. Une information confidentielle d�signe toute information de quelque nature (y inclus la m�thodologie, la documentation, les informations ou le savoir-faire), sous quelque forme que ce soit (y inclus sous forme orale, �crite, magn�tique ou �lectronique), sur tout support dont l�acheteur est propri�taire ou titulaire, et qui est communiqu�e au titulaire, ou obtenue de toute autre fa�on par ce dernier dans le cadre de ses relations avec l�acheteur. Le titulaire et son personnel, et le cas �ch�ant ses sous-traitants, ne peuvent l�utiliser que pour l�accomplissement des prestations pr�vues au march�.
+  5.1.3. Le titulaire doit informer ses sous-traitants des obligations de confidentialit� et des mesures de s�curit� qui s�imposent � lui pour l�ex�cution du march�. Il doit s�assurer du respect de ces obligations par ses sous-traitants.
+5.1.4. Ne sont pas couverts par cette obligation de confidentialit� les informations, documents ou �l�ments :
+� qui �taient dans le domaine public au moment de leur divulgation ou que l�acheteur aurait lui-m�me rendus publics pendant l�ex�cution du march� ;
+� signal�s comme pr�sentant un caract�re non confidentiel et relatifs aux prestations du march� ;
+� qui ont �t� communiqu�s au titulaire par un tiers ayant l�galement le droit de diffuser ces informations, documents ou �l�ments, comme le prouvent des documents existant ant�rieurement � leur divulgation.
+5.2. Protection des donn�es � caract�re personnel :
+  5.2.1. Chaque partie au march� est tenue au respect des r�gles, europ�ennes et fran�aises, applicables au traitement des donn�es � caract�re personnel �ventuellement mis en �uvre aux fins de l�ex�cution du march�. A ce titre, toute transmission de donn�es � des tiers, y compris au b�n�fice d�entit�s �tablies hors de l�Union europ�enne, qui ne serait pas strictement conforme � la r�glementation en vigueur est formellement prohib�e.
+  5.2.2. En cas d��volution de la r�glementation sur la protection des donn�es � caract�re personnel en cours d�ex�cution du march�, les modifications n�cessaires pour se conformer aux r�gles nouvelles, donnent lieu � la signature d�un avenant par les parties au march� ou, en l�absence d�accord entre les parties, � une modification unilat�rale par l�acheteur.
+  5.2.3. Lorsque le titulaire met en �uvre un traitement de donn�es personnelles pour le compte de l�acheteur, pour que ce traitement r�ponde aux exigences de la r�glementation et garantisse en particulier la protection des droits des personnes physiques identifi�es ou identifiables qu�il concerne, les documents particuliers du march� pr�cisent notamment :
+� la finalit�, la description et la dur�e du traitement dans le strict respect des instructions document�es de l�acheteur ;
+� les obligations de l�acheteur et celles du titulaire vis-�-vis de ce dernier, en particulier l�obligation de l�informer de toute difficult� dans l�application de la r�glementation, de tout projet de recours � un tiers pour la mise en �uvre du traitement, ou encore de toute demande de communication de donn�es qui lui serait adress�e, ainsi que, lorsque celle-ci serait contraire � la r�glementation fran�aise et europ�enne, des mesures adopt�es pour s�y opposer ;
+� les modalit�s de prise en compte du droit � l�information et des autres droits des personnes concern�es, dont l�exercice doit �tre garanti ;
+� les mesures de s�curit� mises en �uvre pour garantir l�int�grit�, la confidentialit� et la disponibilit� des donn�es, ainsi que les conditions de notification des violations de donn�es � caract�re personnel ;
+� la dur�e et les modalit�s de conservation des donn�es et le sort de celles-ci au terme de l�ex�cution du march�.
+  Les documents particuliers du march� pr�cisent �galement les p�nalit�s applicables au titulaire en cas de m�connaissance de la r�glementation.
+  En cas de manquement par le titulaire ou son sous-traitant � ses obligations l�gales et contractuelles relatives � la protection des donn�es personnelles, le march� peut �tre r�sili� pour faute en application de l�article 39.
+  
+  
+
+
+5.3. Mesures de s�curit� :
+  Lorsque les prestations sont � ex�cuter dans un lieu o� des mesures de s�curit� s�appliquent, notamment dans les zones prot�g�es en vertu des dispositions l�gislatives ou r�glementaires prises pour la protection du secret de la d�fense nationale, ces dispositions particuli�res sont indiqu�es par l�acheteur dans les documents particuliers du march�. Le titulaire est tenu de les respecter.
+  Le titulaire ne peut pr�tendre, de ce fait, ni � prolongation du d�lai d�ex�cution, ni � indemnit�, ni � suppl�ment de prix, � moins que les deux conditions suivantes soient remplies :
+� les informations ne lui ont �t� communiqu�es que post�rieurement au d�p�t de son offre ;
+� il peut �tablir que les obligations qui lui sont ainsi impos�es n�cessitent un d�lai suppl�mentaire pour l�ex�cution des prestations pr�vues par le march� ou rendent plus difficile ou plus on�reuse pour lui l�ex�cution de son contrat.
+
+5.4. Information des sous-traitants
+  Le titulaire informe ses sous-traitants de leur soumission aux obligations �nonc�es au pr�sent article 5. Il reste responsable du respect de celles-ci.
+Article 6
+Protection de la main-d��uvre et conditions de travail
+  6.1. Les obligations qui s�imposent au titulaire sont celles pr�vues par les lois, r�glements et conventions collectives, relatifs � la protection de la main-d��uvre et aux conditions de travail du pays, o� cette main-d��uvre est employ�e.
+  Le titulaire est �galement tenu au respect des stipulations des huit conventions fondamentales de l�Organisation internationale du travail, lorsque celles-ci ne sont pas int�gr�es dans les lois et r�glements du pays o� cette main- d��uvre est employ�e. Il doit �tre en mesure de justifier du respect de ces obligations, en cours d�ex�cution du march� et pendant la p�riode de garantie des prestations, sur simple demande de l�acheteur. Les modalit�s d�application de ces textes sont pr�vues par le CCAP ou tout autre document qui en tient lieu.
+
+  6.2. En cas d��volution de la r�glementation sur la protection de la main-d��uvre et des conditions de travail en cours d�ex�cution du march�, les modifications �ventuelles demand�es par l�acheteur, afin de se conformer aux r�gles nouvelles, donnent lieu � la signature d�un avenant par les parties au march� ou, en l�absence d�accord entre les parties, � une modification unilat�rale par l�acheteur.
+  6.3. Le titulaire peut demander � l�acheteur, du fait des conditions particuli�res d�ex�cution du march�, de transmettre, avec son avis, � l�autorit� comp�tente, les demandes de d�rogations pr�vues par les lois et r�glements mentionn�s ci-dessus.
+  6.4. Le titulaire informe ses sous-traitants de leur soumission aux obligations �nonc�es au pr�sent article. Il reste responsable du respect de ces obligations.
+Article 7
+Protection de l�environnement, s�curit� et sant�
+  7.1. Le titulaire veille � ce que les prestations qu�il effectue respectent les prescriptions l�gislatives et r�glementaires en vigueur en mati�re d�environnement, de s�curit� et de sant� des personnes, et de pr�servation du
+  
+  
+
+voisinage. Il doit �tre en mesure d�en justifier le respect, en cours d�ex�cution du march� et pendant la p�riode de garantie des prestations, sur simple demande de l�acheteur.
+  7.2. En cas d��volution de la r�glementation dans ces domaines en cours d�ex�cution du march�, les modifications �ventuelles, demand�es par l�acheteur afin de se conformer aux r�gles nouvelles, donnent lieu � la signature d�un avenant par les parties au march� ou, en l�absence d�accord entre les parties, � une modification unilat�rale par l�acheteur.
+Article 8
+R�paration des dommages
+  8.1. Les dommages de toute nature caus�s au personnel ou aux biens de l�acheteur par le titulaire, du fait de l�ex�cution du march�, sont � la charge du titulaire.
+  Les dommages de toute nature caus�s au personnel ou aux biens du titulaire par l�acheteur, du fait de l�ex�cution du march�, sont � la charge de l�acheteur.
+  8.2. Tant que les fournitures restent la propri�t� du titulaire, celui-ci est, sauf faute de l�acheteur, seul responsable des dommages subis par ces fournitures du fait de toute cause autre que l�exposition � la radioactivit� artificielle ou les catastrophes naturelles d�ment reconnues. Cette stipulation ne s�applique pas en cas d�adjonction d��quipements fournis par l�acheteur au mat�riel du titulaire et causant des dommages � celui-ci.
+  8.3. Le titulaire garantit l�acheteur contre les sinistres ayant leur origine dans le mat�riel qu�il fournit ou dans les agissements de ses pr�pos�s et qui affectent les locaux o� ce mat�riel est exploit�, y compris contre le recours des voisins.
+
+Article 9
+Assurances
+  9.1. Le titulaire doit contracter les assurances permettant de garantir sa responsabilit� � l��gard de l�acheteur et des tiers, victimes d�accidents ou de dommages caus�s par l�ex�cution des prestations
+  9.2. Le titulaire doit justifier, dans un d�lai de quinze jours � compter de la notification du march� et avant tout d�but d�ex�cution de celui-ci, qu�il est titulaire de ces contrats d�assurances, au moyen d�une attestation �tablissant l��tendue de la responsabilit� garantie.
+  A tout moment durant l�ex�cution du march�, le titulaire doit �tre en mesure de produire cette attestation, sur demande de l�acheteur et dans un d�lai de quinze jours � compter de la r�ception de la demande.
+CHAPITRE 2
+PRIX ET R�GLEMENT
+
+Article 10
+Prix
+10.1. R�gles g�n�rales :
+10.1.1. Les prix sont r�put�s fermes.
+  10.1.2. Le cas �ch�ant, les prix fermes sont actualis�s dans les conditions pr�vues par la r�glementation en vigueur � la date � laquelle le candidat a fix� son prix dans l�offre. Cette date correspond � la date de remise de l�offre par le titulaire. Lorsque la proc�dure de passation a donn� lieu � une n�gociation ou un dialogue comp�titif, la date � prendre en compte est la date de remise de l�offre finale par le titulaire.
+Les prix de chaque tranche optionnelle sont actualis�s dans les m�mes conditions. Le coefficient d�actualisation est arrondi au milli�me sup�rieur.
+  10.1.3. Les prix sont r�put�s comprendre toutes les charges fiscales ou autres, frappant obligatoirement les prestations, les frais aff�rents au conditionnement, au stockage, � l�emballage, � l�assurance et au transport jusqu�au lieu de livraison, les frais aff�rents � l�application de l�article 17.4, ainsi que toutes les autres d�penses n�cessaires � l�ex�cution des prestations, les marges pour risque et les marges b�n�ficiaires.
+  Toutefois, les frais engendr�s par l�absence de demande du titre de transport administratif par le titulaire ou par le retard du titulaire � pr�senter cette demande restent � sa charge.
+  Les frais de manutention et de transport qui na�traient de l�ajournement ou du rejet des prestations sont � la charge du titulaire.
+  
+  
+
+10.2. D�termination des prix de r�glement :
+  10.2.1. Lorsque le march� pr�voit que le prix � payer r�sulte de l�application d�une disposition r�glementaire, d�un bar�me, d�un tarif, d�un cours, d�une mercuriale, d�un indice, d�un index ou de tout autre �l�ment �tabli en dehors du march�, sans pr�cision de date, l��l�ment � prendre en consid�ration est celui qui est en vigueur :
+� le jour de la livraison ou de la fin d�ex�cution du service, si celles-ci sont effectu�es dans le d�lai pr�vu par l�acheteur ou si l�acheteur n�a pas fix� de d�lai ;
+� � la date limite pr�vue par l�acheteur pour la livraison ou la fin d�ex�cution du service, lorsque le d�lai pr�vu est d�pass�.
+  10.2.2. Lorsque le march� pr�voit une r�vision des prix, ceux-ci sont r�vis�s � la date ou selon la p�riodicit� pr�vue par les documents particuliers du march�.
+  Toutefois, lorsque le march� a pour objet l�achat de mati�res premi�res agricoles et alimentaires ou n�cessite pour sa r�alisation le recours � une part importante de fournitures, notamment de mati�res premi�res, dont le prix est directement affect� par les fluctuations de cours mondiaux, il est proc�d� � une r�vision des prix au minimum tous les trois mois � compter de la date de notification du march�. Les conditions de r�vision des prix sont fix�es par les documents particuliers du march�.
+Les prix � payer sont ceux applicables � la date de la livraison ou de la fin d�ex�cution des prestations.
+10.2.3. Lorsque les prix sont r�visables, le coefficient de r�vision est arrondi au milli�me sup�rieur.
+
+  10.2.4. Sauf stipulation contraire dans les documents particuliers du march�, la date d��tablissement du prix initial correspond � la date de remise de l�offre par le titulaire. Lorsque la proc�dure de passation a donn� lieu � une n�gociation ou un dialogue comp�titif, la date � prendre en compte est la date de remise de l�offre finale par le titulaire.
+Article 11
+Pr�cisions sur les modalit�s de r�glement
+11.1. Avances :
+Le pr�sent article comprend deux options alternatives, A et B.
+Les documents particuliers du march� pr�cisent l�option retenue ; � d�faut l�option A s�applique. Option A
+  A.11.1. Le titulaire ou son sous-traitant admis au paiement direct b�n�ficient d�une avance calcul�e en application du code de la commande publique d�s lors que le march� respecte les conditions mentionn�es � l�article R.2191-3 ou que le march� de d�fense ou de s�curit� respecte les conditions mentionn�es � l�article R.2391-1.
+  Lorsque le titulaire ou le sous-traitant est une petite ou moyenne entreprise au sens du code de la commande publique, le taux de l�avance mentionn� � l�article R.2191-10 est fix� � 20% ou � un taux sup�rieur fix� par les documents particuliers du march�.
+  Lorsque le titulaire ou le sous-traitant n�est pas une petite ou moyenne entreprise au sens du code de la commande publique, le taux de l�avance est fix� par les documents particuliers du march� et, � d�faut, au taux minimal pr�vu � l�article R.2191-7 du code de la commande publique pour les march�s ou par l�article R.2391-4 pour les march�s de d�fense ou de s�curit�.
+L�avance est vers�e et rembours�e selon les dispositions du code de la commande publique. Option B
+  B.11.1. Lorsqu�en application du code de la commande publique, le titulaire ou son sous-traitant admis au paiement direct b�n�ficie d�une avance, le taux de l�avance correspond aux taux minimums pr�vus � l�article R.2191-7 du code de la commande publique pour les march�s ou � l�article R.2391-4 pour les march�s de d�fense ou de s�curit�, ou � un taux sup�rieur pr�vu par les documents particuliers du march�.
+L�avance est vers�e et rembours�e selon les dispositions du code de la commande publique.
+11.2. Acomptes :
+  Lorsque le march� fixe uniquement la p�riodicit� des acomptes, le montant de chacun d�eux est d�termin� par l�acheteur, sur la base du descriptif des prestations effectu�es et de leur montant produit par le titulaire. Chaque acompte fait l�objet d�une demande de paiement.
+11. 3. Contenu de la demande de paiement :
+  11.3.1. Lorsque le titulaire remet � l�acheteur une demande de paiement, il y joint les pi�ces n�cessaires � la justification du paiement pr�vues par les documents particuliers du march�.
+11.3.2. La demande de paiement est dat�e. Elle mentionne les r�f�rences du march� ainsi que, selon le cas :
+� le montant des prestations admises, �tabli conform�ment aux stipulations du march�, hors TVA et, le cas �ch�ant, diminu� des r�factions fix�es conform�ment aux stipulations de l�article 29.3 ;
+  
+  
+
+� la d�composition des prix forfaitaires et le d�tail des prix unitaires, lorsque l�indication de ces pr�cisions est pr�vue par les documents particuliers du march� ou que, eu �gard aux prescriptions du march�, les prestations ont �t� effectu�es de mani�re incompl�te ou non conforme ;
+� lorsqu�un paiement est pr�vu � l�issue de certaines �tapes de l�ex�cution du march�, le montant correspondant � la p�riode en cause ;
+� le d�tail des calculs, avec justifications � l�appui, des coefficients d�actualisation ou de r�vision des prix ;
+� en cas de groupement conjoint, pour chaque membre du groupement, le montant des prestations effectu�es par celui-ci ;
+� en cas de sous-traitance, la nature des prestations ex�cut�es par le sous-traitant, leur montant total hors TVA, leur montant toutes taxes comprises ainsi que, le cas �ch�ant, les variations de prix �tablies hors TVA et toutes taxes comprises ;
+� le cas �ch�ant, les indemnit�s, primes et retenues autres que la retenue de garantie, �tablies conform�ment aux stipulations du march�.
+  11.3.3. La demande de paiement pr�cise les �l�ments assujettis � la TVA, en les distinguant selon le taux applicable.
+11.3.4. Les prix unitaires peuvent �tre fractionn�s pour tenir compte des prestations en cours d�ex�cution.
+  11.3.5. Les prix forfaitaires peuvent �tre fractionn�s, si la prestation ou la partie de prestation � laquelle le prix se rapporte n�est pas achev�e. Une fraction du prix, qui est �gale au pourcentage d�ex�cution de la prestation, est dans ce cas d�termin�e en faisant application, si l�acheteur le demande, de la d�composition des prix mentionn�e � l�article 11.3.2.
+  11.3.6. Le titulaire �tablit sa demande de paiement suivant le mod�le ou selon les modalit�s fix�s par les documents particuliers du march�.
+  11.3.7. En cas d�ex�cution de prestations aux frais et risques du titulaire d�faillant, le surco�t support� par l�acheteur est d�duit des sommes dues au titulaire au titre des prestations admises. Ce surco�t correspond � la diff�rence entre le prix que l�acheteur aurait d� r�gler au titulaire pour la r�alisation des prestations et le prix effectivement pay� pour l�ex�cution de celles-ci � la place du titulaire d�faillant.
+11.4. Calcul du montant d� par l�acheteur au titre des prestations fournies :
+  11.4.1. Le montant des sommes dues peut �tre �tabli sur la base de constats contradictoires, lorsque le CCAP ou tout autre document qui en tient lieu le pr�voit.
+  11.4.2. Lorsque le march� pr�voit le versement d�acomptes, � l�ach�vement de certaines �tapes de l�ex�cution des prestations, et qu�il indique la quotit� du prix � r�gler � l�ach�vement de chacune d�elles, la demande de paiement comprend :
+� pour chaque partie du march� ex�cut�e, la quotit� correspondante ;
+� pour chaque partie du march� entreprise, apr�s accord de l�acheteur, une fraction de la quotit� correspondante, �gale au pourcentage d�ex�cution des prestations de la partie en cause.
+11.5. Remise de la demande de paiement :
+11.5.1. La remise d�une demande de paiement intervient :
+� soit aux dates pr�vues par le march� ;
+� soit apr�s l�admission des prestations, conform�ment aux stipulations du march� ;
+� soit au d�but de chaque mois pour les prestations effectu�es le mois pr�c�dent, dans le cas des prestations qui s�effectuent de fa�on continue. Le titulaire notifie alors � l�acheteur une demande de paiement mensuelle �tablissant le montant total, arr�t� � la fin du mois pr�c�dent, des sommes auxquelles il peut pr�tendre du fait de l�ex�cution du march� depuis le d�but de celui-ci ;
+� soit aux dates pr�vues pour le versement d�acomptes.
+  11.5.2. La demande de paiement peut indiquer les fournitures qui, en application des stipulations du march� ou d�un commun accord entre les parties, sont pay�es, alors m�me qu�elles restent en stockage chez le titulaire.
+11.6. Acceptation de la demande de paiement par l�acheteur :
+  L�acheteur accepte ou rectifie la demande de paiement. Il la compl�te, �ventuellement, en faisant appara�tre notamment les avances � rembourser, les primes et les r�factions impos�es.
+  Il arr�te le montant de la somme � r�gler. Si ce montant est diff�rent de celui figurant dans la demande de paiement, il notifie le montant qu�il a ainsi arr�t� au titulaire.
+11.7. Paiement pour solde et r�glements partiels d�finitifs
+11.7.1. La demande de paiement est adress�e � l�acheteur apr�s la d�cision d�admission.
+  La demande de paiement peut, �galement, donner lieu � un r�glement partiel d�finitif des prestations ex�cut�es, dans le cas o� les documents particuliers du march� ont pr�vu des paiements � l�issue de l�ex�cution de certaines parties des prestations pr�vues par le march�.
+  11.7.2. Si, apr�s avoir �t� mis en demeure de le faire, le titulaire ne produit pas sa demande de paiement, dans un d�lai de quarante-cinq jours courant � compter de l�admission des prestations, l�acheteur peut proc�der d�office � la liquidation, sur la base d�un d�compte �tabli par ses soins. Ce d�compte est notifi� au titulaire.
+  
+  
+
+  11.7.3. En cas de contestation sur le montant des sommes dues, l�acheteur r�gle les sommes qu�il a admises. Apr�s r�solution du d�saccord, il proc�de, le cas �ch�ant, au paiement d�un compl�ment, major�, s�il y a lieu, des int�r�ts moratoires.
+11.8. Facturation �lectronique
+  11.8.1. Lorsque le titulaire ou son sous-traitant admis au paiement direct est tenu, en application du code de la commande publique, de transmettre les demandes de paiement sous forme �lectronique, il les transmet selon les modalit�s pr�vues par ce m�me code. Les modalit�s pratiques d�ex�cution sont pr�vues dans les documents particuliers du march�.
+  La demande de paiement peut �tre refus�e par l�acheteur lorsque celle-ci m�connait les obligations de d�mat�rialisation des factures � la charge du titulaire et de ses sous-traitants admis au paiement direct. Au pr�alable, l�acheteur doit avoir inform� le titulaire et les sous-traitants admis au paiement direct, dans les conditions pr�vues � l�article 3.1, de l�obligation � sa charge de transmission des factures sous forme �lectronique et l�avoir invit� � s�y conformer.
+  11.8.2. Lorsqu�un tiers au titulaire est habilit� � recevoir des demandes de paiement, il est tenu, pour l�exercice de cette mission, de s�int�grer et de se conformer au portail de facturation utilis� par l�acheteur lorsque ce portail le permet. Les modalit�s pratiques d�habilitation des tiers pour acc�der aux outils minist�riels s�curis�s sont pr�vues dans les documents particuliers du march�.
+Article 12
+R�glement en cas de groupement d�op�rateurs �conomiques ou de sous-traitance
+12.1. Groupements d�op�rateurs �conomiques :
+  12.1.1. En cas de groupement conjoint, chaque membre du groupement per�oit directement les sommes se rapportant � l�ex�cution de ses propres prestations.
+  12.1.2. En cas de groupement solidaire, le paiement est effectu� sur un compte unique, ouvert au nom des membres du groupement ou du mandataire, sauf si le march� pr�voit une r�partition des paiements entre les membres du groupement et indique les modalit�s de cette r�partition.
+  12.1.3. Quelle que soit la forme du groupement, le mandataire est seul habilit� � pr�senter � l�acheteur la demande de paiement. En cas de groupement conjoint, la demande de paiement pr�sent�e par le mandataire est d�compos�e en autant de parties qu�il y a de membres du groupement � payer s�par�ment. Chaque partie fait appara�tre les renseignements n�cessaires au paiement du membre du groupement concern�.
+12.1.4. Le mandataire est seul habilit� � formuler ou � transmettre les r�clamations de membres du groupement.
+12.2. Sous-traitants :
+  Les prestations ex�cut�es par les sous-traitants, dont les conditions de paiement ont �t� agr��es par l�acheteur, sont pay�es dans les conditions financi�res pr�vues par le march� ou par un acte sp�cial.
+CHAPITRE 3
+D�LAIS
+Article 13
+D�lai d�ex�cution
+
+13.1. D�but du d�lai d�ex�cution :
+  13.1.1. Sauf stipulation contraire dans les documents particuliers du march�, le d�lai d�ex�cution du march� part de la date de sa notification.
+  13.1.2. Le d�lai d�ex�cution du bon de commande part de la date de sa notification sauf si le bon de commande pr�voit une date diff�rente.
+  13.1.3. Le d�lai d�ex�cution d�une tranche optionnelle part de la date de notification de la d�cision de son affermissement sauf si cette d�cision pr�voit une date diff�rente
+13.2. Expiration du d�lai d�ex�cution
+  13.2.1. En cas de livraison ou d�ex�cution des prestations dans les locaux de l�acheteur, la date d�expiration du d�lai d�ex�cution est la date de livraison ou de l�ach�vement des prestations
+  13.2.2. En cas de prestations d��tudes, la date d�expiration du d�lai d�ex�cution est la date de pr�sentation des �tudes � l�acheteur, en vue de l�engagement des op�rations de v�rification.
+  13.2.3. En cas d�inach�vement des prestations � la date limite de validit� du march� ou du bon de commande, le d�lai d�ex�cution des prestations expire � la date limite de validit� du march� ou du bon de commande.
+13.3. Prolongation du d�lai d�ex�cution :
+  13.3.1. Lorsque le titulaire est dans l�impossibilit� de respecter les d�lais d�ex�cution, du fait de l�acheteur ou du fait d�un �v�nement ayant le caract�re de force majeure, l�acheteur prolonge le d�lai d�ex�cution. Le d�lai ainsi prolong� a les m�mes effets que le d�lai contractuel.
+  
+  
+
+  13.3.2. Pour b�n�ficier de cette prolongation, le titulaire signale � l�acheteur les causes faisant obstacle � l�ex�cution du march� dans le d�lai contractuel. Il dispose, � cet effet, d�un d�lai de quinze jours � compter de la date � laquelle ces causes sont apparues ou d�un d�lai courant jusqu�� la fin du march�, dans le cas o� le march� arrive � �ch�ance dans un d�lai inf�rieur � quinze jours. Il indique, par la m�me demande, � l�acheteur la dur�e de la prolongation demand�e.
+  13.3.3. L�acheteur dispose d�un d�lai de quinze jours, � compter de la date de r�ception de la demande du titulaire pour lui notifier sa d�cision, sous r�serve que le march� n�arrive pas � son terme avant la fin de ce d�lai.
+  La demande de prolongation ne peut �tre refus�e lorsque le retard est d� � l�intervention du prestataire dans le cadre d�un ordre de r�quisition.
+  Sous r�serve que le march� n�ait pas lui-m�me pour objet de r�pondre � une situation d�urgence imp�rieuse r�sultant de circonstances impr�visibles, la demande de prolongation ne peut �tre refus�e, lorsque le retard est d� � l�intervention du prestataire dans le cadre d�un autre march� pass� en urgence imp�rieuse r�sultant de circonstances impr�visibles.
+  La dur�e d�ex�cution du march� est prolong�e de la dur�e n�cessaire � la r�alisation des prestations r�alis�es sur r�quisition ou pour les besoins du march� pass� en urgence imp�rieuse.
+  13.3.4. Aucune demande de prolongation du d�lai d�ex�cution ne peut �tre pr�sent�e apr�s l�expiration du d�lai contractuel d�ex�cution de la prestation.
+Article 14
+P�nalit�s
+14.1. P�nalit�s pour retard :
+  14.1.1. Sous r�serve des stipulations des articles 13.3 et 21.5, en cas de retard dans l�ex�cution des prestations par le titulaire, l�acheteur applique des p�nalit�s.
+  Lorsque l�acheteur envisage d�appliquer des p�nalit�s de retard, il invite, par �crit, le titulaire � pr�senter ses observations dans un d�lai de quinze jours. Cette invitation pr�cise le montant des p�nalit�s susceptibles d��tre appliqu�es, le ou les retards concern�s ainsi que le d�lai imparti au titulaire pour pr�senter ses observations.
+  A d�faut de r�ponse du titulaire dans ce d�lai ou si l�acheteur consid�re que les observations formul�es par le titulaire en application du premier alin�a ne permettent pas de d�montrer que le retard n�est pas imputable � celui-ci ou � ses sous-traitants, les p�nalit�s pour retard s�appliquent et sont calcul�es � compter du lendemain du jour o� le d�lai contractuel d�ex�cution des prestations est expir�.
+Cette p�nalit� est calcul�e par application de la formule suivante :
+P = V * R / 3 000
+dans laquelle :
+P = le montant de la p�nalit� ;
+  V = la valeur des prestations sur laquelle est calcul�e la p�nalit�, cette valeur �tant �gale au montant en prix de base, hors variations de prix et hors du champ d�application de la TVA, de la partie des prestations en retard ou de l�ensemble des prestations, si le retard d�ex�cution d�une partie rend l�ensemble inutilisable ;
+R = le nombre de jours de retard.
+  14.1.2. Le montant total des p�nalit�s de retard ne peut exc�der 10% du montant total hors taxes du march�, de la tranche consid�r�e ou du bon de commande.
+  14.1.3 Le titulaire est exon�r� des p�nalit�s dont le montant total ne d�passe pas 1 000 � pour l�ensemble du march�.
+14.2. P�nalit�s pour violation des obligations de s�curit� ou de confidentialit� :
+  En cas de violation des mesures de s�curit� ou de l�obligation de confidentialit� �nonc�es � l�article 5.1, le titulaire s�expose aux p�nalit�s suivantes, appliqu�es dans les conditions pr�vues � l�article 14.1 :
+� en cas de non-respect des r�gles de s�curit� et de protection des informations confidentielles n�impliquant pas des donn�es � caract�re personnel : application d�une p�nalit� �gale � 0,5 % du montant ex�cut� du march� public � la date de constatation du fait g�n�rateur ;
+� en cas de non-respect des r�gles de s�curit� et de protection des informations confidentielles impliquant des donn�es � caract�re personnel : application d�une p�nalit� �gale � 2 % du montant ex�cut� du march� public � la date de constatation du fait g�n�rateur.
+  En cas de constatation de plusieurs faits g�n�rateurs, les p�nalit�s ainsi �tablies sont appliqu�es de fa�on cumulative.
+Article 15
+Primes
+  15.1. Si les documents particuliers du march� pr�voient le versement de primes, ils en pr�cisent les conditions d�attribution ainsi que les modalit�s de calcul et de versement.
+  15.2. Le march� peut pr�voir des primes pour r�alisation anticip�e, soit de l�ensemble des prestations, soit de certaines parties des prestations faisant l�objet de d�lais particuliers ou de dates limites fix�s dans le march�
+  
+  
+
+calcul�s conform�ment � l�article 3.2. Les samedis, les dimanches et les jours f�ri�s ou ch�m�s ne sont pas d�duits pour le calcul des primes.
+  15.3. Une fois le montant des primes d�termin�, elles sont vers�es toutes taxes comprises sans que le titulaire soit tenu de les demander. Elles sont prises en compte et r�vis�es dans les conditions pr�vues par les r�gles de paiement et de r�vision applicables au r�glement de la prestation correspondante. Le montant des primes n�est pas plafonn�.
+  Dans le cas d�un groupement d�op�rateurs �conomiques pour lesquels le paiement est effectu� sur des comptes s�par�s, les primes sont r�parties entre les membres du groupement conform�ment aux indications donn�es par le mandataire.
+CHAPITRE 4
+EX�CUTION
+
+Article 16
+D�veloppement durable
+16.1. Clause d�insertion sociale
+  Lorsque les documents particuliers du march� pr�voient que le titulaire r�alise une action d�insertion permettant l�acc�s ou le retour � l�emploi de personnes rencontrant des difficult�s sociale et/ou professionnelles, leur mise en �uvre s�effectue dans les conditions pr�vues au pr�sent article, ils pr�cisent a minima :
+� le p�rim�tre de l�action � r�aliser ;
+� les coordonn�es du facilitateur le cas �ch�ant ;
+� les profils de publics �ligibles � la clause d�insertion ;
+� le volume horaire d�insertion � la charge du titulaire.
+  L�action d�insertion d�finie dans les documents particuliers du march� est mise en �uvre dans les conditions pr�vues par le pr�sent article.
+16.1.1. Publics �ligibles :
+  Les personnes vis�es par l�action d�insertion professionnelle rel�vent notamment de l�une des cat�gories suivantes :
+16.1.1.1. Personnes recrut�es et accompagn�es dans une structure reconnue par l�Etat :
+  a) Personnes prises en charge dans le secteur adapt� ou prot�g� : salari�s des entreprises adapt�es, des entreprises adapt�es de travail temporaire ou usagers des ESAT ;
+  b) Personnes prises en charge dans les structures d�insertion par l�activit� �conomique (IAE) mentionn�e � l�article L. 5132-4 du code du travail, c�est-�-dire :
+� mises � disposition par une association interm�diaire (AI) ou une entreprise de travail temporaire d�insertion (ETTI) ;
+� salari�es d�une entreprise d�insertion (EI), d�un atelier chantier d�insertion (ACI) ;
+c) Personnes employ�es par une r�gie de quartier ou de territoire agr��e ;
+  d) Personnes prises en charge dans des dispositifs particuliers, notamment les Etablissements Publics d�Insertion de la D�fense (EPIDE) et les Ecoles de la deuxi�me Chance (E2C) ;
+  e) Personnes en parcours d�insertion au sein des groupements d�employeurs pour l�insertion et la qualification (GEIQ) ;
+  f) Personnes sous-main de justice employ�es en r�gie, dans le cadre du service de l�emploi p�nitentiaire de l�agence du travail d�int�r�t g�n�ral et de l�insertion professionnelle (ATIGIP) ou affect�es � un emploi aupr�s d�un concessionnaire de l�administration p�nitentiaire.
+16.1.1.2. Personnes r�pondant � des crit�res d��loignement du march� du travail :
+  a) Demandeurs d�emploi de longue dur�e (plus de 12 mois d�inscription au ch�mage) sans activit� ou en activit� partielle (moins de 6 mois dans les 12 derniers mois) ;
+b) B�n�ficiaires du RSA en recherche d�emploi ;
+  c) Personnes ayant obtenu la reconnaissance de travailleurs handicap�s au sens de l�article L. 5212-13 du code du travail orient�s en milieu ordinaire et demandeurs d�emploi fixant la liste des b�n�ficiaires de l�obligation d�emploi ;
+  d) B�n�ficiaires de l�allocation sp�cifique de solidarit� (ASS), de l�allocation adulte handicap� (AAH), de l�allocation d�insertion (AI), de l�allocation veuvage, ou de l�allocation d�invalidit� ;
+e) Jeunes de moins de 26 ans en recherche d�emploi :
+� sans qualification (infra niveau 3, soit niveau inf�rieur au CAP/BEP) et sortis du syst�me scolaire depuis au moins 6 mois ;
+� dipl�m�s, justifiant d�une p�riode d�inactivit� de 6 mois depuis leur sortie du syst�me scolaire ou de l�enseignement sup�rieur ;
+  
+  
+
+f) Demandeurs d�emploi seniors (plus de 50 ans) ;
+g) Jeunes en suivi renforc� de type PACEA, SMA, SMV, en sortie de dispositif Garantie Jeunes ;
+h) Habitants des quartiers prioritaires de la politique de la ville �loign�s de l�emploi ;
+i) Personnes ayant le statut de r�fugi� ou b�n�ficiaires de la protection subsidiaire ;
+  j) Personnes rencontrant des difficult�s particuli�res sur proposition motiv�e de P�le emploi, des maisons de l�emploi, des plans locaux pour l�insertion et l�emploi (PLIE), des missions locales, de Cap emploi ou des maisons d�partementales des personnes handicap�es (MDPH).
+  L��ligibilit� des publics doit �tre �tablie pr�alablement � la mise en �uvre du dispositif et � la r�alisation des heures d�insertion.
+16.1.2. Modalit�s de mise en �uvre de l�action d�insertion professionnelle du titulaire :
+  Le titulaire s�engage � r�aliser une action d�insertion, au minimum � hauteur des objectifs horaires d�insertion fix�s dans les documents particuliers du march�. L�ensemble des actions mises en �uvre doivent intervenir durant la p�riode d�ex�cution du march�.
+  Si la formation fait partie du contrat de travail (contrat de professionnalisation, contrat d�apprentissage, etc.), les heures de formation sont comptabilis�es au titre des heures d�insertion.
+16.1.3. Globalisation des heures d�insertion :
+  Si, dans un m�me bassin d�emploi, le titulaire est attributaire d�un ou plusieurs autres march�s comportant une clause d�insertion sociale, le titulaire peut solliciter aupr�s de l�acheteur la globalisation des heures d�insertion, afin de favoriser le parcours d�insertion des personnes �loign�es de l�emploi. Celle-ci doit �tre d�finie dans les documents particuliers du march�.
+  L�action d�insertion professionnelle peut �tre mise en �uvre par le titulaire selon une ou plusieurs des modalit�s suivantes :
+� par une embauche directe en contrat � dur�e ind�termin�e (CDI), en contrat � dur�e d�termin�e (CDD) par l�entreprise titulaire, ou en contrats en alternance (contrat de professionnalisation ou contrat d�apprentissage). Les heures effectu�es par les personnes en insertion via l�embauche directe sont comptabilis�es durant l�ex�cution du march� � compter de la date d�embauche et pour une p�riode maximale de deux ans ;
+� par la mise � disposition de salari�s en insertion via le recours � une association interm�diaire (AI), ou � une entreprise de travail temporaire d�insertion (ETTI), ou � une entreprise de travail temporaire adapt� (ETTA), ou � un groupement d�employeurs pour l�insertion et la qualification (GEIQ), ou � une entreprise de travail temporaire (ETT) ;
+� par le recours � la sous-traitance ou au groupement d�op�rateurs �conomiques avec une entreprise d�insertion (EI), un atelier chantier d�insertion (ACI) ou une entreprise adapt�e (EA), un �tablissement et service d�aide par le travail (ESAT), une entreprise d�insertion par le travail ind�pendant (EITI), ou un travailleur ind�pendant handicap� (TIH).
+  En cas de groupement d�op�rateurs �conomiques, le mandataire du groupement est l�interlocuteur unique de l�acheteur pour le suivi d�ex�cution de la clause d�insertion. Cette mission peut �galement �tre confi�e, le cas �ch�ant, � un facilitateur identifi� dans les documents particuliers du march�.
+  A l�issue du march�, le titulaire s�engage � �tudier toutes les possibilit�s d�embauche ult�rieure des personnes en insertion.
+16.1.4. Intervention d�un facilitateur :
+  Afin de faciliter la mise en �uvre de la d�marche d�insertion, le titulaire peut b�n�ficier de l�accompagnement d�un facilitateur dont les coordonn�es sont pr�cis�es dans les documents particuliers du march�.
+16.1.4.1. Dans le cadre du march�, le facilitateur a pour mission notamment :
+� d�accompagner le titulaire dans la d�finition du besoin de recrutement (nature du poste, comp�tence�) et de lui proposer les modalit�s les plus appropri�es de mise en �uvre de la clause d�insertion (embauche directe, mise � disposition, etc...) ;
+� d�identifier les publics susceptibles de r�pondre au besoin du titulaire ;
+� d�organiser le suivi des publics ;
+� de mesurer et de communiquer aupr�s de l�acheteur et du titulaire sur les r�alisations obtenues dans le cadre du march�.
+  16.1.4.2. Le titulaire d�signe un correspondant op�rationnel pour le suivi des actions d�insertion professionnelle, interlocuteur privil�gi� de l�acheteur et du facilitateur.
+  Le titulaire transmet � l�acheteur, et le cas �ch�ant au facilitateur, d�s lors que l�acheteur lui a communiqu� les coordonn�es du facilitateur, tous renseignements utiles permettant le contr�le et le suivi de l�ex�cution de la clause d�insertion sociale.
+  Ces informations, ainsi que la fr�quence de leur transmission, sont pr�cis�es dans les documents particuliers du march�.
+  16.1.4.3. A l�initiative de l�acheteur, une r�union de mise au point de l�action d�insertion est organis�e avec le titulaire et, le cas �ch�ant, le facilitateur.
+  
+  
+
+  Elle est mise en place apr�s notification du march� selon un d�lai pr�cis� dans les documents particuliers du march�.
+  Durant toute la p�riode d�ex�cution du march�, l�acheteur peut organiser avec le titulaire et, le cas �ch�ant le facilitateur, des r�unions de suivi de la clause d�insertion.
+
+  16.1.4.4. Le titulaire notifie � l�acheteur toute difficult� pour assurer son engagement. Dans ce cas, l�acheteur, et le cas �ch�ant le facilitateur, �tudie avec le titulaire les moyens � mettre en �uvre pour atteindre les objectifs d�insertion.
+  En cas de difficult�s �conomiques, �tablies par un faisceau d�indices, l�entreprise attributaire peut demander � l�acheteur la suspension ou la suppression de la clause d�insertion sociale.
+  En cas de difficult�s �conomiques qui se traduisent par le recours � de l�activit� partielle, � l�engagement d�une proc�dure de licenciement pour motif �conomique ou � l�ouverture d�une proc�dure de redressement judiciaire, l�acheteur annule la clause d�insertion sociale. Cette annulation est subordonn�e � la communication d�une copie des documents aff�rents � ces difficult�s, transmis � la DIRECCTE ou au juge.
+  16.1.4.5. Il est proc�d� au contr�le de l�ex�cution de l�action d�insertion pour laquelle le titulaire s�est engag�, tout au long de l�ex�cution des prestations :
+� le titulaire, ou le cas �ch�ant le facilitateur, �tablit pendant toute la dur�e du march� un bilan annuel sur la base des bilans transmis � l�acheteur ;
+� le titulaire, ou le cas �ch�ant le facilitateur, r�dige un bilan final dans le mois pr�c�dant la fin de l�ex�cution du march� transmis � l�acheteur.
+Ces bilans portent sur les aspects quantitatif et qualitatif de l�action d�insertion.
+16.1.5. P�nalit�s pour non-respect de la clause d�insertion sociale :
+  Le titulaire se voit appliquer une p�nalit� forfaitaire dont le montant est fix� par les documents particuliers du march� apr�s mise en demeure rest�e infructueuse. Lorsque le titulaire a inform� l�acheteur de difficult�s dans la mise en �uvre du pr�sent article 16, la p�nalit� ne s�applique pas � la part des heures d�insertion initialement pr�vues pour lesquelles l�acheteur ou le facilitateur ne sont pas parvenus � trouver un moyen pour le titulaire d�y recourir.
+  En cas d�absence injustifi�e � une r�union de suivi de l�ex�cution de la clause d�insertion sociale, le titulaire se voit appliquer, apr�s mise en demeure rest�e infructueuse de justifier son absence, une p�nalit� forfaitaire dont le montant est fix� par les documents particuliers du march�.
+  En cas de non-transmission, ou transmission partielle, ou retard de transmission des documents et attestations propres � permettre le contr�le de l�ex�cution de l�action d�insertion professionnelle (notamment justificatifs d��ligibilit� des publics et justificatifs des missions confi�es et heures r�alis�es), le titulaire se voit appliquer, pour chaque manquement, et apr�s avoir �t� mis en demeure d�y rem�dier, une p�nalit� forfaitaire dont le montant est fix� par les documents particuliers du march�.
+
+16.2. Clause environnementale g�n�rale
+  16.2.1. Les documents particuliers du march� pr�cisent les obligations environnementales du titulaire dans l�ex�cution du march�. Ces obligations doivent �tre v�rifiables selon des m�thodes objectives, et faire l�objet d�un contr�le effectif.
+
+  16.2.2. Le titulaire s�assure du respect par ses sous-traitants des obligations environnementales fix�es par le march�.
+  16.2.3. En cas de non-respect des obligations pr�vues au pr�sent 16.2, le titulaire se voit appliquer pour chaque manquement, apr�s mise en demeure rest�e infructueuse, une p�nalit� dont le montant est fix� par les documents particuliers du march�.
+  
+  
+
+Article 17
+Moyens mis � la disposition du titulaire
+  17.1. Les stipulations du pr�sent article s�appliquent lorsque l�acheteur met � la disposition du titulaire des moyens n�cessaires � l�ex�cution de la prestation.
+  17.2 Lorsque ces moyens sont la propri�t� de l�acheteur, ils sont laiss�s gratuitement � la disposition du titulaire pour l�ex�cution du march�.
+  17.3. Un constat contradictoire est �tabli, pour contr�ler l��tat de ces moyens au moment de leur mise � la disposition du titulaire. Ce constat est sign� par les deux parties. Il mentionne la valeur de ces moyens.
+La date effective de la mise � disposition est celle du constat contradictoire.
+  17.4. Le titulaire est responsable du gardiennage, de la conservation, de l�entretien et de l�emploi des moyens qui lui sont confi�s, d�s que ceux-ci ont �t� mis effectivement � sa disposition. Il ne peut en user qu�aux fins pr�vues par le march�.
+A cet effet, le titulaire doit :
+� en tenir un inventaire permanent ;
+� apposer sur les moyens tout dispositif permettant l�identification du propri�taire.
+  17.5. Lorsque l�un de ces moyens mis � disposition est endommag�, d�truit ou perdu, le titulaire est tenu de le remettre en �tat, de le remplacer ou d�en rembourser la valeur r�siduelle � la date de disparition ou du sinistre.
+  17.6. Au terme de l�ex�cution ou apr�s r�siliation du march�, ou au terme fix� par celui-ci, les moyens mis � disposition sont restitu�s � l�acheteur.
+  17.7. Un constat contradictoire est �tabli lors de la restitution de ces moyens � l�acheteur. Le cas �ch�ant, les frais relatifs � cette restitution incombent au titulaire.
+  17.8. Si le titulaire ne respecte pas les obligations des 4, 5 et 6 du pr�sent article, l�acheteur peut suspendre le paiement des sommes dues au titre du march�, � concurrence du pr�judice estim�, jusqu�� l�ex�cution de ces obligations.
+  Ind�pendamment des sanctions mentionn�es ci-dessus, le march� peut �tre r�sili�, dans les conditions de l�article 39, en cas de d�faut de pr�sentation, de mauvais emploi ou d�utilisation abusive des moyens mis � la disposition du titulaire.
+Article 18
+Assurance des moyens mis � la disposition du titulaire
+  18.1. Le titulaire est tenu, pr�alablement � leur mise � sa disposition et tant qu�il en dispose, de faire assurer � ses frais l�ensemble des moyens qui sont la propri�t� de l�acheteur.
+  18.2. Il doit justifier dans un d�lai de quinze jours � compter de la notification du march� et avant tout d�but d�ex�cution de celui-ci qu�il est titulaire de ces contrats d�assurances, au moyen d�une attestation �tablissant l��tendue de la responsabilit� garantie.
+  18.3. Si le titulaire contrevient � ces prescriptions, l�acheteur peut contracter � sa place, cinq jours apr�s une mise en demeure rest�e sans effet, la ou les polices d�assurance n�cessaires.
+Le montant des primes d�assurances est alors retenu sur les sommes dues au titulaire au titre du march�.
+Article 19
+Lieux d�ex�cution
+  19.1. Le titulaire doit faire conna�tre � l�acheteur, sur sa demande, le lieu d�ex�cution des prestations. L�acheteur peut en suivre sur place le d�roulement. L�acc�s aux lieux d�ex�cution est r�serv� aux seuls repr�sentants de l�acheteur.
+  Les personnes qu�il d�signe � cet effet ont libre acc�s aux seules zones concern�es par l�ex�cution des prestations pr�vues par le march�, dans le respect des consignes de s�curit� pr�vues pour le site. Elles sont tenues aux obligations de confidentialit� pr�vues � l�article 5.1.
+
+  19.2. Si le titulaire entrave l�exercice du droit de contr�le de l�acheteur en cours d�ex�cution du march�, il encourt les sanctions pr�vues � l�article 39.
+  19.3. L�acheteur peut effectuer ou de faire effectuer un audit de s�curit� aupr�s du titulaire ou le cas �ch�ant de ses sous-traitants afin de s�assurer de la prise en compte effective du niveau de s�curit� requis par l�acheteur.
+  Le titulaire est inform� quinze jours � l�avance (date de l�audit, modalit�s financi�res pour l�acheteur et le titulaire, etc.).
+  L�acheteur, ou l�organisme mandat� � cette fin, peut, pendant une p�riode de six mois � compter de la fin ou de la r�siliation du march�, exercer un contr�le dans les locaux du titulaire et, le cas �ch�ant, dans ceux de ses sous- traitants afin de v�rifier que les dispositions en mati�re de destruction des donn�es ont �t� effectivement appliqu�es
+  
+  
+
+Article 20
+Stockage, emballage, transport et gestion des d�chets
+20.1. Stockage :
+  20.1.1. Si les documents particuliers du march� pr�voient l�obligation pour le titulaire de stocker des mat�riels dans ses locaux, celui-ci assume � leur �gard la responsabilit� du d�positaire durant un d�lai pr�cis� par les documents particuliers du march� et courant � compter de leur admission.
+  20.1.2. Lorsque le stockage est effectu� dans les locaux de l�acheteur, celui-ci assume la responsabilit� du d�positaire jusqu�� la d�cision d�admission.
+20.2. Emballage :
+  20.2.1. La qualit� des emballages doit �tre appropri�e aux conditions et modalit�s de transport pr�vues par les documents particuliers du march�. Elle est de la responsabilit� du titulaire.
+  Lorsque cela n�est pas de nature � contrevenir aux r�gles sanitaires et d�hygi�ne, le titulaire utilise des contenants r�utilisables, recycl�s, recyclables, ou r�employ�s. Il veille �galement, dans la mesure du possible, � en r�duire les quantit�s, en volume et en poids.
+  20.2.2. Sauf stipulation contraire dans les documents particuliers du march�, et lorsque cela n�est pas de nature � contrevenir aux r�gles sanitaires et d�hygi�ne, les emballages restent la propri�t� du titulaire. Celui-ci les collecte en vue de leur recyclage ou de leur r�utilisation.
+20.3. Transport :
+  Le transport s�effectue, sous la responsabilit� du titulaire, jusqu�au lieu de livraison. Le conditionnement, le chargement, l�arrimage et le d�chargement sont effectu�s sous sa responsabilit�.
+20.4. Gestion des d�chets :
+  La valorisation ou l��limination des d�chets cr��s lors de l�ex�cution des prestations est de la responsabilit� du titulaire pendant la dur�e du march�.
+  Le titulaire veille � ce que soient effectu�es les op�rations, de collecte, transport, entreposage, tris �ventuels et de l��vacuation des d�chets cr��s par les prestations objet du march� public vers les sites susceptibles de les recevoir, conform�ment � la r�glementation en vigueur.
+  Le titulaire est tenu de produire, � la demande de l�acheteur, tout justificatif de tra�abilit� du traitement des d�chets issus de l�ex�cution de la prestation, qui fasse appara�tre une gestion des d�chets conforme aux exigences r�glementaires, notamment en ce qui concerne les d�chets dangereux.
+  En cas d�absence de production des �l�ments attestant la tra�abilit� des d�chets, le titulaire se voit appliquer, apr�s mise en demeure rest�e infructueuse, une p�nalit� dont le montant est fix� par les documents particuliers du march�.
+Article 21
+Livraison
+  21.1. Le titulaire veille � limiter l�impact environnemental des livraisons et du transport des produits propos�s. La planification du transport de ces marchandises doit permettre, lorsque cela est compatible avec les besoins de l�acheteur, d��viter la circulation pendant les heures de pointe. Le titulaire privil�gie le transport group� des marchandises objets du march� afin de r�duire les d�placements des v�hicules de livraison. Il favorise les modes de transports les plus respectueux de l�environnement, notamment les v�hicules � faibles �missions, les modes de transports doux ou alternatifs � la route.
+  21.2. Toute livraison r�alis�e par le titulaire est accompagn�e d�un bon de livraison ou d�un �tat, dress� distinctement pour chaque destinataire, et comportant notamment :
+� la date d�exp�dition ;
+� la r�f�rence � la commande ou au march� ;
+� l�identification du titulaire ;
+� l�identification des fournitures livr�es et, quand il y a lieu, leur r�partition par colis ;
+� le num�ro du ou des lots de fabrication, dans le cas o� la r�glementation l�impose en mati�re d��tiquetage.
+Chaque colis doit porter de fa�on apparente son num�ro d�ordre, tel qu�il figure sur le bon de livraison ou l��tat.
+Il renferme l�inventaire de son contenu.
+  21.3. La livraison des fournitures est constat�e par la d�livrance d�un r�c�piss� au titulaire ou par la signature du bon de livraison ou de l��tat, dont chaque partie conserve un exemplaire. En cas d�impossibilit� de livrer, celle-ci doit �tre mentionn�e sur l�un de ces documents.
+  21.4. Si la disposition des locaux d�sign�s pour la r�alisation des livraisons entra�ne des difficult�s exceptionnelles de manutention, non pr�vues par le march�, les frais suppl�mentaires de livraison qui en r�sultent sont r�mun�r�s distinctement. Ils font l�objet d�un avenant.
+  21.5. Un sursis de livraison peut �tre �galement accord� au titulaire s�il justifie de mesures et pr�cautions particuli�res pour r�duire les impacts environnementaux li�s aux transports et aux modalit�s de livraison.
+Le sursis de livraison suspend pour un temps �gal � sa dur�e l�application des p�nalit�s pour retard.
+  
+  
+
+  Les formalit�s d�octroi du sursis de livraison sont les m�mes que celles de la prolongation de d�lai mentionn�es � l�article 13.3.
+  Aucun sursis de livraison ne peut �tre demand� par le titulaire pour des �v�nements survenus apr�s l�expiration du d�lai d�ex�cution du march�, �ventuellement d�j� prolong�.
+Article 22
+Arr�t de l�ex�cution des prestations
+  Lorsque les prestations sont scind�es en plusieurs parties techniques � ex�cuter distinctement, l�acheteur peut d�cider, au terme de chacune de ces parties, soit de sa propre initiative, soit � la demande du titulaire, de ne pas poursuivre l�ex�cution des prestations, d�s lors que les deux conditions suivantes sont remplies :
+� les documents particuliers du march� pr�voient express�ment cette possibilit� ;
+� chacune de ces parties techniques est clairement identifi�e et assortie d�un montant.
+La d�cision d�arr�ter l�ex�cution des prestations ne donne lieu � aucune indemnit�. L�arr�t de l�ex�cution des prestations entra�ne la r�siliation du march�.
+Article 23
+Prestations suppl�mentaires ou modificatives
+  23.1. Pendant l�ex�cution du march�, l�acheteur peut prescrire au titulaire, par ordre de service, des prestations suppl�mentaires ou modificatives apr�s consultation de ce dernier ou accepter les modifications qu�il propose.
+  Le titulaire ne doit apporter aucune modification aux sp�cifications techniques sans autorisation pr�alable de l�acheteur.
+
+  23.2. Lorsque le march� n�a pas pr�vu de prix pour les prestations suppl�mentaires ou modificatives demand�es par l�acheteur au titulaire, l�ordre de service mentionn� � l�article 23.1 fixe provisoirement les prix nouveaux retenus pour le r�glement des prestations suppl�mentaires ou modificatives.
+  23.3. Ces prix provisoires, permettant une juste r�mun�ration du titulaire, sont arr�t�s par l�acheteur apr�s consultation du titulaire. Ils sont utilis�s pour le r�glement des acomptes jusqu�� la fixation du prix d�finitif. Le titulaire est r�put� avoir accept� les prix provisoires si, dans le d�lai de trente jours suivant l�ordre de service qui lui a notifi� ces prix, il n�a pas pr�sent� d�observation � l�acheteur en indiquant, avec toutes justifications utiles, les prix qu�il propose. En cas de d�saccord, l�acheteur r�gle provisoirement les sommes qu�il admet.
+  Lorsque l�acheteur et le titulaire sont d�accord pour arr�ter les prix d�finitifs, ceux-ci font l�objet d�un avenant, sauf si les prix sont devenus d�finitifs dans le silence du titulaire en application de l�alin�a pr�c�dent.
+  23.4. Le titulaire n�est pas tenu de se conformer � un ordre de service mentionn� � l�article 23.2 lorsque cet ordre de service n�a fait l�objet d�aucune valorisation financi�re.
+  Un tel refus d�ex�cuter oppos� par le titulaire n�est toutefois recevable que s�il est notifi� par �crit, avec les justifications n�cessaires, � l�acheteur, dans le d�lai de quinze jours suivant la notification de l�ordre de service prescrivant les prestations.
+Article 24
+Suspension des prestations en cas de circonstances impr�visibles
+  24.1. Lorsque la poursuite de l�ex�cution du march� est rendue temporairement impossible du fait d�une circonstance que des parties diligentes ne pouvaient pr�voir dans sa nature ou dans son ampleur ou du fait de l��diction par une autorit� publique de mesures venant restreindre, interdire, ou modifier de mani�re importante l�exercice de certaines activit�s en raison d�une telle circonstance, la suspension de tout ou partie des prestations est prononc�e par l�acheteur. Lorsque la suspension est demand�e par le titulaire, l�acheteur se prononce sur le bien- fond� de cette demande dans les meilleurs d�lais.
+  24.2. Dans un d�lai adapt� aux circonstances et qui ne saurait exc�der quinze jours � compter de la d�cision de suspension des prestations, les parties conviennent des modalit�s de constatation des prestations ex�cut�es et, le cas �ch�ant, du maintien d�une partie des obligations contractuelles restant � la charge du titulaire pendant la suspension. Dans un d�lai raisonnable, les parties conviennent �galement des modalit�s de reprise de l�ex�cution et, le cas �ch�ant, des modifications � apporter au march� et des modalit�s de r�partition des surco�ts directement induits par ces �v�nements.
+  A d�faut d�accord entre les parties, le titulaire est tenu, � l�issue de la suspension, de reprendre l�ex�cution des prestations dans les conditions pr�vues par le march� et le d�saccord est r�gl� dans les conditions mentionn�es � l�article 43.
+  
+  
+
+Article 25
+Clause de r�examen
+  En cas de circonstance que des parties diligentes ne pouvaient pr�voir dans sa nature ou dans son ampleur et modifiant de mani�re significative les conditions d�ex�cution du march�, les parties examinent de bonne foi les cons�quences, notamment financi�res, de cette circonstance.
+  Le cas �ch�ant, les parties conviennent, par avenant, des modalit�s de prise en charge, totale ou partielle, des surco�ts directement induits par cette circonstance sur la base de justificatifs fournis par le titulaire. Il est tenu compte, notamment :
+� des surco�ts li�s aux modifications d�ex�cution des prestations ;
+� des cons�quences li�es � la prolongation des d�lais d�ex�cution du march�.
+  Le titulaire est tenu de demander, en temps utile, qu�il soit proc�d� � des constatations contradictoires pour permettre � l�acheteur d��valuer les moyens suppl�mentaires effectivement mis en �uvre.
+  Sont exclues de cette �valuation, les augmentations de prix prises en compte dans les index ou indices utilis�s pour la r�vision des prix du march�.
+  Les surco�ts pris en charge par l�acheteur peuvent faire l�objet d�une avance dans les conditions fix�es par les documents particuliers du march� ou dans l�avenant conclu en application du pr�sent article.
+Article 26
+Donn�es indispensables � l�ex�cution d�une mission de service public
+  Lorsque le march� public a pour objet la gestion d�un service public, le titulaire fournit � l�acheteur sous format �lectronique, dans un standard ouvert librement r�utilisable et exploitable par un syst�me de traitement automatis�, et dans le respect du secret des affaires et des droits de propri�t� intellectuelle d�tenus par des tiers, les donn�es et les bases de donn�es collect�es ou produites � l�occasion de la gestion du service public faisant l�objet du contrat et qui sont indispensables � son ex�cution. Les documents particuliers du march� d�finissent notamment les donn�es, le calendrier de transmission des donn�es � l�acheteur ainsi que les p�nalit�s en cas de non-respect de ces d�lais.
+Article 27
+Ex�cution de la prestation aux frais et risques du titulaire
+  27.1. L�acheteur peut faire proc�der par un tiers � l�ex�cution de tout ou partie des prestations pr�vues par le march�, aux frais et risques du titulaire :
+� soit lorsque le titulaire n�a pas d�f�r� � une mise en demeure de se conformer aux stipulations du march� ou aux ordres de service, ou en cas d�inex�cution par ce dernier d�une prestation qui, par sa nature, ne peut souffrir aucun retard. La d�cision de faire ex�cuter les prestations par un tiers, en lieu et place du titulaire, est notifi�e au titulaire par l�acheteur. Sous r�serve qu�elles ne soient pas enti�rement ex�cut�es, le titulaire peut �tre autoris� par ordre de service � reprendre l�ex�cution des prestations s�il justifie des moyens n�cessaires � cette fin dans le d�lai pr�vu par les documents particuliers du march� ou, � d�faut, dans le d�lai de trois mois suivant la notification de la d�cision d�ex�cution aux frais et risques. S�il n�a pas �t� autoris� � reprendre l�ex�cution du march� dans ce d�lai, le march� est r�sili� pour faute du titulaire ;
+� soit en cas de r�siliation du march� pour faute du titulaire, � la condition que la d�cision de r�siliation le mentionne express�ment.
+  27.2. S�il n�est pas possible � l�acheteur de se procurer, dans des conditions acceptables, des prestations exactement conformes � celles dont l�ex�cution est pr�vue dans les documents particuliers du march�, il peut y substituer des prestations �quivalentes.
+  27.3. Le titulaire du march� r�sili� n�est pas admis � prendre part, ni directement ni indirectement, � l�ex�cution des prestations effectu�es � ses frais et risques. Il doit cependant fournir toutes les informations recueillies et tous les moyens mis en �uvre dans le cadre de l�ex�cution du march� initial et qui seraient n�cessaires � l�ex�cution du march� de substitution. Ce march� de substitution est transmis pour information au titulaire d�faillant.
+  27.4. L�augmentation des d�penses, par rapport aux prix du march�, r�sultant de l�ex�cution des prestations aux frais et risques du titulaire est � la charge du titulaire. La diminution des d�penses ne lui profite pas.
+CHAPITRE 5
+CONSTATATION DE L�EX�CUTION DES PRESTATIONS � GARANTIE
+Article 28
+Op�rations de v�rification
+28.1. Nature des op�rations de v�rifications :
+  Les op�rations de v�rification quantitative et qualitative ont pour objet de permettre � l�acheteur de contr�ler notamment que le titulaire :
+� a mis en �uvre les moyens d�finis dans le march�, conform�ment aux prescriptions qui y sont fix�es ;
+  
+  
+
+� a r�alis� les prestations d�finies dans le march� comme �tant � sa charge, conform�ment aux stipulations contractuelles.
+  Les mati�res et objets n�cessaires aux essais sont pr�lev�s par l�acheteur sur les livraisons r�alis�es au titre du march�
+28.2. D�lai de v�rification :
+  L�acheteur dispose d�un d�lai de deux mois pour proc�der aux v�rifications et notifier sa d�cision d�admission, d�ajournement, d�admission avec r�faction ou de rejet.
+28.3. Point de d�part du d�lai pour les op�rations de v�rification :
+  28.3.1. Pour les v�rifications effectu�es dans les �tablissements de l�acheteur, le point de d�part du d�lai est la date de remise par le titulaire, ou de livraison, des prestations � l�acheteur.
+  28.3.2. Pour les v�rifications effectu�es dans les �tablissements du titulaire ou tout autre lieu d�sign� dans les documents particuliers du march�, le point de d�part du d�lai est la date � laquelle le titulaire notifie � l�acheteur que les prestations sont pr�tes � �tre v�rifi�es
+28.4. Frais de v�rification :
+  28.4.1. Quels que soient les r�sultats des v�rifications, les frais qu�elles entra�nent sont � la charge de l�acheteur pour les op�rations qui, conform�ment aux stipulations du march�, doivent �tre ex�cut�es dans ses propres locaux. Ils sont � la charge du titulaire dans les autres cas.
+  Toutefois, lorsqu�une des parties a accept� de faire ex�cuter dans ses propres locaux des essais qui, conform�ment aux documents particuliers du march�, auraient d� �tre effectu�s dans ceux de l�autre partie, les frais correspondants sont � la charge de cette derni�re.
+  28.4.2. Le titulaire avise l�acheteur de la date � partir de laquelle les prestations pourront �tre pr�sent�es en vue de ces v�rifications.
+28.5. Pr�sence du titulaire :
+  L�acheteur informe le titulaire, au minimum huit jours avant la date pr�vue, des jours et heures fix�s pour les v�rifications, afin de lui permettre d�y assister ou de se faire repr�senter.
+  L�absence du titulaire d�ment avis�, ou de son repr�sentant, ne fait pas obstacle au d�roulement ou � la validit� des op�rations de v�rification.
+Article 29
+Admission, ajournement, r�faction et rejet
+  A l�issue des op�rations de v�rification, l�acheteur prend, dans le d�lai pr�vu � l�article 28.2, une d�cision d�admission, d�ajournement, de r�faction ou de rejet.
+  Si l�acheteur ne notifie pas sa d�cision dans le d�lai mentionn� � l�article 28.2, les prestations sont consid�r�es comme admises, avec effet � compter de l�expiration du d�lai.
+  Dans le cas d�un march� comportant des prestations distinctes � ex�cuter, chaque prestation fait l�objet de v�rifications et de d�cisions distinctes.
+29.1. Admission :
+  L�acheteur prononce l�admission des prestations, si elles r�pondent aux stipulations du march�. L�admission prend effet � la date de notification au titulaire de la d�cision d�admission.
+  En cas d�admission tacite, l�admission prend effet au terme du d�lai mentionn� au premier alin�a de l�article 28.2.
+29.2. Ajournement :
+  29.2.1. Lorsque l�acheteur estime que des prestations ne peuvent �tre admises que moyennant certaines mises au point, il peut d�cider d�ajourner l�admission des prestations par une d�cision motiv�e. Cette d�cision invite le titulaire � pr�senter � nouveau � l�acheteur, les prestations mises au point, dans un d�lai de quinze jours.
+  Le titulaire doit faire conna�tre son acceptation dans un d�lai de dix jours, � compter de la notification de la d�cision d�ajournement. En cas de refus du titulaire ou de silence gard� par lui durant ce d�lai, l�acheteur a le choix de prononcer l�admission des prestations avec r�faction ou de les rejeter, dans les conditions fix�es aux 3 et 4 du pr�sent article, dans un d�lai de quinze jours courant de la notification du refus du titulaire ou de l�expiration du d�lai de dix jours ci-dessus mentionn�.
+Le silence gard� par l�acheteur au-del� de ce d�lai de quinze jours vaut d�cision de rejet des prestations.
+  29.2.2. Si le titulaire pr�sente � nouveau les prestations mises au point, apr�s la d�cision d�ajournement des prestations, l�acheteur dispose � nouveau de la totalit� du d�lai pr�vu pour proc�der aux v�rifications des prestations, � compter de leur nouvelle pr�sentation par le titulaire.
+  29.2.3. Dans le cas o� les op�rations de v�rification ont �t� effectu�es dans les locaux de l�acheteur, le titulaire dispose d�un d�lai de quinze jours, � compter de la notification de la d�cision d�ajournement, pour enlever les biens ayant fait l�objet de la d�cision d�ajournement.
+Pass� ce d�lai, les biens v�rifi�s peuvent �tre �vacu�s ou d�truits par l�acheteur, aux frais du titulaire.
+  
+  
+
+29.3. R�faction :
+  Lorsque l�acheteur estime que des prestations, sans �tre enti�rement conformes aux stipulations du march�, peuvent n�anmoins �tre admises en l��tat, il peut les admettre avec r�faction de prix proportionnelle � l�importance des imperfections constat�es. Cette d�cision doit �tre motiv�e. Elle ne peut �tre notifi�e au titulaire qu�apr�s qu�il a �t� mis � m�me de pr�senter ses observations.
+  Si le titulaire ne pr�sente pas d�observations dans les quinze jours suivant la d�cision d�admission avec r�faction, il est r�put� l�avoir accept�e. Si le titulaire formule des observations dans ce d�lai, l�acheteur dispose ensuite de quinze jours pour lui notifier une nouvelle d�cision.
+  A d�faut d�une telle notification, l�acheteur est r�put� avoir accept� les observations du titulaire et l�admission est r�put�e sans r�faction.
+29.4. Rejet :
+  29.4.1. Lorsque l�acheteur estime que les prestations ne peuvent �tre admises en l��tat, il en prononce le rejet partiel ou total.
+  La d�cision de rejet doit �tre motiv�e. Elle ne peut �tre prise qu�apr�s que le titulaire a �t� mis � m�me de pr�senter ses observations.
+29.4.2. En cas de rejet, le titulaire est tenu d�ex�cuter � nouveau la prestation pr�vue par le march�.
+  29.4.3. Le titulaire dispose d�un d�lai de trente jours � compter de la notification de la d�cision de rejet pour enlever les prestations rejet�es. Lorsque ce d�lai est �coul�, elles peuvent �tre d�truites ou �vacu�es par l�acheteur, aux frais du titulaire.
+29.5. Mauvaise qualit� ou d�fectuosit� des fournitures ou mat�riaux
+  Lorsque la mauvaise qualit� ou la d�fectuosit� des fournitures ou mat�riaux remis par l�acheteur, et entrant dans la composition des prestations, est � l�origine du d�faut de conformit� des prestations aux stipulations du march�, l�acheteur ne peut prendre une d�cision d�ajournement, d�admission avec r�faction ou de rejet :
+� si le titulaire a, dans un d�lai de quinze jours � partir de la date � laquelle il a eu la possibilit� de les constater, inform� l�acheteur des d�fauts des approvisionnements, mat�riels ou �quipements remis, r�serve faite des vices cach�s ne pouvant �tre d�cel�s avec les moyens dont il dispose ;
+� et que l�acheteur a d�cid� que les approvisionnements, mat�riels ou �quipements devaient n�anmoins �tre utilis�s et notifi� sa d�cision au titulaire.
+Article 30
+Garantie technique
+  Les prestations font l�objet d�une garantie minimale d�un an. Le point de d�part du d�lai de garantie est la date de notification de la d�cision d�admission.
+  Les stipulations qui pr�c�dent ne font pas obstacle � ce que les documents particuliers du march� d�finissent, pour certaines cat�gories de prestations, des garanties particuli�res. Dans ce cas, le march� fixe les conditions, modalit�s et les effets de ces garanties sur les obligations respectives des parties.
+  En mati�re de ma�trise d��uvre et de contr�le technique, la garantie �voqu�e n�est pas la garantie l�gale de parfait ach�vement.
+Article 31
+Destruction des donn�es
+  Au terme de l�ex�cution du march� ou en cas de r�siliation, le titulaire restitue sans d�lai � l�acheteur une copie de l�int�gralit� des donn�es confi�es par lui dans le cadre de la prestation. Une fois la restitution effectu�e, le titulaire d�truit, dans un d�lai de trois mois, les �ventuelles copies de donn�es d�tenues dans son syst�me d�information, y compris les donn�es ayant fait l�objet de sauvegardes ou d�un archivage. La restitution et la destruction des donn�es sont constat�es par un proc�s-verbal dat� et sign� par le titulaire. Les proc�d�s de destruction sont conformes aux r�glementations en vigueur.
+CHAPITRE 6
+UTILISATION DES R�SULTATS
+Article 32
+D�finition des r�sultats
+Au sens du pr�sent chapitre :
+  32.1. Les r�sultats d�signent tous les �l�ments, quels qu�en soient la forme, la nature et le support, qui sont r�alis�s dans le cadre des prestations du march�, tels que, notamment, les �uvres de l�esprit (en ce compris les logiciels et leur documentation), les bases de donn�es, les marques dessins ou mod�les, noms de domaine et autres signes distinctifs, les inventions brevetables ou non au sens du code de la propri�t� intellectuelle, les donn�es et les informations, et plus g�n�ralement tous les �l�ments prot�g�s ou non par des droits de propri�t� intellectuelle ou par tout autre mode de protection, tels que le savoir-faire, le secret des affaires, le droit � l�image ou � la voix des personnes ou le droit � l�image des biens.
+  
+  
+
+  Les r�sultats comprennent les �l�ments r�alis�s par le titulaire d�s l�appel � la concurrence ou toute consultation �crite de l�acheteur en vue de la remise d�une offre et qui sont li�s directement � l�objet du pr�sent march�.
+
+  32.2. Les connaissances ant�rieures d�signent tous les �l�ments, quels qu�en soient la forme, la nature et le support, qui sont incorpor�s aux r�sultats et/ou sont fournis pour r�pondre aux besoins de l�acheteur dans le cadre d�une prestation intellectuelle et qui appartiennent � l�acheteur, au titulaire ou � des tiers, ou qui leurs sont conc�d�s en licence, mais qui ont �t� r�alis�s dans un cadre ext�rieur et ind�pendamment du march�, tels que notamment les �uvres de l�esprit (en ce compris les logiciels et leur documentation), les bases de donn�es, les marques, noms de domaine et autres signes distinctifs, les dessins ou mod�les, les inventions brevetables ou non au sens du code de la propri�t� intellectuelle, les donn�es et les informations, et plus g�n�ralement tous les �l�ments prot�g�s ou non par des droits de propri�t� intellectuelle ou par tout autre mode de protection, tels que le savoir- faire, le secret des affaires, le droit � l�image ou � la voix des personnes ou le droit � l�image des biens.
+
+  32.3. Les connaissances ant�rieures standards d�signent les connaissances ant�rieures con�ues pour �tre fournies � plusieurs clients en vue de l�ex�cution d�une m�me fonction, tels que les logiciels standards et les autres contenus propos�s sous licence standard.
+
+Article 33
+R�gime g�n�ral des connaissances ant�rieures et des connaissances ant�rieures standards
+  33.1. La conclusion du march� n�emporte pas transfert des droits de propri�t� intellectuelle ou des droits de toute autre nature aff�rents aux connaissances ant�rieures et aux connaissances ant�rieures standards.
+  L�acheteur et le titulaire restent titulaires, chacun en ce qui les concerne, des droits de propri�t� intellectuelle ou des droits de toute autre nature portant sur les connaissances ant�rieures. Ils conservent leurs droits propres, dont ceux d�exploitation, portant sur les connaissances ant�rieures et les connaissances ant�rieures standards incorpor�es dans les r�sultats, en ce compris leur savoir-faire.
+  33.2. D�s lors que le titulaire envisage d�utiliser des connaissances ant�rieures ou des connaissances ant�rieures standards, il s�engage � ce qu�elles soient identifi�es dans son offre ou en toute hypoth�se au fur et � mesure de l�ex�cution du march�, avant toute int�gration et/ou utilisation d�une connaissance ant�rieure ou d�une connaissance ant�rieure standard non pr�vue dans l�offre.
+  Le titulaire pr�cise l�ensemble des �l�ments n�cessaires � l�utilisation des connaissances ant�rieures et connaissances ant�rieures standards par l�acheteur. Pour les connaissances ant�rieures standards, il pr�cise en outre :
+� les informations relatives au donneur de licence ;
+� pour les connaissances ant�rieures standards logicielles sous licence propri�taire, les conditions de maintenance corrective, adaptative et �volutive ;
+� pour les logiciels standards sous licence propri�taire qui seraient difficilement rempla�ables, les mesures le cas �ch�ant mises en place pour pr�server les droits de l�acheteur (s�questre des codes sources par exemple).
+  A d�faut d�identification expresse en tant que connaissance ant�rieure (standard ou non) dans l�offre ou en cours d�ex�cution, tout �l�ment livr� en ex�cution du march� est r�put� �tre un r�sultat. Dans cette hypoth�se, le titulaire peut choisir de remplacer l��l�ment concern� � ses frais afin qu�il soit compatible avec le r�gime des r�sultats.
+  Le titulaire, en sa qualit� de professionnel, est seul responsable de l�analyse et du respect du r�gime juridique des connaissances ant�rieures et des connaissances ant�rieures standards qu�il int�gre dans le cadre du march�.
+
+           
+  
+
+Article 34
+Stipulations sp�cifiques aux connaissances ant�rieures et connaissances ant�rieures standards
+34.1. Connaissances ant�rieures (hors standards) du titulaire, de tiers et de l�acheteur
+  Lorsque le titulaire incorpore des connaissances ant�rieures dans les r�sultats ou fournit des connaissances ant�rieures dans le cadre de l�ex�cution du march� ou que des connaissances ant�rieures, sans �tre incorpor�es aux r�sultats, sont strictement n�cessaires pour la mise en �uvre des r�sultats, le titulaire autorise l�acheteur � utiliser les connaissances ant�rieures pour les m�mes droits, dur�e, territoire et finalit�s d�utilisation que ceux pr�vus dans le r�gime applicable aux r�sultats. L�acheteur n�est pas autoris� � utiliser les connaissances ant�rieures ind�pendamment de l�utilisation des r�sultats, sauf si elles sont plac�es sous un r�gime d�utilisation qui le permet.
+  Pour les logiciels, le droit de pouvoir les r�troc�der � tout tiers et de pouvoir les diffuser sous licence libre pr�vu au b�n�fice de l�acheteur sur les r�sultats ne s�applique pas aux connaissances ant�rieures, sauf stipulations contraires dans le march� ou si elles sont plac�es sous un r�gime d�utilisation qui le permet.
+  Dans l�hypoth�se o� une cession � titre exclusif des r�sultats au profit de l�acheteur est pr�vue dans le march�, l�exclusivit� ne concerne pas les connaissances ant�rieures, sauf stipulations expresses dans les documents du march�.
+L�autorisation d�utiliser les connaissances ant�rieures est comprise dans le prix du march�.
+  Au cours de l�ex�cution du march�, le titulaire ne peut utiliser ou incorporer, sans l�accord pr�alable de l�acheteur, des connaissances ant�rieures n�cessaires � la r�alisation de l�objet du march� qui seraient de nature � limiter ou � rendre plus co�teux l�exercice des droits aff�rents aux r�sultats.
+  Le titulaire ne peut utiliser les connaissances ant�rieures de l�acheteur que dans le cadre de l�ex�cution du march� et s�engage � ne pas divulguer les informations confidentielles contenues dans ces connaissances ant�rieures.
+34.2. Connaissances ant�rieures standards
+  Si le titulaire envisage au cours de l�ex�cution du march� d�utiliser une connaissance ant�rieure standard non list�e dans son offre, il doit obtenir l�accord pr�alable de l�acheteur.
+  Les droits d�utilisation sur les connaissances ant�rieures standards s�appliquent dans les conditions de leur licence, telle qu�accept�e par l�acheteur.
+  Le prix de cette licence est compris dans le montant du march� pour les utilisations pr�vues dans le cadre du march� et pour la dur�e du march�.
+
+Article 35
+R�gime des r�sultats
+35.1. Finalit�s et besoins d�utilisation des r�sultats :
+  35.1.1. Le titulaire accorde au titre du pr�sent article � l�acheteur, les droits n�cessaires pour utiliser ou faire utiliser les r�sultats, en l��tat ou modifi�s, de fa�on permanente ou temporaire, en tout ou partie, par tout moyen et sous toutes formes, pour les besoins et finalit�s d�utilisation exprim�s dans les documents particuliers du march� et en toute hypoth�se pour les besoins d�utilisation d�coulant de l�objet des prestations command�es dans le cadre du march�.
+Les besoins d�utilisation de l�acheteur comprennent le droit de :
+� publier et utiliser les r�sultats consistant en des documents pr�paratoires, tels que plans, �tudes pr�alables ou sp�cifications, pour la mise en �uvre des besoins auxquels ils r�pondent ;
+� �valuer ou faire �valuer par tout tiers � tout moment les r�sultats ;
+� pouvoir proc�der aux op�rations d�archivage public ;
+� permettre � tout service au sein de la m�me personne morale que l�acheteur de pouvoir utiliser les r�sultats dans les m�mes conditions et finalit�s d�utilisation
+� assurer ou faire assurer par tout tiers l��volution de tous r�sultats, en ce compris r�aliser ou faire r�aliser par tout tiers, la maintenance (corrective, pr�ventive, adaptative et �volutive) des r�sultats consistant en des logiciels ;
+� transf�rer les droits sur les r�sultats � tout tiers b�n�ficiaire d�un transfert de comp�tences de l�acheteur.
+  Pour les r�sultats qui sont des logiciels, les besoins d�utilisation comprennent en outre, la possibilit� de r�troc�der tout droit � tout tiers � quelque titre que ce soit, et � quelques conditions que soit, ainsi que la possibilit� de pouvoir les diffuser sous une licence libre / open source.
+  
+  
+
+  35.1.2. Le r�gime de confidentialit� des r�sultats est d�fini le cas �ch�ant dans les documents particuliers du march�.
+35.2. Droits de l�acheteur :
+35.2.1. R�sultats prot�g�s par un droit de propri�t� litt�raire et artistique :
+  Le titulaire c�de � l�acheteur les droits patrimoniaux des droits d�auteur ou des droits voisins des droits d�auteur aff�rents aux r�sultats, pour les finalit�s et besoins d�utilisation mentionn�s au pr�sent article tels qu�applicables au march�.
+  Cette cession des droits couvre les r�sultats, � compter de leur livraison et sous condition r�solutoire de la r�ception des prestations, pour le monde entier et pour la dur�e l�gale des droits d�auteur ou des droits voisins du droit d�auteur.
+  Ces droits comprennent, dans le respect des droits moraux, l�ensemble des droits patrimoniaux de reproduction, de repr�sentation et de distribution, et notamment les droits d�utiliser, d�incorporer, d�int�grer, d�adapter, de modifier, d�arranger, de corriger, de traduire les r�sultats en toutes langues, en tout ou en partie, en l��tat ou modifi�s pour les finalit�s et besoins d�utilisation mentionn�s au pr�sent article, tels qu�applicables au march�.
+
+  Le droit de reproduction comporte, dans le respect des droits moraux, notamment le droit de reproduire les r�sultats, pour quelque usage que ce soit, par quelque proc�d� que ce soit, connu ou inconnu y compris non pr�visible, sur tout support actuel ou futur et sans limitation de nombre tel que papier, �lectronique, num�rique, analogique, magn�tique, optique, vid�ographique, pour toute exploitation, y compris en r�seau sans limitation de nombre, en tout ou partie, en l��tat ou modifi�s, par tous proc�d�s et sur tous supports.
+  Le droit de repr�sentation et de distribution comporte, dans le respect des droits moraux, notamment le droit de communication au public et de mise � disposition du public des r�sultats, en tout ou partie, directement ou indirectement, en l��tat ou modifi�s, par tous moyens, modes et proc�d�s, connus ou inconnus, sous toute forme, et aupr�s du public en g�n�ral ou de cat�gories de public en particulier, de mani�re que chacun puisse y avoir acc�s de l�endroit et au moment qu�il choisit individuellement.
+  Les droits portant sur les r�sultats qui ont la forme de logiciels comportent, en outre, notamment les droits d��valuer, d�observer, de tester, de dupliquer, de charger, d�afficher, de stocker, d�ex�cuter, de modifier, d�arranger, d�compiler, assembler, transcrire tout ou partie des r�sultats, d�en faire la maintenance pr�ventive, corrective, adaptative et �volutive, d�en r�aliser de nouvelles versions ou de nouveaux d�veloppements, de le traduire en toute langue, transcrire dans tout langage de programmation, configurer, interfacer avec tout logiciel, base de donn�es, produit informatique, d�en r�utiliser les algorithmes � toutes fins, d�en int�grer tout ou partie vers ou dans des �uvres existantes ou � venir, faire tous actes aux fins d�interop�rabilit� avec d�autres syst�mes cr�es de mani�re ind�pendante.
+  La pr�sente cession est consentie � l�acheteur � titre non exclusif, afin d�accorder au titulaire le droit d�exploiter les r�sultats conform�ment � l�article 35.3.
+Compte tenu de leur nature, les r�sultats suivants font l�objet d�une cession � titre exclusif :
+  1o Les r�sultats ayant pour objet de distinguer l�identit� propre de l�acheteur et/ou de ses services ou produits par rapport aux autres entit�s, services ou produits (tels que d�nominations, logos, slogans, chartes graphiques). La cession comporte pour ces r�sultats le droit pour l�acheteur, de proc�der � tous d�p�t ou r�servation en tant que marque, nom de domaine, comptes de r�seaux sociaux et plus g�n�ralement signe distinctif, et/ou de dessin et mod�le quels que soient les territoires et les classes de d�p�t, ainsi que le droit de distribuer ou commercialiser directement ou indirectement aupr�s de tout public, sans limite de nombre, tout produit ou service portant les r�sultats et plus g�n�ralement de les utiliser � titre de marque et/ou signes distinctifs ;
+  2o Les r�sultats ayant pour objet de promouvoir l�acheteur ses produits et services et plus g�n�ralement ses missions de service public (telles que campagnes de promotion, ou de communication) ;
+3o Les r�sultats qualifi�s de confidentiels.
+  Le titulaire s�interdit de d�poser ou de r�server notamment � titre de marque ou de signes distinctifs (y compris noms de domaine ou comptes de r�seaux sociaux) les r�sultats mentionn�s aux 1o et 2o.
+  Plus g�n�ralement, le titulaire s�interdit de proc�der � tout d�p�t ou r�servation de marque ou de signes distinctifs (y compris noms de domaine ou comptes de r�seaux sociaux) pouvant g�n�rer un risque de confusion avec l�acheteur, ses services ou produits et s�interdit de d�poser ou r�server sur les r�sultats mentionn�s aux 1o et 2o tout droit ou titre de propri�t� industrielle, en France ou � l��tranger, de nature � limiter ou rendre plus on�reux l�exercice des droits de l�acheteur.
+  
+  
+
+Le prix de cette cession est forfaitairement compris dans le montant du march�.
+
+  35.2.2. R�sultats prot�g�s par un droit de propri�t� industrielle relatif � des inventions et connaissances techniques :
+  Le titulaire informe l�acheteur de tout r�sultat qui aurait �t� identifi� comme �tant raisonnablement susceptible de faire l�objet d�une protection par un titre de propri�t� industrielle relatif � des inventions et connaissances techniques.
+  Le titulaire conc�de � l�acheteur une licence d�utilisation non exclusive des droits de propri�t� intellectuelle aff�rents � ces r�sultats, pour les finalit�s et besoins d�utilisation mentionn�s au pr�sent article tels qu�applicables au march�, comprenant le fait de pouvoir utiliser les r�sultats pour continuer les recherches.
+  Cette licence couvre les r�sultats � compter de leur livraison et sous condition r�solutoire de la r�ception des prestations, pour le monde entier et pour la dur�e de validit� de la protection.
+Le prix de cette licence est compris dans le montant du march�.
+  Le titulaire accomplit toutes les formalit�s requises pour rendre la licence d�exploitation opposable aux tiers, dans tous les territoires o� les droits sont conc�d�s. Le co�t de ces formalit�s est compris dans le montant du march�.
+  Dans l�hypoth�se o� le r�sultat consiste totalement ou partiellement en un nouveau savoir-faire, le titulaire conc�de une licence sur ce savoir-faire � l�acheteur, pour les finalit�s et besoins d�utilisation mentionn�s au pr�sent l�article 35, tels qu�applicables au march�, sous r�serve d�en pr�server la confidentialit�.
+
+35.2.3. R�gime des donn�es :
+  Les donn�es int�gr�es ou g�n�r�es dans le cadre du pr�sent march� sont confidentielles et appartiennent exclusivement � l�acheteur.
+  Le titulaire dispose d�un acc�s aux donn�es dans le cadre de l�ex�cution du pr�sent march� aux seules fins de son ex�cution.
+  Le titulaire s�interdit d�en faire un quelconque usage, direct ou indirect, en dehors des prestations du pr�sent march�, sauf autorisation pr�alable et expresse de l�acheteur.
+35.3. Droits du titulaire :
+35.3.1. Le titulaire conserve la propri�t� de ses savoir-faire et m�thodes utilis�s pour r�aliser les r�sultats.
+  L�acheteur autorise le titulaire � exploiter, y compris � titre commercial, les r�sultats cr��s dans le cadre du march� et non soumis � cession exclusive au profit de l�acheteur, pour les m�mes droits que ceux pr�vus � l�article 35.2.1, sous r�serve de la confidentialit� d�informations int�gr�es dans les r�sultats en vertu de l�article 5. Pour les connaissances ant�rieures mises � disposition du titulaire par l�acheteur pour l�ex�cution du march�, le titulaire sollicite l�accord de l�acheteur.
+  Le titulaire verse � l�acheteur, dans l�hypoth�se de l�exploitation commerciale de tout ou partie des r�sultats, seuls ou incorpor�s dans des produits ou services, ou en cas de concession totale ou partielle de droits d�exploitation portant sur les r�sultats, une redevance.
+Les documents particuliers du march� d�terminent les modalit�s de calcul de la redevance.
+
+  35.3.2. Le titulaire s�engage � ce que l�exploitation des r�sultats ne porte pas atteinte aux droits ou � l�image de l�acheteur.
+  Le titulaire peut publier les r�sultats sous r�serve du respect des obligations de confidentialit� fix�es � l�article 5 et du r�gime de confidentialit� des r�sultats, compl�t�s le cas �ch�ant par les documents particuliers du march�, et de l�accord pr�alable de l�acheteur si les r�sultats comprennent des connaissances ant�rieures mises � sa disposition par ces derniers pour l�ex�cution du march�.
+La publication mentionne que les r�sultats ont �t� financ�s par l�acheteur.
+35.4. Stipulations communes
+
+  
+
+35.4.1. Exercice des droits :
+  Pour permettre � l�acheteur d�exercer les droits qui lui sont accord�s au titre du march�, le titulaire livre spontan�ment et au fur et � mesure de l�ex�cution des prestations, l�ensemble des �l�ments n�cessaires � cet exercice, ainsi que leurs mises � jour ou �volutions au cours du march�, tels que :
+35.4.1.1. Pour les logiciels :
+� les codes ex�cutables ;
+� la documentation, les documents de cadrage et suivis de projet sous format num�rique (support magn�tique, optique ou supports de stockage �lectronique) ;
+� les codes sources et la documentation associ�e des r�sultats, connaissances ant�rieures et connaissances ant�rieures standards lorsque ces connaissances ant�rieures standards sont plac�es sous une licence le permettant telle qu�une licence libre/open-source, sont livr�s simultan�ment � la remise du code objet sous la forme d�un ou plusieurs supports �lectroniques contenant le code g�n�rateur ; ainsi que l�ensemble des informations n�cessaires � toute prestation ult�rieure destin�e � assurer la maintenance, y compris �volutive de ces �l�ments.
+  35.4.1.2. Pour les autres �uvres (cr�ations graphiques, images, films, musique, etc.) : les fichiers sources et natifs dans un format ouvert
+Le titulaire ne peut imposer la confidentialit� notamment des codes sources livr�s.
+La propri�t� mat�rielle de ces �l�ments est transf�r�e � l�acheteur. Elle est comprise dans le prix du march�.
+35.4.2. Garanties des droits :
+  Le titulaire garantit � l�acheteur, la jouissance pleine et enti�re, libre de toute servitude, des droits c�d�s ou licenci�s aux termes du march� sur les r�sultats et les connaissances ant�rieures standards ou non.
+A ce titre, il garantit :
+� qu�il est titulaire ou d�tient les droits c�d�s ou licenci�s ;
+� qu�il dispose des autorisations relatives aux droits de la personnalit� et plus g�n�ralement dispose de toutes les autorisations n�cessaires pour les finalit�s et besoins d�utilisation applicables au march� ;
+� qu�il indemnise l�acheteur, en l�absence de faute qui lui serait directement imputable, sans b�n�fice de discussion ni de division, contre toute action, r�clamation, revendication ou opposition de la part de toute personne invoquant un droit auquel l�utilisation des r�sultats et des connaissances ant�rieures standards ou non conforme aux stipulations des articles 33 et 35 aurait port� atteinte. Si l�acheteur est poursuivi pour contrefa�on, concurrence d�loyale ou parasitisme sans faute de sa part du fait de l�utilisation des r�sultats et des connaissances ant�rieures ou non conforme aux stipulations des articles 33 et 35, ils en informent sans d�lai le titulaire qui pourra alors intervenir � l�action judiciaire ;
+� dans ces hypoth�ses, qu�il apporte � l�acheteur toute l�assistance n�cessaire � ses frais ;
+� qu�il s�engage � son choix, (i) � modifier ou de remplacer les �l�ments objets du litige ou d�un risque s�rieux de litige, de mani�re qu�ils cessent de tomber sous le coup de la r�clamation, tout en restant conformes aux sp�cifications du march�, (ii) � faire en sorte que l�acheteur puisse utiliser les �l�ments en litige sans limitation ni frais suppl�mentaires, ou, (iii) dans le cas o� l�une de ces solutions ne peut �tre raisonnablement mise en �uvre, � rembourser � l�acheteur les sommes pay�es au titre des �l�ments objet du litige et � l�indemniser du pr�judice subi.
+  Dans ces hypoth�ses, le titulaire prend � sa charge tous dommages et int�r�ts auxquels l�acheteur, en l�absence de faute qui lui serait directement imputable, serait condamn� � raison d�un acte de contrefa�on, concurrence d�loyale ou parasitisme, du fait de l�utilisation des r�sultats et des connaissances ant�rieures standards ou non conforme aux stipulations des articles 33 et 35, d�s lors que la condamnation les pronon�ant devient ex�cutoire.
+  Le titulaire garantit les droits c�d�s ou licenci�s aff�rents aux r�sultats ou aux connaissances ant�rieures standards ou non, � l�acheteur, lors de toute cession ou licence de droits portant sur les r�sultats ou les connaissances ant�rieures standards ou non.
+  Le titulaire garantit que les r�sultats, les connaissances ant�rieures et les connaissances ant�rieures standards utilis�s suivent le r�gime des droits d�utilisation applicables au march�.
+  Sur simple demande, le titulaire s�engage, � ses frais, � remplacer les r�sultats, les connaissances ant�rieures standards ou non qui ne permettraient pas � l�acheteur de les exploiter dans les conditions pr�vues dans le cadre du march�.
+La responsabilit� du titulaire n�est pas engag�e pour toute all�gation concernant :
+� les connaissances ant�rieures standards ou non que l�acheteur a fournies au titulaire pour l�ex�cution du march� ;
+� les �l�ments incorpor�s dans les r�sultats � la demande expresse de l�acheteur ;
+� les modifications, adaptations apport�es aux r�sultats, si la cause de l�all�gation trouve son fondement dans une modification ou une adaptation apport�es par l�acheteur ou � sa demande expresse.
+  Le titulaire d�gage l�acheteur de toutes les obligations l�gales et conventionnelles vis-�-vis des salari�s ou commettants du titulaire.
+  
+  
+
+35.4.3. Stipulations finales :
+  De mani�re g�n�rale, le titulaire ne peut opposer ses droits ou titres de propri�t� intellectuelle ou ses droits de toute autre nature � l�utilisation des r�sultats et des connaissances ant�rieures, lorsque celle-ci est conforme aux besoins d�utilisation applicables au march�.
+  Le titulaire ne peut notamment opposer aucun droit portant sur l�apparence graphique, les encha�nements et intitul�s de menus ou de commandes qui seraient de nature � limiter les besoins d��volution, d�adaptation, de traduction ou d�incorporation des r�sultats � des fins notamment d�interop�rabilit� avec d�autres syst�mes et logiciels.
+  Le titulaire autorise l�acheteur � extraire et r�utiliser librement les bases de donn�es incluses dans les r�sultats, notamment en vue de la mise � disposition des informations publiques � des fins de r�utilisation � titre gratuit ou on�reux.
+  En cas de cessation du march� pour quelque cause que ce soit, l�acheteur conserve les droits d�utilisation applicables au march�.
+  L�acheteur a la possibilit� de sous-c�der, sous-licencier ou de sous-traiter la mise en �uvre des r�sultats, connaissances ant�rieures et connaissances ant�rieures standards pour son propre compte, dans les limites de l�objet du march�.
+  L�acheteur peut librement publier les r�sultats sous r�serve des �ventuelles obligations de confidentialit� fix�es par les documents particuliers du march� et que cette publication ne constitue pas une divulgation au sens du droit de la propri�t� industrielle.
+  L�existence de restrictions au droit de publier les r�sultats ne fait pas obstacle � la publication d�informations g�n�rales sur l�existence du march� et la nature des r�sultats.
+  Les limites au pouvoir de publication ne s�opposent pas � la possibilit�, pour l�acheteur, pour la mise en �uvre de leurs droits, de communiquer � un tiers ces r�sultats, en tout ou partie, dans le respect de l�article 5.1.
+Toute publication doit mentionner le nom du titulaire et des auteurs.
+  Les parties s�informent mutuellement des modifications qu�elles souhaitent op�rer sur les r�sultats afin de recueillir les observations utiles de l�autre partie. Elles s�accordent la libre disposition des modifications mineures et des corrections apport�es aux r�sultats.
+CHAPITRE 7
+R�SILIATION
+
+Article 36
+Principes g�n�raux
+  L�acheteur peut mettre fin � l�ex�cution des prestations faisant l�objet du march� avant l�ach�vement de celles- ci, soit � la demande du titulaire dans les conditions pr�vues � l�article 38, soit pour faute du titulaire dans les conditions pr�vues � l�article 39, soit dans le cas des circonstances particuli�res mentionn�es � l�article 37.
+  L�acheteur peut �galement mettre fin, � tout moment, � l�ex�cution des prestations pour un motif d�int�r�t g�n�ral. Dans ce cas, le titulaire a droit � �tre indemnis� du pr�judice qu�il subit du fait de cette d�cision, selon les modalit�s pr�vues � l�article 40.
+  La d�cision de r�siliation du march� est notifi�e au titulaire. Sous r�serve des stipulations particuli�res mentionn�es ci-apr�s, la r�siliation prend effet � la date fix�e dans la d�cision de r�siliation ou, � d�faut, � la date de sa notification.
+Article 37
+R�siliation pour �v�nements ext�rieurs au march�
+37.1. D�c�s ou incapacit� civile du titulaire :
+  En cas de d�c�s ou d�incapacit� civile du titulaire, l�acheteur peut r�silier le march� ou accepter sa continuation par les ayants droit ou le curateur. Un avenant de transfert est �tabli � cette fin.
+  La r�siliation, si elle est prononc�e, prend effet � la date du d�c�s ou de l�incapacit� civile. Elle n�ouvre droit pour le titulaire ou ses ayants droit � aucune indemnit�
+37.2. Sauvegarde, redressement judiciaire ou liquidation judiciaire :
+  En cas de sauvegarde ou de redressement judiciaire, le march� est r�sili�, si apr�s mise en demeure de l�administrateur judiciaire, dans les conditions pr�vues � l�article L. 622-13 du code de commerce, ce dernier indique ne pas reprendre les obligations du titulaire.
+  En cas de liquidation judiciaire du titulaire, le march� est r�sili�, si, apr�s mise en demeure du liquidateur, dans les conditions pr�vues � l�article L. 641-11-1 du code de commerce, ce dernier indique ne pas reprendre les obligations du titulaire.
+  La r�siliation, si elle est prononc�e, prend effet � la date de l��v�nement. Elle n�ouvre droit, pour le titulaire, � aucune indemnit�.
+  
+  
+
+37.3. Incapacit� physique du titulaire :
+  En cas d�incapacit� physique manifeste et durable du titulaire compromettant la bonne ex�cution du march�, l�acheteur peut r�silier le march�.
+La r�siliation n�ouvre droit pour le titulaire � aucune indemnit�.
+Article 38
+R�siliation pour �v�nements li�s au march�
+38.1. Difficult� d�ex�cution du march� :
+  Lorsque le titulaire rencontre, au cours de l�ex�cution des prestations, des difficult�s techniques particuli�res dont la solution n�cessiterait la mise en �uvre de moyens hors de proportion avec le montant du march�, l�acheteur peut r�silier le march�, de sa propre initiative ou � la demande du titulaire.
+  Lorsque le titulaire est mis dans l�impossibilit� d�ex�cuter le march� du fait d�un �v�nement ayant le caract�re de force majeure, l�acheteur r�silie le march�.
+38.2. Ordre de service tardif :
+  Lorsque la r�siliation est prononc�e � la demande du titulaire par application de l�article 3.8.3, celui-ci est indemnis� des frais et investissements �ventuellement engag�s pour le march� et strictement n�cessaires � son ex�cution.
+  Il lui incombe d�apporter toutes les justifications n�cessaires � la fixation de cette partie de l�indemnit� dans un d�lai de quinze jours apr�s la notification de la r�siliation du march�.
+38.3. Arr�t de l�ex�cution des prestations
+  Lorsque l�arr�t de l�ex�cution des prestations est prononc� en application de l�article 22, l�acheteur r�silie le march�.
+La r�siliation n�ouvre droit pour le titulaire � aucune indemnit�.
+Article 39
+R�siliation pour faute du titulaire
+39.1. L�acheteur peut r�silier le march� pour faute du titulaire dans les cas suivants :
+  a) Le titulaire contrevient aux obligations l�gales ou r�glementaires relatives au travail, ou � la protection de l�environnement, � la s�curit� et � la sant� des personnes, ou � la pr�servation du voisinage ;
+  b) Des moyens ont �t� mis � la disposition du titulaire, et celui-ci se trouve dans un des cas pr�vus � l�article 17.8 ;
+c) Le titulaire ne s�est pas acquitt� de ses obligations dans les d�lais contractuels ;
+d) Le titulaire a fait obstacle � l�exercice d�un contr�le par l�acheteur dans le cadre de l�article 19 ;
+  e) Lorsque le rempla�ant de la personne d�sign�e pour assurer la conduite des prestations est r�cus� en application de l�article 3.4.3, � d�faut de d�signation d�un nouveau rempla�ant dans un d�lai de trente jours, ou de r�cusation de celui-ci dans un d�lai de trente jours ;
+  f) Le titulaire a sous-trait� en contrevenant aux dispositions l�gislatives et r�glementaires relatives � la sous- traitance, ou il n�a pas respect� les obligations relatives aux sous-traitants mentionn�es � l�article 3.6 ;
+g) Le titulaire n�a pas produit les attestations d�assurance dans les conditions pr�vues � l�article 9 ;
+  h) Le titulaire d�clare, ind�pendamment des cas pr�vus � l�article 37.1, ne pas pouvoir ex�cuter ses engagements ;
+  i) Le titulaire n�a pas communiqu� les modifications mentionn�es � l�article 3.4.2 et ces modifications sont de nature � compromettre la bonne ex�cution du march� ;
+j) Le titulaire s�est livr�, � l�occasion de l�ex�cution du march�, � des actes frauduleux ;
+  k) Le titulaire ou le sous-traitant ne respecte pas les obligations relatives � la confidentialit�, � la protection des donn�es � caract�re personnel et � la s�curit�, conform�ment � l�article 5 ;
+  l) L�utilisation des r�sultats par l�acheteur est gravement compromise, en raison du retard pris par le titulaire dans l�ex�cution du march� ;
+  m) Post�rieurement � la signature du march�, le titulaire a fait l�objet d�une interdiction d�exercer toute profession industrielle ou commerciale ;
+  n) Post�rieurement � la signature du march�, les renseignements ou documents produits par le titulaire, � l�appui de sa candidature ou exig�s pr�alablement � l�attribution du march� s�av�rent inexacts.
+  39.2. Sauf dans les cas pr�vus aux h, j, m, et n du 39.1 ci-dessus, une mise en demeure, assortie d�un d�lai d�ex�cution, doit avoir �t� pr�alablement notifi�e au titulaire et �tre rest�e infructueuse.
+  Dans le cadre de la mise en demeure, l�acheteur informe le titulaire de la sanction envisag�e et l�invite � pr�senter ses observations.
+  39.3. La r�siliation du march� ne fait pas obstacle � l�exercice des actions civiles ou p�nales qui pourraient �tre intent�es contre le titulaire.
+  
+  
+
+Article 40
+R�siliation pour motif d�int�r�t g�n�ral
+  Lorsque l�acheteur r�silie le march� pour motif d�int�r�t g�n�ral, le titulaire a droit � une indemnit� de r�siliation, obtenue en appliquant au montant initial hors TVA du march�, diminu� du montant hors TVA non r�vis� des prestations admises, un pourcentage fix� par les documents particuliers du march� ou, � d�faut, de 5 %.
+  Le titulaire a droit, en outre, � �tre indemnis� de la part des frais et investissements, �ventuellement engag�s pour le march� et strictement n�cessaires � son ex�cution, qui n�aurait pas �t� prise en compte dans le montant des prestations pay�es. Il lui incombe d�apporter toutes les justifications n�cessaires � la fixation de cette partie de l�indemnit� dans un d�lai de quinze jours apr�s la notification de la r�siliation du march�.
+  Ces indemnit�s sont port�es au d�compte de r�siliation, sans que le titulaire ait � pr�senter une demande particuli�re � ce titre.
+Article 41
+D�compte de r�siliation
+  41.1. La r�siliation fait l�objet d�un d�compte de r�siliation, qui est arr�t� par l�acheteur et notifi� au titulaire
+  41.2. Le d�compte de r�siliation qui fait suite � une d�cision de r�siliation prise en application des articles 38 et 40 comprend :
+41.2.1. Au d�bit du titulaire :
+� le montant des sommes vers�es � titre d�avance, d�acompte, de r�glement partiel d�finitif et de solde ;
+� la valeur, fix�e par le march� et ses modifications �ventuelles, des moyens confi�s au titulaire que celui-ci ne peut restituer, ainsi que la valeur de reprise des moyens que l�acheteur c�de � l�amiable au titulaire ;
+� le montant des p�nalit�s.
+41.2.2. Au cr�dit du titulaire :
+41.2.2.1. La valeur des prestations fournies � l�acheteur, � savoir :
+� la valeur contractuelle des prestations admises, y compris, s�il y a lieu, les int�r�ts moratoires ;
+� la valeur des prestations fournies �ventuellement � la demande de l�acheteur telles que le stockage des fournitures.
+  41.2.2.2. Les d�penses engag�es par le titulaire en vue de l�ex�cution des prestations qui n�ont pas �t� fournies � l�acheteur, dans la mesure o� ces d�penses n�ont pas �t� amorties ant�rieurement ou ne peuvent pas l��tre ult�rieurement, � savoir :
+� le co�t des mati�res et objets approvisionn�s en vue de l�ex�cution du march� ;
+� le co�t des installations, mat�riels et outillages r�alis�s en vue de l�ex�cution du march� ;
+� les autres frais du titulaire se rapportant directement � l�ex�cution du march� ;
+  41.2.2.3. Les d�penses de personnel dont le titulaire apporte la preuve qu�elles r�sultent directement et n�cessairement de la r�siliation du march�.
+  41.2.2.4. Si la r�siliation est prise en application de l�article 40, une somme forfaitaire calcul�e en appliquant un pourcentage � la diff�rence entre le montant hors TVA non r�vis� du march� et le montant hors TVA non r�vis� des prestations admises. Dans le silence du march�, ce pourcentage est de 5 %. Le montant ainsi calcul� sera r�vis� � la date d�effet de la r�siliation conform�ment aux stipulations du march�.
+  41.2.2.5. Plus g�n�ralement, tous pr�judices subis du fait de la r�siliation par le titulaire et �ventuellement ses sous-traitants et fournisseurs.
+  41.3. Le d�compte de r�siliation � la suite d�une d�cision de r�siliation prise en application de l�article 39 comprend :
+41.3.1. Au d�bit du titulaire :
+� le montant des sommes vers�es � titre d�avance, d�acompte, de r�glement partiel d�finitif et de solde ;
+� la valeur, fix�e par le march� et ses modifications �ventuelles, des moyens confi�s au titulaire que celui-ci ne peut restituer, ainsi que la valeur de reprise des moyens que l�acheteur c�de � l�amiable au titulaire ;
+� le montant des p�nalit�s ;
+� le cas �ch�ant, le suppl�ment des d�penses r�sultant de la passation d�un march� aux frais et risques du titulaire dans les conditions fix�es � l�article 27.
+41.3.2. Au cr�dit du titulaire :
+� la valeur contractuelle des prestations re�ues y compris, s�il y a lieu, les int�r�ts moratoires ;
+� la valeur des prestations fournies �ventuellement � la demande de l�acheteur telles que le stockage des fournitures.
+  
+  
+
+  41.4. Le d�compte de r�siliation � la suite d�une d�cision de r�siliation prise en application de l�article 37 ou � la suite d�une demande du titulaire comprend :
+41.4.1. Au d�bit du titulaire :
+� le montant des sommes vers�es � titre d�avance, d�acompte, de r�glement partiel d�finitif et de solde ;
+� la valeur, fix�e par le march� et ses modifications �ventuelles, des moyens confi�s au titulaire que celui-ci ne peut restituer, ainsi que la valeur de reprise des moyens que l�acheteur c�de � l�amiable au titulaire ;
+� le montant des p�nalit�s.
+41.4.2. Au cr�dit du titulaire :
+� la valeur contractuelle des prestations admises y compris, s�il y a lieu, les int�r�ts moratoires ;
+� la valeur des prestations fournies �ventuellement � la demande de l�acheteur telles que le stockage des fournitures.
+  41.5. La notification du d�compte par l�acheteur au titulaire doit �tre faite au plus tard deux mois apr�s la date d�effet de la r�siliation du march�. Le d�faut de notification du d�compte de r�siliation dans ce d�lai constitue un diff�rend au sens de l�article 43.
+  Le cas �ch�ant, les p�nalit�s pour retard sont appliqu�es jusqu�� la veille incluse du jour de la date d�effet de la r�siliation.
+Article 42
+Remise des prestations et des moyens mat�riels permettant l�ex�cution du march�
+En cas de r�siliation, l�acheteur peut exiger du titulaire :
+� la remise des prestations en cours d�ex�cution, ainsi que des mati�res et des objets d�tenus en vue de l�ex�cution d�un march� ;
+� la remise des moyens mat�riels d�ex�cution sp�cialement destin�s au march� ;
+� l�ex�cution de mesures conservatoires, notamment d�op�rations de stockage ou de gardiennage.
+  L�acheteur en informe le titulaire ou ses ayants droit, lors de la notification de la r�siliation en indiquant le d�lai de remise de ces biens par le titulaire et les conditions de leur conservation dans l�attente de cette remise.
+En cas de r�siliation pour faute du titulaire, le pr�sent article est appliqu� aux frais de celui-ci.
+CHAPITRE 8
+DIFF�RENDS
+Article 43
+R�glement des diff�rends entre les parties
+  43.1. L�acheteur et le titulaire s�efforceront de r�gler � l�amiable tout diff�rend �ventuel relatif � l�interpr�tation des stipulations du march� ou � l�ex�cution des prestations objet du march�.
+Au sens du pr�sent article, l�apparition du diff�rend r�sulte :
+� soit d�une prise de position �crite, explicite et non �quivoque �manant de l�acheteur et faisant appara�tre le d�saccord ;
+� soit du silence gard� par l�acheteur � la suite d�une mise en demeure adress�e par le titulaire l�invitant � prendre position sur le d�saccord dans un d�lai qui ne saurait �tre inf�rieur � quinze jours ;
+� soit de l�absence de notification du d�compte de r�siliation dans le d�lai mentionn� � l�article 41.5.
+
+  43.2. Tout diff�rend entre le titulaire et l�acheteur doit faire l�objet, de la part du titulaire, d�un m�moire en r�clamation exposant pr�cis�ment les motifs de ce diff�rend et indiquant, le cas �ch�ant, pour chaque chef de contestation, le montant des sommes r�clam�es et leur justification.
+  Ce m�moire doit �tre communiqu� � l�acheteur dans le d�lai de deux mois, courant � compter du jour o� le diff�rend est apparu.
+Le d�lai de communication du m�moire en r�clamation est prescrit � peine de forclusion.
+  43.3. L�acheteur dispose d�un d�lai de deux mois, courant � compter de la r�ception du m�moire en r�clamation, pour notifier sa d�cision. L�absence de d�cision dans ce d�lai vaut rejet de la r�clamation.
+  43.4. Lorsque l�acheteur et le titulaire ne parviennent pas � r�gler le diff�rend � l�issue de la proc�dure d�crite aux 1 � 3 du pr�sent article, ils privil�gient le recours � un comit� consultatif de r�glement � l�amiable, � la conciliation, � la m�diation, notamment aupr�s du m�diateur des entreprises, ou � l�arbitrage, dans les hypoth�ses et les conditions pr�vues par le code de la commande publique.
+  La partie qui saisit d�un diff�rend le comit� consultatif de r�glement amiable comp�tent supporte les frais de l�expertise, s�il en est d�cid� une, dans l�attente du r�glement amiable d�finitif du diff�rend.
+  
+  
+
+  La saisine d�un comit� consultatif de r�glement amiable des diff�rends interrompt les d�lais de recours contentieux jusqu�� la notification de la d�cision prise par l�acheteur sur l�avis du comit�.
+  La saisine d�un conciliateur ou d�un m�diateur interrompt les d�lais de recours contentieux jusqu�� la notification de la d�cision prise apr�s conciliation ou m�diation ou de la constatation par le conciliateur ou le m�diateur de l��chec de sa mission
+  43.5. Pour les r�clamations auxquelles a donn� lieu le solde du march�, le titulaire dispose d�un d�lai de deux mois, � compter de la notification de la d�cision prise par l�acheteur ou de la naissance de la d�cision implicite de rejet mentionn�e au 3 du pr�sent article, pour porter ses r�clamations devant le tribunal administratif comp�tent. Pass� ce d�lai, le titulaire est r�put� avoir accept� cette d�cision.
+  Les litiges portant sur des actions civiles relatives � la propri�t� litt�raire et artistique relevant de l�article L. 331-1 du code de la propri�t� intellectuelle sont port�s devant la juridiction judiciaire comp�tente.

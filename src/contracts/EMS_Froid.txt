@@ -1,0 +1,796 @@
+
+
+
+ENTRE :
+
+La soci�t� HELEXIA DEVELOPPEMENT, Soci�t� par actions simplifi�e, au capital social de 3 932 000 euros, dont le si�ge social est situ� � LA MADELEINE (59110) 38 All�e Vauban, Immeuble Crystal, Z.A.C Euralille Romarin, immatricul�e au RCS de LILLE METROPOLE, sous le num�ro 524 102 670, repr�sent�e par son Directeur G�n�ral France, Monsieur Christophe CONSTANT, d�ment habilit� � l�effet des pr�sentes,
+
+Ci-apr�s d�nomm�e le � Prestataire �,
+
+
+ET
+
+La soci�t� _____________, Soci�t� par actions simplifi�e, au capital social de _____________ �, dont le si�ge social est situ� ____________________________________________________ immatricul�e au RCS de LILLE METROPOLE, sous le n� _____________, repr�sent�e par Monsieur/Madame _____________, en qualit� de _____________, d�ment habilit�e � l�effet des pr�sentes,
+
+Ci-apr�s d�nomm�e le � Client �,
+
+
+Le Client et le Prestataire sont d�nomm�s individuellement � Partie � ou collectivement � Parties �.
+
+PREAMBULE
+
+Le Prestataire, sp�cialis� dans le secteur des services �nerg�tiques en tant qu�int�grateur de solutions �nerg�tiques innovantes, accompagne les propri�taires et exploitants des grands b�timents industriels et commerciaux dans leur(s) projet(s) de performance �nerg�tique et de production d��nergie photovolta�que. Le Prestataire est pr�sent sur les march�s europ�ens et � l�international.
+
+Le Client est sp�cialis� dans [� compl�ter].
+
+Le[AC1] Client subit des probl�mes de fiabilit� r�currents de ses groupes froid. Les interventions de maintenance sont actuellement r�alis�es soit en interne, soit par des prestataires de service de maintenance/frigoriste. N�anmoins, le Client consid�re que cette maintenance ne r�pond pas � ses attentes.
+
+Dans[AC2] le cadre de la r�alisation d�audit d�optimisation aupr�s des points de vente du Client par le Prestataire, ce dernier a constat� la d�faillance technique, l�obsolescence du mat�riel froid du Client ainsi que des lacunes dans la remont�e des alertes et leur traitement.
+
+Ainsi, dans la continuit� des audits r�alis�s par le Prestataire, le Client souhaite mettre en place un contrat de prestations de services pour la gestion de la maintenance des �quipements froids sur les diff�rents sites qu�il d�tient et/ou exploite.
+
+Par le pr�sent Contrat, le Client souhaite confier au Prestataire un ensemble de prestations portant sur la gestion de la maintenance des �quipements froids de sites commerciaux exploit�s par le Client, et ce afin de permettre au Client de mieux ma�triser les co�ts inh�rents � la maintenance et limiter les pannes.
+
+Les Parties d�clarent et reconnaissent que la n�gociation ayant pr�c�d� la conclusion du Contrat a �t� conduite de bonne foi et avoir b�n�fici�, pendant la phase pr�contractuelle de n�gociation, de toutes les informations n�cessaires et utiles pour leur permettre de s'engager en toute connaissance de cause et s'�tre mutuellement communiqu�es toute information susceptible de d�terminer leur consentement et qu'elles ne pouvaient l�gitimement ignorer.
+
+
+
+
+CECI AYANT ETE EXPOSE, IL EST CONVENU DE CE QUI SUIT :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXECUTIVE SUMMARY
+
+
+Proposition de pilotage de la maintenance Froid[AC3] 
+
+
+
+Fond�e en 2010 avec la volont� d�allier �conomies & �cologie, Helexia est expert de la transition �nerg�tique au service des entreprises de la Grande Distribution en France et � l�international. La maintenance du Froid pour les magasins alimentaires est un enjeu strat�gique pour l�exploitation. Fort de son depuis 2017, Helexia travaille sur les solutions de maintenance Froid de parcs de plusieurs drives avec ses clients.
+
+Les interventions de maintenance sont actuellement r�alis�es par XX frigoristes.
+
+Les casses r�guli�res et impr�visibles de groupes Froid ont un impact important sur le commerce, entrainant des pertes d�exploitation (notamment des pertes de marchandises importantes lors de la mise � l�arr�t non programm�e), mais aussi des co�ts d�exploitation � la hausse en maintenance curative. Les nombreuses demandes d�interventions restent difficiles � traiter dans des d�lais acceptables.
+
+A date, le Client recherche des solutions pour construire un plan d�investissements pluriannuel clair sur le poste froid et pour assurer une fiabilit� p�renne de ses groupes Froid.
+
+Ainsi, dans la continuit� des audits de sites, Helexia propose son expertise � Chronodrive pour la gestion de la maintenance des �quipements froid. Cet accompagnement pr�voit l�approche suivante :
+
+- R�duire les d�faillances humaines et augmenter les gains de productivit�, en centralisant les donn�es et en automatisant le pilotage de la maintenance avec l�outil de GMAO (Gestion de Maintenance Assist�e par Ordinateur) ;
+- Anticiper les risques de pannes dans les chambres froides et ma�triser les investissements, en mettant en place des gammes maintenance pr�ventive, et en homog�n�isant les �quipements GTC (Gestion Technique Centralis�e) du parc ;
+- Lib�rer du temps aux directeurs[AC4] de sites pour l�exploitation, en affectant et en suivant les t�ches des diff�rents intervenants, notamment les frigoristes ;
+- Optimiser leurs co�ts d�exploitation et d�investissements, en proposant des plans d�actions globaux sur l�ensemble du parc du Client, et sp�cifiques � certains magasins ;
+- Eviter la perte de marchandises et la casse de mat�riels, en traitant les alarmes dans les meilleurs d�lais et en prenant en charge les interventions dans le cadre de la maintenance curative ;
+- Ajuster les contrats frigoristes sur la base de donn�es factuelles, en les pilotant, en veillant au respect de leurs engagements et en tra�ant les interventions dans l�outil de GMAO ;
+- Etendre la continuit� de la prestation de services et intervenir le cas �ch�ant plus rapidement en dehors des heures d�affluence commerciale au travers d�astreintes.
+
+Le retour sur investissement de cette prestation porte directement sur la r�duction des pertes de marchandises, et sur la ma�trise des co�ts d�exploitation et du plan d�investissements en mat�riel. En outre, cet accompagnement doit permettre de lib�rer du temps aux directeurs de sites afin qu�ils puissent se focaliser sur le commerce, c�ur de m�tier du Client.
+
+
+
+
+
+Table des mati�res
+Article 2.	DEFINITIONS	4
+Article 3.	OBJET DU CONTRAT	5
+Article 4.	DOCUMENTS CONTRACTUELS	6
+Article 5.	INTERLOCUTEURS	6
+Article 6.	PRESTATIONS	7
+Article 7.	UTILISATION DE LOGICIELS	8
+Article 8.	BONNE FOI ET RESPECT DES OBLIGATIONS	9
+Article 9.	RESPECT DE LA REGLEMENTATION	9
+Article 10.	OBLIGATIONS DU PRESTATAIRE	9
+Article 11.	OBLIGATIONS DU CLIENT	11
+Article 12.	CONTROLE DE L�EXECUTION DES PRESTATIONS	12
+Article 13.	PRIX ET MODALITES FINANCIERES	12
+Article 14.	DUREE DU CONTRAT	14
+Article 15.	RESILIATION DU CONTRAT	14
+Article 16.	CONFIDENTIALITE	15
+Article 17.	ASSURANCES ET RESPONSABILITES	16
+Article 18.	PERSONNEL	17
+Article 19.	FORCE MAJEURE	18
+Article 20.	IMPREVISION	19
+Article 21.	DONNEES PERSONNELLES	19
+Article 22.	DISPOSITIONS GENERALES	20
+Article 23.	LOI APPLICABLE ET REGLEMENT DES DIFFERENDS	23
+Article 24.	SIGNATURE ELECTRONIQUE	23
+
+
+
+
+Article 1. DEFINITIONS
+
+
+Lorsque leur initiale est en majuscule, les termes et expressions du Contrat ont, pour les besoins de l�interpr�tation et de l�ex�cution de celui-ci, la signification qui leur est attribu�e ci-apr�s, qu�ils soient au singulier ou au pluriel.
+
+Astreinte :	D�signe la p�riode pendant laquelle le Client peut n�cessiter une intervention d�urgence sur un des Sites.
+
+A la date de signature du Contrat, l�astreinte assur�e par le Prestataire s��tend sur les cr�neaux horaires suivants :
+- Option 1 : heures ouvr�es uniquement (du lundi au vendredi, de 9h � 18h)
+- Option 2 : heures ouvr�es + astreintes selon amplitude du lundi au vendredi de 8h � 20h
+- Option 3 : heures ouvr�es + astreintes selon amplitude du lundi au vendredi de 6h � 21h
+Il n�y aura pas de pr�sence des �quipes du Prestataire les nuits, week-ends et jours f�ri�s.
+
+
+Dans le cas o� l�ex�cution des Prestations par le Prestataire devait se poursuivre ponctuellement au-del� du cr�neau horaire d�astreinte choisi par le Client, cette ex�cution fera l�objet d�une facturation suppl�mentaire par le Prestataire selon les conditions pr�vues � l�Annexe 1.
+
+Bon de commande :	D�signe le document sp�cifique de commande qui devra �tre �mis par le
+Prestataire pour toute commande de prestations de pr�conisation du remplacement d��quipements froids au sein des Sites et de supervision de l�installation des �quipements de remplacement. Le mod�le de Bon de commande est fourni en Annexe 5.
+
+Client :	D�signe la Partie au Contrat au b�n�fice de laquelle sont fournies les Prestations.
+
+Commande :	D�signe la commande de prestations de pr�conisation du remplacement
+d��quipements froids au sein des Sites et de supervision de l�installation des �quipements de remplacement r�alis�es conform�ment aux Annexes 1, 2A, 2B et 2C du pr�sent Contrat.
+
+Contrat :	D�signe les pr�sentes dispositions, ses annexes, ses �ventuels avenants ainsi que le cas �ch�ant ses contrats d�application.
+
+Equipement :	D�signe les �quipements install�s au sein des Sites conform�ment � l�article
+5 et aux Annexes 1, 2A, 2B et 2C.
+
+Equipement(s) de d�tection :	D�signe les �quipements de d�tection pr�sents sur les Sites du Client.
+
+
+Information Confidentielle :   D�signe tout document, �l�ment ou autre information fourni(e) par une
+Partie � l�autre ou auquel (� laquelle) cette autre Partie aura acc�s directement ou indirectement, dans le cadre de la n�gociation et/ou de l�ex�cution du Contrat, quels que soient leur mode de communication (notamment oral, �lectronique ou autre communication �crite), leur nature (notamment administrative, technique, financi�re, commerciale et/ou juridique) et leur objet ; les termes du Contrat et son existence sont consid�r�s comme des Informations Confidentielles.
+
+Jours Ouvr�(s)�:		Du lundi au vendredi de 9h � 18h hors jours f�ri�s selon le fuseau horaire fran�ais.
+
+Logiciel :	D�signe le logiciel ENERGY MANAGMENT SOFTWARE et le logiciel GMAO pour la gestion des alertes d�crits � l�article 6.
+
+Mainteneur(s) :	D�signe les personnes physiques ou morales ayant conclu un contrat avec
+le Client pour la maintenance de ses Equipements. Les Mainteneurs sont totalement ind�pendants du Prestataire et du Client.
+
+Objet :	D�signe l�objet du Contrat, c�est-�-dire la fourniture des Prestations d�taill�es en Annexe 1.
+
+Prestataire :	D�signe la Partie au Contrat charg�e de r�aliser les Prestations au b�n�fice
+du Client.
+
+Prestation(s) :	Tout ou partie des interventions, prestations, services et travaux r�alis�s par
+le Prestataire dans le cadre du Contrat, d�taill�es en Annexe 1.
+
+Produits recommand�s :	D�signe les produits list�s en Annexe 8 dont le Prestataire recommande
+l�installation au sein des Sites afin de permettre la bonne r�alisation des Prestations.
+
+Site(s) :	D�signe les sites exploit�s par le Client et d�taill�s en Annexe 3.
+
+
+
+Article 2. OBJET DU CONTRAT
+
+Le Contrat a pour objet de d�finir les termes et conditions dans lesquels le Prestataire r�alise le suivi et l�optimisation de la maintenance pr�ventive et corrective des �quipements frigorifiques des [nombre] �tablissements du Client. Ce contrat int�gre une phase de d�ploiement et une phase d�exploitation d�crites � l�Article 5.
+
+Le Contrat pourra, le cas �ch�ant, �tre compl�t� par avenant sign� par les Parties en cas d��volution du Parc du Client, notamment pour int�grer les nouveaux �tablissements. De m�me, le Contrat pourra �tre compl�t� par des contrats d�application en cas d��volution des Prestations concern�es.
+
+
+Article 3. DOCUMENTS CONTRACTUELS
+
+
+Le Contrat comprend les pr�sentes dispositions ainsi que les annexes, et contrats d�application qui en font partie int�grante, � l�exclusion de tout autre document.
+
+En cas de contradiction entre ces documents, l�ordre de pr�valence s�appliquera ci-dessous de mani�re d�croissante :
+
+- Les contrats d�application, leurs annexes et �ventuels avenants ;
+- Les dispositions du contrat-cadre, ses annexes et �ventuels avenants.
+
+En cas de contradiction entre les pr�sentes dispositions et les annexes, les pr�sentes dispositions pr�vaudront.
+
+Les Parties conviennent que les Commandes pass�es par le Client aupr�s du Prestataire dans le cadre du pr�sent Contrat seront consid�r�es comme des contrats d�application et r�gies par les dispositions des pr�sentes.
+
+
+Le pr�sent Contrat est issu de la n�gociation par les Parties des conditions g�n�rales de vente du Prestataire et des conditions g�n�rales d�achat du Client. Aussi, il constitue avec les contrats d�application l�entier accord des Parties, � l�exclusion de tout autre document et notamment des conditions g�n�rales des deux Parties, et ant�rieur concernant le m�me objet.
+
+
+Article 4. INTERLOCUTEURS
+
+
+4.1  	D�signation des interlocuteurs du Prestataire, du Client et des Sites
+
+Chacune des Parties a d�sign� un/des interlocuteur(s) de r�f�rence concernant l�ex�cution du Contrat. Ces derniers sont d�sign�s � l�Annexe 2D.
+
+Chacune des Parties devra �tre en mesure de contacter un interlocuteur de l�autre Partie durant les p�riodes d�astreinte aux num�ros de t�l�phones fixe et portable pr�cis�s � l�Annexe 2D.
+
+Le Client a pr�cis� en Annexe 2D les interlocuteurs de chaque Site. Le Client devra s�assurer que les interlocuteurs de chaque Site soient joignables durant les horaires d'astreinte afin que les Prestations puissent �tre ex�cut�es.
+
+4.2  	Changement d�interlocuteur et/ou de coordonn�es
+
+Chacune des Parties sera tenue d�informer par �crit l�autre Partie de tout changement d'interlocuteur et/ou de coordonn�es trois (3) jours ouvrables avant la prise d'effet de tout changement en question.
+
+
+Article 5. PRESTATIONS
+
+
+5.1 Description des Prestations
+
+A compter du XXXXX, les Parties conviennent de r�viser le p�rim�tre des Prestations comme suit :
+
+- L�engagement du Prestataire est un engagement de moyen.
+
+- A compter du XXXXX et jusqu�au XXXXX :
+
+o Le Client s�engage � consommer des prestations � hauteur de XXXXX� HT, tel que d�crit en Annexe 1. Le suivi de consommation de ces Prestations sera r�alis� mensuellement par le Prestataire aupr�s du Client. En cas de besoin compl�mentaire du Client, les Parties �changeront de bonne foi pour �valuer le budget suppl�mentaire � allouer � la prestation.
+
+o Le Client s�engage � r�gler au Prestataire la Prestation d�astreinte r�alis�e par Forum Concept � hauteur de XXXXX� HT, tel que d�crit en Annexe 1.
+
+- Pour l�ann�e XXXX, le Client s�engage � �mettre une commande de Prestation aupr�s du Prestataire � hauteur minimum de XXXX� HT, sur des missions de maintenance ou expertise froid. Les Parties se r�uniront au plus tard le XXXXXXX pour envisager ensemble les contours de la prestation 202X, qui devra �tre fig�e au plus tard le XXXXX.
+
+Ces Prestations sont d�taill�es � l�Annexe 1 des pr�sentes.
+
+5.2 Lieu d�ex�cution des Prestations
+La liste des Sites concern�s figure en Annexe 3.
+
+Toute adjonction de nouveaux Sites dans le p�rim�tre des Prestations fera l�objet d�un avenant au Contrat sign� des deux Parties.
+
+Le Client devra garantir que les Sites respecteront la r�glementation applicable et notamment les normes de s�curit� et de pr�vention, pendant toute la dur�e de validit� du Contrat.
+
+
+5.3 Outils et mat�riels utilis�s dans le cadre des Prestations
+
+Le Prestataire ex�cute les Prestations avec son propre personnel et ses propres outils et mat�riels (et notamment les Logiciels d�crits � l�article 6).
+
+Le Prestataire sera en charge des pr�conisations relatives au param�trage des outils et mat�riels du Client via un contrat d�assistance � ma�trise d�ouvrage distinct du pr�sent Contrat. La responsabilit� du param�trage demeure � la charge des prestataires frigoristes du Client.
+
+Il est toutefois rappel� que la bonne r�alisation des Prestations par le Prestataire repose sur la qualit� des Equipements de d�tection, propri�t� du Client, et leur bon �tat d�entretien.
+
+Afin de garantir une compatibilit� parfaite entre les mat�riels et outils du Prestataire et les Equipements de d�tection du Client, le Prestataire recommande � ce dernier d��quiper les Sites des Produits recommand�s dont la liste figure en Annexe 8.
+
+En tout �tat de cause, la responsabilit� du Prestataire ne saurait �tre engag�e :
+
+- Dans le cas o� le Client utiliserait des �quipements de d�tection non fiables techniquement et/ou ne permettant pas une compatibilit� parfaite avec les outils et mat�riels du Prestataire ;
+
+- Dans le cas o� le Client n�assurerait pas l�entretien r�gulier de ses Equipements de d�tection de fa�on � en maintenir toutes les fonctionnalit�s n�cessaires � la bonne ex�cution des Prestations.
+
+5.4		Transfert des obligations d�astreintes 
+
+Les Parties conviennent que la Prestation de la Gestion des interventions li�es aux �quipements froid originalement pr�vue � l�Annexe 2 du Contrat est transf�r�e � Forum Concept [BL5]et que le Prestataire ne sera uniquement responsable que du paiement de la Prestation � Forum Concept sur la base du montant indiqu� en annexe 1 afin d�assurer la continuit� de la Prestation ci-dessus.
+
+Cette cession transf�re les obligations li�es � cette Prestation au Sous-Traitant et en lib�re compl�tement le Prestataire.
+
+
+Article 6. UTILISATION DE LOGICIELS
+
+
+Le Prestataire sera amen� dans le cadre de la r�alisation des Prestations � utiliser les logiciels ou l�interface du Client, ou des logiciels dont l�utilisation a �t� conc�d�e par des tiers au Client, il appartiendra au Client de faire son affaire personnelle de toute autorisation qui devrait �tre demand�e � des tiers en vertu d�un contrat de licence.
+
+Le Client sera responsable du renseignement des informations li�es aux demandes d�intervention dans le logiciel choisi et de la s�curit� et de la confidentialit� des donn�es pr�sentes dans le logiciel.
+
+Le Prestataire sera responsable de la compatibilit� de son syst�me informatique avec le logiciel du Client, ainsi que du respect des conditions d�acc�s � ce dernier.
+
+Les donn�es partag�es entre les Parties devront �tre stock�es par chacune dans un serveur informatique d�di� et s�curis�, de mani�re � prot�ger la sensibilit� et la confidentialit� des donn�es de chaque Partie.
+
+Les Logiciels ne sauraient permettre une immixtion par le Prestataire dans la gestion des Sites du Client, except� pour la r�alisation des Prestations objet du pr�sent Contrat.
+
+Le Prestataire pourra pr�voir la mise en place d�un Logiciel de Gestion de la Maintenance Assist�e par Ordinateur (GMAO) permettant le suivi et l�analyse des interventions de maintenance pr�ventives et correctives des prestataires frigoristes du Client.
+
+L�int�gration de ce Logiciel devra faire l�objet d�un avenant r�gularis� dans les conditions de l�article 20.3.
+
+
+
+Article 7. BONNE FOI ET RESPECT DES OBLIGATIONS
+
+
+Les Parties s�engagent l�une envers l�autre � ex�cuter avec bonne foi leurs obligations afin que la r�alisation des Prestations se d�roule dans les meilleures conditions possibles.
+
+Les obligations, droits et responsabilit�s respectives du Prestataire et du Client dans le cadre de leurs relations contractuelles relatives � la r�alisation des Prestations sont d�finies par le pr�sent Contrat et ses annexes, ces derniers tenant lieu de loi pour les Parties, conform�ment � l�article 1103 du Code Civil.
+
+Les Prestations doivent �tre r�alis�es dans le respect des obligations mises � la charge du Prestataire telles que d�crites au pr�sent Contrat, d�une part, et dans le respect de la r�glementation et des normes en vigueur, d�autre part.
+
+
+
+Article 8. RESPECT DE LA REGLEMENTATION
+
+
+Il est rappel� que le Prestataire a la qualit� de commer�ant ind�pendant et d�clare, � ce titre, �tre seul responsable et �tre parfaitement � jour de l�ensemble de ses obligations l�gales et r�glementaires.
+
+Le Prestataire assume, par ailleurs, les charges occasionn�es par sa Prestation, notamment la fourniture, la mise en �uvre et le remplacement de son mat�riel et outils, le paiement des taxes, imp�ts et primes d'assurances y aff�rents.
+
+Le Prestataire, en sa qualit� de professionnel s�engage � respecter l�ensemble des dispositions l�gales et r�glementaires en vigueur relatives � l�exercice de son activit� et en particulier les dispositions du Code du travail, du Code de l�environnement et du Code de la sant� publique.
+
+
+Article 9. OBLIGATIONS DU PRESTATAIRE
+
+
+9.1 Obligation de moyens
+	
+Le Prestataire s�engage, au titre de son obligation de moyens, � mettre en �uvre les moyens mat�riels et humains � sa disposition pour l�ex�cution des Prestations et d�apporter, � ce titre, les soins et la diligence d�un professionnel qualifi�.
+Le Prestataire s'engage � fournir au Client, au plus tard le 20�me jour de chaque mois, un planning pr�visionnel des activit�s de maintenance pr�vues pour le mois suivant afin de permettre au Client de planifier en amont tout ajustement organisationnel n�cessaire, incluant la gestion des absences en raison de cong�s.
+
+Afin de fluidifier la gestion op�rationnelle du suivi de la maintenance pr�ventive et corrective, le Prestataire fera ses meilleurs efforts pour assurer une partie de cette mission dans les bureaux du Client (site de Croix). L�objectif est de 4 jours de pr�sence hebdomadaire sur site (au cumul des jours de chaque intervenant sur la prestation de suivi de la maintenance pr�ventive et corrective).
+En cas d'indisponibilit� prolong�e d'une ou de plusieurs ressources directement affect�es � l'ex�cution des Prestations, les Parties d�ploieront leurs meilleurs efforts afin de limiter les impacts sur les Prestations. Si le Prestataire n'est pas en mesure de remplacer la ressource indisponible, les Parties se rencontreront afin d'adapter les Prestations en cons�quence.
+Le Prestataire garantit au Client que les Prestations seront conformes aux dispositions du Contrat et � la r�glementation applicable en vigueur.
+
+9.2 Obligation pr�contractuelle d�information
+
+En vertu de l�article 1112-1 du Code civil, le Prestataire s�est oblig� � fournir toute information li�e directement aucontenu du pr�sent Contrat ou � la qualit� des Parties et dont l�importance pouvait �tre d�terminante pour le consentement du Client.
+
+A ce titre, le Client reconna�t qu�il a lu, compris et accept�, sans r�serve et dans leur int�gralit�, les dispositions du Contrat.
+
+9.3 Devoir de conseil
+
+Le Prestataire est express�ment tenu, � l��gard du Client, tout au long de la r�alisation des Prestations � un devoir de conseil, lequel consiste, notamment, � attirer son attention lorsqu�il d�c�le des risques de quelque nature que ce soit dans la r�alisation des Prestations et � lui sugg�rer les d�marches ou solutions utiles au d�roulement des Prestations.
+
+Le Prestataire garantit la pertinence et la justesse des donn�es remont�es sous r�serve de la fiabilit� des Equipements de d�tection mis en place par le Client, conform�ment aux dispositions de l�article 5.3.
+
+9.4 Obligation de formation et habilitation
+
+Toute intervention sur les Sites du Client est effectu�e par des personnes form�es et habilit�es aux normes de s�curit�, de pr�vention et le cas �ch�ant �lectriques qui sont applicables sur lesdits Sites, et ce chaque
+fois que cela est n�cessaire.
+Le Prestataire s�engage � ce titre � assurer la formation et l�habilitation de son personnel intervenant. Pour ce faire, le Client devra au pr�alable avoir fourni toutes les informations utiles au Prestataire.
+
+
+Article 10. OBLIGATIONS DU CLIENT
+
+
+Les �changes entre le Client et le Prestataire sont essentiels � la bonne r�alisation des Prestations par ce dernier selon les termes du Contrat.
+
+Dans ce cadre, � titre d�obligation de moyens, le Client s�engage � apporter tout son concours au Prestataire pour l�ex�cution du Contrat et s�engage � agir avec tous les soins et la diligence n�cessaire.
+
+Pour le bon accomplissement des Prestations, le Client s�engage � fournir � titre d�obligation de moyens, dans les meilleurs d�lais et par toute voie de diffusion (notamment par email) toutes les informations, tous les renseignements, les documents et toutes les donn�es n�cessaires ou utiles au Prestataire en vue de la r�alisation des Prestations dans des conditions optimales, notamment :
+- Les informations permettant l�acc�s au Site, aux locaux et aux installations de production et/ou de gestion de la maintenance et des �quipements froids,
+- Les informations permettant l�interface avec les exploitants sur les Sites et celles relatives � l�organisation interne du Client,
+- Les informations contractuelles entre le Client et les prestataires de maintenance des �quipements frigorifiques comme les d�lais contractuels d�intervention et les limites de prestations, pr�vues � l�Annexe 9,
+- Les informations dont dispose le Client et utiles au Prestataire tels que : historique, plans, contrats en cours, Dossier des Ouvrages Ex�cut�s (� DOE �), rapports de v�rification de l�ann�e N-1,
+- Le cas �ch�ant, les informations relatives � la disponibilit� des r�seaux de communication et informatiques.
+
+En cas de retard manifeste dans la communication des informations demand�es (� savoir apr�s trois (3) demandes rest�es infructueuses), le Prestataire ne pourra pas �tre tenu responsable de l�inex�cution des Prestations et pourra solliciter du Client le paiement de la Prestation inex�cut�e par sa faute sous r�serve qu�elle soit av�r�e et qu�il ne s�agisse pas d�un cas de force majeure.
+
+Les Parties sont inform�es que certaines conditions mat�rielles et technologiques ainsi que la fourniture d'�l�ments contractuels sont n�cessaires. A ce titre, le Client :
+
+- S�engage � maintenir en bon �tat de fonctionnement et de maintenance les installations pr�sentes sur chacun des Sites et concern�es par l�ex�cution des Prestations (notamment ses Equipements de d�tection).
+
+- S�engage � transmettre au Prestataire, conform�ment aux Annexes 2A et 2B :
+� Les rapports, proc�s-verbaux et/ou carnets d�entretien aff�rents aux op�rations de maintenance des installations et
+� L�information relative � toute action corrective ayant �t� effectu�e ou � r�aliser sur lesdites installations.
+
+et plus g�n�ralement tout autre document utile pour que le Prestataire puisse assurer sa mission conform�ment au pr�sent Contrat.
+
+De mani�re g�n�rale, le Client fournira au Prestataire toutes les donn�es utiles permettant � ce dernier d�administrer correctement l�ensemble des outils et mat�riels utilis�s pour la r�alisation des Prestations.
+
+En outre, le Client devra mettre � disposition du Prestataire � titre gracieux une salle de r�union et une connexion internet, � l�exception de tout autre �quipement ou mat�riel (v�hicule, mat�riel ou outillage sp�cifique).
+
+Sauf convention contraire entre les Parties, le Client s�interdit d�employer directement ou indirectement, sous quelque forme que ce soit, tout personnel du Prestataire. Par ailleurs, pendant les deux (2) ann�es suivant l�expiration du Contrat pour quelque cause que ce soit, le Client s�interdira d�employer directement ou indirectement toute personne ayant travaill� sur le Site en qualit� de salari� du Prestataire.[BL6]
+	
+Article 11. CONTROLE DE L�EXECUTION DES PRESTATIONS
+
+
+Au-del� des reportings d�taill�s en Annexes des pr�sentes, les Parties pourront convenir d�autres moyens de suivis afin de compl�ter le contr�le d�ex�cution des Prestations.
+
+Article 12. PRIX ET MODALITES FINANCIERES
+
+
+12.1  	Prix des Prestations
+
+Le prix des Prestations est calcul� selon les modalit�s pr�vues en Annexe 1.
+
+Aucune somme ne pourra �tre r�clam�e par le Prestataire au titre de travaux suppl�mentaires ou modificatifs qui n�auraient pas fait l�objet d�un devis accept� pr�alablement par �crit par le Client.
+
+Les prix sont fix�s pour toute la dur�e du contrat. Ils pourront toutefois �tre r�vis�s dans les conditions vis�es � l�article 19 des pr�sentes et notamment en cas d�impr�vision et de bouleversement �conomique du contrat.
+
+12.2  	Prestations suppl�mentaires
+
+Sous r�serve de leur faisabilit�, le Prestataire pourra r�aliser des prestations suppl�mentaires sollicit�es par le Client selon des conditions techniques, commerciales et financi�res qui auront �t� n�goci�es et arr�t�es pr�alablement et de bonne foi entre les Parties dans le cadre d�un accord �crit.
+
+Par ailleurs, en cas de d�passement des jours/hommes (les � J/H �) allou�s pour chaque Prestation, le Client pourra demander l�augmentation des J/H sur les Prestations selon les conditions pr�vues au premier paragraphe du pr�sent article 12.2.
+
+
+En cas d�action unilat�rale de la part du Client sur un Site ayant un impact sur les Prestations, le Prestataire pourra r�clamer au Client les co�ts internes et externes justifi�es en cons�quence de cette action.
+
+
+12.3  	Modalit�s de paiement
+
+Le prix des Prestations pr�vu � l�article 12.1 des pr�sentes sera payable par le Client aux deux tiers (2/3) durant l�ann�e 2024 et � un tiers (1/3) durant l�ann�e 202X.[BL7]
+
+Les factures seront �dit�es et transmises par voie �lectronique � l�adresse du Client :
+
+- Concernant la Prestation d�astreinte Forum Concept, la facturation sera r�alis�e mensuellement et �mise par le Prestataire le 15 du mois pr�c�dant le mois de Prestation. La facture sera r�gl�e par le Client sous un d�lai de trente (30) jours � compter de la date d��mission de la facture, par virement bancaire sur le compte du Prestataire dont les coordonn�es sont reprises en Annexe 6 du contrat. Le montant de facturation mensuelle est de XXXXXX� HT.
+
+- Concernant la Prestation de gestion de la maintenance des �quipements froids, la facturation sera r�alis�e mensuellement � terme �chu. La facture sera r�gl�e par le client sous un d�lai de trente (30) jours fin de mois � compter de la date d��mission de la facture, par virement bancaire sur le compte du Prestataire dont les coordonn�es sont reprises en Annexe 6 du contrat. Le montant de la facturation mensuelle est de XXXXXX� HT.
+
+Aucun escompte ne s�appliquera en cas de paiement anticip�.
+
+Le Prestataire s�oppose � tout paiement par compensation (y compris compensation l�gale), afin de pouvoir s�assurer de la correspondance entre la facture �mise par l�une des Parties et son r�glement.
+
+
+12.4  	Retard de paiement
+
+Tout retard partiel ou total de paiement entra�nera :
+
+- L�application d�une p�nalit� de retard calcul�e sur la base du taux de refinancement de la Banque Centrale Europ�enne (BCE) + 10 points, sur le montant de la facture �chue, � compter de sa date d��ch�ance jusqu'� la date de son entier paiement, sans qu�aucune mise en demeure pr�alable ne soit n�cessaire. Le taux d�int�r�t l�gal retenu dans l�assiette de calcul de cette p�nalit� sera celui en vigueur � la date d��mission de la facture impay�e concern�e.
+
+- Le versement d�une indemnit� forfaitaire pour frais de recouvrement de quarante (40) euros. Dans le cas o� les frais de recouvrement expos�s seraient sup�rieurs au montant de cette indemnit� forfaitaire, le Prestataire pourra demander une indemnisation compl�mentaire sur justification.
+
+- La d�ch�ance du terme de toutes les factures non encore pay�es.
+
+- La facult� pour le Prestataire d'exiger le paiement comptant de toutes commandes en cours et de refuser toute nouvelle commande.
+
+- la facult� pour le Prestataire d�utiliser la garantie � premi�re demande sollicit�e au titre de l�article
+12.6 ci-dessous.
+
+12.5       Contestation
+
+Dans le cas o� l�une des Parties s�estime fond�e � contester tout ou partie du montant figurant sur une facture, elle devra en informer l�autre Partie par lettre recommand�e avec demande d�avis de r�ception. La Partie qui conteste toutou partie du montant figurant sur une facture devra n�anmoins verser � l�autre Partie le montant correspondant � la partie non contest�e de la facture.
+
+Les Parties devront se r�unir dans les quinze (15) Jours Ouvr�s � compter de la r�ception de la contestation afin de parvenir � un accord.
+
+
+Article 13. DUREE DU CONTRAT
+
+
+
+Le pr�sent Contrat prend effet au [Date de prise d�effet] pour une dur�e de [Dur�e] ans et arrivera � �ch�ance le 31 d�cembre 202X.
+Le Contrat ne fera l�objet d�aucune tacite reconduction et pourra �tre renouvel� avec l�accord des Parties. 
+
+
+
+Article 14. RESILIATION DU CONTRAT
+
+
+14.1  	Cas de r�siliation anticip�e du Contrat
+
+Le Contrat pourra �tre r�sili� par chacune des Parties dans les conditions d�finies ci-apr�s :
+
+- En cas de Force Majeure, dans les conditions d�finies � l�article 18.
+
+- En cas d�impr�vision, dans les conditions d�finies � l�article 19.
+
+- En cas d�inex�cution totale ou partielle par une Partie de l�une quelconque des obligations lui incombant au titre du Contrat apr�s mise en demeure faite par lettre recommand�e avec demande d�avis de r�ception � la Partie d�faillante de rem�dier � ce manquement faisant mention expresse de son intention de mettre fin au Contrat si ces engagements n��taient pas respect�s, et rest�e sans effet pendant vingt (20) Jours Ouvr�s. Les manquements concern�s par le pr�sent article peuvent �tre les suivants sans que cette liste ne soit exhaustive :
+
+- En cas de d�faut de paiement ;
+
+- S�il met en difficult� la viabilit� de la soci�t� ;
+
+Toutefois, dans le cas o� la nature de l�obligation non respect�e rendrait impossible pour la Partie d�faillante de rem�dier � son manquement (tel que notamment la cession ou le transfert des obligations du Contrat au titre de l�article 21.4), l�autre Partie pourra r�soudre imm�diatement et de plein droit le Contrat apr�s la constatation du manquement par envoi d�une lettre recommand�e avec demande d�avis de r�ception, sans pr�judice de son droit � dommage et int�r�ts.
+
+14.2  	Cons�quences de la cessation du Contrat
+En cas de r�siliation anticip�e du Contrat en raison d�un d�faut imputable au Client :
+
+- Ce dernier reste tenu du r�glement au b�n�fice du Prestataire de l�ensemble des sommes dues au titre des Prestations dans les conditions initialement pr�vues lors de la remise au Client du Bon de commande.
+
+- Le Prestataire d�cidera si les Commandes en cours au jour de la cessation du Contrat doivent �tre ex�cut�es et men�es � leur terme. En cas d�arr�t des Commandes en cours, la Prestation fera l�objet d�une facturation par le Prestataire au prorata.
+
+
+En cas de r�siliation anticip�e du Contrat en raison d�un d�faut imputable au Prestataire :
+
+- Seules les Prestations effectivement r�alis�es par le Prestataire au jour de la r�siliation seront dues par le Client.
+
+- Le Client d�cidera si les Commandes en cours au jour de la cessation du Contrat doivent �tre ex�cut�es et men�es � leur terme. En cas d�arr�t des Commandes en cours, la Prestation fera l�objet d�une facturation par le Prestataire au prorata.
+
+En cas de cessation du Contrat quelle qu�en soit la cause :
+
+- Chacune des Parties devra imm�diatement cesser toute utilisation des Informations Confidentielles de l�autre Partie ainsi que de tout autre �l�ment mis � sa disposition par l�autre Partie pour l�ex�cution du Contrat (tels que tous documents �crits, fichiers �lectroniques, �chantillons, etc. et copies correspondantes), et les restituer � l�autre Partie dans un d�lai maximum de vingt (20) Jours Ouvr�s � compter de cette m�me date ou, � la demande de l�autre Partie, d�truire l�ensemble de ces �l�ments encore en la possession de cette premi�re Partie sans en garder de trace et confirmer cette destruction par �crit � l�autre Partie dans ce m�me d�lai. Ces termes ne concernent toutefois pas les documents que la Partie r�cipiendaire est tenue de conserver en vertu des lois et r�glements applicables.
+
+- Hormis dans le cas de Commandes de Prestations en cours, le Prestataire devra cesser imm�diatement l�utilisation des Logiciels.
+
+- Tout contrat conclu entre le Client et un tiers (Mainteneur, sous-traitant, etc.) sera maintenu.
+
+
+
+Article 15. CONFIDENTIALITE
+
+
+Il est convenu entre les Parties que toutes les Informations Confidentielles dont elles ont pu avoir connaissance ou port�es � la connaissance de l�une ou l�autre d�entre elles, quel que soit le mode de communication, � l�occasion de l��laboration, la conclusion ou l�ex�cution du pr�sent Contrat, devront �tre consid�r�es comme strictement confidentielles et ne peuvent �tre utilis�es que pour les besoins du pr�sent Contrat.
+
+Tous les fichiers ou documents fournis par une Partie � l�autre Partie, de quelque nature qu�ils soient (notamment administrative, technique, financi�re, commerciale et/ou juridique) n�cessaires ou non � l�ex�cution du Contrat, sont couverts par la confidentialit�.
+
+Les Parties s�engagent, tant pour elles-m�mes que pour leurs pr�pos�s, � ne communiquer � quiconque, � l�exclusion de leurs �ventuels sous-traitants, sous quelque forme que ce soit, des Informations Confidentielles connus d�elles ou de ses pr�pos�s pendant l�ex�cution du Contrat.
+
+D�une fa�on g�n�rale, les pr�pos�s et les �ventuels sous-traitants du Prestataire, ainsi que ceux du Client, sont tenus � la plus enti�re discr�tion pour tout ce qui concerne le Client, tant vis � vis du personnel de ce dernier, que vis � vis de d�un quelconque tiers, sauf pour faire valoir ses droits n�s du pr�sent Contrat.
+
+A ce titre, le Prestataire s�engage � faire signer � ses pr�pos�s et �ventuels sous-traitants une promesse de porte-fort. Le Client s�engage r�ciproquement � faire signer � ses pr�pos�s et �ventuels sous-traitants des engagements semblables.
+
+Par ailleurs, chaque Partie pourra communiquer le contrat et les documents y aff�rents, sous la plus stricte confidentialit�, � son courtier d'assurances, � ses commissaires aux comptes, aux organismes fiscaux et sociaux en cas de contr�le, aux repr�sentants habilit�s de toute autorit� judiciaire ou Administration, ainsi qu'� leur maison m�re respective, celle-ci se trouvant alors astreint au m�me engagement de confidentialit�.
+
+Les obligations de confidentialit� ci-dessus ne s�appliquent pas aux informations pour lesquelles la Partie r�cipiendaire peut fournir la preuve que :
+a) Elles appartiennent au domaine public au moment de la divulgation par l�autre Partie ou de l�acc�s � l�information par la Partie r�cipiendaire, ou qu�elles sont tomb�es dans le domaine public sans qu�il y ait eu violation de l�obligation de confidentialit� par la Partie r�cipiendaire (cette exception ne s�appliquant toutefois pas au profit du Client s�agissant de tout savoir-faire du Prestataire) ; ou
+
+b) Ces informations proviennent d�un tiers agissant de bonne foi et qui n�est pas li� par une obligation de confidentialit� ; ou
+
+c) Certaines lois et/ou r�glements requi�rent que ces informations soient divulgu�es, mais dans la limite de ce qui est exig� par ces lois et/ou r�glements ; ou
+
+d) La Partie r�cipiendaire doit les divulguer sur ordre valable, assignation, injonction, ou autre demande d�un tribunal judiciaire ou administratif ou autre autorit� comp�tente, mais seulement dans les limites de ce qui est requis et � condition que la Partie r�cipiendaire ait au pr�alable averti la Partie propri�taire et l�ait mise en position de rechercher une solution pr�ventive appropri�e.
+
+
+L�obligation de confidentialit� vis�e au pr�sent article restera valable pendant la dur�e du Contrat augment�e d�une dur�e de cinq (5) ans � compter de sa cessation, quelle qu�en soit la cause.
+
+
+Article 16. ASSURANCES ET RESPONSABILITES
+
+
+16.1 Assurances
+
+      Chaque Partie certifie avoir contract� toutes les assurances n�cessaires pour couvrir son �ventuelle
+responsabilit� civile professionnelle pour tous les dommages corporels et mat�riels dont il pourrait �tre responsable dans les conditions du pr�sent Contrat, � l�exclusion de toute perte de produits entrepos�s dans les groupes froids et de tout dommage immat�riel, au titre du Contrat aupr�s d�une compagnie d�assurance notoirement solvable et �tre � jour des primes correspondantes.
+
+Une attestation d�assurance figure en Annexe 7 �num�rant les garanties souscrites, leur montant, leur dur�e de validit� ainsi que leurs �ventuelles exclusions.
+
+Chaque Partie s�engage � maintenir cette assurance pendant toute la dur�e dudit Contrat, et en apporter la preuve sur demande en fournissant � la Partie demanderesse une attestation de ses assureurs, �num�rant les garanties souscrites, leur montant, leur dur�e de validit� ainsi que leurs �ventuelles exclusions.
+
+Toute modification, suspension ou r�siliation des polices d�assurances existantes pour chacune des Parties � la signature des pr�sentes, pour quelque cause que ce soit, devra �tre signal�e � l�autre Partie dans les plus brefs d�lais.
+
+16.2 Responsabilit�s
+Il est rappel� que le Prestataire n�est tenu que d�une obligation de moyens concernant l�ex�cution des Prestations. Le Prestataire ne pourra en aucun cas �tre tenu responsable des prestations rendues par les Mainteneurs et autres prestataires choisis par le Client.
+
+En tout �tat de cause, la responsabilit� du Prestataire ne saurait �tre engag�e :
+
+- en raison d�une faute et/ou d�une n�gligence commise par tout pr�pos� du Client, prestataire/sous- traitant du Client et/ou tout fournisseur ou prestataire pr�sent� par le Prestataire au Client dans le cadre de l�ex�cution des Prestations.
+
+- dans le cas o� le Client utiliserait des Equipements de d�tection non fiables techniquement et/ou ne permettant pas une compatibilit� parfaite avec les outils et mat�riels du Prestataire.
+
+- dans le cas o� le Client n�assurerait pas l�entretien r�gulier de ses Equipements de d�tection de fa�on � en maintenir toutes les fonctionnalit�s n�cessaires � la bonne ex�cution des Prestations.
+En tout �tat de cause, la responsabilit� totale des Parties, toutes causes et tous dommages confondus, en vertu du Contrat, sera limit�e aux dommages directs et mat�riels, et dans la limite globale de 100% du montant du Contrat, sous r�serve de tout cas de responsabilit� (notamment dommage corporel, dol ou faute lourde) ne pouvant �tre exclu ni limit� en vertu des dispositions d�ordre public applicables.
+
+
+Chaque Partie renonce � recours contre l�autre Partie et ses assureurs au-del� de ce montant, en nature et montant, et s'engage � obtenir la m�me renonciation � recours de ses assureurs.
+
+Les Parties reconnaissent que cette limitation de responsabilit� est �quilibr�e et a �t� n�goci�e de bonne foi entre elles compte tenu des contreparties par ailleurs mutuellement consenties au titre des pr�sentes et notamment des garanties et autres conditions favorables accord�es au Client telles que mises en regard avec les propres engagements du Prestataire.
+
+
+Article 17. PERSONNEL
+
+
+Les pr�pos�s de chacune des Parties demeurent plac�s sous l'autorit�, la direction et la surveillance exclusive de celle-ci qui assumera � leur �gard toutes les obligations de l'employeur.
+
+Le personnel du Prestataire reste plac� sous l�autorit� hi�rarchique et disciplinaire du Prestataire. La r�mun�ration, les charges sociales et fiscales correspondantes, tout comme les frais inh�rents � l�emploi de ce personnel, sont � la charge du Prestataire qui a seule comp�tence pour en assurer la discipline.
+
+En particulier, le Prestataire recrutera, g�rera et r�mun�rera seul les membres de son personnel impliqu�s dans l�ex�cution du Contrat et qui ne pourront en aucun cas �tre consid�r�s comme les employ�s du Client, quand bien m�me ils interviendraient sur le Site.
+
+Le Prestataire s'engage � ce que son personnel respecte les consignes d�hygi�ne et de s�curit� et le r�glement int�rieur du Site. Le Client s�engage � lui communiquer toutes instructions utiles � cette fin et notamment le plan de pr�vention applicable � chaque Site. Le Client remettra au Prestataire d�s la date de signature du Contrat et � la parution de chaque mise � jour �ventuelle, un exemplaire �crit du r�glement int�rieur et, si elles existent, des consignes d�hygi�ne et de s�curit�.
+
+En tout �tat de cause, le Client sera responsable, selon ce que pr�voit le droit applicable, de la s�curit� du personnel du Prestataire sur le Site o� seront r�alis�es les Prestations et de la pr�vention sur ce Site des accidents du travail concernant ce personnel.
+
+Le Prestataire s�engage, en ce qui concerne les conditions de travail du personnel affect� � la r�alisation des Prestations, � respecter l�ensemble des prescriptions l�gales et r�glementaires applicables.
+
+Le Prestataire d�clare �tre titulaire de toutes les autorisations �ventuellement n�cessaires pour que son personnel fournisse les Prestations et s'engage � remplir toutes les formalit�s requises � cet effet. Elle certifie que les Prestations seront r�alis�es par des pr�pos�s embauch�s r�guli�rement et conform�ment aux dispositions des articles L. 3243-1 et suivants et L. 1221-10, L. 1221-13 et L.1221-15 du Code du travail fran�ais ou des r�gles d�effet �quivalent dans le pays auquel ils sont rattach�s.
+
+
+
+
+
+Article 18. FORCE MAJEURE
+
+
+Aucune des Parties ne sera tenue pour responsable en cas d�inex�cution ou de mauvaise ex�cution de l�une ou plusieurs de ses obligations contractuelles imputable � un cas de force majeure si celui-ci remplit les conditions l�gales requises pour qualifier la force majeure en droit fran�ais, pr�vues � l�article 1218 du Code civil.
+
+De convention expresse, les Parties conviennent que seront consid�r�s comme constituant des cas de force majeure et seront assimil�s comme tels au titre du Contrat les �v�nements et circonstances suivants, m�me s�ils ne r�pondent pas � l�ensemble des crit�res l�gaux :
+
+- Les guerres (qu�elles soient d�clar�es ou non), les hostilit�s, l�invasion, l�action d�ennemis �trangers,
+- Les explosions et les incendies,
+- Les catastrophes naturelles telles que les inondations, les temp�tes, les tremblements de terre,
+- La r�bellion, le terrorisme, la r�volution, l�insurrection ou le pouvoir militaire ou usurp� ou la guerre civile,
+- Les �meutes, troubles ou d�sordres du fait de tiers,
+- Le d�faut d�approvisionnement en �nergie, ce d�faut r�sultant lui-m�me d�un cas de force majeure,
+- La gr�ve chez le Prestataire,
+- Les �pid�mies, pand�mies,
+- Les faits du prince et notamment mesures nationales d�interdictions de circulation.
+
+La Partie emp�ch�e par un cas de force majeure devra le notifier � l�autre Partie par lettre recommand�e avec demande d�avis de r�ception dans le plus bref d�lai et en tout �tat de cause dans un d�lai de (5) jours � compter de la connaissance de la survenance dudit cas de force majeure. Sauf d�cision contraire entre les Parties, les obligations de chaque Partie seront suspendues � compter de cette notification.
+
+Si l�emp�chement d� au cas de force majeure est :
+
+- d�finitif, la Commande est r�solue de plein droit et les Parties sont lib�r�es de leurs obligations conform�ment � la loi.
+
+- temporaire, la Commande est alors suspendue de plein droit sans indemnit� � compter de la date de survenance de l��v�nement. Si le cas de force majeure se poursuit pendant plus de cent quatre- vingt (180) jours calendaires suivant cette notification, chaque Partie pourra mettre fin � la Commande par l�envoi d�une lettre recommand�e avec demande d�avis de r�ception.
+
+Dans le cas o� le cas de force majeure devait emp�cher l�ex�cution de l�enti�ret� du Contrat, le Contrat serait r�solu dans les conditions pr�cit�es.
+
+
+Article 19. IMPREVISION
+
+
+Les Parties, d�un commun accord, renoncent partiellement aux dispositions de l�article 1195 du code civil. Elles s�engagent � respecter scrupuleusement les engagements convenus entre elles et � les ex�cuter, en assumant l�ex�cution de leurs obligations.
+
+Les Parties conviennent toutefois qu�une ren�gociation pour impr�vision pourra �tre demand�e si les conditions �conomiques, l�gislatives ou r�glementaires, qui n��taient ni connues, ni pr�visibles, ni susceptibles d��tre anticip�es lors de la conclusion de la pr�sente Convention, rendent pour une Partie l�ex�cution excessivement on�reuse.
+
+Les Parties se r�uniront alors pour n�gocier des conditions acceptables permettant la poursuite du contrat. La ren�gociation ne pourra pas exc�der une dur�e de quarante-cinq (45) jours � compter de la demande formul�e par l�une des Parties par �crit. Elle se d�roulera, sans qu�il soit n�cessaire de faire appel au juge.
+
+Pendant les n�gociations, les Parties continuent ainsi � ex�cuter leurs obligations durant la ren�gociation.
+
+En cas de refus ou d��chec de la ren�gociation, les parties pourront d�cider de la r�solution du contrat dans les d�lais convenus, � la date et aux conditions de l�article 14.
+
+
+Article 20. DONNEES PERSONNELLES
+
+Conform�ment au droit (et notamment la loi Informatique et Libert� du 78-17 du 6 janvier 1978, modifi�e en application du R�glement g�n�ral de protection des donn�es � caract�re personnel (� RGPD �), le Client b�n�ficie d�un droit d�acc�s, de rectification, de portabilit� et d�effacement des donn�es ou encore de limitation du traitement.
+Toutes les donn�es � caract�re personnel collect�es pour la r�daction et l�ex�cution du Contrat (nom, pr�nom, adresse, num�ro de t�l�phone, email, propri�t�, date de naissance, situation maritale...) sont conserv�es et utilis�es par le Prestataire (avec un acc�s limit� aux employ�s habilit�s � les traiter en raison de leurs fonctions), dans le seul cadre de la mise en �uvre des Prestations du Contrat.
+Ainsi, ces informations pourront �tre communiqu�es � des tiers en charge de la pr�paration de ces op�rations, sans n�cessiter une autorisation pr�alable, d�s lors qu�elles leur sont n�cessaires. En dehors de ce cadre, le Prestataire s'engage � ne pas vendre, louer, c�der ou donner acc�s � des tiers aux donn�es sans consentement pr�alable du Client, sauf dans la mesure impos�e par les textes en vigueur, par une d�cision de justice pass�e en force de chose jug�e ou au profit d�un professionnel tenu au secret en vertu des r�gles de sa profession (notaire, huissier, avocat, comptable).
+
+
+Article 21. DISPOSITIONS GENERALES
+
+
+21.1  Notification
+Sauf disposition sp�cifique du pr�sent Contrat, toute notification entre les Parties est adress�e par tous moyens �crits dans les conditions d�finies ci-apr�s.
+
+Pour l�ex�cution des pr�sentes et notamment pour toute notification pr�vue par le Contrat, les Parties font �lection de domicile � l�adresse de son si�ge social, telle que pr�cis�e en ent�te des pr�sentes.
+
+Tout changement de domicile ou de coordonn�es de l�une des Parties ne sera opposable � l�autre qu�� l�expiration d�un d�lai de cinq (5) Jours Ouvr�s � compter de la r�ception de la notification par la Partie destinataire qui aura �t� faite par lettre recommand�e avec demande d�avis de r�ception.
+
+Au titre du Contrat, une notification sera consid�r�e comme valablement d�livr�e :
+
+- A la date de sa remise, si elle est remise en main propre � l�adresse du si�ge des Parties ou sur Site ;
+- A la date de son envoi, si elle est transmise par courrier �lectronique, � l�adresse indiqu�e � l�Annexe 4 avec justification de la r�ception par le destinataire
+- A la date de premi�re pr�sentation, si elle est remise par lettre recommand�e avec demande d�avis de r�ception � l�adresse du si�ge des Parties.
+
+
+21.2  Int�gralit� de l�accord
+
+Le Contrat, avec ses annexes et les �ventuels avenants, constituent l�int�gralit� de l�accord intervenu entre les Parties en ce qui concerne son objet. Le Contrat annule et remplace, � compter de sa date d�effet, toutes lettres, propositions, offres et conventions ant�rieures ou contemporaines, orales ou �crites, se rapportant au m�me objet sign� ou �chang� entre les Parties ou pour leur compte.
+
+Le Client reconna�t avoir eu, avec l�assistance de ses conseils, tout le temps n�cessaire pour prendre connaissance de l�ensemble des termes du Contrat pr�alablement � sa signature et d�clare les accepter sans r�serve.
+
+21.3  Modification du Contrat et renonciation 
+
+Toute modification du Contrat doit �tre constat�e par �crit sous forme d�un avenant au Contrat sign� par les repr�sentants d�ment habilit�s de chaque Partie.
+
+Toute renonciation, quelle qu�en soit la dur�e, � invoquer l�existence ou la violation totale ou partielle de l�une quelconque des clauses du Contrat ne peut constituer une modification, une suppression de ladite clause ou une renonciation � invoquer les violations ant�rieures, concomitantes ou post�rieures de ladite clause ou d�autres clauses. Une telle renonciation n�aura d�effet que si elle est exprim�e par �crit sign� par la personne d�ment habilit�e � cet effet.
+
+
+21.4  Cession du Contrat
+
+Le pr�sent Contrat est conclu intuitu personae.
+
+Sauf accord expr�s, �crit et pr�alable de l�autre Partie, chacune des Parties ne pourra c�der ou transf�rer, � titre on�reux ou gratuit, tout ou partie des obligations qui lui incombent au titre du pr�sent Contrat.
+
+Le changement du contr�le direct ou indirect (au sens de l�article L.233-3 du Code de commerce), l�augmentation de capital, la fusion ou toute op�ration tendant � op�rer une transmission universelle de patrimoine, la cession de fonds de commerce ou de l'un de ses �l�ments et l�apport, la mise en nantissement ou la mise en location-g�rance du fonds de commerce seront notamment consid�r�s comme une cession et/ou un transfert du Contrat.
+
+Toutefois, cette clause ne s�applique pas � un transfert du Contrat par le Prestataire dans le cas o� ledit tiers est :
+1. Une soci�t� affili�e du Prestataire, en ce compris une soci�t� dite � projet � (SPV) (ii)
+2. Un �tablissement bancaire ou financier.
+Le Prestataire restera libre de c�der ou transf�rer les droits et obligations d�finis par le pr�sent Contrat � ces entit�s sans l�accord du Client.
+
+En cas de cession ou de transfert en violation du pr�sent article, la Partie victime pourra r�soudre le Contrat dans les conditions de l�article 14.1.
+
+21.5 Interpr�tation
+
+Chacune des clauses de ce Contrat doit �tre interpr�t�e, dans toute la mesure du possible, de mani�re � ce qu�elle soit valid�e au regard du droit qui lui est applicable.
+
+Si l�une quelconque des stipulations du Contrat se r�v�le �tre ill�gale, nulle ou inopposable aux termes d�une loi quelconque et/ou est d�clar�e ill�gale, nulle ou inopposable par toute juridiction ou autorit� administrative comp�tente aux termes d�une d�cision ex�cutoire, cette stipulation sera r�put�e non �crite, sans alt�rer la validit� des autres stipulations.
+
+Dans ce cas, la stipulation ill�gale sera remplac�e par une stipulation valable d�effet juridique et �conomique �quivalent, que les Parties s�engagent � n�gocier de bonne foi, et telle que les Parties en seraient convenues si elles avaient connu l�illic�it�, la nullit� ou l�inopposabilit� de ladite stipulation.
+
+Les titres sont utilis�s pour la commodit� de lecture et d�utilisation du Contrat. En cas de contradiction �ventuelle entre le titre d�une clause et son contenu, ce dernier pr�vaudra pour les besoins de l�interpr�tation du Contrat.
+
+21.6  Ind�pendance des Parties
+Les Parties ne pourront en aucun cas �tre consid�r�es comme associ�es d�une entit� commune quelconque. Aucune des Parties ne pourra, en outre, sauf mandat particulier, expr�s et pr�alable de l�autre Partie, �tre consid�r�e comme repr�sentant de l�autre Partie ou agir en son nom et pour son compte et ce, � quelque titre et sous quelque modalit� que ce soit.
+
+
+21.7  Exclusivit� et non sollicitation
+
+Le Client s�engage � travailler en exclusivit� avec le Prestataire pour un Site donn� et � ne pas solliciter directement ou indirectement pour des missions similaires aux Prestations, les personnes physiques ou morales pr�sent�es par le Prestataire pour la r�alisation des Prestations du Contrat.
+
+Pendant la dur�e du Contrat et pendant une dur�e de douze (12) mois suivant sa date d�expiration ou de sa cessation, quelle qu�en soit la cause, le Client s�engage � ne pas solliciter ni recruter, directement ou indirectement, un quelconque employ� du Prestataire ayant particip� � la r�alisation des Prestations, sauf accord pr�alable et �crit du Prestataire, au cas par cas. Dans le cas o� le Client ne respecterait pas cet engagement, il s'engage � d�dommager le Prestataire en lui versant une indemnit� �gale � six (6) mois de la derni�re r�mun�ration brute de la personne embauch�e.
+
+
+21.8  Travail dissimul�
+Le Prestataire d�clare �tre en conformit� avec les dispositions du Code du Travail relatives � la lutte contre le travail dissimul� (article L.8221-1 et suivants du Code du Travail), � l�interdiction du pr�t de main d��uvre et du marchandage (article L.8231-1 du Code du Travail) ainsi qu�� l�article 32 de la Convention Internationale des droits de l�enfant.
+
+Le Prestataire s�engage � respecter les dispositions du Code du Travail et notamment l�article L. 8231-1 et suivants du Code du Travail.
+
+Le Prestataire certifie, conform�ment � l�article L. 8251-1 du Code du Travail, qu�il n�aura pas recours � du personnel de nationalit� �trang�re non autoris� � exercer une activit� professionnelle en France.
+
+Le Prestataire d�clare �tre ind�pendant du Client et assumer seul sa responsabilit� d�employeur � l��gard de ses salari�s.
+
+21.9  Lutte anti-corruption
+Les Parties, ne tol�rant aucune forme de corruption, s�engagent � se conformer � toutes les lois,
+
+r�glementations et codes de conduite applicables en mati�re de prohibition de la corruption et s�engagent � ce qu�eux-m�mes, leurs salari�s, agents, distributeurs, sous-traitants et partenaires de services (ainsi que leurs agents et autres interm�diaires) ne proposent, ne donnent ou n�acceptent de donner � quiconque de mani�re corruptrice ou ne sollicitent, n�acceptent ou ne s�arrangent pour recevoir de mani�re corrompue un quelconque avantage p�cuniaire ou de toute autre forme, de fa�on directe ou indirecte, en relation avec le pr�sent Contrat (� l�obligation de non- corruption �).
+
+Les Parties s�engagent � maintenir pour toute la dur�e du Contrat une politique anti-corruption et � garantir et � contr�ler le respect de la pr�sente obligation de non-corruption. Les Parties s�engagent r�ciproquement � s�informer par �crit de toute violation de l�obligation de non-corruption dont elle aurait connaissance.
+
+
+
+Article 22. LOI APPLICABLE ET REGLEMENT DES DIFFERENDS
+
+
+Le pr�sent Contrat ainsi que ses contrats d�application et avenants seront r�gis par le droit fran�ais, � l�exclusion des dispositions de la Convention de vente internationale de marchandises du 11 avril 1980.
+
+En cas de diff�rend relatif � l�existence, la validit�, la formation, l�interpr�tation, l�ex�cution ou la cessation du Contrat, ses contrats d�applications ainsi qu�� la rupture de leur relation, les Parties s�engagent � tenter le r�glement amiable de ce litige.
+
+A cette fin, la Partie la plus diligente invitera l�autre Partie, par lettre recommand�e avec demande d�avis de r�ception, � se r�unir dans un d�lai de dix (10) jours calendaires � compter de la r�ception de cette notification � l�effet de tenter la r�solution du litige, �ventuellement en ayant recours � un tiers m�diateur, sauf en cas d�impossibilit� manifeste de n�gocier.
+
+A d�faut d�accord amiable dans un d�lai de trente (30) jours, les Parties attribuent comp�tence exclusive aux Tribunaux de Lille M�tropole, m�me en cas de pluralit� de d�fendeurs, d�appel en garantie, m�me pour proc�dure d�urgence ou conservatoire, en r�f�r� ou par requ�te.
+
+
+
+
+
+Article 23. SIGNATURE ELECTRONIQUE
+
+
+
+Il est express�ment convenu entre les Parties que, par d�rogation aux r�gles de preuve �dict�es par le Code civil, et plus particuli�rement par l�article 1375 dudit Code, l��tablissement d�un original du pr�sent Avenant par une Partie ne sera pas requis � titre de preuve des engagements pris par ladite Partie.
+
+Les Parties reconnaissent et acceptent que (i) le pr�sent Avenant est sign� par voie de signature �lectronique via la plateforme ADOBESIGN� en application des articles 1367 et suivants du Code civil
+(ii) que la transmission �lectronique dudit Avenant ainsi sign� vaudra preuve, entre elles, de son existence de son origine, de sa r�ception et de son int�grit�.
+
+En cons�quence de ce qui pr�c�de, les Parties reconnaissent et acceptent que le pr�sent Avenant portera la date de sa signature par le dernier des signataires.
+
+
+Fait �		 Le 		
+
+
+
+
+
+LE PRESTATAIRE
+
+Monsieur Christophe CONSTANTLE CLIENT
+
+Monsieur/Madame_____________________	
+
+
+
+
+
+
+
+ANNEXES
+
+
+
+
+
+
+Liste des Annexes :
+
+Annexe 1 : Description des Prestations et prix
+Annexe 2A : D�ploiement du mat�riel de gestion de la maintenance Annexe 2B : Gestion de la maintenance pr�ventive des Equipements Annexe 2C : Gestion de la maintenance corrective des �quipements froid Annexe 2D : Plan Assurance Qualit�
+Annexe 2E : SLA (SERVICE LEVEL AGREEMENT[AC8])
+Annexe 3 : P�rim�tre des Prestations : Liste des Sites Annexe 4 : Interlocuteurs
+Annexe 5 : Mod�le de Bon de commande
+Annexe 6 : Coordonn�es bancaires du Prestataire Annexe 7 : Attestation d�assurance
+Annexe 8 : Produits recommand�s
+Annexe 9 : Process des contrats � XXXX[AC9] � 
+Annexe 10 : Mat�riels informatiques recommand�s
+Annexe 11 : Contacts Sites et Astreintes 
+
+[AC1]A adapter selon le client et/ou � supprimer directement
+[AC2]A conserver uniquement si audits pr�alables r�alis�s
+[AC3]J�ai adapt� le r�sum� mais il a �t� construit pour Chrono, je serai d�avis de le supprimer ou tout du moins les mentions en jaune
+[AC4]Pour ce client ce n�est peut �tre pas une prob�matique
+[BL5]Ou autre prestataire
+[BL6]Clause ajout�e qui n�est pas dans Chrono. Elle interdit le d�bauchage des employ�s. 
+[BL7]� adapter
+[AC8]Est-ce qu�on int�gre un SLA d�entr�e?
+[AC9]Si contrat frigoristes existants
+
+
+
+CONTRAT-CADRE DE PRESTATIONS DE SERVICE- GESTION DES ENERGIES � HLX_[CLIENT]
+
+La reproduction permanente ou provisoire du contrat en tout ou partie, par tout moyen et sous toute forme n�est possible qu'avec l'autorisation de l�auteur. Toute reproduction sans le consentement de l�auteur est r�pr�hensible au regard du Code de la propri�t� intellectuelle et pourra �tre poursuivi en justice.
+2
+
+
+
+
+
