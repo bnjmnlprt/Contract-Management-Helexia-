@@ -12,13 +12,13 @@ import { getAnalytics } from "firebase/analytics";
 
 // Configuration Firebase via les variables d'environnement
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
-  authDomain: process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
-  projectId: process.env.REACT_APP_FIREBASE_PROJECT_ID,
-  storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
-  messagingSenderId: process.env.REACT_APP_FIREBASE_MESSAGING_SENDER_ID,
-  appId: process.env.REACT_APP_FIREBASE_APP_ID,
-  measurementId: process.env.REACT_APP_FIREBASE_MEASUREMENT_ID
+  apiKey: "AIzaSyDtjHwxfrnOQYR-CgsGLipVkqCl8pjtzI6Y",
+  authDomain: "contract-management-helexia.firebaseapp.com",
+  projectId: "contract-management-helexia",
+  storageBucket: "contract-management-helexia.firebasestorage.app",
+  messagingSenderId: "66747794080",
+  appId: "1:66747794080:web:d23b1f2c704ef1c6457fc5",
+  measurementId: "G-FZR8XT3NZ9"
 };
 
 // Initialize Firebase
