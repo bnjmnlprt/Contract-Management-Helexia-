@@ -19,6 +19,7 @@ const firebaseConfig = {
   messagingSenderId: "66747794080",
   appId: "1:66747794080:web:d23b1f2c704ef1c6457fc5",
   measurementId: "G-FZR8XT3NZ9"
+  gemini_api_Key: "AIzaSyAUaWy5xXk4vlIZQGCyEwGcWyjw_nuxTYI"
 };
 
 // Initialize Firebase
